@@ -8,7 +8,9 @@ Students will be able to...
 * Lab 2.2 handout - Another Brick in the Wall
 
 ## Pacing Guide
-| 
+| Duration | Description |
+|--|--|
+|5 minutes | 
 
 ## Instructor's Notes
 

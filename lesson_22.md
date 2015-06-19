@@ -7,3 +7,5 @@ Students will be able to...
 ## Materials/Preparation
 
 ## Pacing Guide
+
+## Instructor's Notes

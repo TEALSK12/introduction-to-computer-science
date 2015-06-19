@@ -49,6 +49,20 @@ Students will be able to...
             * The sprite will move 50 steps 8 times (4 * 2)
         * Show that the number of squares drawn can be easily changed by simply changing the number of times the outer loop iterates
 
-3. Activity - Another Brick in the Wall
+3. Activity
+    * Direct students to complete the ["Another Brick in the Wall"](lab_22.md) activity individually or in pairs
+        * Remind students to continue using the principles learned with basic loops
+        * Encourage students to write scripts that are as short and succinct as possible while still being functional and readable
+
+4. Debrief
+    * Show a student's solution
+        * Either request a volunteer or cold call
+        * Point out uses of nested loops
+    * Ask students to describe how loops, specifically nested loops, made the assignment easier
+        * Each brick, or at least each row, would have needed to be coded separately creating much longer scripts
+    * Ask students to think about what code would need to change to alter the size of each brick or the size of the wall and how that was made easier with loops
+        * Size of brick: one or both move blocks
+        * Size of wall: number of iterations in one or both loops
+        * Without loops, the change would have been needed in many different places
 
 ## Accommodation/Differentiation

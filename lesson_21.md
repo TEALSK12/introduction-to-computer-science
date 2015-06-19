@@ -47,3 +47,8 @@ Students will be able to...
         * Ask students to think about what the code would look like without loops
     * Discuss one or two students solutions to part 3.1
         * Point out how unwieldy the code for these two shapes would be without loops
+
+
+## Accommodation/Differentiation
+    * More advanced students can add additional shapes, including a five-pointed star without interior lines.  
+        * Particularly advanced students can be encouraged to build pictures by combining multiple shapes (e.g. a house built of squares of various sizes).

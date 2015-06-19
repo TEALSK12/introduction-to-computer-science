@@ -1,5 +1,5 @@
 # Glossary
 
-## redundant code
+## loop
 
-large blocks of similar or repeated code that appear in multiple parts of the program
+A type of block that causes other code to run multiple times in succession

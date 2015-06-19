@@ -38,7 +38,7 @@ Students will be able to...
 2. Activity
     * Direct students to complete ["Squares and Triangles Redux"](lab_21.md) individually.  
         * If available, students should use their solutions to Lab 1.3 ("Squares and Triangles and Stars, Oh My!") as a starting point.  Ensure students "Save as..." before starting on the new lab to not overwrite their original project (part 1.1).
-        * If student solutions for Lab 1.3 are not available, or are not correct, provide a [correct implementation](Lab 1.3.xml).
+          * If student solutions for Lab 1.3 are not available, or are not correct, provide a [correct implementation](Lab 1.3.xml) (download the .xml file and import it into SNAP).
         * Encourage students to try to use as few blocks and have as little code duplication as possible to draw each shape while still creating understandable scripts.
         * Once students complete part 2.1, the remaining parts should go much more quickly as they all follow the same basic pattern.
         
@@ -50,5 +50,5 @@ Students will be able to...
 
 
 ## Accommodation/Differentiation
-    * More advanced students can add additional shapes, including a five-pointed star without interior lines.  
-        * Particularly advanced students can be encouraged to build pictures by combining multiple shapes (e.g. a house built of squares of various sizes).
+  * More advanced students can add additional shapes, including a five-pointed star without interior lines.  
+    *  Particularly advanced students can be encouraged to build pictures by combining multiple shapes (e.g. a house built of squares of various sizes).

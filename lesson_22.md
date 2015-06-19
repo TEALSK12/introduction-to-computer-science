@@ -10,4 +10,4 @@ Students will be able to...
 
 ## Instructor's Notes
 
-##
+## Accommodation/Differentiation

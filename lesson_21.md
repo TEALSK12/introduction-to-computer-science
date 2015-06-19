@@ -20,6 +20,8 @@ Students will be able to...
 
 ## Instructor's Notes
 1. Lecture
-  1. Discuss concepts of code redundancy and readability
+  1. Introduce and discuss concepts of code redundancy and readability
     * Draw attention to the fact that a program can be written in many different ways that are functionally equivalent.
     * Ask students to speculate as to why one version of a program might be better or worse.
+  2. Introduce loops
+    * Begin with general definition:

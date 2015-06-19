@@ -11,7 +11,8 @@ Students will be able to...
 * Lab 2.1 handout - [Squares and Triangles Redux](lab_21.md)
 
 # Pacing Guide
-| 5 minutes | Welcome, attendance, bell work, announcements |
-|15 minutes | Lecture and examples                          |
-|25 minutes | Activity - Squares and Triangles              |
-|10 minutes | Debrief and wrap-up                           |
+| Duration   | Description                                   |
+| 5 minutes  | Welcome, attendance, bell work, announcements |
+| 15 minutes | Lecture and examples                          |
+| 25 minutes | Activity - Squares and Triangles              |
+| 10 minutes | Debrief and wrap-up                           |

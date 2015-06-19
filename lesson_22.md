@@ -10,7 +10,9 @@ Students will be able to...
 ## Pacing Guide
 | Duration | Description |
 |--|--|
-|5 minutes | 
+|5 minutes | Welcome, attendance, bell work, announcements |
+|15 minutes | Review, lecture, and examples |
+|25 minutes | A
 
 ## Instructor's Notes
 

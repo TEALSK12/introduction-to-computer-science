@@ -12,6 +12,7 @@ Students will be able to...
 
 # Pacing Guide
 | Duration   | Description                                   |
+|--|--|
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 15 minutes | Lecture and examples                          |
 | 25 minutes | Activity - Squares and Triangles              |

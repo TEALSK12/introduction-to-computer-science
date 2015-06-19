@@ -8,4 +8,4 @@ Students will be able to...
 * Utilize loops to reduce redundancy in code
 
 # Materials/Preparation
-* Lab 2.1 handout - [Squares and Triangles Redux](
+* Lab 2.1 handout - [Squares and Triangles Redux](lab_21.md)

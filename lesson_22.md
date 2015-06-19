@@ -2,11 +2,13 @@
 
 ## Learning Objectives
 Students will be able to...
-* Practice using basic loops in SNAP programs
+* Use nested loops to solve programming problems
 
 ## Materials/Preparation
+* Lab 2.2 handout - Another Brick in the Wall
 
 ## Pacing Guide
+| 
 
 ## Instructor's Notes
 

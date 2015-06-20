@@ -1,7 +1,6 @@
 # Lesson 1.4
 
 ## Learning Objectives
-
 Students will be able to...
 * Animate SNAP sprites using costume changes and movement
 * Trigger action in other sprites using broadcasts
@@ -11,7 +10,6 @@ Students will be able to...
 
 
 ## Pacing Guide
-
 | Duration | Description |
 | -- | -- |
 | 5 minutes | Welcome, attendance, bell work, announcements   |
@@ -21,7 +19,6 @@ Students will be able to...
 
 
 ## Instructor's Notes
-
 * Lecture
   * Introduce students to the "Costumes" tab and show them how to import costumes to a sprite.
     * Point out that, while a sprite's costumes can be anything, most often the different costumes of a single sprite will be somehow related.
@@ -39,6 +36,7 @@ Students will be able to...
   * Ask a student to show their solution to each part. Call on a different student (either a volunteer or via cold calling) for part 1 and part 2.
   * Note any places in which there may be multiple possible approaches. Ask for volunteers to describe differences in their code.
 
-
 ## Accommodations/Differentiation
-
+* Students that finish quickly can be encouraged to add more detail to their animations, such as sounds, "say" blocks, and/or more costumes.
+* Especially advanced students can be encouraged to create their own costumes for a new animation that does not use any built-in sprites.
+* With struggling students, re-emphasize the fact that each sprite can have different costumes and that changing costumes is very much like changing position by moving. Get students to be able to change costumes on a key press before moving on to the animation aspect.

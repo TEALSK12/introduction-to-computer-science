@@ -1,7 +1,6 @@
 # Summary
 
 * [introduction](README.md)
-   * Unit 0
 * [Unit 1](Unit 1.md)
    * [Lesson 1.1](lesson_11.md)
    * [Lesson 1.2](lesson_12.md)

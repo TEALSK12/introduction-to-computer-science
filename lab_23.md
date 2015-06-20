@@ -24,8 +24,7 @@ You will now expand your program from above so that instead of just deciding if 
 
 
 ## Part 3 - Quadrilateral Fever!
-
-4. Quadrilaterals come in many different varieties.  Add code to your program so that, if the user is thinking of is a quadrilateral, you ask more questions to find out which type of quadrilateral it is.  Your program should give the most specific name that applies.  The following table describes the quadrilaterals you should know about from most to least specific:
+Quadrilaterals come in many different varieties.  Add code to your program so that, if the user is thinking of is a quadrilateral, you ask more questions to find out which type of quadrilateral it is.  Your program should give the most specific name that applies.  The following table describes the quadrilaterals you should know about from most to least specific:
 
 | _Property_ | _Quadrilateral name_ |
 |--|--|

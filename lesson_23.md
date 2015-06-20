@@ -52,3 +52,5 @@ Students will be able to...
 ## Accommodation/Differentiation
 * Advanced students can be encouraged to add extra functionality, such as attempting to draw the shape the user is specifying or identifying types of triangles (equilateral, isosceles, scalene)
 * Students who are struggling can be allowed to skip some parts of the tables in 2.1 and 2.2, focusing on just a few cases
+ 
+[Lab 2.3 Solution](Lab 2.3 Solution.xml)

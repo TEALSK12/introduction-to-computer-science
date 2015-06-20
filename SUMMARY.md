@@ -7,4 +7,5 @@
    * [Lesson 2.1](lesson_21.md)
    * [Lab 2.1](lab_21.md)
    * [Lesson 2.2](lesson_22.md)
+   * Lab 2.2
 

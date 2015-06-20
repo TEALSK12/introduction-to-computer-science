@@ -9,5 +9,5 @@
    * [Lesson 2.2](lesson_22.md)
    * [Lab 2.2](lab_22.md)
    * [Lesson 2.3](lesson_23.md)
-   * Lab 2.3
+   * [Lab 2.3](lab_23.md)
 

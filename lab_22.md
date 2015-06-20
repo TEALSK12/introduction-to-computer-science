@@ -15,4 +15,4 @@ In this lab, you will use nested loops to draw a large brick wall using as littl
 2. Modify your code to build four total rows, alternating back and forth between the "regular" and "offset" rows.  Use nested loops to keep your code concise.
 
 3. Finish off the wall the by building alternating rows all the way to the top of the stage.  Remember that the stage is 360 pixels tall.  Your final wall should look like this:
-
+![](brick wall.png)

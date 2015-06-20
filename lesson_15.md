@@ -7,7 +7,7 @@ Students will be able to...
 
 
 ## Materials/Preparation
-* Reference to Nursery Rhyme project: []()
+* Reference to Nursery Rhyme project: [Project 1 - Nursery Rhyme](Project 1 - Nursery Rhyme.docx)
 * _Optional_: Printouts of the project specification
 * A list of possible nursery rhymes
     * Wikipedia has a fairly comprehensive list: https://en.wikipedia.org/wiki/List_of_nursery_rhymes

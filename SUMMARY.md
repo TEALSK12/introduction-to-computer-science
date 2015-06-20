@@ -7,6 +7,7 @@
    * [Lesson 1.1](lesson_11.md)
    * [Lesson 1.2](lesson_12.md)
    * [Lesson 1.5](lesson_15.md)
+   * Lesson 1.3
 * Unit 2
    * [Lesson 2.1](lesson_21.md)
    * [Lab 2.1](lab_21.md)

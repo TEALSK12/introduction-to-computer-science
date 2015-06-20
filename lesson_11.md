@@ -1,9 +1,9 @@
 # Lesson 1.1
 #Learning Objectives
 
-Students will be able to…
+Students will be able to...
 
-* Define and identify “blocks,” “scripts,” “sprites,” and “the stage” in SNAP.
+* Define and identify "blocks," "scripts," "sprites," and "the stage" in SNAP.
 
 * Write simple SNAP programs
 
@@ -11,55 +11,40 @@ Students will be able to…
 
 #Materials/Preparation
 
-* Lab 1.1 handout (Welcome to SNAP!) * Ensure that all classroom computers can access http://snap.berkeley.edu/run.
-
+* Lab 1.1 handout (Welcome to SNAP!) 
+* Ensure that all classroom computers can access http://snap.berkeley.edu/run.
 * Read through the lab so that you are familiar with the requirements and can assist students as needed
 
 #Pacing Guide
 
-| Minutes | Description |
+| Duration | Description |
 | -- | -- |
-| 5  | Welcome, attendance, bell work, announcements   |
-| 10 | Introductory discussion |
-| 30 | "Welcome to SNAP!" Lab activity |
-| 10 | Demonstrate turn-in procedures and wrap-up |
+| 5 minutes | Welcome, attendance, bell work, announcements   |
+|10 minutes| Introductory discussion |
+|30 minutes| "Welcome to SNAP!" Lab activity |
+|10 minutes| Demonstrate turn-in procedures and wrap-up |
 
 
 #Instructor's Notes
 
 * Introductory discussion
-
  * Review the concepts of "programs" and "programming languages" from previous lessons
-
  * Points to mention
-
-   * POint 1
-
-   * POint 2
-
+   * Point 1
+   * Point 2
  * Provide a very brief walk-through of SNAP
-
- * Do not go into too much depth; the activity will take students through SNAP in more detail
-
- * Don’t miss 1
-
- * Don't miss 2
-
+   * Do not go into too much depth; the activity will take students through SNAP in more detail
+   * Don't miss 1
+   * Don't miss 2
 * Activity
-
  * Individually or in pairs, have students work through the "Welcome to SNAP" lab activity. Students should answer all questions and complete all activities and turn them in using your chosen turn-in procedure.
-
-* For written questions, either have students hand-write answers and turn in the hard copies or set up an electronic submission system of some kind.
-
-* For SNAP programs, including the Kaleidoscope program, students should save the program to the cloud and share a link with you
-
+   * For written questions, either have students hand-write answers and turn in the hard copies or set up an electronic submission system of some kind.
+   * For SNAP programs, including the Kaleidoscope program, students should save the program to the cloud and share a link with you
 * Turn-in procedures
+ * Demonstrate the turn-in procedure you will use for student work throughout the semester, and have students follow along to turn in their work from the lab.
+   * Ensure that each student is able to turn in their work before the class period ends.
 
-o Demonstrate the turn-in procedure you will use for student work throughout the semester, and have students follow along to turn in their work from the lab.
-
-* Ensure that each student is able to turn in their work before the class period ends.
-
-Accommodations/Differentiation
+#Accommodations/Differentiation
 
 * For students that finish the lab early, encourage them to add more advanced features to their Kaleidoscope program, exploring parts of SNAP not covered in the lab.
 

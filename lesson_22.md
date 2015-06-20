@@ -69,4 +69,4 @@ Students will be able to...
 * Not all students will recognize all the possible places to use nested loops in the final program.  Encourage students to find as many places to use a nested loop as possible, but allow struggling students to focus on just one or two uses.
 * Advanced students can be encouraged to change the size of the bricks, which will require not only altering the number of steps moved but also the number if iterations in the loops
 
-[Lab Solution](
+[Lab 2.2 Solution]

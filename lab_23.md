@@ -3,6 +3,22 @@ In this lab, you will use user input and conditional statements to identify shap
 
 ## Part 1 - Triangle...or no triangle?
 1. Write a SNAP program that asks the user to think of a shape and input how many sides it has.  Then, if the user is thinking of a triangle, tell him or her so.  Regardless of whether or not the shape was a triangle, thank the user for playing.
+
 2. Modify your program to give an appropriate message both when the user _is_ thinking of a triangle and when he or she is _not_ thinking of a triangle.  Give the same thank you message afterward in either case.
+
+
+## Part 2 - Name That Polygon!
+1. You will now expand your program from above so that instead of just deciding if a shape is a triangle or not, your program will be able to name the specific polygon.  Your program must be able to identify at least the following shapes.
+
+| _Number of sides_ | _Polygon name_ |
+|--|--|
+| 3 | Triangle |
+| 4 | Quadrilateral |
+| 5 | Pentagon |
+| 6 | Hexagon | 
+| any other number | Unknown |
+
+2. Fill out a [Planning Worksheet](SNAP Program Design and Planning Worksheet.docx) for the above program.  Make sure you consider all aspects of the program carefully.
+
 
 

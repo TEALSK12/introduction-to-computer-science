@@ -61,8 +61,10 @@ Students will be able to...
     * Ask students to describe how loops, specifically nested loops, made the assignment easier
         * Each brick, or at least each row, would have needed to be coded separately creating much longer scripts
     * Ask students to think about what code would need to change to alter the size of each brick or the size of the wall and how that was made easier with loops
-        * Size of brick: one or both move blocks
         * Size of wall: number of iterations in one or both loops
+        * Size of brick: one or both move blocks **and** number of iterations in both loops
         * Without loops, the change would have been needed in many different places
 
 ## Accommodation/Differentiation
+* Not all students will recognize all the possible places to use nested loops in the final program.  Encourage students to find as many places to use a nested loop as possible, but allow struggling students to focus on just one or two uses.
+* Advances students can be encouraged to change the size of the bricks, which will require not only altering the number of iterations in the 

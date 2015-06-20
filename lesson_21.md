@@ -52,3 +52,5 @@ Students will be able to...
 ## Accommodation/Differentiation
   * More advanced students can add additional shapes, including a five-pointed star without interior lines.  
     *  Particularly advanced students can be encouraged to build pictures by combining multiple shapes (e.g. a house built of squares of various sizes).
+ 
+[Lab 2.1 Solution](Lab 2.1 Solution.xml)

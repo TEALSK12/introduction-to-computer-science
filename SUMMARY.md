@@ -4,6 +4,7 @@
 * Unit 0
    * [Lesson 0.2](lesson_02.md)
    * [Lesson 0.3](lesson_03.md)
+   * Lesson 0.1
 * [Unit 1](Unit 1.md)
    * [Lesson 1.1](lesson_11.md)
    * [Lesson 1.2](lesson_12.md)

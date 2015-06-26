@@ -8,6 +8,8 @@ Students will be able to...
 
 ## Materials/Preparation
 * Classroom computers with internet access 
+    * **At least a few days prior to class,** ensure that the classroom computers can load the website for both activities.  If not, work with school IT to solve the problem.
+        * If you are not able to load SNAP on your classroom computers, you will not be able to proceed with the course.  Test this well ahead of time and make sure your school's IT staff knows what the requirements are and can help achieve them.
 * Work through both the LightBot Hour of Code activity and the SNAP Hour of Code activity on your own so you are familiar with the activities and can provide assistance as needed
   * Part 3 of the LightBot activity calls itself "Loops" but is really using recursion (specifically tail-recursion). The exercises are still valuable, but be prepared to potentially discuss, or at least point out, the distinction so students are not confused when they encounter normal loops later.
 
@@ -26,9 +28,17 @@ Students will be able to...
 
 * Introductory discussion
   * Introduce students to the concept of a "computer program."
+    * _computer program: a sequence of instructions or steps, written in a language that can be understood by a computer, that will be used by the computer to complete a task or solve a problem_
   * Ask for any programming languages students are familiar with (even just names).
     * Draw distinctions between proper programming languages and other types of languages (such as markup languages e.g. HTML).
   * Lead the group to develop expectations about what aspects of programming might be most challenging and what skills might be most useful to be successful.
+    * Sample guiding questions:
+        * What are the steps required to write a computer program:
+            * This is essentially developing an algorithm for writing a program!
+        * What knowledge might make writing a program easier?
+        * What might you need to do when writing a computer program that you have never or rarely done before?
+        * What parts of programming are most intimidating or scary?
+        * What are you good that might help you be a good programmer?
 * Activity
   * Students should work through the LightBot 2.0 Hour of Code activity and/or the SNAP Hour of Code Activity.
     * Choose one activity as the requirement, and leave the other for those who finish quickly.

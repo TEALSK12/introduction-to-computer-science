@@ -47,3 +47,15 @@ These tabs are an important organizational structure in snap because they are ho
   | ![](distanceTo.png)|  |
   | ![](pointInDirection.png)|  |
   | ![](stopAllSounds.png)| &nbsp; |
+  
+Look at the **Motion** tab. Under this tab you will find a bunch of blocks that correspond to motion-like actions. For example, click on the ![](move.png) block, drag it to the scripting area, and drop it anywhere in the scripting area.
+
+![](moveDragged.png)
+  
+The block that you just dragged and dropped into the scripting area controls something that we call a sprite, which is the arrowhead-looking thing in the middle of the stage (the white part of the window).
+
+>Back to the scripting area, if you click on the ![]() you just put there, the sprite will move 10 steps. You can see this visually depicted by the sprite moving in the stage. You can vary the input of the block, i.e., the number 10, to change the number of steps you want to the sprite to move.
+
+>2.2) How can you change the block input so that the sprite moves in the opposite direction?
+<br />
+--

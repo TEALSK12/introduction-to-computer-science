@@ -42,7 +42,7 @@ These tabs are an important organizational structure in snap because they are ho
   | ![](clear.png)|  |
   | ![](mouseX.png)|  |
   | ![](touching.png)|  |
-  | ![]()|  |
-  | ![]()|  |
-  | ![]()|  |
-  | ![]()|  |
+  | ![](changeY.png)|  |
+  | ![](distanceTo.png)|  |
+  | ![](pointInDirection.png)|  |
+  | ![](stopAllSounds.png)|  |

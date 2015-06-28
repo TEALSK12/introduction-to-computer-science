@@ -4,12 +4,12 @@ Snap is a programming language, which you can use to tell a computer what to do.
 
 Programs in most languages use only letters (and punctuation), but snap is different: it's a visual language. Instead of writing a program only using the keyboard, you will drag pictures of blocks and click them together.
 
-The following is a program in Snap!: 
+>The following is a program in Snap!: 
 
-![](simpleProgram.png)
+>![](simpleProgram.png)
 
-**Can you guess what it might do? (Write your guess below)**
-<br/>
+>**Can you guess what it might do? (Write your guess below)**
+
 ---
 
 Snap is different than many other languages in another way— you run it in a web browser like Firefox or Chrome. The url that you can use to always get to Snap! is: http://snap.berkeley.edu/run

@@ -23,4 +23,26 @@ Click it, select the "sign up" option in the menu, and follow the instructions t
 
 ![](cloudDialogue.png)
 
-Part 1. Overview of the Window
+## 1. Overview of the Window
+
+You may have noticed that there are a few main sections of the Snap! window. These regions are named as shown below. 
+
+![](snapOverview.png)
+
+## 2. Blocks
+The area at the left edge of the window is the palette. As you see in the picture, it contains tabs for eight different-color block categories. In this lab, we will focus on the Motion, Sound, Pen, and Sensing tabs. You will learn about the other tabs in the next few labs. 
+
+These tabs are an important organizational structure in snap because they are home to the various blocks that you will use to tell the computer what to do. The blocks are categorized under each tab based on what kind of thing each block does. 
+
+> **2.1) Below, fill in the name of the category to which each block belongs:**
+
+> | Block | Category |
+  | -- | -- |
+  | ![](playNote.png)|  |
+  | ![](clear.png)|  |
+  | ![]()|  |
+  | ![]()|  |
+  | ![]()|  |
+  | ![]()|  |
+  | ![]()|  |
+  | ![]()|  |

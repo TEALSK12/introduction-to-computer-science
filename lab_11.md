@@ -83,3 +83,34 @@ Remember, a script will tell the sprite what to do. Click on the script and see 
 --
 
 >Be sure to note: **blocks in a script run in a specific order, from the top of the script to the bottom**. Generally, snap waits until one block has finished its job before continuing on to the block below it. (One common exception is blocks that play sounds: a block's job can be to start the sound, which means the block below it will execute while the sound is still playing. 
+
+
+##Part 4: Reporters
+At the bottom of Motion palette are three blocks shaped differently from the others. The oval-shaped ![x position]() and ![y position]() are called *reporters*. (We don't need the third one right now.) Unlike the jigsaw-puzzle-piece-shaped command blocks we've used until now, reporters don't carry out an action (such as moving the sprite or displaying a speech balloon) by themselves. Instead they report a value, usually for use in another block's input slot. 
+
+These particular reporters tell you where the sprite is on the stage. As in algebra class, **x** means left-to-right position, and **y** means bottom-to-top position. 
+
+
+>Drag your sprite to the far right side of the stage. Next, drag an x position block into the scripting area and click on it. You should see a little speech balloon next to the block: 
+
+![x position reporting]()
+>4.1) What value does the x position block report to you when the sprite is...
+...at the far right side of the stage:
+
+>---
+...in the center of the stage:
+
+>---
+...at the far left side of the stage:
+
+>---
+
+Click on the gray box to the left of the **x position block** in the palette, and then look over to the stage. You will see that the value that the block would report is displayed on the stage: 
+
+![x position checkbox]()
+![x position watcher]()
+       
+This on-stage display is called a *watcher*.
+
+The ![x position]() and ![y position]() the  will tell you the position of your sprite on the screen. Move the sprite around and the values reported by these blocks change. 
+

@@ -5,6 +5,7 @@ Snap is a programming language, which you can use to tell a computer what to do.
 Programs in most languages use only letters (and punctuation), but snap is different: it's a visual language. Instead of writing a program only using the keyboard, you will drag pictures of blocks and click them together.
 
 The following is a program in Snap!: 
+
 ![](simpleProgram.png)
 
 **Can you guess what it might do? (Write your guess below)**

@@ -11,7 +11,7 @@ You are free to be as creative as you like with your choice of sprites and actio
 <br />
 You may choose from the sprites provided by BYOB or create your own. (You will not be graded on your artistic skills.) You may interpret the nursery rhyme literally or be clever with your depiction (but don't go too far). However, all sprites, behaviors, words, and animations must be school-appropriate.<br />
 <br />
-If you choose a particularly long nursery rhyme, you may not need to animate the whole thing. Please check with Mr. Wortzman if you think your rhyme is long enough for this.
+If you choose a particularly long nursery rhyme, you may not need to animate the whole thing. Please check with your teacher if you think your rhyme is long enough for this.
 
 ###Implementation Details
 As mentioned above, your animation must display the nursery rhyme in its entirety and animate each line. Action must be performed by sprites and must consist of more than simply changing costumes. You must include the following components in your animation:

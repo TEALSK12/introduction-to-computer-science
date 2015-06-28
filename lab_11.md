@@ -9,10 +9,12 @@ Programs in most languages use only letters (and punctuation), but snap is diffe
 >![](simpleProgram.png)
 
 >**Can you guess what it might do? (Write your guess below)**
+<br/>
+>---
 
----
+Snap is different than many other languages in another way— you run it in a web browser like Firefox or Chrome. The url that you can use to always get to Snap! is
 
-Snap is different than many other languages in another way— you run it in a web browser like Firefox or Chrome. The url that you can use to always get to Snap! is: http://snap.berkeley.edu/run
+**http://snap.berkeley.edu/run**
 
 In order to save your programs, the first thing you'll need to do is make an account. In the snap browser window, Find the cloud-shaped button in the top toolbar on the upper left corner of the window:
 

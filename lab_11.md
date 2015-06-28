@@ -114,3 +114,93 @@ This on-stage display is called a *watcher*.
 
 The ![x position]() and ![y position]() the  will tell you the position of your sprite on the screen. Move the sprite around and the values reported by these blocks change. 
 
+##Part 5: Position On The Stage
+A sprite occupies a position (x,y) on the stage where x represents the horizontal position, from -240 (left) to 240 (right), and y represents the vertical position, from -180 (bottom) to 180 (top). Here's a picture: 
+
+![x-y grid]()
+
+The black sprite is at the center of the stage, called the origin, with coordinates (0, 0). The green sprite is to the right of the origin, so its x position is positive. The green sprite is also below the origin, so its y position is negative. Each grid line above represents 20 steps, so the green sprite's coordinates are (140, -100). Take some time to make sure you understand this; discuss it with a classmate.
+
+>5.1) What are the coordinates of the red sprite?
+
+>---
+
+>In your *Snap!* window, take a look at the blocks under the Motion tab. The majority of the blocks there will help you position your sprite on the stage. Try them and see what they do! Change the input values to see what happens.
+
+>5.2) List at least 4 blocks from the Motion tab that will change the position of a sprite: 
+
+>---
+
+
+##Part 6: Experiment with Drawing Commands
+Try to get comfortable with the blocks under the Motion tab and the Pen tab. Figure out what each one does and try to use these blocks to draw a square or a simple picture. 
+
+>6.1) What do these blocks do? (write an explanation next to each block)
+
+>![move 10 steps]()
+
+>![turn 15 degrees]()
+
+>![clear]()
+
+>![pen up]()
+
+>![pen down]()
+
+>6.2) Does the *turn* block change the sprite’s x and/or y position?
+>___
+>6.3) Using these blocks, draw a square. Write the code (blocks) you used below:
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+*Tips and Tricks:*
+
+Once the pen is down, it stays down even in a different script. Use the pen up block to lift the pen so that no lines will be drawn.
+
+You also will want to show the direction and x and y position of the sprite. In the Motion tab, you can select for these to be shown on the stage as described in the reporters activity you saw earlier in the lab.
+
+
+##Part 7: Follow that Mouse!
+>![forever go to mouse x-y]()
+
+>7.1) *What do you think the script above will do?*
+
+>Hint: ![mouse x]() and ![mouse y]() are reporters in the Sensing palette; they tell you where the mouse is pointing. 
+<br />
+<br />
+<br />
+<br />
+
+>Copy the code into SNAP, and click on the ```forever``` block to run it.
+
+>**Did it follow your expectations (Yes/No)?**
+
+>---
+7.2) What happens when you drag the mouse to a different part of the screen while the program is running?
+<br />
+<br />
+<br />
+<br />
+
+
+>7.3) How does program's behavior change when you modify the ```go to``` block as shown below? 
+
+>![go to mouse x + 30, y]()
+<br />
+<br />
+<br />
+<br />

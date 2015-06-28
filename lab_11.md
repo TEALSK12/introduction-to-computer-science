@@ -54,8 +54,32 @@ Look at the **Motion** tab. Under this tab you will find a bunch of blocks that 
   
 The block that you just dragged and dropped into the scripting area controls something that we call a sprite, which is the arrowhead-looking thing in the middle of the stage (the white part of the window).
 
->Back to the scripting area, if you click on the ![]() you just put there, the sprite will move 10 steps. You can see this visually depicted by the sprite moving in the stage. You can vary the input of the block, i.e., the number 10, to change the number of steps you want to the sprite to move.
+>Back to the scripting area, if you click on the ![move 10 steps block]() you just put there, the sprite will move 10 steps. You can see this visually depicted by the sprite moving in the stage. You can vary the input of the block, i.e., the number 10, to change the number of steps you want to the sprite to move.
 
 >2.2) How can you change the block input so that the sprite moves in the opposite direction?
 <br />
 --
+
+
+##Part 3. Scripts
+Now that you have figured out how to make a sprite move, you might be wondering how to make the sprite do other things as well. 
+To make a sprite do more than just move, we need to use different types of blocks and link them together. You can link blocks by snapping (hence the name snap) them together -- drag a block right underneath the one to which you want to attach it. Blocks will snap together when one block’s indentation is near the tab of the one above it. You should see a white bar appear like the one in the image below, which just shows you where the block will go after you drop it. 
+
+![Two blocks about to snap together]()
+
+If you keep attaching blocks together in this way, you will create a script. A snap program consists of one or more of these scripts.
+
+>**3.1) Try recreating the following script in the scripting area in snap.**
+
+> The purple say... blocks are available from the **Looks** tab.
+![Script with move and say blocks]()
+
+Remember, a script will tell the sprite what to do. Click on the script and see what happens! You will know that your script is running if it has a highlighted border around it: 
+
+![script with highlighted boarder]()
+
+>**3.2) What happens when you run this script?**
+
+>--
+
+>Be sure to note: **blocks in a script run in a specific order, from the top of the script to the bottom**. Generally, snap waits until one block has finished its job before continuing on to the block below it. (One common exception is blocks that play sounds: a block's job can be to start the sound, which means the block below it will execute while the sound is still playing. 

@@ -18,7 +18,7 @@ Students will be able to...
 |10 minutes| Course staff introductions|
 |10 minutes| Icebreakers|
 |10 minutes| Course outline|
-|15 minutes| Course norms, procedures, and administrivia|
+|15 minutes| Course norms, procedures, and administrivia |
 
 ## Instructor's Notes
 * Utilize the plan developed with your teaching team for the first day of school.

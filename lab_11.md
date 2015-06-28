@@ -40,8 +40,8 @@ These tabs are an important organizational structure in snap because they are ho
   | -- | -- |
   | ![](playNote.png)|  |
   | ![](clear.png)|  |
-  | ![]()|  |
-  | ![]()|  |
+  | ![](mouseX.png)|  |
+  | ![](touching.png)|  |
   | ![]()|  |
   | ![]()|  |
   | ![]()|  |

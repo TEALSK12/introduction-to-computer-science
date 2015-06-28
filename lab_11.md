@@ -18,7 +18,7 @@ Snap is different than many other languages in another way— you run it in a we
 
 In order to save your programs, the first thing you'll need to do is make an account. In the snap browser window, Find the cloud-shaped button in the top toolbar on the upper left corner of the window:
 
-![](cloudButton.png)
+![](cloudSignup.png)
 
 Click it, select the "sign up" option in the menu, and follow the instructions there. You will need to check your email after creating your account to get your initial password.
 

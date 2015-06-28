@@ -79,7 +79,7 @@ Remember, a script will tell the sprite what to do. Click on the script and see 
 ![script with highlighted boarder]()
 
 >**3.2) What happens when you run this script?**
-
->--
+<br />
+---
 
 >Be sure to note: **blocks in a script run in a specific order, from the top of the script to the bottom**. Generally, snap waits until one block has finished its job before continuing on to the block below it. (One common exception is blocks that play sounds: a block's job can be to start the sound, which means the block below it will execute while the sound is still playing. 

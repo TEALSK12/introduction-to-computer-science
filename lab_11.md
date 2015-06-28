@@ -45,4 +45,4 @@ These tabs are an important organizational structure in snap because they are ho
   | ![](changeY.png)|  |
   | ![](distanceTo.png)|  |
   | ![](pointInDirection.png)|  |
-  | ![](stopAllSounds.png)|  |
+  | ![](stopAllSounds.png)| &nbsp; |

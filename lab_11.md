@@ -1,6 +1,7 @@
 # Lab 1.1 - Welcome To Snap!
+_Adapted from Beauty and Joy of Computing: http://bjc.eecs.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_new/1-introduction.topic_
 
-Snap is a programming language, which you can use to tell a computer what to do. A program is a particular set of instructions for the computer to follow.
+SNAP is a programming language, which you can use to tell a computer what to do. A program is a particular set of instructions for the computer to follow.
 
 Programs in most languages use only letters (and punctuation), but snap is different: it's a visual language. Instead of writing a program only using the keyboard, you will drag pictures of blocks and click them together.
 

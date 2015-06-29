@@ -1,5 +1,6 @@
 # Lab 3.1 - Guessing Game
 In this lab, you will use conditional statements and variables to build a simple number guessing game.
+_(Adapted from BJC: http://bjc.eecs.berkeley.edu/bjc-r/cur/programming/conditionals/number-guessing-game-v2-0.html?topic=berkeley_bjc%2Fintro_new%2F3-conditionals.topic)_
 
 ## Section 1 - I'm Thinking of a Number...
 You will write a SNAP program to choose a random number between 1 and 10 and then ask the user to guess a number.  If the user's guess matches the random number, the user wins.  If not, the user loses.  In either case, the user should be shown a message indicating whether he won or lost and the secret random number should be revealed.

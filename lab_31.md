@@ -11,3 +11,11 @@ You will write a SNAP program to choose a random number between 1 and 10 and the
 3. Modify the program to keep asking the user for guesses until the correct number is given.  Be sure to give a message after each guess, but only reveal the secret number when the user has guessed correctly and the game is over.
 
 4. Add code to ask the player their name at the start of the game.  Then, personalize the message for an incorrect guess by adding the player's name.  For example, if Sarah is playing the game, then the message should say "Sorry, Sarah, that guess is not correct" instead of just "Sorry" when Sarah guesses incorrectly.
+
+
+## Section 2 - Game Upgrades
+1. Modify your guessing game so that the player can decide the range of possible numbers from which the secret number can be chosen.  After asking the player's name, ask what he or she wants the highest possible number to be.  Then, instead of choosing a random number between 1 and 10, choose a random number between 1 and the number the player requested.
+
+2. Add code to keep track of how many guesses the player has made.  After the player guesses correctly, inform him or her how many tries it took before the correct number was guessed.
+
+3. Increase the player's chances by telling him or her whether the guessed number is too high or twoo low instead of just that it is incorrect.

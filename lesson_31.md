@@ -13,7 +13,7 @@ Students will be able to...
 |5 minutes | Welcome, attendance, bell work, announcements|
 |15 minutes | Lecture and introduce activity|
 |25 minutes | Activity - Guessing Game|
-|10 minutes | Review and wrap-up|
+|10 minutes | Debrief and wrap-up|
 
 ## Instructor's Notes
 1. Lecture
@@ -33,6 +33,15 @@ Students will be able to...
             * One variable's value can be assigned to another, as in ![](setVar1ToVar2.png), but changing the value of `var2` later will not update the value of `var1`
 
 2. Activity
+    * Briefly demonstrate the ![](random.png) block, which will be used in the lab
     * Direct students to complete [Guessing Game](lab_31.md) individually or in pairs
 
-## Accomodation/Differentiation
+3. Debrief
+    * Discuss and demonstrate one or more students' submissions
+    * Ask students for commentary on usage and naming of variables throughout program
+    
+
+## Accommodation/Differentiation
+* Advanced students can be encouraged to implement statistics (best score, average guesses/game, number of time each secret number chosen, etc.)
+* Struggling students can be given code that completes part 1.1, and possibly also part 1.2, to get them started
+    * Students who are particularly overwhelmed should focus only on parts 1.2 and 2.2

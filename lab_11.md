@@ -64,7 +64,7 @@ The block that you just dragged and dropped into the scripting area controls som
 
 ##Part 3. Scripts
 Now that you have figured out how to make a sprite move, you might be wondering how to make the sprite do other things as well. 
-To make a sprite do more than just move, we need to use different types of blocks and link them together. You can link blocks by snapping (hence the name snap) them together -- drag a block right underneath the one to which you want to attach it. Blocks will snap together when one block’s indentation is near the tab of the one above it. You should see a white bar appear like the one in the image below, which just shows you where the block will go after you drop it. 
+To make a sprite do more than just move, we need to use different types of blocks and link them together. You can link blocks by snapping (hence the name snap) them together -- drag a block right underneath the one to which you want to attach it. Blocks will snap together when one block's indentation is near the tab of the one above it. You should see a white bar appear like the one in the image below, which just shows you where the block will go after you drop it. 
 
 ![Two blocks about to snap together]()
 
@@ -148,7 +148,7 @@ Try to get comfortable with the blocks under the Motion tab and the Pen tab. Fig
 
 >![pen down]()
 
->6.2) Does the *turn* block change the sprite’s x and/or y position?
+>6.2) Does the *turn* block change the sprite's x and/or y position?
 >___
 >6.3) Using these blocks, draw a square. Write the code (blocks) you used below:
 <br />
@@ -205,3 +205,75 @@ You also will want to show the direction and x and y position of the sprite. In 
 <br />
 <br />
 <br />
+
+## Part 8: Forever and a Day
+From the previous exercise, you may have figured out what the ![forever]() block does. The ```forever``` block is the first block you have seen that holds, or wraps around, other blocks. We call this a *C block* because of its shape. As the name ```forever``` implies, it will run the blocks inside it again and again and again and ... well, forever. You will find this block under the **Control** tab. 
+
+![forever say]()
+ 
+Will a ![forever]() block ever stop? 
+
+Not unless you tell it to: Click on the stop sign icon on the upper right hand corner of the Snap! window. 
+
+![stop button]()
+ 
+This stop sign will stop all scripts that are running in any sprite. This is equivalent to executing the ![stop all]() in the Control palette.
+
+
+### Check for Understanding
+8.1) **How many times will the sprite say "Hello" <br />**
+![forever say]()
+
+a) 1 <br />
+b) 2 <br />
+c) 10 <br />
+d) continuously <br />
+
+8.2) **Assuming the sprite starts in the middle of the stage and pointing in direction 90, where would it end up after running this script?** <br />
+![forever move]()
+
+a) Farther right on the stage <br />
+b) Farther left on the stage <br />
+c) Off the stage to the right <br />
+d) Off the stage to the left <br />
+
+8.3) **What would appear on the screen when this script is run?** <br />
+![forever say animals]()
+
+a) The sprite would say "Tiger" forever <br />
+b) The sprite would say "Tiger" then "Panda" once <br />
+c) The sprite would alternate between saying "Tiger" and "Panda" forever <br />
+d) The sprite would say "Tiger" and "Panda" at the same time forever. <br />
+
+8.4) **Assuming the sprite started in the middle of the stage facing right, what kind of drawing would the sprite make?** <br />
+![forever draw something]()
+
+a) a circle <br />
+b) a dot <br />
+c) a cylinder <br />
+d) a straight line <br />
+
+## Part 9: Make a Kaleidoscope
+Explore this drawing program for a little bit (http://tinyurl.com/SnapKaleidoDraw). Press the spacebar to run the program, and move your mouse cursor over the stage of the Snap! window. While over the stage, use the **d** (pen down), **u** (pen up), and **c** (clear) keyboard keys to change what gets drawn on the screen. The script that causes the sprite to follow the pointer is 
+
+![forever go to mouse x-y]()
+ 
+As you can see, this drawing program features more **Control** blocks, in addition to the ```forever``` block first introduced in the *Follow the Mouse activity*. These *hat*-shaped block, which can be used only at the beginning of a script, indicate when a specific script should be run. 
+
+>For this activity, your job is to make a (kind of) kaleidoscope, like: 
+
+>![kaleidoscope examples]()
+    
+>The kaleidoscope consists of 4 sprites. Each sprite will be drawing with a different pen color. Each sprite's movement is based on the movement of the mouse. The first sprite follows the mouse, just like in the example we looked at before. The other 3 sprites move around as the mouse moves, but reflected over the X and Y axes.
+
+>**Don't forget to save and submit your work!**
+
+Some tips: 
+* You will need four sprites. (We haven't used more than one sprite up to now, but having more than one allows for more interesting projects, as you'll see.) The easiest way to create three more is to *duplicate* the one you have. Right-click the sprite in the sprite corral, and select **duplicate** from the *context menu* that appears. Each duplicated sprite will have exactly the same scripts as the original, which is why we suggest duplication rather than just creating more sprites from scratch. 
+
+* You can change the color of each sprite by clicking the color input in that sprite's ![set pen color]()  block (found under the **Pen** tab), choosing a color, and then clicking on the block itself (to run the block and actually set the color). Don't worry about matching the colors in the animation exactly! 
+
+* Pay close attention to what each of the other sprites is doing in the animation above. You will need to modify the **x** and **y** inputs in each sprite's ![go to x-y]() block using simple formulas, with ![addition]() and ![subtraction]() . 
+
+  **Hint: All the sprites are reflecting in different ways around the (x=0, y=0) origin point of the stage.**
+* Once you figured this out, try out some complicated formulas and/or more sprites, and share with your classmates! 

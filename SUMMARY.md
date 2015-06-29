@@ -22,4 +22,5 @@
    * [Lab 2.3](lab_23.md)
 * Unit 3
    * [Lesson 3.1](lesson_31.md)
+   * Lab 3.1
 

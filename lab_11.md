@@ -10,7 +10,7 @@ Programs in most languages use only letters (and punctuation), but snap is diffe
 >![](simpleProgram.png)
 
 >**Can you guess what it might do? (Write your guess below)**
-<br/>
+<br />
 >---
 
 Snap is different than many other languages in another way— you run it in a web browser like Firefox or Chrome. The url that you can use to always get to Snap! is
@@ -95,6 +95,7 @@ These particular reporters tell you where the sprite is on the stage. As in alge
 >Drag your sprite to the far right side of the stage. Next, drag an x position block into the scripting area and click on it. You should see a little speech balloon next to the block: 
 
 >![x position reporting]()
+
 >4.1) What value does the x position block report to you when the sprite is...
 ...at the far right side of the stage:
 

@@ -94,7 +94,7 @@ These particular reporters tell you where the sprite is on the stage. As in alge
 
 >Drag your sprite to the far right side of the stage. Next, drag an x position block into the scripting area and click on it. You should see a little speech balloon next to the block: 
 
-![x position reporting]()
+>![x position reporting]()
 >4.1) What value does the x position block report to you when the sprite is...
 ...at the far right side of the stage:
 

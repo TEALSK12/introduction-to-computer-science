@@ -1,8 +1,6 @@
 # Summary
 
 * [introduction](README.md)
-* Unit 3
-   * [Lesson 3.1](lesson_31.md)
 * Unit 0
    * [Lesson 0.1](lesson_01.md)
    * [Lesson 0.2](lesson_02.md)
@@ -22,4 +20,8 @@
    * [Lab 2.2](lab_22.md)
    * [Lesson 2.3](lesson_23.md)
    * [Lab 2.3](lab_23.md)
+* Unit 3
+   * [Lesson 3.1](lesson_31.md)
+   * [Lab 3.1](lab_31.md)
+   * [Lesson 3.2](lesson_32.md)
 

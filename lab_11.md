@@ -270,6 +270,7 @@ As you can see, this drawing program features more **Control** blocks, in additi
 >**Don't forget to save and submit your work!**
 
 Some tips: 
+
 * You will need four sprites. (We haven't used more than one sprite up to now, but having more than one allows for more interesting projects, as you'll see.) The easiest way to create three more is to *duplicate* the one you have. Right-click the sprite in the sprite corral, and select **duplicate** from the *context menu* that appears. Each duplicated sprite will have exactly the same scripts as the original, which is why we suggest duplication rather than just creating more sprites from scratch. 
 
 * You can change the color of each sprite by clicking the color input in that sprite's ![set pen color]()  block (found under the **Pen** tab), choosing a color, and then clicking on the block itself (to run the block and actually set the color). Don't worry about matching the colors in the animation exactly! 

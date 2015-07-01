@@ -42,14 +42,18 @@ In this lab, you will explore the functionality of some common blocks and where 
 
 **2.2) At this point, you may be noticing some patterns. Use what you've learned from exploring these blocks to answer the questions below about each block category.**
 
-1. What do the blocks in the **Motion** category do?
- ---
-2. What do the blocks in the **Looks** category do?
- ---
-3. What do the blocks in the **Sound** category do?
- ---
-4. What do the blocks in the **Pen** category do?
- ---
+a. What do the blocks in the **Motion** category do?
+
+---
+b. What do the blocks in the **Looks** category do?
+
+---
+c. What do the blocks in the **Sound** category do?
+
+---
+d. What do the blocks in the **Pen** category do?
+
+---
 
 ## 3. Put it all together
 You are now going to use some of the blocks you've explored to create, save, and submit a Snap! program.

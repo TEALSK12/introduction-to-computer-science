@@ -26,7 +26,8 @@ Students will be able to...
     * Ask students to speculate on risks of relying on variables instead of arguments
     * Emphasize importance of custom blocks being self-contained
     * Demonstrate declaration and usage of arguments
-      * Point out that arguments are very similar to script variables, except their values come outside the bloc  * Explain argument types
+      * Point out that arguments are very similar to script variables, except their values come outside the bloc  
+      * Explain argument types
     * Focus on text, numbers, and possibly Booleans
     * Ask students to describe why restricting types is important
 *Activity

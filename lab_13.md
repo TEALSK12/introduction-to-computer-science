@@ -8,13 +8,13 @@ In this lab, you will write your first SNAP programs to draw some simple shapes 
 
 ![square diagram]()
 
-1.2) Add code so that the sprite says the word “square” while it is drawing. The sprite should stop saying “square” once it has finished drawing the square.
+1.2) Add code so that the sprite says the word "square" while it is drawing. The sprite should stop saying "square" once it has finished drawing the square.
 
 1.3) Add code so that pressing the space bar clears the pen marks from the stage.
 
 ## 2. Adding more shapes
 
-2.1) Now that you’ve drawn a square, add code to draw the shapes in the following table. Each shape should be drawn when the number next to it is pressed on the keyboard. (For example, pressing 3 on the keyboard should draw a diamond.)
+2.1) Now that you've drawn a square, add code to draw the shapes in the following table. Each shape should be drawn when the number next to it is pressed on the keyboard. (For example, pressing 3 on the keyboard should draw a diamond.)
 
 | When this key is pressed... | Draw a ... |
 | -- | -- |

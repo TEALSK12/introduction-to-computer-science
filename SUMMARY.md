@@ -29,4 +29,5 @@
    * [Lesson 3.2](lesson_32.md)
    * [Lesson 3.3](lesson_33.md)
    * [Lesson 3.4](lesson_34.md)
+   * [Lesson 3.5](lesson_35.md)
 

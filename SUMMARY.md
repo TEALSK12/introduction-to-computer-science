@@ -16,7 +16,7 @@
    * [Lab 1.4](lab_14.md)
    * [Lesson 1.5](lesson_15.md)
    * [Project 1](project_1.md)
-* Unit 2
+* [Unit 2](unit_2.md)
    * [Lesson 2.1](lesson_21.md)
    * [Lab 2.1](lab_21.md)
    * [Lesson 2.2](lesson_22.md)

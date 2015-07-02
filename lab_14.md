@@ -23,7 +23,7 @@ In this lab, you will use costumes and movement to create simple SNAP animations
 
 2.2) Write a script to make the sprite appear to breathe fire when the 'f' key is pressed.  The sprite should switch to the "fire-breathing" costume for a few seconds, then switch back to the "normal" costume.
 
-2.3) Modify your code so that that the dragon "attacks" the mouse pointer when the 'f' key is pressed. When the 'f' key is pressed, the dragon should take the following actions in order:
+2.3) Modify your code so that the dragon "attacks" the mouse pointer when the 'f' key is pressed. When the 'f' key is pressed, the dragon should take the following actions in order:
 
 * Make sure it is in the "normal" costume
 * Point at the mouse pointer

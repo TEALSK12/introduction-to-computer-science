@@ -35,7 +35,7 @@ Students will be able to...
   * In small groups, students will write an algorithm for writing a message on a roadway.  As with the PB&amp;J activity, the process should be complete and detailed so that a person can unambiguously follow the steps.
     * Students should assume that the writing is supposed to end at a specific point on the road (for example, the location of a stop sign). 
     * The process itself will seem relatively simple.  Ensure students think not only about the steps to be taken but the necessary materials and resources.
-      *Ensure that the algorithm would work for any message and does not make assumptions.
+      * Ensure that the algorithm would work for any message and does not make assumptions.
     * Pay particular attention to when the various materials are needed.
       * The key here is that, if the message needs to end at a specific point, the entire message is needed before writing begins.
   * After groups have finished, ask one or two groups to share their algorithm, pointing out any important steps or requirements.

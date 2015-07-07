@@ -41,3 +41,5 @@
    * [Lesson 5.1](lesson_51.md)
    * [Lesson 5.2](lesson_52.md)
    * [Lesson 5.3](lesson_53.md)
+* Additional Curriculum Resources
+

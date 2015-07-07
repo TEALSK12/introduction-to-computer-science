@@ -4,6 +4,7 @@
 
 Students will be able to...
 
+* Understand the motivating reasons to use prototypes and clones
 
 
 ## Materials/Preparation
@@ -19,6 +20,7 @@ Students will be able to...
 
 ## Instructor's Notes
 
+* [Expand on this later] Give students a script to run (that get's them up and moving) and change the variables that the script uses so that its different per-clone
 
 
 ## Accommodations/Differentiation

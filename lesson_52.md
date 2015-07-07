@@ -33,9 +33,9 @@ Students will be able to...
   * Demo and explain at a high level scripts the complete basketball lab
     * Emphasize to the students that they will be doing this shortly and should focus on the concepts rather than implementation
 * Basketball lab part 1 has three pieces: 
-  * Starting with the basics <!--http://tealsclass.com/mod/page/view.php?id=14791-->
-  * Changing the control structure <!--http://tealsclass.com/mod/page/view.php?id=14792-->
-  * Lots of balls <!--http://tealsclass.com/mod/page/view.php?id=14793-->
+  * Starting with the basics <!-- http://tealsclass.com/mod/page/view.php?id=14791 -->
+  * Changing the control structure <!-- http://tealsclass.com/mod/page/view.php?id=14792 -->
+  * Lots of balls <!-- http://tealsclass.com/mod/page/view.php?id=14793 -->
 
 
 

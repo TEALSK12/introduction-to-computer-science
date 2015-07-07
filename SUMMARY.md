@@ -25,6 +25,7 @@
    * [Lab 2.3](lab_23.md)
    * [Lesson 2.4](lesson_24.md)
    * [Lesson 2.5](lesson_25.md)
+   * [Lesson 2.6](lesson_26.md)
 * [Unit 3](unit_3.md)
    * [Lesson 3.1](lesson_31.md)
    * [Lab 3.1](lab_31.md)

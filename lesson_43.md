@@ -28,7 +28,7 @@ Students will be able to...
 
 * Lecture
   * Ask students to consider how to count the number of female students in the room
-    * As a group, work through an algorithm with the students, hopefully settling on asking each student if s/he is female and counting the number of yesses (or something similar).
+    * As a group, work through an algorithm with the students, hopefully settling on asking each student if s/he is female and counting the number of yeses (or something similar).
   * Define "traversal" as the process of accessing each element of a list in order and performing some operation
     * Call out that the operation can be anything, and may not actually be performed on every element
     * Provide a few examples of possible operations (say each person's name, count the number of females, add up the total number of siblings, find the average GPA, etc.)
@@ -42,7 +42,7 @@ Students will be able to...
 * Activity
   * Students should complete the "Guess Who" activity individually or in pairs
     * Students will be performing several traversal operations, some of which simulate mapping, filtering, or reducing/folding the list.  You can discuss these operations if you feel the class can handle it.
-    * Part 1.3 requires use of the "join" block—be sure that the students are comfortable using this block.
+    * Part 1.3 requires use of the "join" block&mdash;be sure that the students are comfortable using this block.
 * Wrap-up
   * Ask students to briefly describe how the various parts of the lab were similar or different
     * Hopefully the students find that the scripts were quite similar for each part.

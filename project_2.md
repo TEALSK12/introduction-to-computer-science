@@ -25,7 +25,7 @@ In addition, at least one of your power-ups should be hidden, meaning that the p
   1. Winning the Game
 There should be some clear end goal that, when achieved by the hero, ends the game in victory.  This victory condition should be obvious even to a new player.  You need not (and probably should not) provide written instructions to the player about this condition—use easily identifiable visual indicators such as flags, doors, etc.
   1. Reset Button
-At any point during gameplay, if the player presses the ‘z' key, the game should reset to its initial state.  The game state after pressing the ‘z' key should be indistinguishable from when the game first begins.  This means, among other things, that:
+At any point during gameplay, if the player presses the 'z' key, the game should reset to its initial state.  The game state after pressing the 'z' key should be indistinguishable from when the game first begins.  This means, among other things, that:
     * the hero should return to the left edge of the first screen, lose all special abilities, and be given back all his or her lives
     * any destroyed enemies should be reinstated and replaced in their original positions
     * obtained power-ups should become available and revealed power-ups should be hidden 
@@ -39,35 +39,32 @@ In addition to functioning well, your program must be well-documented and readab
 * giving  your sprites meaningful names
 * naming and using your variables well
 * including comments to describe the structure of your program and any particularly complex or unintuitive pieces of code
-  1. Required BYOB Elements
-Your program must include, at a minimum, the following BYOB code elements:
+  1. Required Snap! Elements
+Your program must include, at a minimum, the following Snap! code elements:
     * At least two variables
     * At least one conditional (if or if-else) statement
     * At least two messages, one of which must be received and responded to by multiple sprites
   1. Peer Feedback
 As part of the software development experience on this project, you will participate in a peer review with one or more of your classmates.  Near the end of the project, you will play another student's game and provide him or her with notes and comments.  Your partner(s) will also play your game and offer the same feedback.  You should offer suggestions for features that could be improved or changed as well as look for bugs in the program you are reviewing.  Keep your comments constructive and professional!  Don't just point out things you don't like—explain your thinking and propose solutions.  Also, restrict your comments to things that can be reasonably addressed.  Do not tell your partner that he or she made a poor choice of theme and should start over, for example.
 After receiving your peer feedback, you should consider the comments carefully and respond.  You will be expected to turn in the feedback provided to you and identify ways in which you modified your game in response to the feedback you received.
- 
 1. Required Checkpoints
   1. Monday, October 27: Screens should be designed; the hero should be able to move and jump; gravity should work; reset button should be functional
   1. Monday, November 3: Hazards and enemies should be present; death should work properly.
   1. Monday, November 10 (final due date): Lives, power-ups, and victory should be implemented; all other required program components must work
 1. Grading Scheme/Rubric
+
 |Functional Correctness (Behavior)| Value |
 | -- | -- |
 | Left and right arrows and space bar control hero's movement, and hero does not move through walls | 2 points |
 | Hero is subject to gravity, and does not fall through platforms | 2 points |
 | Game consists of at least three screens | 1 point |
-| Game contains at least:
-* One falling hazard (pit)
-* One stationary enemy
-* One moving enemy | 3 points |
+| Game contains at least: <ul><li>One falling hazard (pit)</li><li>One stationary enemy</li><li>One moving enemy</li>| 3 points |
 | Player loses a life when falling down the falling hazard or touching an enemy, and hero restarts on current screen after death. | 2 points |
 | Player starts with three lives, and game ends when player is out of lives | 2 points |
 | Game contains at least two power-ups, at least one of which is hidden and at least one of which is necessary to win the game | 3 points |
 | Hero has a clear goal to win the game | 1 point |
 | Gameplay is clear and intuitive, even to a brand new player | 1 point |
-| Game resets when the ‘z' key is pressed | 2 points |
+| Game resets when the 'z' key is pressed | 2 points |
 | Total | 19 points |
 | Technical Correctness (Implementation) | Value |
 | Program is well-designed visually and has a consistent theme | 2 point |

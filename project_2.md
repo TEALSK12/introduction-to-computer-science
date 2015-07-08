@@ -56,7 +56,7 @@ Your program must include, at a minimum, the following Snap! code elements:
   * At least two variables
   * At least one conditional (if or if-else) statement
   * At least two messages, one of which must be received and responded to by multiple sprites
- 1. **Peer Feedback**
+1. **Peer Feedback**
  <br/>
 As part of the software development experience on this project, you will participate in a peer review with one or more of your classmates.  Near the end of the project, you will play another student's game and provide him or her with notes and comments.  Your partner(s) will also play your game and offer the same feedback.  You should offer suggestions for features that could be improved or changed as well as look for bugs in the program you are reviewing.  Keep your comments constructive and professional!  Don't just point out things you don't like—explain your thinking and propose solutions.  Also, restrict your comments to things that can be reasonably addressed.  Do not tell your partner that he or she made a poor choice of theme and should start over, for example.
 After receiving your peer feedback, you should consider the comments carefully and respond.  You will be expected to turn in the feedback provided to you and identify ways in which you modified your game in response to the feedback you received.

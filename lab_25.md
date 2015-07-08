@@ -21,7 +21,11 @@ If the sides given cannot make a real triangle, say so instead of saying the per
 ## What kind of triangle?
 1. Add code to your program to determine and say whether or not the triangle described is a right triangle.  If the triangle has side lengths $$a$$, $$b$$, and $$c$$, then the triangle is a right triangle if the following is true:
 <br/>
-$$a*a + b * b = c * c$$
+$$
+\begin{align*}
+a*a + b * b = c * c
+\end{align*}
+$$
 
 1. Add code to your program to determine which type of triangle has the side lengths given.  A triangle can be one of the following three types:
 

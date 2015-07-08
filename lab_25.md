@@ -9,9 +9,9 @@ In this lab, you will use Boolean operators to determine what sort of triangle a
 1. Add code to your program to check whether or not the three side lengths can form a real triangle.  Remember that, in any real triangle, the sum of the lengths of any two sides is greater than the length of the third side.  So, if the triangle has side lengths $$a$$, $$b$$, and $$c$$, then all of the following must be true:
 <br/>
 $$
-a + b &> c
-a + c &> b
-b + c &> a
+a + b > c
+a + c > b
+b + c > a
 $$
 
 If the sides given cannot make a real triangle, say so instead of saying the perimeter.

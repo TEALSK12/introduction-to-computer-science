@@ -10,9 +10,9 @@ In this lab, you will use Boolean operators to determine what sort of triangle a
 <br/>
 $$
 \begin{aligned}
-a + b > c
-a + c > b
-b + c > a
+a + b &> c
+a + c &> b
+b + c &> a
 \end{aligned}
 $$
 

@@ -30,6 +30,7 @@
    * [Lesson 2.6](lesson_26.md)
    * [Lab 2.6](lab_26.md)
    * [Lesson 2.7](lesson_27.md)
+   * [Project 2](project_2.md)
 * [Unit 3](unit_3.md)
    * [Lesson 3.1](lesson_31.md)
    * [Lab 3.1](lab_31.md)

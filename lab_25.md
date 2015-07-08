@@ -24,7 +24,9 @@ If the sides given cannot make a real triangle, say so instead of saying the per
 $$a*a + b*b = c*c$$
 
 1. Add code to your program to determine which type of triangle has the side lengths given.  A triangle can be one of the following three types:
+
 | Triangle type | Description |
+|--|--|
 | Equilateral | All three side lengths equal |
 | Isosceles | Two side lengths equal, one different |
 | Scalene | All three side lengths different |

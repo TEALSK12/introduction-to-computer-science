@@ -8,53 +8,45 @@ Hangman is a popular word game in which one player (the “chooser”) chooses a
 
 ## Details
 
-1. Behavior
-  1. Gameplay
-
+1. **Behavior**
+  1. **Gameplay** <br/>
 In our implementation of Hangman, the computer will take on the role of the “chooser” and the human player will be the “guesser.”  The computer will secretly choose a word from a list (see below) and show the player how many letters are in the word by displaying a sequence of blanks (underscores).  Then, the computer will begin asking for guesses.  If the player guesses a letter that is in the secret word, all blanks representing an instance of that letter should be replaced by the letter.  If the guessed letter is not in the word at all, the player should lose a chance and a new part of the Hangman figure should appear.  If the player guesses a letter he or she has already guessed, he or she should not lose a chance, even if that letter is not in the word.  If the player guesses all letters in the word, he or she wins.  If the Hangman figure is completed, the player loses.  In either case, the secret word should be revealed after the game is over.
 
-  1. Sprites
-
+  1. **Sprites** <br/>
 Your game will need to include at least three sprites: the Hangman itself, a “host” sprite that asks the player for a guess and informs him or her whether or not the guess is correct, and an “assistant” sprite that tells the player the status of the secret word.  You may use more sprites if you think they are appropriate. The host and assistant should have clear roles and should never do each other’s job.
- 
-  1. Word Status
 
+  1. **Word Status** <br/>
 As the game is played, the player should be shown the current guessed status of the secret word.  Letters that have been correctly guessed should be shown in the correct locations.  Unguessed letters will appear as blanks.  At the beginning of the game, no letters will have been guessed, and the only information shown to the player will be a sequence of blanks, with one blank for each letter in the secret word.  As the player guesses letters correctly, blanks representing guessed letters should be replaced by those letters.  So, for example, if the secret word is “screwdriver” and the player has guessed ‘e,’ ‘s’, ‘r’, and ‘d,’ the current word status would be “s _ r e _ d r _ _ e r”.
 
-  1. Chances/The Hangman
-
+  1. **Chances/The Hangman** <br/>
 The player will have six “chances” to guess the word.  Guessing a correct letter does not cost a chance.  Each missed chance will cause a new piece of the Hangman to appear.  The six pieces of the Hangman are: head, body, left arm, right arm, left leg, right leg.  You may use a stick figure for your Hangman, but if you would like to be more creative with the appearance, feel free to do so.  No matter what your hangman looks like, though, it should include these six pieces and no more.
 
-  1. Game End
-
+  1. **Game End** <br/>
 The game can end in one of two ways:
     * If the player has guessed the complete secret word, he or she wins.
-    * Otherwise, if the player has run out of chances and the complete Hangman has been drawn, the player loses.
-
+    * Otherwise, if the player has run out of chances and the complete Hangman has been drawn, the player loses.<br/>
+    <br/>
 In either case, when the game ends the host should stop asking for guesses.  The host should inform the player whether he or she won or lost, and the assistant should reveal the entire secret word.
 
-1. Implementation Details
-  1. Word List/Secret Word
-
+1. **Implementation Details**
+  1. **Word List/Secret Word** <br/>
 You will be provided with a list of words from which the secret word should be chosen for each game.  You will be shown in class how to import this list into your program. At the start of each game, a word should be randomly chosen from this list to be used as the secret word.  The secret word must be chosen randomly, and must be a word in the list.
 
-  1. Documentation
-
+  1. **Documentation** <br/>
 In addition to functioning well, your program must be well-documented and readable.  This includes, but is not limited to, things such as:
     * organizing your scripts so that they can be read and comprehended easily
     * giving  your sprites meaningful names
     * naming and using your variables, lists, and custom blocks well
     * including comments to describe the structure of your program and any particularly complex or unintuitive pieces of code
-  1. Required Snap! Elements
-
+  1. **Required Snap! Elements** <br/>
 Your program must include, at a minimum, the following Snap! code elements:
     * At least two lists, once of which must be used to track guessed letters
     * Custom blocks as appropriate, including arguments and reporters
 
-1. Required Checkpoints
-  1. Thursday, April 30: Be able to select a secret word, keep track of which letters have been guessed, determine if each letter guessed is in the secret word or not, and announce the current status of the word, showing letters that have been guessed and blanks for other letters.
+1. **Required Checkpoints**
+  1. Be able to select a secret word, keep track of which letters have been guessed, determine if each letter guessed is in the secret word or not, and announce the current status of the word, showing letters that have been guessed and blanks for other letters.
 
-  1. Thursday, May 7 (final due date): Be able to play a full game of Hangman, identify correct and incorrect letters, display the hangman figure, and inform the player whether they have won or lost.
+  1. Be able to play a full game of Hangman, identify correct and incorrect letters, display the hangman figure, and inform the player whether they have won or lost.
 
 ## Grading Scheme/Rubric
 

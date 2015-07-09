@@ -6,7 +6,7 @@ In this lab, you will create a list of names and then look through the list pull
 
 1. Create a list of names with at least six different names.  Try to vary the names as much as you can.
 
-1. Write a SNAP script to welcome each person to the program by name, one at a time.  (For example, "Welcome, John."  "Welcome, Mary."  "Welcome, Scott.")  Make sure not to modify the list of names when you run the script—you'll want the list again later.  Also make sure your script still works even if the list of names changes.
+1. Write a SNAP script to welcome each person to the program by name, one at a time.  (For example, "Welcome, John."  "Welcome, Mary."  "Welcome, Scott.")  Make sure not to modify the list of names when you run the script&mdash;you'll want the list again later.  Also make sure your script still works even if the list of names changes.
 
 1. Write a new SNAP script that welcomes all the players at once.  So, for example instead of saying "Welcome, John," "Welcome, Mary," and "Welcome, Scott." separately, you're new script should say "Welcome John, Mary, and Scott."  Start by writing a script that can say all the names on one line, then try to add the commas and "and".  Make sure your script works correctly no matter how many names are in the list.
 

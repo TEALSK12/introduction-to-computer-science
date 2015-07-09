@@ -95,7 +95,7 @@ These particular reporters tell you where the sprite is on the stage. As in alge
 
 >Drag your sprite to the far right side of the stage. Next, drag an x position block into the scripting area and click on it. You should see a little speech balloon next to the block: 
 
->![x position reporting]()
+>![x position reporting](xpositionreporting.png)
 
 >4.1) What value does the x position block report to you when the sprite is...
 ...at the far right side of the stage:
@@ -115,7 +115,7 @@ Click on the gray box to the left of the **x position block** in the palette, an
        
 This on-stage display is called a *watcher*.
 
-The ![x position]() and ![y position]() the  will tell you the position of your sprite on the screen. Move the sprite around and the values reported by these blocks change. 
+The ![x position](xposition.png) and ![y position](yposition.png) the  will tell you the position of your sprite on the screen. Move the sprite around and the values reported by these blocks change. 
 
 ##Part 5: Position On The Stage
 A sprite occupies a position (x,y) on the stage where x represents the horizontal position, from -240 (left) to 240 (right), and y represents the vertical position, from -180 (bottom) to 180 (top). Here's a picture: 

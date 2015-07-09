@@ -140,15 +140,15 @@ Try to get comfortable with the blocks under the Motion tab and the Pen tab. Fig
 
 >6.1) What do these blocks do? (write an explanation next to each block)
 
->![move 10 steps]()
+>![move 10 steps](move.png)
 
->![turn 15 degrees]()
+>![turn 15 degrees](turn15degrees.png)
 
->![clear]()
+>![clear](clear.png)
 
->![pen up]()
+>![pen up](penup.png)
 
->![pen down]()
+>![pen down](pendown.png)
 
 >6.2) Does the *turn* block change the sprite's x and/or y position?
 >___
@@ -178,11 +178,11 @@ You also will want to show the direction and x and y position of the sprite. In 
 
 
 ##Part 7: Follow that Mouse!
->![forever go to mouse x-y]()
+>![forever go to mouse x-y](forevergotomouse.png)
 
 >7.1) *What do you think the script above will do?*
 
->Hint: ![mouse x]() and ![mouse y]() are reporters in the Sensing palette; they tell you where the mouse is pointing. 
+>Hint: ![mouse x](mousex.png) and ![mouse y](mousey.png) are reporters in the Sensing palette; they tell you where the mouse is pointing. 
 <br />
 <br />
 <br />

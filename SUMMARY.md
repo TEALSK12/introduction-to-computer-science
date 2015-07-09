@@ -52,6 +52,7 @@
    * [Lesson 4.5](lesson_45.md)
    * [Lab 4.5](lab_45.md)
    * [Lesson 4.6](lesson_46.md)
+   * [Project 4](project_4.md)
 * [Unit 5](unit_5.md)
    * [Lesson 5.1](lesson_51.md)
    * [Lesson 5.2](lesson_52.md)

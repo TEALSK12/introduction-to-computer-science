@@ -4,6 +4,7 @@ In this lab, you will create a simple sentence generator using lists.  (Adapted 
 
 ## Let's Talk
 1. Create a variable for each part of speech below, and set each variable to hold a list of words that fit that part of speech.  Some examples are given, but feel free to use your own.
+
 | Part of Speech | Example words |
 | -- | -- |
 |noun | giraffe, monkey, boy, girl, elephant, ...|
@@ -16,6 +17,7 @@ In this lab, you will create a simple sentence generator using lists.  (Adapted 
 1. Write a custom reporter block called "noun phrase" that reports a noun phrase where each word is chosen randomly from the lists you created.  A noun phrase consists of an article, an adjective, and a noun in that order.
 
 1. Write custom reporter blocks like "noun phrase" for each of the phrase types listed below.
+
 |Phrase type | Construction|
 | -- | -- |
 |prepositional phrase | preposition, noun phrase|
@@ -30,9 +32,10 @@ In this lab, you will create a simple sentence generator using lists.  (Adapted 
 
 ## Changing Our Vocabulary
 
-1. Write a script so that when the ‘n' key is pressed, the user is prompted for a new noun and that noun is added to list of nouns.  After that point, the new noun entered by the user should be able to appear in sentences.
+1. Write a script so that when the 'n' key is pressed, the user is prompted for a new noun and that noun is added to list of nouns.  After that point, the new noun entered by the user should be able to appear in sentences.
 
 1. Write scripts like the one you wrote in part 2.1 to add words to the other lists.  Use the keys listed below.
+
 |Key | Part of speech|
 | -- | -- |
 |v | verb|
@@ -41,4 +44,4 @@ In this lab, you will create a simple sentence generator using lists.  (Adapted 
 |a | article|
 |p | preposition|
 
-1. Write a script so that when the ‘x' key is pressed, the user is asked for one of the parts of speech and then for a number (n).  Your script should remove the nth item from the list of words for the specified part of speech.  For example, if the user types in "verb" and "3" then you should remove the 3rd word from the list of verbs.  The removed word should no longer appear in sentences.
+1. Write a script so that when the 'x' key is pressed, the user is asked for one of the parts of speech and then for a number (n).  Your script should remove the nth item from the list of words for the specified part of speech.  For example, if the user types in "verb" and "3" then you should remove the 3rd word from the list of verbs.  The removed word should no longer appear in sentences.

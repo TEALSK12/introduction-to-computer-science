@@ -88,7 +88,7 @@ Remember, a script will tell the sprite what to do. Click on the script and see 
 
 
 ##Part 4: Reporters
-At the bottom of Motion palette are three blocks shaped differently from the others. The oval-shaped ![x position](xposition.png) and ![y position]() are called *reporters*. (We don't need the third one right now.) Unlike the jigsaw-puzzle-piece-shaped command blocks we've used until now, reporters don't carry out an action (such as moving the sprite or displaying a speech balloon) by themselves. Instead they report a value, usually for use in another block's input slot. 
+At the bottom of Motion palette are three blocks shaped differently from the others. The oval-shaped ![x position](xposition.png) and ![y position](yposition.png) are called *reporters*. (We don't need the third one right now.) Unlike the jigsaw-puzzle-piece-shaped command blocks we've used until now, reporters don't carry out an action (such as moving the sprite or displaying a speech balloon) by themselves. Instead they report a value, usually for use in another block's input slot. 
 
 These particular reporters tell you where the sprite is on the stage. As in algebra class, **x** means left-to-right position, and **y** means bottom-to-top position. 
 

@@ -8,18 +8,18 @@ In this lab, you will explore the functionality of some common blocks and where 
 
 | Block | Category |
 | -- | -- |
-|![point in direction]()| *motion* |
-|![think]()||
-|![play notes]()||
-|![set pen color]()||
-|![glide]()||
-|![repeat]()||
-|![change pen size]()||
-|![set effect]()||
-|![go to x-y]()||
-|![set size]()||
-|![rest for beats]()||
-|![point towards]()|&nbsp;|
+|![point in direction](pointindirection.png)| *motion* |
+|![think](think.png)||
+|![play notes](playnotes.png)||
+|![set pen color](setpencolor.png)||
+|![glide](glide.png)||
+|![repeat](repeat.png)||
+|![change pen size](changepensize.png)||
+|![set effect](seteffect.png)||
+|![go to x-y](gotox-y.png)||
+|![set size](setsize.png)||
+|![rest for beats](restforbeats.png)||
+|![point towards](pointtowards.png)|&nbsp;|
 
 ## 2. What does it do?
 
@@ -27,18 +27,18 @@ In this lab, you will explore the functionality of some common blocks and where 
 
 | Block | Function |
 | -- | -- |
-|![point in direction]()| *Changes the direction that the sprite is facing. The argument indicates the number of degrees the sprite turns clockwise from pointing upwards. When the argument is "90", the sprite points right, and so on.* |
-|![think]()||
-|![play notes]()||
-|![set pen color]()||
-|![glide]()||
-|![repeat]()||
-|![change pen size]()||
-|![set effect]()||
-|![go to x-y]()||
-|![set size]()||
-|![rest for beats]()||
-|![point towards]()|&nbsp;|
+|![point in direction](pointindirection.png)| *Changes the direction that the sprite is facing. The argument indicates the number of degrees the sprite turns clockwise from pointing upwards. When the argument is "90", the sprite points right, and so on.* |
+|![think](think.png)||
+|![play notes](playnotes.png)||
+|![set pen color](setpencolor.png)||
+|![glide](glide.png)||
+|![repeat](repeat.png)||
+|![change pen size](changepensize.png)||
+|![set effect](seteffect.png)||
+|![go to x-y](gotox-y.png)||
+|![set size](setsize.png)||
+|![rest for beats](restforbeats.png)||
+|![point towards](pointtowards.png)|&nbsp;|
 
 **2.2) At this point, you may be noticing some patterns. Use what you've learned from exploring these blocks to answer the questions below about each block category.**
 

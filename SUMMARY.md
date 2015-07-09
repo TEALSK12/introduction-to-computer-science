@@ -41,6 +41,7 @@
    * [Lesson 3.4](lesson_34.md)
    * [Lab 3.4](lab_34.md)
    * [Lesson 3.5](lesson_35.md)
+   * [Project 3](project_3.md)
 * [Unit 4](unit_4.md)
    * [Lesson 4.1](lesson_41.md)
    * [Lesson 4.2](lesson_42.md)

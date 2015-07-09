@@ -1,4 +1,4 @@
-# Project 3: Hangman
+# Project 4: Hangman
 
 Students will implement a Snap! version of the class word game "Hangman."
 

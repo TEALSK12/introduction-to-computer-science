@@ -110,8 +110,8 @@ These particular reporters tell you where the sprite is on the stage. As in alge
 
 Click on the gray box to the left of the **x position block** in the palette, and then look over to the stage. You will see that the value that the block would report is displayed on the stage: 
 
-![x position checkbox]()
-![x position watcher]()
+![x position checkbox](xpositioncheckbox.png)
+![x position watcher](xpositionwatcher.png)
        
 This on-stage display is called a *watcher*.
 

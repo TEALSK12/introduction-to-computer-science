@@ -27,7 +27,7 @@ In this lab, you will explore the functionality of some common blocks and where 
 
 | Block | Function |
 | -- | -- |
-|![point in direction](pointindirection.png)| *Changes the direction that the sprite is facing. The argument indicates the number of degrees the sprite turns clockwise from pointing upwards. When the argument is "90", the sprite points right, and so on.* |
+|![point in direction](pointindirection.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| *Changes the direction that the sprite is facing. The argument indicates the number of degrees the sprite turns clockwise from pointing upwards. When the argument is "90", the sprite points right, and so on.* |
 |![think](think.png)||
 |![play notes](playnotes.png)||
 |![set pen color](setpencolor.png)||

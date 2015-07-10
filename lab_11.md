@@ -202,29 +202,27 @@ You also will want to show the direction and x and y position of the sprite. In 
 
 >7.3) How does program's behavior change when you modify the ```go to``` block as shown below? 
 
->![go to mouse x + 30, y]()
+>![go to mouse x + 30, y](gotomousex30.png)
 <br />
 <br />
 <br />
 <br />
 
 ## Part 8: Forever and a Day
-From the previous exercise, you may have figured out what the ![forever]() block does. The ```forever``` block is the first block you have seen that holds, or wraps around, other blocks. We call this a *C block* because of its shape. As the name ```forever``` implies, it will run the blocks inside it again and again and again and ... well, forever. You will find this block under the **Control** tab. 
-
-![forever say]()
+From the previous exercise, you may have figured out what the ![forever](forever.png) block does. The ```forever``` block is the first block you have seen that holds, or wraps around, other blocks. We call this a *C block* because of its shape. As the name ```forever``` implies, it will run the blocks inside it again and again and again and ... well, forever. You will find this block under the **Control** tab. 
  
-Will a ![forever]() block ever stop? 
+Will a ![forever](forever.png) block ever stop? 
 
 Not unless you tell it to: Click on the stop sign icon on the upper right hand corner of the Snap! window. 
 
-![stop button]()
+![stop button](stopbutton.png)
  
-This stop sign will stop all scripts that are running in any sprite. This is equivalent to executing the ![stop all]() in the Control palette.
+This stop sign will stop all scripts that are running in any sprite. This is equivalent to executing the ![stop all](stopall.png) in the Control palette.
 
 
 ### Check for Understanding
-8.1) **How many times will the sprite say "Hello" <br />**
-![forever say]()
+8.1) **How many times will the sprite say "Hello"? <br />**
+![forever say](foreversay.png)
 
 a) 1 <br />
 b) 2 <br />
@@ -232,7 +230,7 @@ c) 10 <br />
 d) continuously <br />
 
 8.2) **Assuming the sprite starts in the middle of the stage and pointing in direction 90, where would it end up after running this script?** <br />
-![forever move]()
+![forever move](forevermove.png)
 
 a) Farther right on the stage <br />
 b) Farther left on the stage <br />
@@ -240,7 +238,7 @@ c) Off the stage to the right <br />
 d) Off the stage to the left <br />
 
 8.3) **What would appear on the screen when this script is run?** <br />
-![forever say animals]()
+![forever say animals](foreversayanimals.png)
 
 a) The sprite would say "Tiger" forever <br />
 b) The sprite would say "Tiger" then "Panda" once <br />
@@ -248,7 +246,7 @@ c) The sprite would alternate between saying "Tiger" and "Panda" forever <br />
 d) The sprite would say "Tiger" and "Panda" at the same time forever. <br />
 
 8.4) **Assuming the sprite started in the middle of the stage facing right, what kind of drawing would the sprite make?** <br />
-![forever draw something]()
+![forever draw something](foreverdrawsomething.png)
 
 a) a circle <br />
 b) a dot <br />
@@ -258,7 +256,7 @@ d) a straight line <br />
 ## Part 9: Make a Kaleidoscope
 Explore this drawing program for a little bit (http://tinyurl.com/SnapKaleidoDraw). Press the spacebar to run the program, and move your mouse cursor over the stage of the Snap! window. While over the stage, use the **d** (pen down), **u** (pen up), and **c** (clear) keyboard keys to change what gets drawn on the screen. The script that causes the sprite to follow the pointer is 
 
-![forever go to mouse x-y]()
+![forever go to mouse x-y](forevergotomouse.png)
  
 As you can see, this drawing program features more **Control** blocks, in addition to the ```forever``` block first introduced in the *Follow the Mouse activity*. These *hat*-shaped block, which can be used only at the beginning of a script, indicate when a specific script should be run. 
 
@@ -274,7 +272,7 @@ Some tips:
 
 * You will need four sprites. (We haven't used more than one sprite up to now, but having more than one allows for more interesting projects, as you'll see.) The easiest way to create three more is to *duplicate* the one you have. Right-click the sprite in the sprite corral, and select **duplicate** from the *context menu* that appears. Each duplicated sprite will have exactly the same scripts as the original, which is why we suggest duplication rather than just creating more sprites from scratch. 
 
-* You can change the color of each sprite by clicking the color input in that sprite's ![set pen color]()  block (found under the **Pen** tab), choosing a color, and then clicking on the block itself (to run the block and actually set the color). Don't worry about matching the colors in the animation exactly! 
+* You can change the color of each sprite by clicking the color input in that sprite's ![set pen color](setpencolor.png)  block (found under the **Pen** tab), choosing a color, and then clicking on the block itself (to run the block and actually set the color). Don't worry about matching the colors in the animation exactly! 
 
 * Pay close attention to what each of the other sprites is doing in the animation above. You will need to modify the **x** and **y** inputs in each sprite's ![go to x-y]() block using simple formulas, with ![addition]() and ![subtraction]() . 
 

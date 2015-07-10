@@ -262,7 +262,7 @@ As you can see, this drawing program features more **Control** blocks, in additi
 
 >For this activity, your job is to make a (kind of) kaleidoscope, like: 
 
->![kaleidoscope examples]()
+>![kaleidoscope examples](kaleidoscopegif.gif)
     
 >The kaleidoscope consists of 4 sprites. Each sprite will be drawing with a different pen color. Each sprite's movement is based on the movement of the mouse. The first sprite follows the mouse, just like in the example we looked at before. The other 3 sprites move around as the mouse moves, but reflected over the X and Y axes.
 
@@ -274,7 +274,7 @@ Some tips:
 
 * You can change the color of each sprite by clicking the color input in that sprite's ![set pen color](setpencolor.png)  block (found under the **Pen** tab), choosing a color, and then clicking on the block itself (to run the block and actually set the color). Don't worry about matching the colors in the animation exactly! 
 
-* Pay close attention to what each of the other sprites is doing in the animation above. You will need to modify the **x** and **y** inputs in each sprite's ![go to x-y]() block using simple formulas, with ![addition]() and ![subtraction]() . 
+* Pay close attention to what each of the other sprites is doing in the animation above. You will need to modify the **x** and **y** inputs in each sprite's ![go to x-y](gotox-y.png) block using simple formulas, with ![addition](addition.png) and ![subtraction](subtraction.png) . 
 
   **Hint: All the sprites are reflecting in different ways around the (x=0, y=0) origin point of the stage.**
 * Once you figured this out, try out some complicated formulas and/or more sprites, and share with your classmates! 

@@ -59,5 +59,5 @@
    * [Lesson 5.2](lesson_52.md)
    * [Lesson 5.3](lesson_53.md)
 * [Additional Curriculum Resources](additional_curriculum_resources.md)
-* Contributing
+* [Contributing](contributing.md)
 

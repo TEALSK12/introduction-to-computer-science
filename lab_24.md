@@ -3,7 +3,7 @@
 In this lab, you will use conditional statements and variables to build a simple number guessing game.
 
 ##I'm Thinking of a Number...
-  1. Write a SNAP program to choose a random number between 1 and 10 (using the block ![pick random 1 to 10]()) and then ask the user for a number between 1 and 10.  If the two numbers match, say "You win!"  Otherwise, say "Sorry, that is not correct."  In either case, say what the program's number was.
+  1. Write a SNAP program to choose a random number between 1 and 10 (using the block ![pick random 1 to 10](random.png)) and then ask the user for a number between 1 and 10.  If the two numbers match, say "You win!"  Otherwise, say "Sorry, that is not correct."  In either case, say what the program's number was.
 
   1. Modify the program to keep asking the user for guesses until the correct number is input.  Be sure to still give a message after each guess, but only reveal the number when the game is over.
 

@@ -81,6 +81,8 @@ Remember, a script will tell the sprite what to do. Click on the script and see 
 ![script with highlighted border](scriptwithhighlightedborder.png)
 
 >**3.2) What happens when you run this script?**
+
+> ![Script with move and say blocks](scriptwithmoveandsayblocks.png)
 <br />
 --
 

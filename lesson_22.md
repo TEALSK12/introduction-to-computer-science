@@ -34,7 +34,7 @@ Students will be able to...
 
         ![](two squares.png)
         
-    2. Discuss what would happen if you needed to draw 10 squares, or 100, or an unknown number
+    2. Discuss what would happen if you needed to draw 10 squares, or 100, or an unknown number.
         * If students seem capable, you can allude to user input for the unknown number example, but do not get into details at this point
         * Ask if loops can somehow be applied to reduce redundancy even further in the script to draw two squares
     3. Introduce the concept of nested loops

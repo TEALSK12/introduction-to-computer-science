@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* Lab 1.1 handout (Welcome to SNAP!) 
+* [Lab 1.1 handout](lab_11.md) (Welcome to SNAP!) 
 * Ensure that all classroom computers can access http://snap.berkeley.edu/run.
 * Read through the lab so that you are familiar with the requirements and can assist students as needed
 
@@ -24,21 +24,21 @@ Students will be able to...
 
 
 ## Instructor's Notes
-
-* Introductory discussion
-  * Review the definition of "program" from previous lessons
-  * Points to mention
-    * Point 1
-    * Point 2
+1. Introductory discussion
+  * Review the definitions of "algorithm" and "program" developed in lesson 0.2
+      * _algorithm: a complete, well-defined sequence of steps for completing a task or solving a problem_
+      * _program: a sequence of instructions or steps, written in a language that can be understood by a computer, that will be used by the computer to complete a task or solve a problem_
   * Provide a very brief walk-through of SNAP
     * Do not go into too much depth; the activity will take students through SNAP in more detail
     * Don't miss 1
     * Don't miss 2
-* Activity
+
+2. Activity
   * Individually or in pairs, have students work through the "Welcome to SNAP" lab activity. Students should answer all questions and complete all activities and turn them in using your chosen turn-in procedure.
     * For written questions, either have students hand-write answers and turn in the hard copies or set up an electronic submission system of some kind.
     * For SNAP programs, including the Kaleidoscope program, students should save the program to the cloud and share a link with you
-* Turn-in procedures
+
+3. Turn-in procedures
   * Demonstrate the turn-in procedure you will use for student work throughout the semester, and have students follow along to turn in their work from the lab.
     * Ensure that each student is able to turn in their work before the class period ends.
 

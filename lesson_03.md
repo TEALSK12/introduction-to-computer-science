@@ -55,6 +55,6 @@ Students will be able to...
   * This will get them accustomed to the iterative nature (and natural frustrations) of programming.
 * If students appear to be frustrated enough to not be enjoying the activity, provide a step in the right direction and remind them that programmers rarely create a correct program on the first try.
 * If there is only enough time for one activity, choose based on the following guidance:
+    * LightBot is more challenging, but not substantially so, and is more game-like, which often leads to greater engagement.  LightBot is recommended if students seem capable of handling the challenge.
     * The SNAP activity is simpler, and most of the material is covered in the first few lessons of Unit 1, so it can be skipped without losing any experience.  However, in a suspected high-needs classroom, the easier goals and extra time with SNAP may be beneficial.
-    * LightBot is more challenging, but not substantially so, and is more unique and typically more enjoyable.  LightBot is recommended if students seem capable of handling the challenge.
 * It is unlikely that students will finish _both_ activities in one class period.  On the rare occasion some do, encourage them to explore SNAP on their own or to try the full version of LightBot 2.0 at http://armorgames.com/play/6061/light-bot-20

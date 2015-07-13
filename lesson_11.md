@@ -17,13 +17,13 @@ Students will be able to...
 
 | Duration | Description |
 | -- | -- |
-|_Day 1_|
+|_Day 1_||
 | 5 minutes | Welcome, attendance, bell work, announcements   |
 |10 minutes| Introductory discussion |
 |10 minutes| Lab walkthrough |
 |20 minutes| "Welcome to SNAP!" Lab activity |
 |10 minutes| Demonstrate turn-in procedures and wrap-up |
-|_Day 2_|
+|_Day 2_||
 | 5 minutes | Welcome, attendance, bell work, announcements   |
 |10 minutes| Review from yesterday |
 |30 minutes| Continue lab|

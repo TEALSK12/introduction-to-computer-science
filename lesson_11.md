@@ -26,7 +26,7 @@ Students will be able to...
 ## Instructor's Notes
 
 * Introductory discussion
-  * Review the concepts of "programs" and "programming languages" from previous lessons
+  * Review the definition of "program" from previous lessons
   * Points to mention
     * Point 1
     * Point 2

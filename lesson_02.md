@@ -36,7 +36,7 @@ Needed for this lesson:
   * Present (or have the class develop) definitions for important terms ("computer," "program," "algorithm," etc.).  
 
 * Activity
-  * In pairs or small groups, students will attempt to develop an algorithm for preparing a peanut butter and jelly sandwich. Specify to students that their algorithm must be complete and detailed enough for a "computer" (person) to unambiguously follow the steps and achieve the desired result.
+  * In pairs or small groups, students will attempt to develop an algorithm for preparing a peanut butter and jelly sandwich. Specify to students that their algorithm must be complete and detailed enough for a "computer" (the teacher) to unambiguously follow the steps and achieve the desired result.
     * Give little guidance at this stage, as the confusion (and the errors that are likely to result) will both reinforce the importance of specificity and detail as well as provide entertainment value later on.
     * Algorithms should be written on paper to be shared and reviewed.  Students should _not_ be writing any code, nor should they develop algorithms "in their heads."
   * After groups have finished, choose a group and have them read their instructions.  Act as a computer and follow each step as literally as possible. If there is ambiguity, or if a step is not possible to complete, point out the error.

@@ -19,7 +19,8 @@ Students will be able to...
 | -- | -- |
 | 5 minutes | Welcome, attendance, bell work, announcements   |
 |10 minutes| Introductory discussion |
-|30 minutes| "Welcome to SNAP!" Lab activity |
+|15 minutes| Lab walkthrough |
+|15 minutes| "Welcome to SNAP!" Lab activity |
 |10 minutes| Demonstrate turn-in procedures and wrap-up |
 
 
@@ -28,11 +29,18 @@ Students will be able to...
   * Review the definitions of "algorithm" and "program" developed in lesson 0.2
       * _algorithm: a complete, well-defined sequence of steps for completing a task or solving a problem_
       * _program: a sequence of instructions or steps, written in a language that can be understood by a computer, that will be used by the computer to complete a task or solve a problem_
-  * Provide a very brief walk-through of SNAP
-    * Do not go into too much depth; the activity will take students through SNAP in more detail
-    * Don't miss 1
-    * Don't miss 2
+  
 
+2. Activity Walkthrough
+    * Work through [Lab 1.1](lab_11.md) up through part 3 (scripts) as a class.
+        * Point out key aspects of SNAP in each section, including:
+            * the sections of the window in part 1
+            * block shapes and color-coding of categories in part 2
+                * simply draw attention to the different shapes at this point; their meanings will be covered as each block type is introduced
+            * the "drag-and-drop" nature of the language
+            * running blocks/scripts by clicking on them
+        * Ensure that all students are able to create an account and save their work, as describe in the preamble of the lab
+    
 2. Activity
   * Individually or in pairs, have students work through the "Welcome to SNAP" lab activity. Students should answer all questions and complete all activities and turn them in using your chosen turn-in procedure.
     * For written questions, either have students hand-write answers and turn in the hard copies or set up an electronic submission system of some kind.

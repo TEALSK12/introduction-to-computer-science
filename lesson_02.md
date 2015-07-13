@@ -31,9 +31,10 @@ Needed for this lesson:
 ## Instructor's Notes
 
 1. Introductory discussion
-  * Introduce students to the basic concepts and vocabulary of computer science.
-  * Invite discussion about what constitutes a computer and what computers do.  
-  * Present (or have the class develop) definitions for important terms ("computer," "program," "algorithm," etc.).  
+    * Invite discussion about what constitutes a computer, what computers do, and what computer science is.
+        * An excellent protocol for these types of discussions is ["Chalk Talk"](http://www.nsrfharmony.org/system/files/protocols/chalk_talk_0.pdf).
+    * Develop definitions for important terms ("computer," "computer science," "program," "algorithm," )
+        * Display each term on the board or projector and ask students to provide key ideas or concepts they know that relate to the term. From this, you can develop a classroom definition. Feel free to have a pre-written definition and guide students to that definition using leading questions.
 
 2. Activity
     1. Write algorithms

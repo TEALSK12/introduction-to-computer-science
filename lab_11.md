@@ -1,3 +1,4 @@
+<!--- REVISED -->
 # Lab 1.1 - Welcome To SNAP!
 _Adapted from Beauty and Joy of Computing: http://bjc.eecs.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_new/1-introduction.topic_
 

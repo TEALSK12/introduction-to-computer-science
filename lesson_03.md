@@ -26,7 +26,7 @@ Students will be able to...
 
 ## Instructor's Notes
 
-* Introductory discussion
+1. Introductory discussion
   * Introduce students to the concept of a "computer program."
     * _computer program: a sequence of instructions or steps, written in a language that can be understood by a computer, that will be used by the computer to complete a task or solve a problem_
   * Ask for any programming languages students are familiar with (even just names).
@@ -39,21 +39,23 @@ Students will be able to...
         * What might you need to do when writing a computer program that you have never or rarely done before?
         * What parts of programming are most intimidating or scary?
         * What are you good that might help you be a good programmer?
-* Activity
+2. Activity
   * Students should work through the LightBot 2.0 Hour of Code activity and/or the SNAP Hour of Code Activity.
     * Choose one activity as the requirement, and leave the other for those who finish quickly.
     * Allow students to struggle with the activities if needed, stressing the importance of patience and persistence in programming.
-* Debrief
+3. Debrief
   * Guide students in a discussion about the activities. Some sample guiding questions:
     * What was most challenging?
        * Put special emphasis on the iterative nature of programming, and the need to occasionally throw out a partial solution and start over.
     * What was different about solving these problems than solving other problems encountered in school?
     * Why can instructions not be given in simple English? Why must we be limited to certain operations from which we must build up solutions?
+        * If students seem interested, this can be an opportunity for a brief conversation about the difference between high-level programming languages and machine languages (assembly code).
 
 ## Accommodations/Differentiation
 * Avoid telling students directly how to solve problems in the activities, and instead encourage them to try many approaches and build on partial solutions.
-  * This will get them accustomed to the iterative nature (and natural frustrations) of programming.
+    * This will get them accustomed to the iterative nature (and natural frustrations) of programming.
 * If students appear to be frustrated enough to not be enjoying the activity, provide a step in the right direction and remind them that programmers rarely create a correct program on the first try.
+    * Students who appear frustrated to the point of disengaging can be allowed to skip certain steps or work with a partner, but should NOT be able to opt out of the entire activity.
 * If there is only enough time for one activity, choose based on the following guidance:
     * LightBot is more challenging, but not substantially so, and is more game-like, which often leads to greater engagement.  LightBot is recommended if students seem capable of handling the challenge.
     * The SNAP activity is simpler, and most of the material is covered in the first few lessons of Unit 1, so it can be skipped without losing any experience.  However, in a suspected high-needs classroom, the easier goals and extra time with SNAP may be beneficial.

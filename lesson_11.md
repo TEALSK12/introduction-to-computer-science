@@ -1,4 +1,6 @@
+<!--- REVISED -->
 # Lesson 1.1
+
 ## Learning Objectives
 
 Students will be able to...

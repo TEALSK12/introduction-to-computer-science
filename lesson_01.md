@@ -1,4 +1,4 @@
-<!-- REVISED -->
+<!--- REVISED -->
 # Lesson 0.1
 
 ## Learning Objectives

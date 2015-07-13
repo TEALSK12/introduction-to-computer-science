@@ -1,11 +1,11 @@
-# Lab 1.1 - Welcome To Snap!
+# Lab 1.1 - Welcome To SNAP!
 _Adapted from Beauty and Joy of Computing: http://bjc.eecs.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_new/1-introduction.topic_
 
 SNAP is a programming language, which you can use to tell a computer what to do. A program is a particular set of instructions for the computer to follow.
 
-Programs in most languages use only letters (and punctuation), but snap is different: it's a visual language. Instead of writing a program only using the keyboard, you will drag pictures of blocks and click them together.
+Programs in most languages use only letters (and punctuation), but SNAP is different: it's a visual language. Instead of writing a program only using the keyboard, you will drag pictures of blocks and click them together.
 
->The following is a program in Snap!: 
+>The following is a program in SNAP!: 
 
 >![](simpleProgram.png)
 
@@ -13,11 +13,11 @@ Programs in most languages use only letters (and punctuation), but snap is diffe
 <br />
 >---
 
-Snap is different than many other languages in another way— you run it in a web browser like Firefox or Chrome. The url that you can use to always get to Snap! is
+SNAP is different than many other languages in another way— you run it in a web browser like Firefox or Chrome. The url that you can use to always get to SNAP! is
 
 **http://snap.berkeley.edu/run**
 
-In order to save your programs, the first thing you'll need to do is make an account. In the snap browser window, Find the cloud-shaped button in the top toolbar on the upper left corner of the window:
+In order to save your programs, the first thing you'll need to do is make an account. In the SNAP browser window, Find the cloud-shaped button in the top toolbar on the upper left corner of the window:
 
 ![](cloudButton.png)
 
@@ -27,14 +27,14 @@ Click it, select the "sign up" option in the menu, and follow the instructions t
 
 ## 1. Overview of the Window
 
-You may have noticed that there are a few main sections of the Snap! window. These regions are named as shown below. 
+You may have noticed that there are a few main sections of the SNAP! window. These regions are named as shown below. 
 
-![](snapOverview.png)
+![](SNAPOverview.png)
 
 ## 2. Blocks
 The area at the left edge of the window is the palette. As you see in the picture, it contains tabs for eight different-color block categories. In this lab, we will focus on the Motion, Sound, Pen, and Sensing tabs. You will learn about the other tabs in the next few labs. 
 
-These tabs are an important organizational structure in snap because they are home to the various blocks that you will use to tell the computer what to do. The blocks are categorized under each tab based on what kind of thing each block does. 
+These tabs are an important organizational structure in SNAP because they are home to the various blocks that you will use to tell the computer what to do. The blocks are categorized under each tab based on what kind of thing each block does. 
 
 > **2.1) Below, fill in the name of the category to which each block belongs:**
 
@@ -64,11 +64,11 @@ The block that you just dragged and dropped into the scripting area controls som
 
 ##Part 3. Scripts
 Now that you have figured out how to make a sprite move, you might be wondering how to make the sprite do other things as well. 
-To make a sprite do more than just move, we need to use different types of blocks and link them together. You can link blocks by snapping (hence the name snap) them together -- drag a block right underneath the one to which you want to attach it. Blocks will snap together when one block's indentation is near the tab of the one above it. You should see a white bar appear like the one in the image below, which just shows you where the block will go after you drop it. 
+To make a sprite do more than just move, we need to use different types of blocks and link them together. You can link blocks by SNAPping (hence the name SNAP) them together -- drag a block right underneath the one to which you want to attach it. Blocks will SNAP together when one block's indentation is near the tab of the one above it. You should see a white bar appear like the one in the image below, which just shows you where the block will go after you drop it. 
 
-![Two blocks about to snap together](twoblocksabouttosnaptogether.png)
+![Two blocks about to SNAP together](twoblocksabouttoSNAPtogether.png)
 
-If you keep attaching blocks together in this way, you will create a script. A snap program consists of one or more of these scripts.
+If you keep attaching blocks together in this way, you will create a script. A SNAP program consists of one or more of these scripts.
 
 >**3.1) Try recreating the following script in the scripting area in SNAP.**
 
@@ -86,7 +86,7 @@ Remember, a script will tell the sprite what to do. Click on the script and see 
 <br />
 --
 
->Be sure to note: **blocks in a script run in a specific order, from the top of the script to the bottom**. Generally, snap waits until one block has finished its job before continuing on to the block below it. (One common exception is blocks that play sounds: a block's job can be to start the sound, which means the block below it will execute while the sound is still playing. 
+>Be sure to note: **blocks in a script run in a specific order, from the top of the script to the bottom**. Generally, SNAP waits until one block has finished its job before continuing on to the block below it. (One common exception is blocks that play sounds: a block's job can be to start the sound, which means the block below it will execute while the sound is still playing. 
 
 
 ##Part 4: Reporters
@@ -130,7 +130,7 @@ The purple sprite is at the center of the stage, called the origin, with coordin
 
 >---
 
->In your *Snap!* window, take a look at the blocks under the Motion tab. The majority of the blocks there will help you position your sprite on the stage. Try them and see what they do! Change the input values to see what happens.
+>In your *SNAP!* window, take a look at the blocks under the Motion tab. The majority of the blocks there will help you position your sprite on the stage. Try them and see what they do! Change the input values to see what happens.
 
 >5.2) List at least 4 blocks from the Motion tab that will change the position of a sprite: 
 
@@ -215,7 +215,7 @@ From the previous exercise, you may have figured out what the ![forever](forever
  
 Will a ![forever](forever.png) block ever stop? 
 
-Not unless you tell it to: Click on the stop sign icon on the upper right hand corner of the Snap! window. 
+Not unless you tell it to: Click on the stop sign icon on the upper right hand corner of the SNAP! window. 
 
 ![stop button](stopbutton.png)
  
@@ -256,7 +256,7 @@ c) a cylinder <br />
 d) a straight line <br />
 
 ## Part 9: Make a Kaleidoscope
-Explore this drawing program for a little bit (http://tinyurl.com/SnapKaleidoDraw). Press the spacebar to run the program, and move your mouse cursor over the stage of the Snap! window. While over the stage, use the **d** (pen down), **u** (pen up), and **c** (clear) keyboard keys to change what gets drawn on the screen. The script that causes the sprite to follow the pointer is 
+Explore this drawing program for a little bit (http://tinyurl.com/SNAPKaleidoDraw). Press the spacebar to run the program, and move your mouse cursor over the stage of the SNAP! window. While over the stage, use the **d** (pen down), **u** (pen up), and **c** (clear) keyboard keys to change what gets drawn on the screen. The script that causes the sprite to follow the pointer is 
 
 ![forever go to mouse x-y](forevergotomouse.png)
  

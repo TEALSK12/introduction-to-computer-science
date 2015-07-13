@@ -1,5 +1,5 @@
+<!--- REVISED -->
 # Lesson 0.2
-
 
 ## Learning Objectives
 

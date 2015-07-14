@@ -52,6 +52,7 @@ Students will be able to...
         * If most students have the ability to work on SNAP assignments at home, the amount of in-class time provided can be reduced if necessary.
             * If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
         * Ensure that students are able to ask questions in class throughout the project
+    * [Sample project solution](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=HickoryDickoryDock)
 
 
 ## Accomodation/Differentiation

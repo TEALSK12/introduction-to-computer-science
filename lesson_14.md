@@ -6,7 +6,7 @@ Students will be able to...
 * Trigger action in other sprites using broadcasts
 
 ## Materials/Preparation
-* Lab 1.4 handout (Sprites in Action)
+* [Lab 1.4 handout](lab_14.md) (Sprites in Action)
 
 
 ## Pacing Guide

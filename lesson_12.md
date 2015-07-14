@@ -30,6 +30,7 @@ Students will be able to...
         * Ensure that students can:
             * Define "block" and "script" 
             * Describe how to build a script (snapping blocks together)
+            * Explain how scripts are executed (one block at a time in order)
     * Introduce the concept of block categories
         * Ask students to consider why categories are helpful as opposed to having a simple list of blocks
 

@@ -1,7 +1,11 @@
 # Summary
 
 * [introduction](README.md)
-   * Lab Day Lesson
+* [Unit 0](unit_0.md)
+   * [Lesson 0.1](lesson_01.md)
+   * [Lesson 0.2](lesson_02.md)
+   * [Lesson 0.3](lesson_03.md)
+   * Lesson 0.4
 * [Unit 1](unit_1.md)
    * [Lesson 1.1](lesson_11.md)
    * [Lab 1.1](lab_11.md)
@@ -55,11 +59,7 @@
    * [Lesson 5.1](lesson_51.md)
    * [Lesson 5.2](lesson_52.md)
    * [Lesson 5.3](lesson_53.md)
-* [Unit 0](unit_0.md)
-   * [Lesson 0.1](lesson_01.md)
-   * [Lesson 0.2](lesson_02.md)
-   * [Lesson 0.3](lesson_03.md)
-   * Lesson 0.4
+* Lab Day Lesson
 * [Additional Curriculum Resources](additional_curriculum_resources.md)
 * [Contributing](contributing.md)
 

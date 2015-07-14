@@ -1,6 +1,7 @@
 # Summary
 
 * [introduction](README.md)
+   * Lab Day Lesson
 * [Unit 0](unit_0.md)
    * [Lesson 0.1](lesson_01.md)
    * [Lesson 0.2](lesson_02.md)

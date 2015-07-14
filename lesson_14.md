@@ -29,7 +29,7 @@ Students will be able to...
     * Point out that all sprites "hear" a broadcast and any sprite with a corresponding "when I receive" will react.
     * Discuss the difference between "broadcast" and "broadcast and wait" and ask students to come up with ideas for when each would be useful.
 * Activity
-  * Students should complete the "Sprites in Action" lab individually.
+  * Students should complete the ["Sprites in Action"](lab_14.md) lab individually.
     * Ensure that students create two different sprites for parts 1 and 2 so they do not get the costumes mixed up.
   * Students can submit the assignment using your turn-in procedures or you can check off the work as students complete it.
 * Review

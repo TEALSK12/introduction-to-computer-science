@@ -21,8 +21,12 @@ Students will be able to...
 ## Instructor's Notes
 1. Lecture
   1. Introduce and discuss concepts of code redundancy and readability
-    * Draw attention to the fact that a program can be written in many different ways that are functionally equivalent.
+    * Remind students that a program can be written in many different ways that are functionally equivalent.
     * Ask students to speculate as to why one version of a program might be better or worse.
+        * Possible answers: more efficient (in time or space), shorter code, more elegant/readable code
+    * Use [this example](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%202.1%20Example) to demonstrate unreadble code
+        * Show students the code, ask what it does, then ask if they can think of ways to improve it
+        * Attempt to get students to realize that the code is _redundant_ and could be simplified if there were a way to execute a block of code more than once
   2. Introduce loops
     * Begin with general definition: _A type of block that causes other code to run multiple times in succession_
     * Introduce SNAP specific loops:

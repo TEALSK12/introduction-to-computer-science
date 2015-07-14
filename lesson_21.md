@@ -24,7 +24,7 @@ Students will be able to...
     * Remind students that a program can be written in many different ways that are functionally equivalent.
     * Ask students to speculate as to why one version of a program might be better or worse.
         * Possible answers: more efficient (in time or space), shorter code, more elegant/readable code
-    * Use [this example](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%202.1%20Example) to demonstrate unreadble code
+    * Use [this example](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%202.1%20Example) to demonstrate unreadable code
         * Show students the code, ask what it does, then ask if they can think of ways to improve it
         * Attempt to get students to realize that the code is _redundant_ and could be simplified if there were a way to execute a block of code more than once
   2. Introduce loops
@@ -38,6 +38,7 @@ Students will be able to...
             * Save detailed discussion of this loop until conditionals are introduced
   3. Walk through examples of ![](repeat.png) and ![](forever.png)
     * Emphasize usefulness in reducing redundancy and complexity, especially for repetitive tasks
+    * Simple examples are [here](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%202.1%20Example)
     
 2. Activity
     * Direct students to complete ["Squares and Triangles Redux"](lab_21.md) individually.  

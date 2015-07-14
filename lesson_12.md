@@ -42,4 +42,4 @@ Students will be able to...
 
 * Colorblind students may not be able to identify the block colors, but can still recognize the organization of categories. Be sensitive to this, but no modifications are likely required.
 * Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity.
-* Students that finish the lab early can be encouraged to 
+* Students that finish the lab early can be encouraged to write a SNAP program that draws an interesting picture or scene.  This can be used as a setup for the [Animation Project](project_1.md).

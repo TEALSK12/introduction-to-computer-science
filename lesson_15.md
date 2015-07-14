@@ -18,12 +18,12 @@ Students will be able to...
 |_Duration_|_Description_|
 |--|--|
 |5 minutes|Welcome, attendance, bell work, announcements|
-|15 minutes|Review and introduce project|
-|~4-8 hours|Lab time for project|
+|30 minutes|Review unit concepts|
+|20 minutes|Introduce project|
 
 ## Instructor's Notes
 1. Review
-    * Review the skills and concepts that have been learned in this unit
+    * Play a review game (such as [GrudgeBall](http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html) to remind students of the skills and concepts that have been learned in this unit
         * Categories of blocks
         * Movement
         * Drawing
@@ -42,17 +42,18 @@ Students will be able to...
         * The user must be able to restart the animation (in a manner other than pressing the green flag again) after it has concluded
         * At least two sprites must act during the animation, and the sprites must collectively meet the requirements on page 2
     * Encourage students to look at the grading rubric on page two repeatedly throughout the project to ensure they are meeting all the requirements
+    * [Sample project solution](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=HickoryDickoryDock)
 
 3. Project
     * This project is a summative assessment for the unit.  Students should be demonstrating mastery of all the skills covered.
     * Most students will require roughly 4-8 hours of total work time to complete the project
         * Assess the progress of your students regularly using such techniques as asking them to demonstate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
-        * Adjust the amount of time allowed for the project to fit the neds of your students
+        * Adjust the amount of time allowed for the project to fit the needs of your students
             * It is vital that nearly all students complete the project before moving on
         * If most students have the ability to work on SNAP assignments at home, the amount of in-class time provided can be reduced if necessary.
             * If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
         * Ensure that students are able to ask questions in class throughout the project
-    * [Sample project solution](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=HickoryDickoryDock)
+    
 
 
 ## Accomodation/Differentiation

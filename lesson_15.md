@@ -18,9 +18,15 @@ Students will be able to...
 ## Pacing Guide
 |_Duration_|_Description_|
 |--|--|
+|_Day 1_|
 |5 minutes|Welcome, attendance, bell work, announcements|
 |30 minutes|Review unit concepts|
 |20 minutes|Introduce project|
+|_Days 2-5_|
+|5 minutes|Welcome, attendance, bell work, announcements|
+|10-15 minutes|Review|
+|30-35 minutes|Lab time|
+|5 minutes|Exit ticket|
 
 ## Instructor's Notes
 1. Review
@@ -54,11 +60,11 @@ Students will be able to...
         * If most students have the ability to work on SNAP assignments at home, the amount of in-class time provided can be reduced if necessary.
             * If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
         * Ensure that students are able to ask questions in class throughout the project
-    
+    * See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
 
 
 ## Accomodation/Differentiation
-* Instead of a nursery rhyme, students can recreate a famous scene from a movie or play, enace lyrics from their favorite song, or develop their own unique animations.  Feel free to modify the specification for whichever version will appeal most to your students.
+* Instead of a nursery rhyme, students can recreate a famous scene from a movie or play, depict lyrics from their favorite song, or develop their own unique animations.  Feel free to modify the specification for whichever version will appeal most to your students.
 * Advanced students can be encouraged to add detail and/or complexity to their project for possible extra credit.
 * For ELL students or students from other cultures, offer the opportunity to choose an animation subject familiar to them rather than requiring a traditional English nursery rhyme.
-    * If necessary, a non-English language can be used for this assignment without affecting the learning objectives.  Discuss this option with th student's ELL specialist to determine if it is appropriate.
+    * If necessary, a non-English language can be used for this assignment without affecting the learning objectives.  Discuss this option with the student's ELL specialist to determine if it is appropriate.

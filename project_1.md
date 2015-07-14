@@ -1,3 +1,4 @@
+<!--- REVISED -->
 # Project 1: Animated Nursery Rhyme
 
 Students will use BYOB basics to implement an animated version of a nursery rhyme.

@@ -59,7 +59,7 @@
    * [Lesson 5.1](lesson_51.md)
    * [Lesson 5.2](lesson_52.md)
    * [Lesson 5.3](lesson_53.md)
-* Lab Day Lesson
+* [Lab Day Lesson](lab_day_lesson.md)
 * [Additional Curriculum Resources](additional_curriculum_resources.md)
 * [Contributing](contributing.md)
 

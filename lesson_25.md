@@ -24,23 +24,26 @@ Students will be able to...
 
 ## Instructor's Notes
 
-* Review and lecture
-  * Review loops and conditionals
+1. Review and lecture
+  1. Review loops and conditionals
     * Ask students what loops do, when they are useful, and what loops exist in SNAP
     * Ask students what conditionals are for and when they are useful
     * Encourage discussion about previous activities
     * Fill in understanding gaps when necessary
-  * Demonstrate combining loops and conditionals
-    * Present "repeat until" and placing an "if" inside a "forever"
+  2. Demonstrate combining loops and conditionals
+    * Present ![](repeat until.png) and ![](foreverIf.png)
     * Ask students to suggest when these constructs might be useful
+        * "repeat until" i
     * Point out that the condition in "repeat until" is a termination condition, while in "forever-if" it is a continuation condition
   * Introduce the concept of modeling
+    * _modeling: building a system to simulate the behavior of a real-life phenomenon by simplifying or ignoring certain details_
     * Ask students to suggest systems or concepts that might need to be modeled
     * Discuss important considerations when designing and implementing a model
       * Lead students to realize that most sacrifice some amount of accuracy or realism for simplicity
-* Activity
+2. Activity
   * Students should complete "What Goes Up..." lab individually
     * Mention that the code written in this lab will be helpful for the Platform Game project
+3. Debrief
 
 
 ## Accommodations/Differentiation

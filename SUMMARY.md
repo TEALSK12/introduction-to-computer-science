@@ -32,7 +32,7 @@
    * [Project 2](project_2.md)
 * [Unit 3](unit_3.md)
    * [Lesson 3.0](lesson_30.md)
-   * [Lab 2.4](lab_24.md)
+   * [Lab 3.0](lab_30.md)
    * [Lesson 3.1](lesson_31.md)
    * [Lab 3.1](lab_31.md)
    * [Lesson 3.2](lesson_32.md)

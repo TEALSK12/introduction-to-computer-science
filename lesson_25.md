@@ -1,4 +1,4 @@
-# Lesson 2.6
+# Lesson 2.5  <!-- Formerly 2.6 -->
 
 ## Learning Objectives
 

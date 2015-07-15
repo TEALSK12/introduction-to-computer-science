@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Lab 2.5 handout (Triangles of All Kinds)](lab_25.md)
+* [Lab 2.4 handout (Triangles of All Kinds)](lab_24.md)
 
 
 ## Pacing Guide
@@ -41,7 +41,7 @@ Students will be able to...
     * Discuss situations in which the Boolean operators might be needed
         * The lack of <= and >= operators in SNAP makes for a great example
 3. Activity
-    * Students should complete the "Triangles of All Kinds" activity individually or in pairs
+    * Students should complete the ["Triangles of All Kinds"](lab_24.md) activity individually or in pairs
         * A number of geometric concepts (Triangle Inequality Theorem, Pythagorean Theorem, etc.) are used in this lab, but students need not have a deep understanding of them.  The necessary points are explained in the lab.
         * Encourage students to think about whether an "and" or an "or" is appropriate in each case.  Draw out truth tables if necessary.
 4. Debrief

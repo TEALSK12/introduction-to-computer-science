@@ -1,4 +1,4 @@
-# Lab 2.4: Guessing Game
+# Lab 3.1: Guessing Game
 
 In this lab, you will use conditional statements and variables to build a simple number guessing game.
 

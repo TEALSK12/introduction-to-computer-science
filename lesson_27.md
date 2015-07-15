@@ -21,9 +21,15 @@ Students will be able to...
 
 | Duration | Description |
 | -- | -- |
+|_Day 1_|
 | 5 minutes | Welcome, attendance, bell work, announcements |
-|15 minutes | Review and introduce project |
-|As needed | Lab time for platform game project |
+|30 minutes | Review unit topics |
+|20 minutes | Introduce project|
+|_Days 2-9_|
+| 5 minutes | Welcome, attendance, bell work, announcements |
+|10-15 minutes | Review |
+|30-35 minutes | Lab time |
+|5 minutes | Exit ticket|
 
 
 ## Instructor's Notes

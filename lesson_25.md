@@ -1,4 +1,4 @@
-# Lesson 2.5
+# Lesson 2.4
 
 ## Learning Objectives
 

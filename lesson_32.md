@@ -1,3 +1,4 @@
+<!--- REVISED -->
 # Lesson 3.2
 
 ## Student Objectives

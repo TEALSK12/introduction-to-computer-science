@@ -1,4 +1,5 @@
-# Lesson 2.4
+<!--- REVISED -->
+# Lesson 2.4   <!-- Formerly 2.5 -->
 
 ## Learning Objectives
 

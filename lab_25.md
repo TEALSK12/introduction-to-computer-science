@@ -1,4 +1,4 @@
-# What Goes Up...
+# Lab 2.5 - What Goes Up... <!-- Formerly 2.6 -->
 
 In this lab, you will use everything you've learned about loops and conditionals to construct a simple model for gravity.
 

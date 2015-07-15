@@ -1,4 +1,7 @@
 <!--- REVISED -->
+
+<!-- This lesson may be a bit long, but I don't think it splits nicely.  Covering just ask & wait doesn't feel like a full day, but I also don't want to split up conditionals.  I think we just leave this as is, but add a note (see below) that this one might spill over. -->
+
 # Lesson 2.3
 ## Student Objectives
 Students will be able to...
@@ -12,9 +15,10 @@ Students will be able to...
 | Duration | Description |
 |--|--|
 | 5 minutes | Welcome, attendance, bell work, announcements |
-| 15 minutes | Lecture |
-| 25 minutes | Activity - What Shape is That? |
+| 20 minutes | Lecture |
+| 20 minutes | Activity - What Shape is That? |
 | 10 minutes | Debrief and wrap-up |
+_Note: This lesson may cover too much material for some classes to handle in one day.  Feel free to spill over into a second day, splitting the material however works best for your class._
 
 ##Instructor's Notes
 1. Lecture

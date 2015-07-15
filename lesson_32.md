@@ -64,6 +64,6 @@ Students will be able to...
         * Tease the need for custom blocks (procedures)
 
 ## Accommodation/Differentiation
-*A lasagna is used in this activity because it has many similar, repeated steps with different ingredients (layer of noodles, layer of sauce, layer of cheese, etc.).  If students are not familiar with lasagna, another recipe with similar characteristics can be substituted.
+* A lasagna is used in this activity because it has many similar, repeated steps with different ingredients (layer of noodles, layer of sauce, layer of cheese, etc.).  If students are not familiar with lasagna, another recipe with similar characteristics can be substituted.
     * A club sandwich (or other "multi-decker" sandwich) can work, as can baking recipes (if the various dry ingredients that need to be mixed are treated separately)
 * As in [Lesson 0.2](lesson_02.md), students may go overboard with the decomposition in the second part of the activity.  Encourage these students to think about the balance between brevity and usability, and remind them that the goal is not to write the _shortest_ algorithm possible, but the _clearest_ algorithm they can.

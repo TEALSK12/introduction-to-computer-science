@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 Students will be able to...
-* Use variables to track values througout a program
+* Use variables to track values throughout a program
 
 ## Materials/Preparation
 * Lab 3.1 handout - [Guessing Game](lab_31.md)

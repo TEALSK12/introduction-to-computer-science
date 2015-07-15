@@ -1,6 +1,9 @@
 <!--- REVISED -->
 
-<!-- This lesson may be a bit long, but I don't think it splits nicely.  Covering just ask & wait doesn't feel like a full day, but I also don't want to split up conditionals.  I think we just leave this as is, but add a note (see below) that this one might spill over. -->
+<!-- This lesson may be a bit long, but I don't think it splits nicely.  Covering just ask & wait doesn't feel like a full day, but I also don't want to split up conditionals.  I think we just leave this as is, but add a note (see below) that this one might spill over.
+
+[Ben: makes sense to me. Thanks!]
+-->
 
 # Lesson 2.3
 ## Student Objectives

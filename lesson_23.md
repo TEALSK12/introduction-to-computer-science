@@ -1,3 +1,4 @@
+<!--- REVISED -->
 # Lesson 2.3
 ## Student Objectives
 Students will be able to...
@@ -20,6 +21,9 @@ Students will be able to...
     1. Point out that, so far, our programs have had minimal interactivity
         * There was _some_ user interaction in the shape drawing labs, but no back and forth-- just pushing a key to trigger an action
         * This is not normally how computer programs work
+        * Ask students for examples of interactive computer programs
+        * Ask students for suggestions for making previous labs or activities more interactive
+            * There are no right or wrong answers here-- you're just trying to get students thinking about interactivity
     2. Introduce the ![](ask.png) block
         * Demonstrate that it functions similar to the ![](say.png) block but waits for a response from the user
         * The response is stored in the ![](answer.png) block and can be referenced later

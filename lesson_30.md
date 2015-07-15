@@ -19,12 +19,12 @@ Students will be able to...
 | 5 minutes | Welcome, attendance, bell work, announcements |
 |15 minutes | Lecture and introduce activity |
 |25 minutes | Guessing Game activity |
-|10 minutes | Review and wrap-up |
+|10 minutes | Debrief and wrap-up |
 
 
 ## Instructor's Notes
 
-* Lecture
+1. Lecture
   * Review user input, specifically the "answer" block
     * Ask students to speculate about how the "answer" block works
     * Ask students whether that type of functionality could be useful in other cases
@@ -37,10 +37,10 @@ Students will be able to...
   * Discuss the three different types of variables (global, sprite, and script)
     * Ask students to suggest when each might be useful
     * Ask students and/or provide examples of when using the wrong type of variable might be dangerous or suboptimal
-* Activity
+2. Activity
   * Students should complete the Guessing Game activity individually or in pairs
     * Encourage students to think about which type of variable is most appropriate each time a variable is needed.
-* Review
+3. Debrief
   * Discuss and demonstrate one or more students' submissions.
   * Encourage discussion about choices for variable names and types.
 

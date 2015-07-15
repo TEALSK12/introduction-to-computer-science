@@ -31,15 +31,22 @@ Students will be able to...
         * Blocks are "pointy" and all  are "yes/no" or "true/false" questions
 2. Lecture
     * Introduce and define "Boolean expressions" as expressions that evaluate to true or false
+        * If desired, explain that the term "Boolean" is derived from [George Boole](https://en.wikipedia.org/wiki/George_Boole)
         * In SNAP, all Boolean expressions are pointy six-sided blocks
     * Present the three Boolean operators: and, or and not
         * Define the operators and describe when each will return true
         * Show the truth tables for each operator and explain how to read them
+            * Describe that truth tables are read much like multiplication tables: find the two operands on the two edges, then find where the row and column meet to see the result
+            * Truth tables are simply one way of expressing how the Boolean operators work; if students are struggling, other depictions (such as an exhaustive list of all possible results) can be substituted
         * Emphasize that since Boolean operators are themselves Boolean expressions, they can be nested
         * Practice evaluating Boolean expressions, starting simple and moving to more complex nested operations
+            * Start with simple expressions: e.g. `5 < 7 AND 4 > 2`
+            * Introduce variables: e.g. `x = 7; x < 5 OR x > 10`
+            * Nest operations: e.g. `(x = 4; y = -3; x == y OR (x > 0 AND y < 0))`
         * Discuss short-circuiting in evaluation of Boolean expressions
     * Discuss situations in which the Boolean operators might be needed
         * The lack of <= and >= operators in SNAP makes for a great example
+        * 
 3. Activity
     * Students should complete the ["Triangles of All Kinds"](lab_24.md) activity individually or in pairs
         * A number of geometric concepts (Triangle Inequality Theorem, Pythagorean Theorem, etc.) are used in this lab, but students need not have a deep understanding of them.  The necessary points are explained in the lab.

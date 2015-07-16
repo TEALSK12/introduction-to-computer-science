@@ -1,4 +1,5 @@
-# Guess Who
+<!--- REVISED -->
+# Lab 4.3 - Guess Who
 
 In this lab, you will create a list of names and then look through the list pulling out different subsets of the names.  (Adapted from Jeff Tyson: http://tealsclass.com/mod/assign/view.php?id=13490 and http://tealsclass.com/mod/assign/view.php?id=13489) 
 

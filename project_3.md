@@ -1,3 +1,4 @@
+<!--- REVISED -->
 # Project 3: Pong	
 
 Students will use custom blocks to implement a well-written and engineered version of the classic arcade game Pong.

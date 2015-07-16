@@ -8,7 +8,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* Lab 3.4 handout (Let Me Check My Calendar)
+* [Lab 3.3 handout](lab_33.md) (Let Me Check My Calendar)
 
 ## Pacing Guide
 
@@ -37,7 +37,7 @@ Students will be able to...
             * Ask students to describe why restricting types is important
         * [Custom block example](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%203.3) in pen category
 2. Activity
-  * Students should complete the "Let Me Check My Calendar" activity individually or in pairs
+  * Students should complete the ["Let Me Check My Calendar"](lab_33.md) activity individually or in pairs
     * This lab consists of a series of independent custom blocks.  The blocks need not necessarily be completed in the order given, but are roughly in order of difficulty.
     * The bonus (part 2.4) requires implementing a fairly complex formula.
 3. Debrief

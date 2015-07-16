@@ -40,12 +40,12 @@ Students will be able to...
   * Remind students that their solutions to previous assignments are an excellent resource when trying to accomplish similar tasks.
 2. Introduce project
   * Walk students through the project specification, pointing out important details, potential pitfalls, and requirements.
-    * If students are unfamiliar with the concept of a platform game, spend a couple minutes demonstrating one for the class.  If you have a SNAP or Scratch version, that works best, but an online game (such as [Super Mario Flash](http://www.pouetpu-games.com/index.php?section=2&game_id=1&w=640&h=480)) will work as well.
+    * If students are unfamiliar with the concept of a platform game, spend a couple minutes demonstrating one for the class.  If you have a SNAP or Scratch version, that works best, but an online game (such as http://www.ponggame.org/) will work as well.
     * Discourage students from simply recreating a game they are already familiar with (and using copyrighted assets) and encourage them to be creative and design their own characters and world instead.
     * Static screens are somewhat easier to implement than smooth scrolling, but scrolling is doable with some scaffolding.
 3. Project
     * This project is a summative assessment for the unit.  Students should be demonstrating mastery of all the skills covered.
-    * Most students will require roughly 4-8 hours of total work time to complete the project
+    * Most students will require roughly 6-10 hours of total work time to complete the project
         * Assess the progress of your students regularly using such techniques as asking them to demonstate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
         * Adjust the amount of time allowed for the project to fit the needs of your students
             * It is vital that nearly all students complete the project before moving on

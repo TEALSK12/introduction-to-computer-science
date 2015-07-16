@@ -15,8 +15,8 @@ Students will be able to...
 | Duration | Description |
 | -- | -- |
 | 5 minutes | Welcome, attendance, bell work, announcements |
-| 10 minutes | Lecture and introduce activity |
-| 25 minutes | Custom block argument activity |
+| 15 minutes | Lecture and introduce activity |
+| 20 minutes | Custom block argument activity |
 | 15 minutes | Debrief and wrap-up |
 
 ## Instructor's Notes
@@ -35,7 +35,11 @@ Students will be able to...
             * Only discuss text, numbers, and Booleans
                 * Other types can be mentioned, but won't be used in the course
             * Ask students to describe why restricting types is important
-        * [Custom block example](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%203.3) in pen category
+        * Point out that arguments are passed by value
+            * Specifically, changing the value of an argument inside a custom block will typically NOT change the value at the call site
+        * [Arguments example](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%203.3)
+            * Basic argument in pen category
+            * Pass by value example in "other" category
 2. Activity
   * Students should complete the ["Let Me Check My Calendar"](lab_33.md) activity individually or in pairs
     * This lab consists of a series of independent custom blocks.  The blocks need not necessarily be completed in the order given, but are roughly in order of difficulty.
@@ -45,6 +49,7 @@ Students will be able to...
   * If time allows, discuss multiple solutions to each part.
     * Emphasize differences and encourage discussion about advantages and disadvantages.
     * Point out corner cases and cases where typed arguments are particularly helpful.
+        * For example, avoiding try to find out whether "bubblegum" is a leap year
 
 ## Accommodations/Differentiation
 * Part 2.4 is a fairly complex formula and should be a challenge for advanced students.

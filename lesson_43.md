@@ -27,17 +27,18 @@ Students will be able to...
 ## Instructor's Notes
 
 * Lecture
-  * Ask students to consider how to count the number of female students in the room
-    * As a group, work through an algorithm with the students, hopefully settling on asking each student if s/he is female and counting the number of yeses (or something similar).
-  * Define "traversal" as the process of accessing each element of a list in order and performing some operation
+  * In small groups, ask students to consider how to count the number of students with July birthdays in the room
+    * Provide only a few minutes to work through this-- students need not write full, formal algorithms, but simply desribe an approach
+    * Have groups share with each other and work together to come up with a single approach, hopefully settling on asking each student if s/he has a July birthday and counting the number of yeses (or something similar).
+  * Define "traversal" as _the process of accessing each element of a list in order and performing some operation_
     * Call out that the operation can be anything, and may not actually be performed on every element
     * Provide a few examples of possible operations (say each person's name, count the number of females, add up the total number of siblings, find the average GPA, etc.)
     * Explain that traversing is how many problems involving lists are solved.
   * Present sample code for a simple list traversal, such as the following: <br/>
-  ![simple list traversal](simpleListTraversal.png)
+  ![](simpleListTraversal.png)
     * Point out that the "say" block can be replaced by any code (including larger blocks of code for more complex operations), but that the rest of the script will typically be the same
     * Emphasize that the "index" variable is keeping track of where we currently are in the list, and can be used in the traversal operation if wanted, as in: <br/>
-    ![using index in the loop](useIndexInLoop.png)	
+    ![](useIndexInLoop.png)
 
 * Activity
   * Students should complete the "Guess Who" activity individually or in pairs

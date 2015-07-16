@@ -30,17 +30,30 @@ Students will be able to...
 ## Instructor's Notes
 
 1. Review/Introduction
-  * Review the various skills and concepts have been learned so far in the unit.
+  * Play a review game (such as [GrudgeBall](http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html)) to remind students of the skills and concepts have been learned in this unit.
+    * Variables
+    * Operators
+    * Procedural decomposition/abstraction
+    * Custom command blocks
+    * Custom reporter/predicate blocks
+    * Custom blocks with arguments
   * Remind students that their solutions to previous assignments are an excellent resource when trying to accomplish similar tasks.
+2. Introduce project
   * Walk students through the project specification, pointing out important details, potential pitfalls, and requirements.
-    * Remind students that their version of Pong will have some differences from others they may have played, and that they should follow the spec carefully.
-    * Focus students’ attention on the checkpoints to help them avoid becoming overwhelmed.
-    * Point out that the behavior when the ball touches the left and right edge is different than when it touches the top and bottom edge—they will need a way to detect this.
-    * Emphasize the small random variation in direction (±15° works well) on paddle bounces, and note that the ball may need to be moved away from the paddle before it resumes its motion
-* Project
-  * This is a summative assessment project.  Students should be given at least a few days in class to work on the project.  The exact schedule should be determined by your teaching team based on overall class capability and other factors.
-    * If most students have the ability to work at home, you can consider reducing the amount of in-class time provided and requiring students to spend time working at home.
-  * Provide a means for students to ask questions throughout the project and provide assistance as needed.
+    * If students are unfamiliar with the concept of a platform game, spend a couple minutes demonstrating one for the class.  If you have a SNAP or Scratch version, that works best, but an online game (such as [Super Mario Flash](http://www.pouetpu-games.com/index.php?section=2&game_id=1&w=640&h=480)) will work as well.
+    * Discourage students from simply recreating a game they are already familiar with (and using copyrighted assets) and encourage them to be creative and design their own characters and world instead.
+    * Static screens are somewhat easier to implement than smooth scrolling, but scrolling is doable with some scaffolding.
+3. Project
+    * This project is a summative assessment for the unit.  Students should be demonstrating mastery of all the skills covered.
+    * Most students will require roughly 4-8 hours of total work time to complete the project
+        * Assess the progress of your students regularly using such techniques as asking them to demonstate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
+        * Adjust the amount of time allowed for the project to fit the needs of your students
+            * It is vital that nearly all students complete the project before moving on
+        * If most students have the ability to work on SNAP assignments at home, the amount of in-class time provided can be reduced if necessary.
+            * If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
+        * Ensure that students are able to ask questions in class throughout the project
+    * See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
+
   * [Sample project solution](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Pong)
 
 

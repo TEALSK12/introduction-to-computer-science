@@ -14,17 +14,17 @@ In this lab, you will create a list of names and then look through the list pull
 
 ## I'm Looking For...
 
-1. Write a script that says every other name in a list one at a time when the space bar is pressed.  Use the same list of names from above.
+1. Write a script that says every other name in a list one at a time when the space bar is pressed.  Use the same list of names from above.  For example, if the list is [Eric, Sally, Michelle, John, Sam, Caleb], the names Eric, Michelle, and Sam would be said.
 
-1. Write a script that says the names in the list one at a time in reverse order when the '0' key is pressed.  
+1. Write a script that says the names in the list one at a time in reverse order when the '0' key is pressed.  For example, if the list is [Eric, Sally, Michelle, John, Sam, Caleb], the names Caleb, Sam, John, Michelle, Sally, and Eric would be said.
 
 1. Write scripts so that when each of the following keys is pressed, the corresponding subset of names from the list is said one at a time.
 
-|When this key is pressed... | Say the names in the list that... |
+|When this key is pressed... | Say the names in the list that... | For example...|
 | -- | -- |
-|1 | Have more than four letters|
-|2 | Start with the letter 'c'|
-|3 | End with the letter 'y'|
-|4 | Are not the first two or last two names in the list|
-|5 (optional) | Contain the letter 'e'|
+|1 | Have more than four letters|Sally, Michelle|
+|2 | Start with the letter 'c'|Caleb|
+|3 | End with the letter 'y'|Sally|
+|4 | Are not the first two or last two names in the list|Michelle, John|
+|5 (optional) | Contain the letter 'e'|Eric, Michelle, Caleb|
 

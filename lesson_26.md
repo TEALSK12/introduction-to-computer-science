@@ -51,7 +51,7 @@ Students will be able to...
     * Static screens are somewhat easier to implement than smooth scrolling, but scrolling is doable with some scaffolding.
 3. Project
     * This project is a summative assessment for the unit.  Students should be demonstrating mastery of all the skills covered.
-    * Most students will require roughly 4-8 hours of total work time to complete the project
+    * Most students will require roughly 6-10 hours of total work time to complete the project
         * Assess the progress of your students regularly using such techniques as asking them to demonstate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
         * Adjust the amount of time allowed for the project to fit the needs of your students
             * It is vital that nearly all students complete the project before moving on

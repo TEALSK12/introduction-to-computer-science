@@ -12,6 +12,7 @@ In this lab, you will write some custom blocks that take arguments and are usefu
 
 ## Going Farther
 1. Write a custom SNAP block called "is a leap year" that takes a year number as an argument and says whether or not that year is a leap year.
+    * A year is a leap year if the year is a multiple of 4 that is not a multiple of 100 (e.g. 1984), or if it is a multiple of 400 (e.g. 2000). Years that are mutiples of 100 but not mutiples of 400 are NOT leap years (e.g. 1800).  See [Wikipedia](https://en.wikipedia.org/wiki/Leap_year#Algorithm) for more detail.
 
 1. Write a custom SNAP block called "is a valid date" that takes a month name and a date as arguments and says whether or not that date exists in that month.  For example, the 31st is a valid date in January, but not in June.  The 5th is a valid date in every month, and the 40th is not a valid date in any month.
 

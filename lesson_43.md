@@ -34,8 +34,9 @@ Students will be able to...
     * Call out that the operation can be anything, and may not actually be performed on every element
     * Provide a few examples of possible operations (say each person's name, count the number of females, add up the total number of siblings, find the average GPA, etc.)
     * Explain that traversing is how many problems involving lists are solved.
-  * Present sample code for a simple list traversal, such as the following: <br/>
+  * As a group, develop sample code for a simple list traversal, such as the following: <br/>
   ![](simpleListTraversal.png)
+    * Ask leading questions to help students write each line of code, one a time, then gradually put the pieces together ("build up" approach)
     * Point out that the "say" block can be replaced by any code (including larger blocks of code for more complex operations), but that the rest of the script will typically be the same
     * Emphasize that the "index" variable is keeping track of where we currently are in the list, and can be used in the traversal operation if wanted, as in: <br/>
     ![](useIndexInLoop.png)

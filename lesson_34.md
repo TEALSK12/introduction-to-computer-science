@@ -8,7 +8,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* Lab 3.3 handout (If My Calculations Are Correct...)
+* [Lab 3.4 handout](lab_34.md) (If My Calculations Are Correct...)
 
 ## Pacing Guide
 
@@ -30,7 +30,7 @@ Students will be able to...
     * Emphasize that predicates must return true or false
     * Ask students why it might be useful to differentiate predicates from other reporters
 * Activity
-  * Students should complete the "If My Calculations Are Correct..." activity individually.
+  * Students should complete the ["If My Calculations Are Correct..."](lab_34.md) activity individually.
     * This lab consists of a series of independent custom blocks.  The blocks need not necessarily be completed in the order given.
     * Work with students to ensure they are testing their blocks properly and reporting correct values.
     * Part 2.2 is challenging and requires traversing a String.

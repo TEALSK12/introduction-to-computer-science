@@ -17,24 +17,30 @@ Students will be able to...
 | 5 minutes | Welcome, attendance, bell work, announcements |
 | 10 minutes | Lecture and introduce activity |
 | 25 minutes | Custom block argument activity |
-| 15 minutes | Review and wrap-up |
+| 15 minutes | Debrief and wrap-up |
 
 ## Instructor's Notes
 
-* Lecture
-  * Introduce block arguments
-    * Ask students to speculate on risks of relying on variables instead of arguments
-    * Emphasize importance of custom blocks being self-contained
-    * Demonstrate declaration and usage of arguments
-      * Point out that arguments are very similar to script variables, except their values come outside the bloc  
-      * Explain argument types
-    * Focus on text, numbers, and possibly Booleans
-    * Ask students to describe why restricting types is important
-*Activity
+1. Lecture
+    1. Introduce block arguments
+        * Ask students to speculate on risks of relying on variables instead of arguments
+            * Variables could be changed by code other than the custom block, variable names could be changed causing errors, etc. 
+        * Emphasize importance of custom blocks being self-contained
+            * Custom blocks should continue to function correctly independent of any other changes in the program
+            * Custom blocks should work correctly anywhere in the program and not require specific setup or cleanup
+        * Point out how frustrating code would be if blocks like ![](move.png) required setting a variable with a specific name to work
+    2. Demonstrate declaration and usage of arguments
+        * Point out that arguments are very similar to script variables, except their values come outside the block 
+        * Explain argument types
+            * Only discuss text, numbers, and Booleans
+                * Other types can be mentioned, but won't be used in the course
+            * Ask students to describe why restricting types is important
+        * [Custom block example](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%203.3) in pen category
+2. Activity
   * Students should complete the "Let Me Check My Calendar" activity individually or in pairs
     * This lab consists of a series of independent custom blocks.  The blocks need not necessarily be completed in the order given, but are roughly in order of difficulty.
     * The bonus (part 2.4) requires implementing a fairly complex formula.
-* Review
+3. Debrief
   * Ask a different student to provide their solution to each part.  
   * If time allows, discuss multiple solutions to each part.
     * Emphasize differences and encourage discussion about advantages and disadvantages.

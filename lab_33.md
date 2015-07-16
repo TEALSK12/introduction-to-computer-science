@@ -1,4 +1,5 @@
-#Let Me Check My Calendar
+<!--- REVISED -->
+# Lab 3.3 - Let Me Check My Calendar
 
 In this lab, you will write some custom blocks that take arguments and are useful for calculations involving dates and calendars.
 

@@ -1,11 +1,12 @@
-# If My Calculations Are Correct...
+<!--- REVISED -->
+# Lab 3.4 - If My Calculations Are Correct...
 
 In this lab, you will write custom reporter blocks to perform a number of useful calculations and computations.
 
 ## Simple Computations
-1. Write a custom SNAP reporter block called "min" that determines which of two numbers is smaller and reports that value.
+1. Write a custom SNAP reporter block called "min" that determines which of two numbers is smaller and reports that value.  If the two numbers are equal, report either one.
 
-1. Write a custom SNAP reporter block called "max" that determines which of two numbers is larger and reports that value.
+1. Write a custom SNAP reporter block called "max" that determines which of two numbers is larger and reports that value.  If the two numbers are equal, report either one.
 
 1. Write a custom SNAP predicate block called "between" that determines if a number is between two other numbers.  If the first number is equal to either of the other two numbers or is between them, the block should report "true".
 

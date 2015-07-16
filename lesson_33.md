@@ -1,3 +1,4 @@
+<!--- REVISED -->
 # Lesson 3.3
 
 ## Learning Objectives

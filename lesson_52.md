@@ -5,12 +5,13 @@
 Students will be able to...
 
 -   Demonstrate the difference between sprite and global variables
--   Understand the problem cloning solves
+-   Explain how cloning and prototyping simplify working with numerous similar sprites in the same program
 -   Create prototype sprites and clones of the prototype sprite
 
 ## Materials/Preparation
 
--   Test this out on student machines before running this lab because cloning in Snap! can bring the web browser to a crawl
+-   [Lab 5.2 handout](lab_52.md) (Lots of Balls)
+    -   Test out the lab on student machines before class--  cloning in SNAP! can bring the web browser to a crawl on some machines
 
 ## Pacing Guide
 
@@ -18,7 +19,8 @@ Students will be able to...
 | ---------- | --------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 15 minutes | Introductory discussion                       |
-| 45 minutes | Basketball lab - Part 1                       |
+| 30 minutes | Lots of Balls lab                       |
+| 15 minutes | Debrief and wrap-up |
 
 ## Instructor's Notes
 

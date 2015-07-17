@@ -17,7 +17,6 @@ In this lab, you will use costumes and movement to create simple SNAP animations
 
 1.4) Add code so that the dog can walk to the right as well.
 
-
 ## 2. Here be Dragons!
 
 2.1) Create a new sprite. Following the same steps as in part 1.1, import the costumes "dragon1-a" and "dragon1-b"
@@ -26,12 +25,12 @@ In this lab, you will use costumes and movement to create simple SNAP animations
 
 2.3) Modify your code so that the dragon "attacks" the mouse pointer when the 'f' key is pressed. When the 'f' key is pressed, the dragon should take the following actions in order:
 
-* Make sure it is in the "normal" costume
-* Point at the mouse pointer
-* Glide to the mouse pointer's position
-* Change to the "fire-breathing" costume
-* Pause to breathe fire
-* Change back to the "normal" costume
+-   Make sure it is in the "normal" costume
+-   Point at the mouse pointer
+-   Glide to the mouse pointer's position
+-   Change to the "fire-breathing" costume
+-   Pause to breathe fire
+-   Change back to the "normal" costume
 
 ## 3. Run Away!
 
@@ -42,4 +41,3 @@ In this lab, you will use costumes and movement to create simple SNAP animations
 3.3) Modify your code so that instead of moving when the 'r' key is pressed, the new sprite moves when the dragon "attacks."  The "fleeing" sprite should move when the dragon starts breathing fire.
 
 3.4) Add a second sprite that runs away from the dragon as well.
-

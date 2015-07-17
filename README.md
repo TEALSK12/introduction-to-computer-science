@@ -1,5 +1,4 @@
-Introduction to Computer Science Principles
-=======
+# Introduction to Computer Science Principles
 
 <!-- TODO: Name of the course: Intro to CSP is good in terms of
 aligning the class with other standards, but we need a more exciting

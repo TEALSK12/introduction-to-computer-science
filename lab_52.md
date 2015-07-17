@@ -9,4 +9,8 @@ In this lab, you will use cloning to create many identical sprites without havin
 3. What would you need to do to add a second bouncing ball (that behaved in the same way) to the program?  What about 10 balls?  100 balls?  What would happen if you wanted to change the maximum speed of all the balls in the program after you had created 100?
 
 ## Part 2 - Clones!
-1. Modify your program so that, instead of a single sprite restarting each time the spacebar is pressed, a new clone of that sprite is created.  You'll want to use the ![](createACloneOf.png) and ![](whenIStartAsAClone.png) blocks in place of  and ![](whenIReceive.png)
+1. Modify your program so that, instead of a single sprite restarting each time the spacebar is pressed, a new clone of that sprite is created.  You'll want to use the ![](createACloneOf.png) and ![](whenIStartAsAClone.png) blocks in place of ![](broadcast.png) and ![](whenIReceive.png).
+
+2. What happens to the original ("master") sprite each time the spacebar is pressed?  Does that seem useful?  What role should the original sprite play now that we're cloning?
+
+3. Modify the program so that the original ("master") sprite hides at the beginning of the program and each new sprite appears when it is created.

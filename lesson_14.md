@@ -27,7 +27,7 @@ Students will be able to...
     -   _Note: The [Lesson 1.4](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%201.4) project has examples of all the concepts covered in this lesson._
     1.  Introduce students to the "Costumes" tab and show them how to import costumes to a sprite.
             * Point out that, while a sprite's costumes can be anything, most often the different costumes of a single sprite will be somehow related.
-        2/ Demonstrate how to use the "next costume" and "switch to costume" blocks to change the appearance of a sprite.
+    2. Demonstrate how to use the "next costume" and "switch to costume" blocks to change the appearance of a sprite.
             * Emphasize that costumes will cycle and that switching to the costume a sprite is already "wearing" is OK.
             * Combine costume switching with movement and other actions to show that blocks of different categories can be combined in the same script.
     2.  Introduce the "broadcast" and "when I receive" blocks and show how they can be used to coordinate action between sprites

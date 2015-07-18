@@ -7,6 +7,7 @@ Students will be able to...
 -   Demonstrate the difference between sprite and global variables
 -   Explain how cloning and prototyping simplify working with numerous similar sprites in the same program
 -   Create prototype sprites and clones of the prototype sprite
+-   Explain the difference between a "master" sprite and a "clone" sprite
 
 ## Materials/Preparation
 
@@ -24,16 +25,22 @@ Students will be able to...
 
 ## Instructor's Notes
 
--   Introductory discussion
-    -   Quick introduction the space invaders (<https://youtu.be/437Ld_rKM2s?t=15>)
-    -   Thought experiment with the students: How do we create all the “invaders”?
-        -   Answer with current knowledge: make one invader sprite, and copy it many times while adjusting the copies as necessary
+1.   Introductory discussion
+    -   Show students a brief video demonstrating space invaders (<https://youtu.be/437Ld_rKM2s?t=15>)
+        -   Ask students to think about how we create all the “invaders”?
+            -   Answer with current knowledge: make one invader sprite, and copy it many times while adjusting the copies as necessary
+        -   Ask what might go wrong or be bad about this approach
+            -   If anything in an invader changes, it will need to be changed many times
+            -   Lots of sprites clogging up the program that are all basically doing the same thing
     -   Introduce cloning as the automated way of doing the manual copying
-    -   Demo and explain at a high level scripts the complete basketball lab
-        -   Emphasize to the students that they will be doing this shortly and should focus on the concepts rather than implementation
--   Basketball lab part 1 has three pieces: 
-    -   Starting with the basics <!-- http://tealsclass.com/mod/page/view.php?id=14791 -->
-    -   Changing the control structure <!-- http://tealsclass.com/mod/page/view.php?id=14792 -->
-    -   Lots of balls <!-- http://tealsclass.com/mod/page/view.php?id=14793 -->
+        -   Demonstrate how to create a clone using ![](createACloneOf.png)
+        -   Point out that clones inherit all aspects of the "master" or "prototype" sprite, including scripts
+        -   Emphasize the importance of using ![](whenIStartAsAClone.png) to ensure clones don't duplicate out of control
+2.   Activity
+    * Students should complete the ["Lots of Balls"](lab_52.md) lab
+        * This lab will largely duplicate the code shown in the lecture part of the lesson-- that's OK
+        * Students should focus on ensuring they are differentiating between "master" sprites and "clone" sprites, and that the stage is serving as the main "driver" for the program
 
 ## Accommodations/Differentiation
+* Advanced students can attempt to assign properties to clones (color, size, etc.) so that not all clones look alike.  To do this, they will need to use a global variable to temporary hold the value that can be "claimed" by the clone.
+* Struggling students should focus on just creating a single clone from the prototype and not worry about creating multiple clones.

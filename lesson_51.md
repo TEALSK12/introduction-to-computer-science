@@ -4,7 +4,7 @@
 
 Students will be able to...
 
--   Understand the motivating reasons to use prototypes and clones
+-   Explain the motivating reasons to use prototypes and clones
 
 ## Materials/Preparation
 

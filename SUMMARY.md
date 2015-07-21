@@ -55,7 +55,7 @@
    * [Project 4](project_4.md)
 * [Unit 5](unit_5.md)
    * [Lesson 5.1](lesson_51.md)
-   * Lab 5.1
+   * [Lab 5.1](lab_51.md)
    * [Lesson 5.2](lesson_52.md)
    * [Lab 5.2](lab_52.md)
    * [Lesson 5.3](lesson_53.md)

@@ -7,7 +7,7 @@
    * [Lesson 0.3: Programming Languages](lesson_03.md)
    * [Lesson 0.4](lesson_04.md)
 * [Unit 1: SNAP Basics](unit_1.md)
-   * [Lesson 1.1](lesson_11.md)
+   * [Lesson 1.1: Welcome to SNAP](lesson_11.md)
    * [Lab 1.1](lab_11.md)
    * [Lesson 1.2](lesson_12.md)
    * [Lab 1.2](lab_12.md)

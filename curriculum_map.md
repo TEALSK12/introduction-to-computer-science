@@ -3,7 +3,10 @@
 ## Unit 0
 | Lesson | Objectives |
 | ------ | ---------- |
-| 0.1: The First Day | Identify the class they are taking. List the high-level goals of the course. Describe classroom procedures, rules, and norms |
+| 0.1: The First Day | Identify the class they are taking. List the high-level goals of the course. Describe classroom procedures, rules, and norms. |
+| 0.2: Algorithms | Define "algorithm." Construct algorithms for performing simple tasks. |
+| 0.3: Programming Languages | Complete levels in the game LightBot 2.0. Complete small programs in SNAP with guidance. Explain why computer programs are written in specialized languages. |
+
 
 
 ## Unit 1: SNAP Basics

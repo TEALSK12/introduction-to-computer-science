@@ -1,4 +1,4 @@
-# Lesson 4.5
+# Lesson 4.5: Sequential Search
 
 ## Learning Objectives
 

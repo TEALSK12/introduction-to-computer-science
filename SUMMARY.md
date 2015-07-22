@@ -56,7 +56,7 @@
 * [Unit 5: Cloning](unit_5.md)
    * [Lesson 5.1: Intro to Cloning](lesson_51.md)
    * [Lab 5.1](lab_51.md)
-   * [Lesson 5.2](lesson_52.md)
+   * [Lesson 5.2: Cloning Sprites](lesson_52.md)
    * [Lab 5.2](lab_52.md)
    * [Lesson 5.3](lesson_53.md)
 * [Lab Day Lesson](lab_day_lesson.md)

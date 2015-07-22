@@ -14,7 +14,7 @@
    * [Lesson 1.3: Drawing Shapes](lesson_13.md)
    * [Lab 1.3: Squares, Triangles, and Stars, Oh My!](lab_13.md)
    * [Lesson 1.4: Animation](lesson_14.md)
-   * [Lab 1.4](lab_14.md)
+   * [Lab 1.4: Sprites in Action](lab_14.md)
    * [Lesson 1.5: Nursery Rhyme Project](lesson_15.md)
    * [Project 1](project_1.md)
 * [Unit 2: Loops](unit_2.md)

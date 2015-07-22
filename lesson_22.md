@@ -1,4 +1,4 @@
-# Lesson 2.2
+# Lesson 2.2: Nested Loops
 
 ## Learning Objectives
 

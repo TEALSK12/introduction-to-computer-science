@@ -21,7 +21,7 @@
    * [Lesson 2.1: Loops](lesson_21.md)
    * [Lab 2.1: Squares and Triangles Redux](lab_21.md)
    * [Lesson 2.2: Nested Loops](lesson_22.md)
-   * [Lab 2.2](lab_22.md)
+   * [Lab 2.2: Another Brick in the Wall](lab_22.md)
    * [Lesson 2.3: Inputs and Conditionals](lesson_23.md)
    * [Lab 2.3](lab_23.md)
    * [Lesson 2.4: Boole in the House](lesson_24.md)

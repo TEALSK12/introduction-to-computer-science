@@ -31,7 +31,7 @@
    * [Lesson 2.6: Platform Game Project](lesson_26.md)
    * [Project 2](project_2.md)
 * [Unit 3: Variables and Customization](unit_3.md)
-   * [Lesson 3.1](lesson_31.md)
+   * [Lesson 3.1: Variables](lesson_31.md)
    * [Lab 3.1](lab_31.md)
    * [Lesson 3.2](lesson_32.md)
    * [Lab 3.2](lab_32.md)

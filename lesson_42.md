@@ -1,4 +1,4 @@
-# Lesson 4.2
+# Lesson 4.2: Static Lists
 
 ## Learning Objectives
 

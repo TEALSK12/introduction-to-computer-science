@@ -5,7 +5,7 @@
 [Ben: makes sense to me. Thanks!]
 -->
 
-# Lesson 2.3
+# Lesson 2.3: Inputs and Conditionals
 
 ## Student Objectives
 

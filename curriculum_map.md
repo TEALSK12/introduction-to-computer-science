@@ -1,13 +1,13 @@
 # Intro CS Curriculum Map
 
 ## Unit 1
-| Lesson | Objectives |
-| ------ | ---------- |
-| 1.1: Welcome to SNAP    | Define and identify "blocks," "scripts," "sprites," and "the stage" in SNAP. Write simple SNAP programs. Describe what simple SNAP programs do without executing the code.  |
-| 1.2: Building Blocks    |  Name the categories of blocks in SNAP and describe what the blocks in each category do. Describe the function of several common SNAP blocks. Be able to use common blocks to build simple SNAP programs. |
-| 1.3: Drawing Shapes    | Construct simple algorithms to draw shapes. Convert algorithms into SNAP programs. |
-| 1.4: Animation    | Animate SNAP sprites using costume changes and movement. Trigger action in other sprites using broadcasts.  |
-| 1.5: Nursery Rhyme Project    | Apply basic programming and SNAP skills to create an animated movie, play, nursery rhyme, or other scene. Practice good debugging skills to correct issues as they arise while programming  |
+| Lesson | Objectives | Lab |
+| ------ | ---------- | --- |
+| 1.1: Welcome to SNAP    | Define and identify "blocks," "scripts," "sprites," and "the stage" in SNAP. Write simple SNAP programs. Describe what simple SNAP programs do without executing the code.  | Welcome to SNAP! |
+| 1.2: Building Blocks    |  Name the categories of blocks in SNAP and describe what the blocks in each category do. Describe the function of several common SNAP blocks. Be able to use common blocks to build simple SNAP programs. | SNAP Scavenger Hunt |
+| 1.3: Drawing Shapes    | Construct simple algorithms to draw shapes. Convert algorithms into SNAP programs. | Squares and Triangles and Stars, Oh My! |
+| 1.4: Animation    | Animate SNAP sprites using costume changes and movement. Trigger action in other sprites using broadcasts.  | Sprites in Action |
+| 1.5: Nursery Rhyme Project    | Apply basic programming and SNAP skills to create an animated movie, play, nursery rhyme, or other scene. Practice good debugging skills to correct issues as they arise while programming  | Project 1: Animated Nursery Rhyme |
 
 
 

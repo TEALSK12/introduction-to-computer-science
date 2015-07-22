@@ -23,7 +23,7 @@
    * [Lesson 2.2: Nested Loops](lesson_22.md)
    * [Lab 2.2: Another Brick in the Wall](lab_22.md)
    * [Lesson 2.3: Inputs and Conditionals](lesson_23.md)
-   * [Lab 2.3](lab_23.md)
+   * [Lab 2.3: What Shape is That?](lab_23.md)
    * [Lesson 2.4: Boole in the House](lesson_24.md)
    * [Lab 2.4](lab_24.md)
    * [Lesson 2.5: Combining Loops and Conditionals](lesson_25.md)

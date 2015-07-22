@@ -24,7 +24,7 @@
    * [Lab 2.2](lab_22.md)
    * [Lesson 2.3: Inputs and Conditionals](lesson_23.md)
    * [Lab 2.3](lab_23.md)
-   * [Lesson 2.4](lesson_24.md)
+   * [Lesson 2.4: Boole in the House](lesson_24.md)
    * [Lab 2.4](lab_24.md)
    * [Lesson 2.5](lesson_25.md)
    * [Lab 2.5](lab_25.md)

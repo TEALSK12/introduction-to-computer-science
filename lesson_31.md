@@ -1,4 +1,4 @@
-# Lesson 3.1
+# Lesson 3.1: Variables
 
 ## Learning Objectives
 

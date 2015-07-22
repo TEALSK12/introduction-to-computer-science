@@ -43,7 +43,7 @@
    * [Project 3](project_3.md)
 * [Unit 4: Lists](unit_4.md)
    * [Lesson 4.1: Intro to Lists](lesson_41.md)
-   * [Lesson 4.2](lesson_42.md)
+   * [Lesson 4.2: Static Lists](lesson_42.md)
    * [Lab 4.2](lab_42.md)
    * [Lesson 4.3](lesson_43.md)
    * [Lab 4.3](lab_43.md)

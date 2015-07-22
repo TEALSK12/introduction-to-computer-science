@@ -10,7 +10,7 @@
    * [Lesson 1.1: Welcome to SNAP](lesson_11.md)
    * [Lab 1.1: Welcome to SNAP!](lab_11.md)
    * [Lesson 1.2: Building Blocks](lesson_12.md)
-   * [Lab 1.2](lab_12.md)
+   * [Lab 1.2: SNAP Scavenger Hunt](lab_12.md)
    * [Lesson 1.3: Drawing Shapes](lesson_13.md)
    * [Lab 1.3](lab_13.md)
    * [Lesson 1.4: Animation](lesson_14.md)

@@ -1,5 +1,5 @@
 <!--- REVISED -->
-# Lesson 1.5
+# Lesson 1.5: Nursery Rhyme Project
 
 ## Learning Objectives
 

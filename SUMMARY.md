@@ -8,7 +8,7 @@
    * [Lesson 0.4](lesson_04.md)
 * [Unit 1: SNAP Basics](unit_1.md)
    * [Lesson 1.1: Welcome to SNAP](lesson_11.md)
-   * [Lab 1.1](lab_11.md)
+   * [Lab 1.1: Welcome to SNAP!](lab_11.md)
    * [Lesson 1.2: Building Blocks](lesson_12.md)
    * [Lab 1.2](lab_12.md)
    * [Lesson 1.3: Drawing Shapes](lesson_13.md)

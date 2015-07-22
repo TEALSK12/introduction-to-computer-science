@@ -62,4 +62,5 @@
 * [Lab Day Lesson](lab_day_lesson.md)
 * [Additional Curriculum Resources](additional_curriculum_resources.md)
 * [Contributing](contributing.md)
+* Curriculum Map
 

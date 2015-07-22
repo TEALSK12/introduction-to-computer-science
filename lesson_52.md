@@ -1,4 +1,4 @@
-# Lesson 5.2
+# Lesson 5.2: Cloning Sprites
 
 ## Learning Objectives
 

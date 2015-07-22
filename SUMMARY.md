@@ -34,7 +34,7 @@
    * [Lesson 3.1: Variables](lesson_31.md)
    * [Lab 3.1: Guessing Game](lab_31.md)
    * [Lesson 3.2: Abstraction and Friends](lesson_32.md)
-   * [Lab 3.2](lab_32.md)
+   * [Lab 3.2: Drawing Shapes (Again)](lab_32.md)
    * [Lesson 3.3: Customization 1](lesson_33.md)
    * [Lab 3.3](lab_33.md)
    * [Lesson 3.4: Customization II](lesson_34.md)

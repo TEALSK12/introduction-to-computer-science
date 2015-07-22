@@ -1,5 +1,5 @@
 <!--- REVISED -->
-# Lesson 0.1
+# Lesson 0.1: The First Day of School
 
 ## Learning Objectives
 

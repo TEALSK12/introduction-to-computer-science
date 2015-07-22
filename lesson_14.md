@@ -1,5 +1,5 @@
 <!--- REVISED -->
-# Lesson 1.4
+# Lesson 1.4: Animation
 
 ## Learning Objectives
 

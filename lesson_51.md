@@ -1,6 +1,6 @@
 <!--- TODO: This is very much a first attempt at this lesson.  Feedback on whether or not this hits the high-level goals is greatly appreciated. -->
 
-# Lesson 5.1
+# Lesson 5.1: Intro to Cloning
 
 ## Learning Objectives
 

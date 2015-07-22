@@ -1,5 +1,5 @@
 <!--- REVISED -->
-# Lesson 4.3
+# Lesson 4.3: List Practice I
 
 ## Learning Objectives
 

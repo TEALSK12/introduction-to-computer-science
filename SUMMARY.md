@@ -32,7 +32,7 @@
    * [Project 2: Platform Game](project_2.md)
 * [Unit 3: Variables and Customization](unit_3.md)
    * [Lesson 3.1: Variables](lesson_31.md)
-   * [Lab 3.1](lab_31.md)
+   * [Lab 3.1: Guessing Game](lab_31.md)
    * [Lesson 3.2: Abstraction and Friends](lesson_32.md)
    * [Lab 3.2](lab_32.md)
    * [Lesson 3.3: Customization 1](lesson_33.md)

@@ -51,7 +51,7 @@
    * [Lab 4.4](lab_44.md)
    * [Lesson 4.5: Sequential Search](lesson_45.md)
    * [Lab 4.5](lab_45.md)
-   * [Lesson 4.6](lesson_46.md)
+   * [Lesson 4.6: Hangman Project](lesson_46.md)
    * [Project 4](project_4.md)
 * [Unit 5](unit_5.md)
    * [Lesson 5.1](lesson_51.md)

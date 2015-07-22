@@ -13,7 +13,7 @@
    * [Lab 1.2](lab_12.md)
    * [Lesson 1.3: Drawing Shapes](lesson_13.md)
    * [Lab 1.3](lab_13.md)
-   * [Lesson 1.4](lesson_14.md)
+   * [Lesson 1.4: Animation](lesson_14.md)
    * [Lab 1.4](lab_14.md)
    * [Lesson 1.5](lesson_15.md)
    * [Project 1](project_1.md)

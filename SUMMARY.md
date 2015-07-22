@@ -47,7 +47,7 @@
    * [Lab 4.2](lab_42.md)
    * [Lesson 4.3: List Practice I](lesson_43.md)
    * [Lab 4.3](lab_43.md)
-   * [Lesson 4.4](lesson_44.md)
+   * [Lesson 4.4: List Practice II](lesson_44.md)
    * [Lab 4.4](lab_44.md)
    * [Lesson 4.5](lesson_45.md)
    * [Lab 4.5](lab_45.md)

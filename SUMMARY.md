@@ -38,7 +38,7 @@
    * [Lesson 3.3: Customization 1](lesson_33.md)
    * [Lab 3.3: Let Me Check My Calendar](lab_33.md)
    * [Lesson 3.4: Customization II](lesson_34.md)
-   * [Lab 3.4](lab_34.md)
+   * [Lab 3.4: If My Calculations Are Correct...](lab_34.md)
    * [Lesson 3.5: Pong Project](lesson_35.md)
    * [Project 3](project_3.md)
 * [Unit 4: Lists](unit_4.md)

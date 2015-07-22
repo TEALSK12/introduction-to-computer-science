@@ -1,5 +1,5 @@
 <!--- REVISED -->
-# Lesson 3.2
+# Lesson 3.2: Abstraction and Friends
 
 ## Student Objectives
 

@@ -1,5 +1,5 @@
 <!--- REVISED -->
-# Lesson 2.1
+# Lesson 2.1: Loops
 
 ## Learning Objectives
 

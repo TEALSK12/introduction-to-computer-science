@@ -1,4 +1,4 @@
-# Lesson 4.1
+# Lesson 4.1: Intro to Lists
 
 ## Learning Objectives
 

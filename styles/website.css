@@ -1,1 +1,4 @@
 /* CSS for website */
+.page-inner{
+    max-width: 1024px;
+}

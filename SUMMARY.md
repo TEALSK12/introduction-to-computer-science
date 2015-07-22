@@ -26,7 +26,7 @@
    * [Lab 2.3](lab_23.md)
    * [Lesson 2.4: Boole in the House](lesson_24.md)
    * [Lab 2.4](lab_24.md)
-   * [Lesson 2.5](lesson_25.md)
+   * [Lesson 2.5: Combining Loops and Conditionals](lesson_25.md)
    * [Lab 2.5](lab_25.md)
    * [Lesson 2.6](lesson_26.md)
    * [Project 2](project_2.md)

@@ -1,4 +1,4 @@
-# Clever Title
+# Number Cruncher
 
 In this lab, you will continue practicing processing lists, this time using lists of numbers instead of words.
 

@@ -1,5 +1,5 @@
 <!--- REVISED -->
-# Lesson 0.3
+# Lesson 0.3: Programming Languages
 
 ## Learning Objectives
 

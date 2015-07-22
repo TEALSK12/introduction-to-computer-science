@@ -20,7 +20,7 @@
 * [Unit 2: Loops](unit_2.md)
    * [Lesson 2.1: Loops](lesson_21.md)
    * [Lab 2.1](lab_21.md)
-   * [Lesson 2.2](lesson_22.md)
+   * [Lesson 2.2: Nested Loops](lesson_22.md)
    * [Lab 2.2](lab_22.md)
    * [Lesson 2.3](lesson_23.md)
    * [Lab 2.3](lab_23.md)

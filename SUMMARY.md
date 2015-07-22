@@ -52,7 +52,7 @@
    * [Lesson 4.5: Sequential Search](lesson_45.md)
    * [Lab 4.5: It's Around Here Somewhere](lab_45.md)
    * [Lesson 4.6: Hangman Project](lesson_46.md)
-   * [Project 4](project_4.md)
+   * [Project 4: Hangman](project_4.md)
 * [Unit 5: Cloning](unit_5.md)
    * [Lesson 5.1: Intro to Cloning](lesson_51.md)
    * [Lab 5.1](lab_51.md)

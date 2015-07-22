@@ -40,7 +40,7 @@
    * [Lesson 3.4: Customization II](lesson_34.md)
    * [Lab 3.4: If My Calculations Are Correct...](lab_34.md)
    * [Lesson 3.5: Pong Project](lesson_35.md)
-   * [Project 3](project_3.md)
+   * [Project 3: Pong](project_3.md)
 * [Unit 4: Lists](unit_4.md)
    * [Lesson 4.1: Intro to Lists](lesson_41.md)
    * [Lesson 4.2: Static Lists](lesson_42.md)

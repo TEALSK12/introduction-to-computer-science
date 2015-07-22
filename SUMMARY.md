@@ -28,7 +28,7 @@
    * [Lab 2.4](lab_24.md)
    * [Lesson 2.5: Combining Loops and Conditionals](lesson_25.md)
    * [Lab 2.5](lab_25.md)
-   * [Lesson 2.6](lesson_26.md)
+   * [Lesson 2.6: Platform Game Project](lesson_26.md)
    * [Project 2](project_2.md)
 * [Unit 3](unit_3.md)
    * [Lesson 3.1](lesson_31.md)

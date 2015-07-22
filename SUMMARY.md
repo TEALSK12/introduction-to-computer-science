@@ -33,7 +33,7 @@
 * [Unit 3: Variables and Customization](unit_3.md)
    * [Lesson 3.1: Variables](lesson_31.md)
    * [Lab 3.1](lab_31.md)
-   * [Lesson 3.2](lesson_32.md)
+   * [Lesson 3.2: Abstraction and Friends](lesson_32.md)
    * [Lab 3.2](lab_32.md)
    * [Lesson 3.3](lesson_33.md)
    * [Lab 3.3](lab_33.md)

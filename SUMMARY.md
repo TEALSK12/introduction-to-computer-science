@@ -55,7 +55,7 @@
    * [Project 4: Hangman](project_4.md)
 * [Unit 5: Cloning](unit_5.md)
    * [Lesson 5.1: Intro to Cloning](lesson_51.md)
-   * [Lab 5.1](lab_51.md)
+   * [Lab 5.1: Connect the Dots](lab_51.md)
    * [Lesson 5.2: Cloning Sprites](lesson_52.md)
    * [Lab 5.2](lab_52.md)
    * [Lesson 5.3: Basketball Lab](lesson_53.md)

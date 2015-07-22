@@ -1,6 +1,6 @@
 # Intro CS Curriculum Map
 
-## Unit 0
+## Unit 0: Beginnings
 | Lesson | Objectives |
 | ------ | ---------- |
 | 0.1: The First Day | Identify the class they are taking. List the high-level goals of the course. Describe classroom procedures, rules, and norms. |

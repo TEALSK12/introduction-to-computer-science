@@ -1,5 +1,11 @@
 # Intro CS Curriculum Map
 
+## Unit 0
+| Lesson | Objectives |
+| ------ | ---------- |
+| 0.1: The First Day | Identify the class they are taking. List the high-level goals of the course. Describe classroom procedures, rules, and norms |
+
+
 ## Unit 1: SNAP Basics
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |

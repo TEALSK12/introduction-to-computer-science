@@ -19,7 +19,7 @@
    * [Project 1: Animated Nursery Rhyme](project_1.md)
 * [Unit 2: Loops](unit_2.md)
    * [Lesson 2.1: Loops](lesson_21.md)
-   * [Lab 2.1](lab_21.md)
+   * [Lab 2.1: Squares and Triangles Redux](lab_21.md)
    * [Lesson 2.2: Nested Loops](lesson_22.md)
    * [Lab 2.2](lab_22.md)
    * [Lesson 2.3: Inputs and Conditionals](lesson_23.md)

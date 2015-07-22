@@ -15,7 +15,7 @@
    * [Lab 1.3](lab_13.md)
    * [Lesson 1.4: Animation](lesson_14.md)
    * [Lab 1.4](lab_14.md)
-   * [Lesson 1.5](lesson_15.md)
+   * [Lesson 1.5: Nursery Rhyme Project](lesson_15.md)
    * [Project 1](project_1.md)
 * [Unit 2](unit_2.md)
    * [Lesson 2.1](lesson_21.md)

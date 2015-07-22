@@ -16,7 +16,7 @@
    * [Lesson 1.4: Animation](lesson_14.md)
    * [Lab 1.4: Sprites in Action](lab_14.md)
    * [Lesson 1.5: Nursery Rhyme Project](lesson_15.md)
-   * [Project 1](project_1.md)
+   * [Project 1: Animated Nursery Rhyme](project_1.md)
 * [Unit 2: Loops](unit_2.md)
    * [Lesson 2.1: Loops](lesson_21.md)
    * [Lab 2.1](lab_21.md)

@@ -1,6 +1,6 @@
 # Intro CS Curriculum Map
 
-## Unit 1
+## Unit 1: SNAP Basics
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 1.1: Welcome to SNAP    | Define and identify "blocks," "scripts," "sprites," and "the stage" in SNAP. Write simple SNAP programs. Describe what simple SNAP programs do without executing the code.  | Welcome to SNAP! |
@@ -11,7 +11,7 @@
 
 
 
-## Unit 2
+## Unit 2: Loop-de-Loop
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 2.1: Loops | Define "loop" in a programming context. Explain why loops are useful. Implement simple repeat and forever loops in SNAP. Utilize loops to reduce redundancy in code. | Squares and Triangles Redux |
@@ -21,7 +21,7 @@
 | 2.5: Combining Loops and Conditionals | Combine loops with conditionals to create models with repeated but conditional behavior. | What Goes Up... |
 | 2.6: Platform Game Project | Use loops, variables, and Boolean expressions to implement a Super Mario Bros. style platform game. Practice good debugging skills to correct issues as they arise while programming. | Project 2: Platform Game |
 
-## Unit 3
+## Unit 3: Variables and Customization
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 3.1: Variables | Use variables to track values throughout a program. | Guessing Game |
@@ -30,21 +30,21 @@
 | 3.4: Customizing II: Reporters and Predicates | Build custom reporter and predicate blocks in SNAP. | If My Calculations Are Correct... |
 | 3.5: Pong Project | Use custom blocks to implement a well-written version of Pong. Practice good style and conventions to create readable and maintainable code. | Project 3: Pong |
 
-## Unit 4
-| Lesson | Objectives |
-| ------ | ---------- |
-| 4.1: Intro to Lists | Explain the concept of a "list" in a programming context. Identify scenarios in which lists are useful |
-| 4.2: Static Lists | Create static lists in SNAP. Access elements of a list. Add and remove elements from a list. |
-| 4.3: List Practice I | Traverse a list, accessing each element one at a time. Perform operations combining all elements in a list. Select defined subsets of elements in a list. |
-| 4.4: List Practice II | Traverse a list, accessing each element one at a time. Perform operations combining all elements in a list. Select defined subsets of elements in a list. |
-| 4.5: Sequential Search | Explain the sequential search algorithm. Implement several variations of sequential search. |
-| 4.6: Hangman Project | Use lists to implement a complete version of "Hangman." Exercise good programming practices to produce code that is not only functional but also elegant and well-written. |
+## Unit 4: Lists
+| Lesson | Objectives | Lab |
+| ------ | ---------- | --- |
+| 4.1: Intro to Lists | Explain the concept of a "list" in a programming context. Identify scenarios in which lists are useful | [none] |
+| 4.2: Static Lists | Create static lists in SNAP. Access elements of a list. Add and remove elements from a list. | You Talkin' to Me? |
+| 4.3: List Practice I | Traverse a list, accessing each element one at a time. Perform operations combining all elements in a list. Select defined subsets of elements in a list. | Guess Who |
+| 4.4: List Practice II | Traverse a list, accessing each element one at a time. Perform operations combining all elements in a list. Select defined subsets of elements in a list. | Number Cruncher |
+| 4.5: Sequential Search | Explain the sequential search algorithm. Implement several variations of sequential search. | It's Around Here Somewhere |
+| 4.6: Hangman Project | Use lists to implement a complete version of "Hangman." Exercise good programming practices to produce code that is not only functional but also elegant and well-written. | Project 4: Hangman |
 
-## Unit 5
-| Lesson | Objectives |
-| ------ | ---------- |
-| 5.1: Intro to Cloning | Explain why prototyping and clones can be useful. Describe how complex goals can be accomplished using cloning. |
-| 5.2: Cloning Sprites | Demonstrate the difference between sprite and global variables. Explain how cloning and prototyping simplify working with numerous similar sprites in the same program. Create prototype sprites and clones of the prototype sprite. Explain the difference between a "master" sprite and a "clone" sprite. |
+## Unit 5: Cloning
+| Lesson | Objectives | Lab |
+| ------ | ---------- | --- |
+| 5.1: Intro to Cloning | Explain why prototyping and clones can be useful. Describe how complex goals can be accomplished using cloning. | Connect the Dots |
+| 5.2: Cloning Sprites | Demonstrate the difference between sprite and global variables. Explain how cloning and prototyping simplify working with numerous similar sprites in the same program. Create prototype sprites and clones of the prototype sprite. Explain the difference between a "master" sprite and a "clone" sprite. | Lots of Balls |
 | 5.3: Basketball Lab | Pass information to individual clones. [Optional] Describe a race condition that might occur due using global variables and clones. |
 
 

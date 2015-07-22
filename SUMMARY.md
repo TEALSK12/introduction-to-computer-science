@@ -48,7 +48,7 @@
    * [Lesson 4.3: List Practice I](lesson_43.md)
    * [Lab 4.3: Guess Who](lab_43.md)
    * [Lesson 4.4: List Practice II](lesson_44.md)
-   * [Lab 4.4](lab_44.md)
+   * [Lab 4.4: Number Cruncher](lab_44.md)
    * [Lesson 4.5: Sequential Search](lesson_45.md)
    * [Lab 4.5](lab_45.md)
    * [Lesson 4.6: Hangman Project](lesson_46.md)

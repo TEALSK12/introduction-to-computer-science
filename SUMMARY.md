@@ -53,7 +53,7 @@
    * [Lab 4.5](lab_45.md)
    * [Lesson 4.6: Hangman Project](lesson_46.md)
    * [Project 4](project_4.md)
-* [Unit 5](unit_5.md)
+* [Unit 5: Cloning](unit_5.md)
    * [Lesson 5.1](lesson_51.md)
    * [Lab 5.1](lab_51.md)
    * [Lesson 5.2](lesson_52.md)

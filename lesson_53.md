@@ -31,7 +31,7 @@ Students will be able to...
     -  Introduce the distinction between "global variables" and "sprite variables"
         -  Global variables ("for all sprites") are visible to and usable by all sprites in the program
         -  Sprite variables ("for this sprite only") are only visible to and usable by a single sprite
-            -  Emphase that, when cloning is used, each clone gets its own copy of any sprite variables inherited from the prototype
+            -  Emphasize that, when cloning is used, each clone gets its own copy of any sprite variables inherited from the prototype
         -  Ask students to brainstorm situations in which each type of variable is appropriate
             -  Global variables are best for application-level data, such as sprite counts, game level number, score, etc.
             -  Sprite variables are best for properties that may be specific to each sprite, such as speed, id #, etc.

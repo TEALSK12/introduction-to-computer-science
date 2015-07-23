@@ -63,7 +63,7 @@
    * [Lesson 5.4: Space Invaders Project](lesson_54.md)
    * [Project 5: Space Invaders](project_5.md)
 * Unit 6: Final Project
-   * [Lesson 6.1](lesson_61.md)
+   * [Lesson 6.1: Design Basics](lesson_61.md)
    * Lesson 6.2
    * Lesson 6.3
    * Lesson 6.4

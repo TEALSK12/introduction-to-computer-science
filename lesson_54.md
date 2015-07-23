@@ -4,7 +4,7 @@
 
 Students will be able to...
 
--   Use cloning to implement a complete version of "Spave Invaders"
+-   Use cloning to implement a complete version of "Space Invaders"
 -   Exercise good programming practices to produce code that is not only functional but also elegant and well-written
 
 ## Materials/Preparation

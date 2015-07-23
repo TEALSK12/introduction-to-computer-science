@@ -54,12 +54,17 @@
 | ------ | ---------- | --- |
 | 5.1: Intro to Cloning | Explain why prototyping and clones can be useful. Describe how complex goals can be accomplished using cloning. | Connect the Dots |
 | 5.2: Cloning Sprites | Demonstrate the difference between sprite and global variables. Explain how cloning and prototyping simplify working with numerous similar sprites in the same program. Create prototype sprites and clones of the prototype sprite. Explain the difference between a "master" sprite and a "clone" sprite. | Lots of Balls |
-| 5.3: Basketball Lab | Pass information to individual clones. [Optional] Describe a race condition that might occur due using global variables and clones. |
+| 5.3: Communicating With Clones | Pass information to individual clones. [Optional] Describe a race condition that might occur due using global variables and clones. Delete clones when they are no longer needed. | Fewer Balls |
 
 
 
-## Unit 6
-
+## Unit 6: Final Project
+| Lesson | Objectives | Lab |
+| ------ | ---------- | --- |
+| 6.1: Design Basics |  Identify the key considerations when designing a piece of software. Describe methods for prioritizing features, use cases, and/or scenarios. Explain why design and planning are necessary steps in the software engineering process | Final Project |
+| 6.2: Brainstorming and Evaluating | Identify factors to use when choosing between project ideas. Rank a group of proposed project ideas using the identified factors | Final Project
+| 6.3: Spec Writing | Identify the main components of a functional project specification and explain the purpose of each section. Develop a project idea into a full, detailed specification | Final Project |
+| 6.4 | Final Project con't | Final Project con't |
 
 
 

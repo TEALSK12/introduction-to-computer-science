@@ -47,9 +47,9 @@ Hangman is a popular word game in which one player (the "chooser") chooses a sec
 
 3.  **Required Checkpoints**
 
-    1.  Be able to select a secret word, keep track of which letters have been guessed, determine if each letter guessed is in the secret word or not, and announce the current status of the word, showing letters that have been guessed and blanks for other letters.
-
-    2.  Be able to play a full game of Hangman, identify correct and incorrect letters, display the hangman figure, and inform the player whether they have won or lost.
+    1.  Be able to select a secret word, keep track of which letters have been guessed, determine if each letter guessed is in the secret word or not
+    2. Be able to  announce the current status of the word, showing letters that have been guessed and blanks for other letters.
+    3.  Be able to play a full game of Hangman, identify correct and incorrect letters, display the hangman figure, and inform the player whether they have won or lost.
 
 ## Grading Scheme/Rubric
 
@@ -59,11 +59,11 @@ Hangman is a popular word game in which one player (the "chooser") chooses a sec
 | Host repeatedly asks for a letter and announces whether that letter is in the secret word                        | 2 points   |
 | Assistant displays the correct secret word status after each guess                                               | 4 points   |
 | Player loses a chance and a piece of the Hangman appears when a guess is incorrect                               | 3 points   |
-| Host informs player when he or she guesses a letter that has already been guessed; player does not lose a chance | 3 points   |
-| Game ends with player victory if the entire secret word is guessed                                               | 3 point    |
-| Game ends with player defeat if the player runs out of chances                                                   | 3 point    |
-| Secret word is revealed when game ends                                                                           | 2 points   |
-| Total                                                                                                            | 21  points |
+| Host informs player when he or she guesses a letter that has already been guessed; player does not lose a chance | 2 points   |
+| Game ends with player victory if the entire secret word is guessed                                               | 2 point    |
+| Game ends with player defeat if the player runs out of chances                                                   | 2 point    |
+| Secret word is revealed when game ends                                                                           | 1 points   |
+| _Total_                                                                                                           | __17  points__ |
 | Technical Correctness (Implementation)                                                                           |            |
 | Program is well-designed visually and has a consistent theme                                                     | 2 point    |
 | Program is well-documented and exhibits good style                                                               | 2 points   |
@@ -73,7 +73,7 @@ Hangman is a popular word game in which one player (the "chooser") chooses a sec
 | Program tracks guessed letters using a list                                                                      | 2 points   |
 | Obtain and respond to playtest feedback from a parent or guardian                                                | 2 points   |
 | Checkpoint 1 (4/30)                                                                                              | 4 points   |
-| Total                                                                                                            | 19 points  |
-| Total                                                                                                            | 40 points  |
+| Checkpoint 2 (4/30)                                                                                              | 4 points   |
+| _Total _                                                                                                           | _19 points_  |
+| _**Total **_                                                                                                           | _**40 points**_  |
 
-s|

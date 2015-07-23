@@ -9,6 +9,8 @@ Students will be able to...
     -   Delete clones when they are no longer needed
 
 ## Materials/Preparation
+    - [Lab 5.3 Handout](lab_53.md) (Fewer Balls)
+        * Test out the lab on student machines before class to ensure the machines can handle the number of clones
 
 ## Pacing Guide
 

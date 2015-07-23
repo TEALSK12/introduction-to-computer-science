@@ -63,6 +63,7 @@
    * [Lesson 5.4: Space Invaders Project](lesson_54.md)
    * [Project 5: Space Invaders](project_5.md)
 * Unit 6: Final Project
+   * Lesson 6.1
 * [Additional Curriculum Resources](additional_curriculum_resources.md)
 * [Contributing](contributing.md)
 * [Lab Day Lesson](lab_day_lesson.md)

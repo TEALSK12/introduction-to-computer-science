@@ -61,6 +61,7 @@
    * [Lesson 5.3: Basketball Lab](lesson_53.md)
    * [Lesson 5.4: Space Invaders Project](lesson_54_space_invaders_project.md)
    * [Project 5: Space Invaders](project_5_space_invaders.md)
+   * Lab 5.3
 * [Additional Curriculum Resources](additional_curriculum_resources.md)
 * [Contributing](contributing.md)
 * [Lab Day Lesson](lab_day_lesson.md)

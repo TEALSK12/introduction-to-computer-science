@@ -62,7 +62,7 @@
    * [Lab 5.3: Fewer Balls](lab_53.md)
    * [Lesson 5.4: Space Invaders Project](lesson_54.md)
    * [Project 5: Space Invaders](project_5.md)
-* Unit 6: Final Project
+* [Unit 6: Final Project](unit_6.md)
    * [Lesson 6.1: Design Basics](lesson_61.md)
    * [Lesson 6.2: Brainstorming and Evaluating](lesson_62.md)
    * [Lesson 6.3: Spec Writing](lesson_63.md)

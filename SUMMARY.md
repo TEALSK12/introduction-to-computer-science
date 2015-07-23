@@ -60,7 +60,7 @@
    * [Lab 5.2: Lots of Balls](lab_52.md)
    * [Lesson 5.3: Communicating with Clones](lesson_53.md)
    * [Lab 5.3: Fewer Balls](lab_53.md)
-   * [Lesson 5.4: Space Invaders Project](lesson_54_space_invaders_project.md)
+   * [Lesson 5.4: Space Invaders Project](lesson_54.md)
    * [Project 5: Space Invaders](project_5_space_invaders.md)
 * Unit 6: Final Project
 * [Additional Curriculum Resources](additional_curriculum_resources.md)

@@ -58,7 +58,7 @@
    * [Lab 5.1: Connect the Dots](lab_51.md)
    * [Lesson 5.2: Cloning Sprites](lesson_52.md)
    * [Lab 5.2: Lots of Balls](lab_52.md)
-   * [Lesson 5.3: Basketball Lab](lesson_53.md)
+   * [Lesson 5.3: Communicating with Clones](lesson_53.md)
    * [Lab 5.3: Fewer Balls](lab_53_fewer_balls.md)
    * [Lesson 5.4: Space Invaders Project](lesson_54_space_invaders_project.md)
    * [Project 5: Space Invaders](project_5_space_invaders.md)

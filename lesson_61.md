@@ -14,7 +14,7 @@ Students will be able to...
 
 
 ## Instructor's Notes
-* [Student's will be led through an exercise to design an existing, popular application, such as Instagram, Twitter, etc.]
+* [Students will be led through an exercise to design an existing, popular application, such as Instagram, Twitter, etc.]
 * [Expand on this...]
 
 ## Accommodation/Differentiation

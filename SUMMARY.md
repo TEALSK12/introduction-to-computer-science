@@ -65,7 +65,7 @@
 * Unit 6: Final Project
    * [Lesson 6.1: Design Basics](lesson_61.md)
    * [Lesson 6.2: Brainstorming and Evaluating](lesson_62.md)
-   * [Lesson 6.3](lesson_63.md)
+   * [Lesson 6.3: Spec Writing](lesson_63.md)
    * Lesson 6.4
    * Lesson 6.5
 * [Additional Curriculum Resources](additional_curriculum_resources.md)

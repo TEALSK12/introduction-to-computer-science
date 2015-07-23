@@ -21,7 +21,21 @@ Originally released in 1978, Space Invaders was one of the modern video games an
     Each time the player destroys an invader, points should be earned.  Scoring should start at 100 points per invader in the first level, and increase by 50 points per invader in each successive level.  So, for example, each invader in level 2 is worth 150 points, each in level 3 is worth 200 points, at so on.  The player’s score should be displayed on the stage throughout the game and be featured on the “Game Over” screen.
 
 2. Implementation Details
-    1. **Cloning** <br />
+    1. **Documentation and Style** <br />
+    As with all previous projects, your program must be well-written, well-documented, and readable.  This includes, but is not limited to:
+        * organizing your scripts so that they can be read and comprehended easily
+        * giving your sprites meaningful names
+        * naming and using your variables, lists, and custom blocks well
+        * including comments to describe the structure of your program and any particularly complex or unintuitive pieces of code
+        * separating master sprites from clones, and cleaning up clones that are finished (see below)
+    2. **Cloning** <br />
     The invaders and the projectiles should be implemented using prototyping.  A single master sprite should be implemented for each type and clones should be created each time a new instance of the sprite is needed.  The master sprites should be hidden throughout the program and should not take part in gameplay.
-    2. **Required SNAP Elements** <br />
-    
+    3. **Required SNAP Elements** <br />
+    Your program must include the following SNAP elements:
+        * At least three variables
+        * At least two custom blocks, at least one of which must take an argument
+
+3. Required Checkpoints
+    1. Have the player and a single invader moving correctly
+    2. Be able to clone invaders and have the entire group move correctly
+    3. Be able to fire projectiles from both the player (when the space bar is pressed) and the invaders (randomly)

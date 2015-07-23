@@ -1,7 +1,6 @@
 # Summary
 
 * [introduction](README.md)
-   * Unit 6: Final Project
 * [Unit 0: Beginnings](unit_0.md)
    * [Lesson 0.1: The First Day](lesson_01.md)
    * [Lesson 0.2: Algorithms](lesson_02.md)
@@ -54,6 +53,7 @@
    * [Lab 4.5: It's Around Here Somewhere](lab_45.md)
    * [Lesson 4.6: Hangman Project](lesson_46.md)
    * [Project 4: Hangman](project_4.md)
+* Unit 6: Final Project
 * [Unit 5: Cloning](unit_5.md)
    * [Lesson 5.1: Intro to Cloning](lesson_51.md)
    * [Lab 5.1: Connect the Dots](lab_51.md)

@@ -39,3 +39,6 @@ Originally released in 1978, Space Invaders was one of the modern video games an
     1. Have the player and a single invader moving correctly
     2. Be able to clone invaders and have the entire group move correctly
     3. Be able to fire projectiles from both the player (when the space bar is pressed) and the invaders (randomly)
+
+## Grading Scheme/Rubric
+|**Functional Correctness (Behavior)**||

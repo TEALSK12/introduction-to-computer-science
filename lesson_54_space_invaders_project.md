@@ -35,6 +35,7 @@ Students will be able to...
         -   Creating clones
         -   Using a master sprite
         -   Modifying clone behavior
+        -   Passing information from the master to clones
         -   Deleting clones
     -   Remind students that their solutions to previous assignments are an excellent resource when trying to accomplish similar tasks.
 2.  Introduce project

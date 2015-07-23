@@ -1,4 +1,4 @@
-# Lesson 5.3: Basketball Lab
+# Lesson 5.3: Communicating with Clones
 
 ## Learning Objectives
 

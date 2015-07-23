@@ -1,6 +1,7 @@
 # Summary
 
 * [introduction](README.md)
+   * Unit 6: Final Project
 * [Unit 0: Beginnings](unit_0.md)
    * [Lesson 0.1: The First Day](lesson_01.md)
    * [Lesson 0.2: Algorithms](lesson_02.md)

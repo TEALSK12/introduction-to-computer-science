@@ -62,7 +62,7 @@
    * [Project 5: Space Invaders](project_5_space_invaders.md)
    * Lesson 5.4: Space Invaders Project
 * [Additional Curriculum Resources](additional_curriculum_resources.md)
-* [Lab Day Lesson](lab_day_lesson.md)
 * [Contributing](contributing.md)
+* [Lab Day Lesson](lab_day_lesson.md)
 * [Curriculum Map](curriculum_map.md)
 

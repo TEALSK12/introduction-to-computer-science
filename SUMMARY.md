@@ -65,6 +65,7 @@
 * Unit 6: Final Project
    * Lesson 6.1
    * Lesson 6.2
+   * Lesson 6.3
 * [Additional Curriculum Resources](additional_curriculum_resources.md)
 * [Contributing](contributing.md)
 * [Lab Day Lesson](lab_day_lesson.md)

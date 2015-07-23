@@ -59,10 +59,10 @@
    * [Lesson 5.2: Cloning Sprites](lesson_52.md)
    * [Lab 5.2: Lots of Balls](lab_52.md)
    * [Lesson 5.3: Basketball Lab](lesson_53.md)
-   * [Lab Day Lesson](lab_day_lesson.md)
    * [Project 5: Space Invaders](project_5_space_invaders.md)
    * Lesson 5.4: Space Invaders Project
 * [Additional Curriculum Resources](additional_curriculum_resources.md)
+* [Lab Day Lesson](lab_day_lesson.md)
 * [Contributing](contributing.md)
 * [Curriculum Map](curriculum_map.md)
 

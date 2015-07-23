@@ -53,7 +53,6 @@
    * [Lab 4.5: It's Around Here Somewhere](lab_45.md)
    * [Lesson 4.6: Hangman Project](lesson_46.md)
    * [Project 4: Hangman](project_4.md)
-* Unit 6: Final Project
 * [Unit 5: Cloning](unit_5.md)
    * [Lesson 5.1: Intro to Cloning](lesson_51.md)
    * [Lab 5.1: Connect the Dots](lab_51.md)
@@ -63,6 +62,7 @@
    * [Lab 5.3: Fewer Balls](lab_53_fewer_balls.md)
    * [Lesson 5.4: Space Invaders Project](lesson_54_space_invaders_project.md)
    * [Project 5: Space Invaders](project_5_space_invaders.md)
+* Unit 6: Final Project
 * [Additional Curriculum Resources](additional_curriculum_resources.md)
 * [Contributing](contributing.md)
 * [Lab Day Lesson](lab_day_lesson.md)

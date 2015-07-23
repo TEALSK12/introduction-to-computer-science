@@ -36,11 +36,15 @@ Students will be able to...
             -  Global variables are best for application-level data, such as sprite counts, game level number, score, etc.
             -  Sprite variables are best for properties that may be specific to each sprite, such as speed, id #, etc.
 2.   Activity
-    -   Less Balls <!-- http://tealsclass.com/mod/page/view.php?id=14794 -->
-    -   Less Balls II <!-- http://tealsclass.com/mod/page/view.php?id=14795 -->
+    -   Students should complete the [Fewer Balls](lab_53.md) lab.
+        - Students will likely have difficulty isolating the uses for each variable.  Remind them that each variable serves a specific purpose, and that they should focus on keeping straight what variable does what.
+    -   Currently, the lab is written to use global variable "id" to talk to one sprite at a time. If not used carefully, this design pattern has the potential for race conditions. If you believe students are capable, you can have a discussion about race conditions and concurrency and the problems that can arise.
 3. Debrief
+    - Have students pair up and review each other's code.  Encourage students to discuss differences in their approaches and try to understand why each wrote the code as they did.
+    - Ask a few students to share difficulties they or their partner had and/or different approaches they took the problems.
 
 ## Accommodations/Differentiation
 
--   Currently, the lab is written to use global variable "id" to talk to one sprite at a time. If not used carefully, this design pattern has the potential for race conditions. We should change the lab to use something more robust. My intuition is a global list (more thinking is needed on the actual implementation)
 -   For faster students, explaining and demonstrating race conditions would be valuable. Instructors could also give out project with a "simple race condition" (if such a thing exists) and ask the students to fix it
+-   Advanced students can also try to implement features giving them additional control over clones, such as changing a specific clone's speed or direction.
+-   Struggling students can ignore the requirement to be able to create new sprites after some have been deleted and justfocus on deleting clones one at a time. 

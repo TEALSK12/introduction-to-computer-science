@@ -4,8 +4,9 @@
 
 Students will be able to...
 
--   Pass information to individual clones
+    -   Pass information from the master to individual clones
     -   [Optional] Describe a race condition that might occur due using global variables and clones
+    -   Delete clones when they are no longer needed
 
 ## Materials/Preparation
 

@@ -18,16 +18,18 @@ Students will be able to...
 | ---------- | --------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 10 minutes | Introductory discussion                       |
-| 45 minutes | Basketball lab — Part 2                       |
+| 30 minutes | Fewer Balls lab                       |
+| 15 minutes | Debrief and wrap-up |
 
 ## Instructor's Notes
 
--   Introductory discussion
+1.   Introductory discussion
     -   Go over the first part of the basketball lab again
     -   Go through how the prototype communicates to the clones in the basketball lab 
--   Basketball lab part 2 has two pieces
+2.   Activity
     -   Less Balls <!-- http://tealsclass.com/mod/page/view.php?id=14794 -->
     -   Less Balls II <!-- http://tealsclass.com/mod/page/view.php?id=14795 -->
+3. Debrief
 
 ## Accommodations/Differentiation
 

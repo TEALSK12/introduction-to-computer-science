@@ -47,8 +47,13 @@ Students will be able to...
             * In this step, emphasize completeness and detail.  Leaving out steps or requirements will make it difficult to plan effectively and will likely force major changes or cuts later. 
         5. Plan - Based on the feature list and spec, create a full development plan using the [Final Project Development Plan](Final Project Development Plan.docx).
             * As tasks and costs are listed, remind students to keep an eye on the total amount of time required and to include buffer for things going wrong.  Be sure to prioritize tasks so that cuts can be made if necessary. 
+3. Debrief
+    * Once all documents have been created, ask students what the next steps should be.
+        * Get more detail than "start coding."  Students should be focused on the highest-priority tasks and should understand the plan for evaluating progress throughout the project.
+    * Preserve the documents created in the activity to give to students as examples when planning their own projects.
+    * Emphasize that both the spec and the plan are "living documents" and should be updated as the project progresses (when new features are thought of, tasks are cut for time or complexity, priorities are reorganized, etc.)
 
-* [Students will be led through an exercise to design an existing, popular application, such as Instagram, Twitter, etc.]
-* [Expand on this...]
 
 ## Accommodation/Differentiation
+* This lesson could easily take two or even three days depending on the class.  Take as long as is necessary to ensure students have a complete understanding of the steps necessary to create their final project, but try not to get too bogged down in the details of the sample app.
+* For classes with a large number of self-sufficient students, consider having students complete this activity in small groups rather than as a full class.  Along the way, have groups share their progress and provide feedback to each other.

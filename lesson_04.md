@@ -42,4 +42,4 @@ Students will be able to...
 * For students that are hesitant or unwilling to engage, point out some simple, useful features (like basic drawing and the ![](say.png) block) to get them started.  Remind them that complexity or "coolness" are not important for this lab.
 * If you wish, you can add a second day to this lesson for students to share out their programs.  Work with your classroom teacher and/or school IT staff to determine the best way for students to be able to present.
     * One simple option is to have all students share their projects with you, and then show each one in turn on the teacher computer/projector.
- Have a plan for collecting or accumulating the students' programs, which you can then use to get to know your class!
+* Have a plan for collecting or accumulating the students' programs, which you can then use to get to know your class!

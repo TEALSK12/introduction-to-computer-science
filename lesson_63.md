@@ -33,8 +33,8 @@ Students will be able to...
         * It is **VITAL** at this stage that students be as detailed and thorough as they can.  Any missing information will complicate the process later when they realize what was left out.  Encourage students to take their time and make sure they hit everything.
         * While this process is happening, instructors should circulate through the class and check-in with student.  Verify that they have a complete, well-thought out idea that is feasible to complete in the available time.  
             * If you have concerns about a student's ability to complete the proposed project, help them scope down by removing or simplifying features.
-
-* [Students will choose one idea from their ranked list as the final project they will implement and write a full spec.  The spec should be detailed enough that another student would be able to implement the project.]
-* [Expand on this...]
+4. Debrief
+    * As class ends, remind students that their spec will be their guide throughout the process.  They should update it as necessary and keep it with them at all times.
+    * Ideally, anytime there is a question about the project, the spec should have the answer.  If not, it's a new idea.
 
 ## Accommodation/Differentiation

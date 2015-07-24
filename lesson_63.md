@@ -13,10 +13,9 @@ Students will be able to...
 | Duration  | Description                                   |
 | --------- | --------------------------------------------- |
 | 5 minutes | Welcome, attendance, bell work, announcements |
-| 10 minutes | Review process and identify first steps |
-| 5 minutes | Brainstorming |
-| 10 minutes | Pitch writing |
-| 20 minutes | Peer review  |
+| 10 minutes | Review pitches |
+| 15 minutes | Wireframing |
+| 20 minutes | Spec writing |
 | 5 minutes | Debrief and wrap-up|
 
 ## Instructor's Notes

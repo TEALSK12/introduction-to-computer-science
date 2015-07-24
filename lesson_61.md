@@ -36,7 +36,7 @@ Students will be able to...
         * Remind students that, as they are now SNAP experts, there are high expectations for the depth, complexity, and completeness of their projects
 2. Sample design activity
     1. Tell students that, as a class, they will now practice some of the design and planning tasks for the project on a well-known app
-        * Pick an app that both you and most of your students have a deep familiarity with, but that is not too complex.  Twitter, Instagram, Pintrest, or other relatively small-scope social media apps work well here.
+        * Pick an app that both you and most of your students have a deep familiarity with, but that is not too complex.  Twitter, Instagram, Pinterest, or other relatively small-scope social media apps work well here.
         * If necessary, scope down the app by focusing on only the core features (e.g. only consider public, text-only Tweets to start)
     2. Walk through each of the design steps in the project rubric for the chosen app:
         1. Pitch - describe the basic functionality of the app in one paragraph of less

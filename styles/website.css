@@ -1,1 +1,4 @@
 /* CSS for website */
+.summary .chapter a b{
+    display: none;
+}

@@ -1,4 +1,4 @@
-# Lesson 6.4 - Project Implementation
+# Lesson 6.5 - Project Implementation
 
 ## Learning Objectives
 Students will be able to...
@@ -8,9 +8,10 @@ Students will be able to...
 
 
 ## Materials/Preparation
-
+* Students should each have their [Final Project Plan Organizer](Final Project Plan Organizer.docx) and [Final Project Development Plan](Final Project Development Plan.docx)
 
 ## Pacing Guide
+
 
 
 ## Instructor's Notes

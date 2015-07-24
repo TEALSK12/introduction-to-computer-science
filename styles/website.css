@@ -2,6 +2,6 @@
 .summary .chapter a b{
     display: none;
 }
-.summary .chapter > a{
-    font-weight: bold;
+.summary > .chapter > a{
+    font-weight: bold !important;
 }

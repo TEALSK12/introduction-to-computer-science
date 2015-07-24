@@ -63,6 +63,7 @@
    * [Lab 5.3: Fewer Balls](lab_53.md)
    * [Lesson 5.4: Space Invaders Project](lesson_54.md)
    * [Project 5: Space Invaders](project_5.md)
+* [Curriculum Map](curriculum_map.md)
 * [Unit 6: Final Project](unit_6.md)
    * [Lesson 6.1: Design Basics](lesson_61.md)
    * [Lesson 6.2: Brainstorming and Evaluating](lesson_62.md)
@@ -72,5 +73,4 @@
 * [Additional Curriculum Resources](additional_curriculum_resources.md)
 * [Contributing](contributing.md)
 * [Lab Day Lesson](lab_day_lesson.md)
-* [Curriculum Map](curriculum_map.md)
 

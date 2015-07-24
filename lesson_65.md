@@ -44,6 +44,8 @@ Students will be able to...
         3.  Are you currently ahead, behind, or on track with your schedule?  If you are behind, what tasks will you cut to get back on track?  If you are ahead, what are some extra features you can add?
         4.  What is the riskiest remaining task for your project?
     -   These answers will help you determine which students to visit first the next day.
+        -   Any student who indicates they are behind should get a consult with an instructor the next day to help get them back on track.
+    -   Encourage students to save each day's version of their planning documents with a new name (possibly using the suffix "_mmdd") so they can track progress and recover cut tasks if they make up time.
 
 
 ## Accommodation/Differentiation

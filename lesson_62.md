@@ -5,7 +5,6 @@ Students will be able to...
   * Identify factors to use when choosing between project ideas
   * Rank a group of proposed project ideas using the identified factors
 
-
 ## Materials/Preparation
 
 

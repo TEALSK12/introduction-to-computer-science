@@ -10,7 +10,14 @@ Students will be able to...
 
 
 ## Pacing Guide
-
+| Duration  | Description                                   |
+| --------- | --------------------------------------------- |
+| 5 minutes | Welcome, attendance, bell work, announcements |
+| 10 minutes | Review process and identify first steps |
+| 5 minutes | Brainstorming |
+| 10 minutes | Pitch writing |
+| 20 minutes | Peer review  |
+| 5 minutes | Debrief and wrap-up|
 
 ## Instructor's Notes
 * [Students will choose one idea from their ranked list as the final project they will implement and write a full spec.  The spec should be detailed enough that another student would be able to implement the project.]

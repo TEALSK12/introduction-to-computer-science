@@ -15,3 +15,5 @@ While we finish the curriculum materials, you can view the old version of the **
 
 Send feedback and suggestions to
 [IntroSquad@tealsk12.org](mailto:introsquad@tealsk12.org)
+
+[test](Unit 1 PDF/Lab 1.1 Welcome To SNAP.pdf)

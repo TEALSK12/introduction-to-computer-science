@@ -12,6 +12,14 @@ Students will be able to...
 
 ## Pacing Guide
 
+| Duration      | Description                                   |
+| ------------- | --------------------------------------------- |
+| _Days 1-15_   |                                               |
+| 5 minutes     | Welcome, attendance, bell work, announcements |
+| 10-15 minutes | Review                                        |
+| 30-35 minutes | Lab time                                      |
+| 5 minutes     | Exit ticket                                   |
+
 
 
 ## Instructor's Notes

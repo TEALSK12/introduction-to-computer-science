@@ -15,6 +15,6 @@ In this lab, you will write custom reporter blocks to perform a number of useful
 
 ## Stepping Things Up
 
-1.  Write a custom SNAP reporter block called "distance to" that computes and reports the distance from a sprite's position to another point.  Use the "x position" and "y position" blocks to determine the sprite's position.  Remember that the formula for the distance between points $$(x_1, y_1)$$ and $$(x_1, y_1)$$ is $$\sqrt{((y_2-y_2)^2+(x_2-x_2)^2 )}$$ .
+1.  Write a custom SNAP reporter block called "distance to" that computes and reports the distance from a sprite's position to another point.  Use the "x position" and "y position" blocks to determine the sprite's position.  Remember that the formula for the distance between points $$(x_1, y_1)$$ and $$(x_2, y_2)$$ is $$\sqrt{((y_2-y_1)^2+(x_2-x_1)^2 )}$$ .
 
 2.  Write a custom SNAP predicate block called "contains letter" that determines whether or not a word contains a particular letter.  You can consider upper-case and lower-case letters to be different for the purposes of matching.

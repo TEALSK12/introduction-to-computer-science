@@ -16,9 +16,9 @@ Students will be able to...
 | ------------- | --------------------------------------------- |
 | _Days 1-15_   |                                               |
 | 5 minutes     | Welcome, attendance, bell work, announcements |
-| 10-15 minutes | Review                                        |
-| 30-35 minutes | Lab time                                      |
-| 5 minutes     | Exit ticket                                   |
+| 10 minutes    | Check-in                                      |
+| 30 minutes    | Lab time                                      |
+| 10 minutes    | Exit ticket                                   |
 
 
 

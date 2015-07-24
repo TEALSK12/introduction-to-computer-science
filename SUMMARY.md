@@ -1,6 +1,7 @@
 # Summary
 
 * [introduction](README.md)
+* [Curriculum Map](curriculum_map.md)
 * [Unit 0: Beginnings](unit_0.md)
    * [Lesson 0.1: The First Day](lesson_01.md)
    * [Lesson 0.2: Algorithms](lesson_02.md)
@@ -18,7 +19,6 @@
    * [Lab 1.4: Sprites in Action](lab_14.md)
    * [Lesson 1.5: Nursery Rhyme Project](lesson_15.md)
    * [Project 1: Animated Nursery Rhyme](project_1.md)
-* [Curriculum Map](curriculum_map.md)
 * [Unit 2: Loops](unit_2.md)
    * [Lesson 2.1: Loops](lesson_21.md)
    * [Lab 2.1: Squares and Triangles Redux](lab_21.md)

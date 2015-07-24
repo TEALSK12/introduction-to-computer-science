@@ -14,7 +14,6 @@ Students will be able to...
 - If possible, create large poster-sized versions of the dot grids (each grid is 12 x 3).
 
 ## Pacing Guide
-
 | Duration  | Description                                   |
 | --------- | --------------------------------------------- |
 | 5 minutes | Welcome, attendance, bell work, announcements |

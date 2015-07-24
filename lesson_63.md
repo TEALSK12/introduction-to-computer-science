@@ -27,6 +27,12 @@ Students will be able to...
     * Students complete page 1 of the organizer by sketching or wireframing the important screens for their project.
         * If you have one available, a wireframing tool such as [Balsamiq](https://balsamiq.com/) can be used instead of sketching by hand.
         * As with all wireframing, students should not focus on the specific details of the sprites, images, etc. that will appear, but instead design the basic layout and main components of each screen.
+        * Encourage students to think about _all_ necessary screens for their project, including simple things like a splash screen, help screen, or exit ("game over") screen.
+3. Spec writing
+    * Using the details from their pitch, their wireframes, and the feedback they've received, students should fill out the rest of the plan organizer.
+        * It is **VITAL** at this stage that students be as detailed and thorough as they can.  Any missing information will complicate the process later when they realize what was left out.  Encourage students to take their time and make sure they hit everything.
+        * While this process is happening, instructors should circulate through the class and check-in with student.  Verify that they have a complete, well-thought out idea that is feasible to complete in the available time.  
+            * If you have concerns about a student's ability to complete the proposed project, help them scope down by removing or simplifying features.
 
 * [Students will choose one idea from their ranked list as the final project they will implement and write a full spec.  The spec should be detailed enough that another student would be able to implement the project.]
 * [Expand on this...]

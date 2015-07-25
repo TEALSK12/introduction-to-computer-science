@@ -10,7 +10,7 @@ Students will be able to...
 -   Describe how complex goals can be accomplished using cloning
 
 ## Materials/Preparation
-- [Lab 5.1 Handout](lab_51.md) (Connect the Dots)
+- [Lab 5.1 Handout](lab_51.md) (Connect the Dots) [[PDF]](pdf/Lab 5.1 Connect the Dots.pdf)
 - If possible, create large poster-sized versions of the dot grids (each grid is 12 x 3).
 
 ## Pacing Guide

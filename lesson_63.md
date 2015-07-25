@@ -1,4 +1,4 @@
-# Lesson 6.3 - Spec Writing
+# Lesson 6.3 - Building a Plan
 
 ## Learning Objectives
 Students will be able to...

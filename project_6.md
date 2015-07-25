@@ -23,15 +23,15 @@ The phases of the project will be:
 2. **Progress Tracking** <br />
 In phase vi, you will complete a [Final Project Plan Organizer](Final Project Plan Organizer.docx) and in phase vii you will complete a [Final Project Development Plan](Final Project Development Plan.docx).  These documents will be your guides in the development phase and will help you stay on track and aware of your progress.  Throughout the development phase of the project, you will be expected to keep your spec and plan up-to-date and make adjustments as you get ahead or behind, as requirements change, or as tasks or features get reprioritized.  At the end of each coding day, your spec and plan documents should be updated to reflect the current state of your project, and you will check in with an instructor at least once a week to make sure things are on track.  
 
-3. Implementation Requirements
-    1. **Complexity and Creativity** <br />
+3. **Implementation Requirements**
+    1. _Complexity and Creativity_ <br />
     Your final project should be sufficiently complex and large-scale to push your limits as a programmer, but not so sophisticated that you are not able to complete it in the time allotted.  The complexity in your project should come from the _design_ and the _algorithms_ and not from the _code_.  (That is, you cannot meet the complexity requirement simply by writing a lot of code.  Your code must be challenging or interesting in some meaningful way.)  In addition, you should not add complexity by introducing peripheral elements, such as graphics or sound effects.  (Your program can certainly have these, but they will not be considered in determining the projects complexity.)
 <p />
 In addition, one of the main goals of this project is to allow you to unleash your creativity and allow you to create something of interest to you.  To achieve this, your project must show some level of creativity or personalization that makes it your own.  Simply creating your own version of some existing application will not fully meet this requirement.
 <p />
 For both the complexity and creativity requirements, you should talk to the instructors early and often to ensure your project is in line with our expectations.
 
-    2. **Documentation and Style** <br />
+    2. *Documentation and Style* <br />
     As with all previous projects, your program must be well-written, well-documented, and readable.  Writing code with good style is always a good idea, but in a project of this size and scope, following style guidelines will help you keep your thoughts organized and make it easier to keep track of your progress, pick up where you left off each day, and find and fix bugs.  In particular, though this is certainly not a comprehensive list, pay attention to the following:
         * organizing your scripts so that they can be read and comprehended easily
         * giving your sprites, variables, lists, and custom blocks descriptive and meaningful names
@@ -40,7 +40,7 @@ For both the complexity and creativity requirements, you should talk to the inst
         * avoiding redundancy with good use of loops, custom blocks, and/or lists
         * practicing good procedural decomposition and abstraction
         
-    3. **Required SNAP Elements** <br />
+    3. *Required SNAP Elements* <br />
     In order to show that you have fully mastered all the skills from the course, you project must include at least the following:
         * a clear way to start the program, and clear prompts or instructions for any user interaction
         * an least one loop, variable, custom block, and list, and more as necessary or appropriate
@@ -48,10 +48,8 @@ For both the complexity and creativity requirements, you should talk to the inst
         * at least one user interaction
             * this can be prompting for information using ask, responding to key presses or mouse movements, or any other action that keeps the user involved
 
-3. Required Checkpoints
-    1. Have the player and a single invader moving correctly
-    2. Be able to clone invaders and have the entire group move correctly
-    3. Be able to fire projectiles from both the player (when the space bar is pressed) and the invaders (randomly)
+3. **Required Checkpoints** <br />
+At least three times during the project period, and at least once each week, you should check in with an instructor to ensure that your project is on track, that you are meeting the project requirements, and that you have the answers to any questions that might have arisen during your work.  The course staff will work with you to set up a schedule for these checkpoints, but it is **your responsibility** to ensure that the meetings take place.
 
 ## Grading Scheme/Rubric
 |Design Phases| |
@@ -60,7 +58,7 @@ For both the complexity and creativity requirements, you should talk to the inst
 |Project Pitches	|6 points|
 |Feature List	|4 points|
 |Wireframes/Sketches	|4 points|
-|Project Organizer (Spec)	|8 points|
+|Project Organizer (Specification)	|8 points|
 |Implementation Plan	|8 points|
 |Spec and plan are updated throughout project 	|8 points|
 |_Total_	|_40 points_|

@@ -14,8 +14,8 @@ Students will be able to...
 | --------- | --------------------------------------------- |
 | 5 minutes | Welcome, attendance, bell work, announcements |
 | 10 minutes | Review pitches |
-| 15 minutes | Wireframing |
 | 20 minutes | Spec writing |
+| 15 minutes | Building implementation plan|
 | 5 minutes | Debrief and wrap-up|
 
 ## Instructor's Notes

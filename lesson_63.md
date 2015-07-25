@@ -7,7 +7,7 @@ Students will be able to...
 
 
 ## Materials/Preparation
-
+* [Final Project Plan Organizer](Final Project Plan Organizer.docx) handout
 
 ## Pacing Guide
 | Duration  | Description                                   |

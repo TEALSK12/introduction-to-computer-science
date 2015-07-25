@@ -24,9 +24,10 @@ Students will be able to...
     * If desired, give students a few minutes to rework their pitches or get more feedback from a classmate or instructor.
     * Ask students to choose which idea they want to pursue, and write it down on the top of their [Final Project Plan Organizer](Final Project Plan Organizer.docx).
 2. Defining Scenarios
-    * 
+    * Defining the term "scenario" for students:
+        * _scenario: a description of a set of interactions and/or tasks that describe an example of how a user might want to use the application_
 3. Wireframing
-    * Define the term "wireframe" for students
+    * Define the term "wireframe" for students:
         * _wireframe: a high-level sketch of an application's user interface intended to help visualize layout, interactions, and transitions_
     * Explain that wireframes do not include any details (such as specific graphics or text), but instead provide a broad impression of what an application will look like to aid in design and planning
     * Students will complete page 1 of the organizer by sketching or wireframing the important screens for their project.

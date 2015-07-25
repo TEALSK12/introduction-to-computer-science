@@ -1,4 +1,4 @@
-# Lesson 6.3 - Building a Plan
+# Lesson 6.4 - Building a Plan
 
 ## Learning Objectives
 Students will be able to...

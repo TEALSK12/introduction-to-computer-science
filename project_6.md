@@ -41,34 +41,25 @@ Students will design, plan, and implement a medium- to large-scale final project
     3. Be able to fire projectiles from both the player (when the space bar is pressed) and the invaders (randomly)
 
 ## Grading Scheme/Rubric
-|Functional Correctness (Behavior)| |
+|Design Phases| |
 |--|--|
-|Welcome screen containing game info displayed green flag clicked|	1 point|
-|Start button displayed and game starts when clicked	|1 point|
-|Keyboard control of player (including shooting)	|1 point|
-|Multiple invaders	|2 points|
-|Invaders attack in formation	|2 points|
-|Invaders die when hit by projectile	|1 point|
-|Player earns points when an invader is killed 	|1 point|
-|Player fires projectiles correctly	|2 points|
-|Invaders fire projectiles correctly | 3 points |
-|Player loses life and level resets when player or bottom of stage touched by invader	|2 points|
-|Game ends and new game screen appears when player is out of lives	|1 point|
-|Level changes when all invaders are destroyed	|1 point|
-|Invaders speed up in each level	|1 point|
-|Point values increase each level	|1 point|
-|_Total_	|_20 points_|
-|**Technical Correctness (Implementation)** | | 
-|Program is well-documented	and shows good style |2 points|
-|Program shows creativity and effort	|2 points|
-|Invaders and projectiles are implemented using cloning | 3 points |
-|Program operates correctly under all normal conditions (aka “No bugs”)	|3 points|
-|Program uses at least three variables	|2 points|
-|Program includes two custom blocks, one of which accepts arguments	|3 points|
-|Checkpoint 1 | 5 points |
-|Checkpoint 2 | 5 points |
-|Checkpoint 3 | 5 points |
-|_Total_	|_30 points_|
-|**_Total_**|**_50 points_**|
+|Brainstorming|	2 points|
+|Project Pitches	|6 points|
+|Feature List	|4 points|
+|Wireframes/Sketches	|4 points|
+|Project Organizer (Spec)	|8 points|
+|Implementation Plan	|8 points|
+|Spec and plan are updated throughout project 	|8 points|
+|_Total_	|_40 points_|
+|**Implementation** | | 
+|Program is well-documented	and shows good style |4 points|
+|Program shows creativity and effort	|4 points|
+|Program uses SNAP elements effectively | 8 points |
+|Final product meets all requirements and goals laid out in spec 	|12 points|
+|Checkpoint 1 | 4 points |
+|Checkpoint 2 | 4 points |
+|Checkpoint 3 | 4 points |
+|_Total_	|_40 points_|
+|**_Total_**|**_80 points_**|
 
 

@@ -75,4 +75,5 @@
 * [Contributing](contributing.md)
 * [Lab Day Lesson](lab_day_lesson.md)
 * [Culture Day Lesson A: Video/Reading](culture_day_lesson_a.md)
+* Culture Day Lesson B
 

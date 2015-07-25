@@ -40,8 +40,7 @@ Students will be able to...
         * As with all wireframing, students should not focus on the specific details of the sprites, images, etc. that will appear, but instead design the basic layout and main components of each screen.
         * Encourage students to reference their feature lists to ensure they include _all_ necessary screens for their project, including simple things like a splash screen, help screen, or exit ("game over") screen.
 4. Debrief
-    * As class ends, remind students that their spec will be their guide throughout the process.  They should update it as necessary and keep it with them at all times.
-    * Ideally, anytime there is a question about the project, the spec should have the answer.  If not, it's a new idea.
+    * As class ends, ensure students retain their work as they will use it to construct a detailed specification and implementation plan tomorrow.
 
 ## Accommodation/Differentiation
           

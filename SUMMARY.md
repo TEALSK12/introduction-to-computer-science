@@ -74,5 +74,5 @@
 * [Additional Curriculum Resources](additional_curriculum_resources.md)
 * [Contributing](contributing.md)
 * [Lab Day Lesson](lab_day_lesson.md)
-* Culture Day Lesson A
+* [Culture Day Lesson A](culture_day_lesson_a.md)
 

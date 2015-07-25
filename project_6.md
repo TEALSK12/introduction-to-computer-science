@@ -1,8 +1,8 @@
-# Project 5 - Space Invaders
-Students will implement a SNAP version of the classic arcade game _Space Invaders_.
+# Project 6 - Final Project
+Students will design, plan, and implement a medium- to large-scale final project of their own choosing.
 
 ## Overview
-Originally released in 1978, Space Invaders was one of the modern video games and is often credited with popularizing the video game industry.  In addition to being a vastly popular arcade game, the 1980 version for an early Atari system helped game consoles achieve the mainstream status they maintain today.  Because of this, the characters and gameplay style of Space Invaders are often used to represent the video game industry as a whole.  You can play an online version of the game at http://www.pacxon4u.com/space-invaders/.  Our game will have some differences from the classic version, but will maintain the key aspects of gameplay.
+
 
 ## Details
 1. Behavior

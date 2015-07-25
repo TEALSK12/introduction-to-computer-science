@@ -25,7 +25,7 @@ Students will be able to...
         * While this process is happening, instructors should circulate through the class and check-in with student.  Verify that they have a complete, well-thought out idea that is feasible to complete in the available time.  
             * If you have concerns about a student's ability to complete the proposed project, help them scope down by removing or simplifying features.
 4. Debrief
-    * As class ends, remind students that their spec will be their guide throughout the process.  They should update it as necessary and keep it with them at all times.
-    * Ideally, anytime there is a question about the project, the spec should have the answer.  If not, it's a new idea.
+    * As class ends, remind students that their spec and implementation plan will be their guides throughout the process.  They should update them each day and keep them with them at all times.
+    * Ideally, anytime there is a question about the requirements or scope of the project, the spec should have the answer.  If not, it's a new idea and the spec needs to be updated acordingly.
 
 ## Accommodation/Differentiation

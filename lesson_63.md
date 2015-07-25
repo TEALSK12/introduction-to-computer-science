@@ -25,7 +25,12 @@ Students will be able to...
     * Ask students to choose which idea they want to pursue, and write it down on the top of their [Final Project Plan Organizer](Final Project Plan Organizer.docx).
 2. Defining Scenarios
     * Defining the term "scenario" for students:
-        * _scenario: a description of a set of interactions and/or tasks that describe an example of how a user might want to use the application_
+        * _scenario: a description of a set of interactions and/or tasks that describe a start-to-finish example of how a user might want to use the application_
+    * Explain that defining scenarios helps a programmer focus on what features are actually necessary to enable the key user interactions for their application
+    * Instruct students to write down at least **3** scenarios for their project describing, from start to finish, interactions a user might have with their program to accomplish a specific goal
+        * The scenarios should have a moderate level of detail in the description of the user interaction (e.g. "push a button," "type in their name," etc.) but should not include any design or implementation details.
+    * Once students have written their scenarios, they should review them and develop a list of the necessary features to enable each scenario
+        * Again, there should be minimal technical detail in these descriptions, instead focusing on details of the user experience.  The feature lists should should be more about _requirements_ than implementation.
 3. Wireframing
     * Define the term "wireframe" for students:
         * _wireframe: a high-level sketch of an application's user interface intended to help visualize layout, interactions, and transitions_

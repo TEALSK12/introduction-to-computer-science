@@ -70,7 +70,7 @@
    * [Lesson 6.3: Spec Writing](lesson_63.md)
    * [Lesson 6.4](lesson_64.md)
    * [Lesson 6.5: Project Implementation](lesson_65.md)
-   * Project 6
+   * [Project 6](project_6.md)
 * [Additional Curriculum Resources](additional_curriculum_resources.md)
 * [Contributing](contributing.md)
 * [Lab Day Lesson](lab_day_lesson.md)

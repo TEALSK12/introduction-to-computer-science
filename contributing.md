@@ -1,3 +1,4 @@
+<!-- This document is very idealistic by design, feel free to suggest toning down any part -->
 # Contributing
 
 ## Markdown style
@@ -12,6 +13,41 @@ To keep the curriculum's underlying markdown consistent, we use [this markdown s
 ### Lint tool
 
 We use [mdast-lint](https://github.com/wooorm/mdast-lint) to enforce the above style. All submissions will be run through [mdast-lint](https://github.com/wooorm/mdast-lint) and free of any errors and warnings.
+
+## Curriculum style
+
+### How to write *Snap!*
+```
+*Snap!*
+```
+
+
+### *Snap!* Code
+Blocks and scripts should always be presented as they would be in *Snap!*&mdash;as an image. 
+
+Good
+> Use the ![move 10 steps](move.png) block to move your sprite.
+
+Bad
+> Use the move block to move your sprite.
+
+If it is absolutely necessary that a block not have a picture, wrap the name in blockquotes (e.g. ```move 10 steps``` block).
+
+#### Creating new script images
+Use the "script pic..." feature to create new images. If you need the result of a reporter block, use shift-right-click to get the "script pic with result..." option.
+
+If you are adding a block, the file name should follow the text of the block with lower camel case.
+
+Good
+> ![move 10 steps](move.png) -> ```move10Steps.png```
+
+Bad
+> ![move 10 steps](move.png) -> ```move.png```
+
+#### Reusing existing script images
+Before you create new blocks images, check to see of blocks are stored in the curriculum in ```/blocks```.
+
+All script images should be stored in ```/scripts```.
 
 ## Creating a pull request
 

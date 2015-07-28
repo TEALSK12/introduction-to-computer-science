@@ -116,16 +116,16 @@
 | 6.1: Design Basics |  Identify the key considerations when designing a piece of software. Describe methods for prioritizing features, use cases, and/or scenarios. Explain why design and planning are necessary steps in the software engineering process | Final Project |
 | 6.2: Brainstorming and Evaluating | Identify factors to use when choosing between project ideas. Rank a group of proposed project ideas using the identified factors | Final Project
 | 6.3: Spec Writing | Identify the main components of a functional project specification and explain the purpose of each section. Develop a project idea into a full, detailed specification | Final Project |
-| 6.4: Project Day 1 | Project Work  | Final Project |
-| 6.5: Project Day 2 | Project Work  | Final Project |
-| 6.6: Project Day 3 | Project Work  | Final Project |
-| 6.7: Project Day 4 | Project Work  | Final Project |
-| 6.8: Project Day 5 | Project Work  | Final Project |
-| 6.9: Project Day 6 | Project Work  | Final Project |
-| 6.10: Project Day 7 | Project Work  | Final Project |
-| 6.11: Project Day 8 | Project Work  | Final Project |
-| 6.12: Project Day 9 | Project Work  | Final Project |
-| 6.13: Project Day 10 | Project Work  | Final Project |
+| 6.4: Building a Plan | Identify the main components of a functional project specification and explain the purpose of each section. Develop a project idea into a full, detailed specification. | Final Project |
+| 6.5: Project Implementation | Use the skills developed throughout the course to implement a medium- to large-scale software project. Realistically evaluate progress during software development and identify when cuts are necessary. Prioritize features and scenarios and choose which should be eliminated or modified if/when resources and/or time become limited.  | Final Project |
+| 6.6: Project Day 1 | Project Work  | Final Project |
+| 6.7: Project Day 2 | Project Work  | Final Project |
+| 6.8: Project Day 3 | Project Work  | Final Project |
+| 6.9: Project Day 4 | Project Work  | Final Project |
+| 6.10: Project Day 5 | Project Work  | Final Project |
+| 6.11: Project Day 6 | Project Work  | Final Project |
+| 6.12: Project Day 7 | Project Work  | Final Project |
+| 6.13: Project Day 8 | Project Work  | Final Project |
 | 6.14: Project Day 9 | Project Work  | Final Project |
 | 6.15: Project Day 10 | Project Work  | Final Project |
 | 6.16: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |

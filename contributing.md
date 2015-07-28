@@ -9,7 +9,6 @@ To keep the curriculum's underlying markdown consistent, we use [this markdown s
 * [list-space:mixed](http://www.cirosantilli.com/markdown-style-guide/#option-list-space-mixed)
 * [code:fenced](http://www.cirosantilli.com/markdown-style-guide/#option-code-fenced)
 
-
 ### Lint tool
 
 We use [mdast-lint](https://github.com/wooorm/mdast-lint) to enforce the above style. All submissions will be run through [mdast-lint](https://github.com/wooorm/mdast-lint) and free of any errors and warnings.

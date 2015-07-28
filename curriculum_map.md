@@ -104,8 +104,8 @@
 | 5.12: Project Day 8 | Project Work  | Project 5: Space Invaders |
 | 5.13: Project Day 9 | Project Work  | Project 5: Space Invaders |
 | 5.14: Project Day 10 | Project Work  | Project 5: Space Invaders |
-| 5.15: Project Day 9 | Project Work  | Project 5: Space Invaders |
-| 5.16: Project Day 10 | Project Work  | Project 5: Space Invaders |
+| 5.15: Project Day 11 | Project Work  | Project 5: Space Invaders |
+| 5.16: Project Day 12 | Project Work  | Project 5: Space Invaders |
 | 5.17: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 | 5.18: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 

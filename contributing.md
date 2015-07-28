@@ -49,6 +49,12 @@ Before you create new blocks images, check to see of blocks are stored in the cu
 
 All script images should be stored in ```/scripts```.
 
+### Vocabulary words
+
+### Labs
+
+### Lesson plans
+
 ## Creating a pull request
 
 Each pull request should have it's own branch. Here are a few examples of a proper pull request workflow

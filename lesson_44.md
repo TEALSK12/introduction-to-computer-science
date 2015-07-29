@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 4.4 handout (<Clever Title>)](lab_44.md)
+-   [Lab 4.4 handout (Number Cruncher)](lab_44.md)
 
 ## Pacing Guide
 

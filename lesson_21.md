@@ -12,7 +12,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Lab 2.1 handout - [Squares and Triangles Redux](lab_21.md)
+-   Lab 2.1 handout - [Squares and Triangles Redux](lab_21.md) ([Download in MS Word](Lab 2.1 Triangles and Squares Redux.docx))
 
 ## Pacing Guide
 

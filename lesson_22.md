@@ -8,7 +8,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Lab 2.2 handout - [Another Brick in the Wall](lab_22.md)
+-   Lab 2.2 handout - [Another Brick in the Wall](lab_22.md) ([Download in Word](Unit 2 Word/Lab 2.2 Another Brick in the Wall.docx))
 
 ## Pacing Guide
 

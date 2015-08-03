@@ -8,7 +8,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Lab 3.1 handout - [Guessing Game](lab_31.md) ([Download in Word](Unit 3 Word/Lab 3.1 Guessing Game.docx))
+-   Lab 3.1 handout - [Guessing Game](lab_31.md) ([Download in Word](Unit 3 Word/Lab 3.1 Guessing Game.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Lab%203.1%20Guessing%20Game.pdf))
 
 ## Pacing Guide
 

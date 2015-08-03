@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 1.4 handout](lab_14.md) (Sprites in Action) ([Download in Word](Unit 1 Word/Lab 1.4 Sprites in Action.docx))
+-   [Lab 1.4 handout](lab_14.md) (Sprites in Action) ([Download in Word](Unit 1 Word/Lab 1.4 Sprites in Action.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Lab%201.4%20Sprites%20in%20Action.pdf))
 
 ## Pacing Guide
 

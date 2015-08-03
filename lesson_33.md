@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 3.3 handout](lab_33.md) (Let Me Check My Calendar)
+-   [Lab 3.3 handout](lab_33.md) (Let Me Check My Calendar) ([Download in Word](Unit 3 Word/Lab 3.3 Let Me Check My Calendar.docx))
 
 ## Pacing Guide
 

@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 3.4 handout](lab_34.md) (If My Calculations Are Correct...)
+-   [Lab 3.4 handout](lab_34.md) (If My Calculations Are Correct...) ([Download in Word](Unit 3 Word/Lab 3.4 If My Calculations Are Correct.docx))
 
 ## Pacing Guide
 

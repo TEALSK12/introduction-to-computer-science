@@ -11,6 +11,7 @@ Students will be able to...
 ## Materials/Preparation
 
 -   Reference to the Platform Game project: [Platform Game](project_2.md) 
+-   Easy Version of Project: [Easy Platform Game](project_2_platform_game_easy.md)
 -   [Optional] Printouts of the specification 
 -   A few suggested themes available for students who may struggle to come up with their own.
 -   Suggestions for characters, power-ups, goals, etc.

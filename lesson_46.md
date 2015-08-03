@@ -9,7 +9,8 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Project 4 - Hangman](project_4.md) ([Download in Word](Projects/Projects Word/Project 4 Hangman.docx))
+-   [Project 4 - Hangman](project_4.md) ([Download in Word](Projects/Projects Word/Project 4 Hangman.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Project%204%20Hangman.pdf))
+
 -   [Optional] Printouts of the specification
 -   Link to an online version of Hangman, such as <http://www.playhangman.com/> 
 -   A word list from which words can be selected for the game, such as <http://www.mieliestronk.com/corncob_lowercase.txt> 

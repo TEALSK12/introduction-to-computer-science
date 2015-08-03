@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 1.2](lab_12.md) handout (SNAP Scavenger Hunt)
+-   [Lab 1.2](lab_12.md) handout (SNAP Scavenger Hunt) ([Download in Word](Unit 1 Word/Lab 1.2 SNAP Scavenger Hunt.docx))
 -   Read through the handout so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide

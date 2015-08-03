@@ -20,7 +20,7 @@ In this lab, you will explore the functionality of some common blocks and where 
 | ![go to x-y](gotox-y.png)                   |          |
 | ![set size](setsize.png)                    |          |
 | ![rest for beats](restforbeats.png)         |          |
-| ![point towards](pointtowards.png)          |          |
+| ![point towards](pointtowards.png)          |.         |
 
 
 ## 2. What does it do?
@@ -40,7 +40,7 @@ In this lab, you will explore the functionality of some common blocks and where 
 | ![go to x-y](gotox-y.png)                                                                           |                                                                                                                                                                                                                  |
 | ![set size](setsize.png)                                                                            |                                                                                                                                                                                                                  |
 | ![rest for beats](restforbeats.png)                                                                 |                                                                                                                                                                                                                  |
-| ![point towards](pointtowards.png)                                                                  |                                                                                                                                                                                                                 |
+| ![point towards](pointtowards.png)                                                                  |.                                                                                                                                                                                                                |
 
 
 

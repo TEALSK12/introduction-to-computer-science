@@ -32,6 +32,7 @@
    * [Lab 2.5: What Goes Up...](lab_25.md)
    * [Lesson 2.6: Platform Game Project](lesson_26.md)
    * [Project 2: Platform Game](project_2.md)
+   * Project 2: Platform Game (Easy)
 * [Unit 3: Variables and Customization](unit_3.md)
    * [Lesson 3.1: Variables](lesson_31.md)
    * [Lab 3.1: Guessing Game](lab_31.md)

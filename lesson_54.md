@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Project 5 - Space Invaders](project_5.md)
+-   [Project 5 - Space Invaders](project_5.md) ([Download in Word](Projects/Projects Word/Project 5 Space Invaders.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Project%205%20Space%20Invaders.pdf))
 -   [Optional] Printouts of the specification
 -   Link to an online version of Space Invaders, such as <http://www.pacxon4u.com/space-invaders/> 
 

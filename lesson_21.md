@@ -12,7 +12,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Lab 2.1 handout - [Squares and Triangles Redux](lab_21.md) ([Download in MS Word](Lab 2.1 Triangles and Squares Redux.docx))
+-   Lab 2.1 handout - [Squares and Triangles Redux](lab_21.md) ([Download in MS Word](Lab 2.1 Triangles and Squares Redux.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Lab%202.1%20Triangles%20and%20Squares%20Redux.pdf))
 
 ## Pacing Guide
 

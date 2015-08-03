@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!)
+-   [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([Download in Word](Unit 1 Word/Lab 1.3 Squares Triangles.docx))
 
 ## Pacing Guide
 

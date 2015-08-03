@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 4.2 handout (You Talkin' to Me?)](lab_42.md) 
+-   [Lab 4.2 handout (You Talkin' to Me?)](lab_42.md) ([Download in Word](Unit 4 Word/Lab 4.2 You Talkin To Me.docx))
 
 ## Pacing Guide
 

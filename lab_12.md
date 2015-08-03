@@ -20,9 +20,8 @@ In this lab, you will explore the functionality of some common blocks and where 
 | ![go to x-y](gotox-y.png)                   |          |
 | ![set size](setsize.png)                    |          |
 | ![rest for beats](restforbeats.png)         |          |
-| ![point towards](pointtowards.png)          |          |
+| ![point towards](pointtowards.png)          |          |
 
-g)| |
 
 ## 2. What does it do?
 
@@ -41,9 +40,9 @@ g)| |
 | ![go to x-y](gotox-y.png)                                                                           |                                                                                                                                                                                                                  |
 | ![set size](setsize.png)                                                                            |                                                                                                                                                                                                                  |
 | ![rest for beats](restforbeats.png)                                                                 |                                                                                                                                                                                                                  |
-| ![point towards](pointtowards.png)                                                                  |                                                                                                                                                                                                                  |
+| ![point towards](pointtowards.png)                                                                  |                                                                                                                                                                                                                 |
 
-g)| |
+
 
 **2.2) At this point, you may be noticing some patterns. Use what you've learned from exploring these blocks to answer the questions below about each block category.**
 

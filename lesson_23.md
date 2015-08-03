@@ -16,7 +16,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Lab 2.3 Handout - [What Shape is That?](lab_23.md)
+-   Lab 2.3 Handout - [What Shape is That?](lab_23.md) ([Download in Word](Unit 2 Word/Lab 2.3 What Shape Is That.docx))
 
 ## Pacing Guide
 

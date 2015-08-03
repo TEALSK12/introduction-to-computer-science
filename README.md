@@ -13,7 +13,7 @@ launching the curriculum by 7/24/2015.
 
 While we finish the curriculum materials, you can view the old version of the **Intro CS curriculum guide** by visiting the TEALS Dashboard and clicking on "Additional Curriculum Materials." Once SharePoint loads, navigate to "Other Curriculum Materials" on the left navigation. You should see the Intro CS Guide document in the library. This document is somewhat out of date, but will give you the overall structure of the course. A replacement will appear as part of this gitbook prior to 7/24/2015.
 
-[Test](http://www.bing.com/)
+[Test](http://www.bing.com/foobar.html)
 
 Send feedback and suggestions to
 [IntroSquad@tealsk12.org](mailto:introsquad@tealsk12.org)

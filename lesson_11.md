@@ -11,7 +11,8 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 1.1 handout](lab_11.md) (Welcome to SNAP!) ([Download in Word](Unit 1 Word/Lab 1.1 Welcome To SNAP.docx))
+-   [Lab 1.1 handout](lab_11.md) (Welcome to SNAP!) ([Download in Word](Unit 1 Word/Lab 1.1 Welcome To SNAP.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
+
 -   Ensure that all classroom computers can access <http://snap.berkeley.edu/run>.
 -   Read through the lab so that you are familiar with the requirements and can assist students as needed
 

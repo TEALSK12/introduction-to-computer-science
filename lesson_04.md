@@ -5,7 +5,7 @@ Students will be able to...
   * Create a simple "program" in SNAP to describe themselves
 
 ## Materials/Preparation
-* [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([Download in Word](Unit 0/Lab 0.4.docx))
+* [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([Download in Word](Unit 0/Lab 0.4.docx)) ([Link to PDF](Unit 0/Lab 0.4.pdf)) 
 
 
 ## Pacing Guide

@@ -72,3 +72,32 @@ Once you complete the above, you can extend your program. Some suggestions:
 **We will demo the most interesting projects in class, so be creative!**
 
 ##Grading Criteria
+The detailed list for what we will use to grade your projects is below. Please review your projects before submitting to be sure you meet all of them. If you have any questions on whether you meet a requirement, please ask us!!
+
+|Requirement | Value |
+|------------|-------|
+| Mario turns to the right on right arrow key | 5 |
+| Mario turns to the left on left arrow key | 5 |
+| Mario performs an in-place animated walk if you hold down either arrow key | 5
+| Mario jumps based on some input | 5 |
+| There are least two scenery sprites | 5 |
+| Scenery sprites are layered with Mario (e.g. appropriate layering blocks are in your program) | 5 |
+| Scenery sprites move based on Mario’s movement | 5 |
+| Scenery sprites move at different speeds (e.g. far away versus near) | 5 |
+| Scenery sprites roll over when the fall of the stage | 5 |
+| There is at least one on-ground enemy | 5 |
+| Enemy sprite always moves towards Mario | 5 |
+| Enemy sprite re-appears/rolls over correctly | 5 |
+| Enemy sprite is animated when it moves | 5 |
+| If Mario does not jump, he runs into the enemy and the game ends nicely and properly | 10 |
+| Mario can jump over the enemy | 5 |
+| *Good programming #1:* Program has clear start and stop | 5 |
+| *Good programming #2:* Program is repeatable and initializes state correctly | 5 |
+| * Good programming #3:* Use of comments in your code | 5 |
+| *Good programming #4:* General skills you’ve been taught | 5 |
+| **Extra Credit:** Include flying enemies for Mario to dodge or duck | 5 |
+| **Extra Credit:** Keep score based on how many objects Mario gets by | 5 |
+| **Extra Credit:** Have Mario jump to ‘grab’ an object that offers Mario extra points or more powerful abilities. The objects must appear at random times and move smoothly as Mario runs | 10 |
+| **Extra Credit:** Create Your Own Extension | 0-10 |
+| **TOTAL POINTS** | **100** (130 Possible with all the extra credit) |
+

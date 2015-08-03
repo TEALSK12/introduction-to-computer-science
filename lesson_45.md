@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 4.5 handout (It's Around Here Somewhere)](lab_45.md)
+-   [Lab 4.5 handout (It's Around Here Somewhere)](lab_45.md) ([Download in Word](Unit 4 Word/Lab 4.5 Its Around Here Somewhere.docx))
 
 ## Pacing Guide
 

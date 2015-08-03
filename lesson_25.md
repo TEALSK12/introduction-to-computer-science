@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 2.6 handout (What Goes Up...)](lab_26.md)
+-   [Lab 2.6 handout (What Goes Up...)](lab_26.md) ([Download in Word](Unit 2 Word/Lab 2.5 What Goes Up.docx))
 
 ## Pacing Guide
 

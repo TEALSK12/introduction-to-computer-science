@@ -31,7 +31,6 @@
    * [Lesson 2.5: Combining Loops and Conditionals](lesson_25.md)
    * [Lab 2.5: What Goes Up...](lab_25.md)
    * [Lesson 2.6: Platform Game Project](lesson_26.md)
-       * Project 2: Platform Game (Easy Version)
    * [Project 2: Platform Game](project_2.md)
 * [Unit 3: Variables and Customization](unit_3.md)
    * [Lesson 3.1: Variables](lesson_31.md)

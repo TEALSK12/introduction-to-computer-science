@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 5.2 handout](lab_52.md) (Lots of Balls) ([Download in Word](Unit 5 Word/Lab 5.2 Lots of Balls.docx))
+-   [Lab 5.2 handout](lab_52.md) (Lots of Balls) ([Download in Word](Unit 5 Word/Lab 5.2 Lots of Balls.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Lab%205.2%20Lots%20of%20Balls.pdf))
     -   Test out the lab on student machines before class--  cloning in SNAP! can bring the web browser to a crawl on some machines
 
 ## Pacing Guide

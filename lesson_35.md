@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Reference to the Pong project: [Pong](project_3.md)
+-   Reference to the Pong project: [Pong](project_3.md) ([Download in Word](Projects/Projects Word/Project 3 Pong.docx))
 -   [Optional] Printouts of the specification
 -   Link to an online version of Pong for demonstration: <http://www.ponggame.org/>
 

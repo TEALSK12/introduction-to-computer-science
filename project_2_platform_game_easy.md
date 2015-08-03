@@ -52,15 +52,23 @@ There should be an on-ground enemy for Mario to contend with. Specific criteria 
     - It should be possible for Mario to jump over the enemy.
     
     <br/>
- ##Reminders and Extensions
-**Programming Habits**
-<br/>
+ ##Programming Habits
     We will again look for you to incorporate good programming habits in your code:
 
     - Using Start and Stop blocks.
     - Making sure you initialize state appropriately so that your program is repeatable.
     - Add comments to your code so it is easy to understand.
     - Always keep in mind all Good Programming Skills you’ve been taught
+    
+ ##Additional Extensions
+Once you complete the above, you can extend your program. Some suggestions:
 
-<br/>
-**Additional Extensions**
+    - Include flying enemies for Mario to dodge or duck
+
+    - Keep score based on how many objects Mario gets by [Hint: Use a variable and show it on the screen]
+
+    - Have Mario jump to ‘grab’ an object that offers Mario extra points or more powerful abilities (such as jumping higher or not being killed when he runs into an enemy). The objects must appear at random times and move smoothly as Mario runs
+
+**We will demo the most interesting projects in class, so be creative!**
+
+##Grading Criteria

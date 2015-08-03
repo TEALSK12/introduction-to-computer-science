@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 1.4 handout](lab_14.md) (Sprites in Action)
+-   [Lab 1.4 handout](lab_14.md) (Sprites in Action) ([Download in Word](Unit 1 Word/Lab 1.4 Sprites in Action.docx))
 
 ## Pacing Guide
 

@@ -10,7 +10,7 @@ In this lab, you will explore SNAP and create a simple "self-portrait" program t
 |---|---|
 |1.   |   |
 |2.   |   |
-|3.   |   |
+|3.   |.   |
 
 3. Find a partner and compare notes.  Share your findings with your partner and ask him or her about what he or she learned.  Write down the three capabilities your partner found below.
 
@@ -18,7 +18,7 @@ In this lab, you will explore SNAP and create a simple "self-portrait" program t
 |---|---|
 |1.   |   |
 |2.   |   |
-|3.   |   |
+|3.   |.   |
 
 4. Using what you've learned and other things you might discover, create a SNAP program that describes yourself.  This can take whatever form and use whatever SNAP tools and blocks you want.  Make sure that somehow, at some point in your program you show the following information:
     * Your name

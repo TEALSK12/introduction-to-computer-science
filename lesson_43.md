@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 4.3 handout (Guess Who)](lab_43.md) 
+-   [Lab 4.3 handout (Guess Who)](lab_43.md) ([Download in Word](Unit 4 Word/Lab 4.3 Guess Who.docx))
 
 ## Pacing Guide
 

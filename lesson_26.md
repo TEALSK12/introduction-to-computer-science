@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Reference to the Platform Game project: [Platform Game](project_2.md)
+-   Reference to the Platform Game project: [Platform Game](project_2.md) 
 -   [Optional] Printouts of the specification 
 -   A few suggested themes available for students who may struggle to come up with their own.
 -   Suggestions for characters, power-ups, goals, etc.

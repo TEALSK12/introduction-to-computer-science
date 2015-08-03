@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 2.4 handout (Triangles of All Kinds)](lab_24.md)
+-   [Lab 2.4 handout (Triangles of All Kinds)](lab_24.md) ([Download in Word](Unit 2 Word/Lab 2.4 Triangles of All Kinds.docx))
 
 ## Pacing Guide
 

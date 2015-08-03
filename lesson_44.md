@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 4.4 handout (Number Cruncher)](lab_44.md)
+-   [Lab 4.4 handout (Number Cruncher)](lab_44.md) ([Download in Word](Unit 4 Word/Lab 4.4 Number Cruncher.docx))
 
 ## Pacing Guide
 

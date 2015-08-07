@@ -1,6 +1,6 @@
 # Summary
 
-* [introduction](README.md)
+* [Introduction](README.md)
 * [Curriculum Map](curriculum_map.md)
 * [Unit 0: Beginnings](unit_0.md)
    * [Lesson 0.1: The First Day](lesson_01.md)

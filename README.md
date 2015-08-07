@@ -61,6 +61,7 @@ With a few exceptions, each daily lesson plan consists of the following componen
 
 ###Special lesson plans
 The curriculum includes a few special lesson plans that are intended to be applied at multiple times during the semester.  These lesson plans are templates for a particular type of lesson, though the specific topics will vary each time the plan is used.  
+
 These special plans include:
 - Lab Day Lesson 
     - This lesson plan provides structure for a typical “lab day” (a class day in which students are primarily working on a larger-scale project).  

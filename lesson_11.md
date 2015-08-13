@@ -32,7 +32,6 @@ Students will be able to...
 | 30 minutes | Continue lab                                  |
 | 10 minutes | Debrief, turn-in, and wrap-up                 |
 
-p|
 
 ## Instructor's Notes
 

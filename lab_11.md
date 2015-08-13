@@ -30,7 +30,7 @@ Click it, select the "sign up" option in the menu, and follow the instructions t
 
 You may have noticed that there are a few main sections of the SNAP! window. These regions are named as shown below. 
 
-![](SNAPOverview.png)
+![](snapOverview.png)
 
 ## 2. Blocks
 

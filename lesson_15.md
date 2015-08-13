@@ -68,7 +68,7 @@ Students will be able to...
         -   Ensure that students are able to ask questions in class throughout the project
     -   See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
 
-## Accomodation/Differentiation
+## Accommodation/Differentiation
 
 -   Instead of a nursery rhyme, students can recreate a famous scene from a movie or play, depict lyrics from their favorite song, or develop their own unique animations.  Feel free to modify the specification for whichever version will appeal most to your students.
 -   Advanced students can be encouraged to add detail and/or complexity to their project for possible extra credit.

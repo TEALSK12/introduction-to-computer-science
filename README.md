@@ -11,7 +11,7 @@ Welcome to the new TEALS Intro CS Curriculum!
 
 This curriculum has been designed by the TEALS program to support computer science teachers and/or volunteer professionals teaching an introductory computer science course in a high school classroom.  The curriculum is based on, and borrows heavily from, the Beauty and Joy of Computing Curriculum (http://bjc.berkeley.edu/) developed at the University of California, Berkeley.  The TEALS curriculum has a heavier focus on the basic programming components of the course than BJC, sacrificing some of the advanced programming and conceptual topics that are less appropriate in an introductory high school classroom.  
 
-This curriculum advocates a “hands-on” learning approach in which students’ primary means of learning is through discovery, experimentation, and application.  To that end, each unit is built around a large, culminating, programming project that exercises the objectives of the unit.  In addition, nearly all lessons in the curriculum include a guided activity of some kind to allow students to practice with and experience the concepts covered in the lesson first-hand.  Taken together, the lessons provide the skills and support necessary to enable to students to complete the project and demonstrate mastery of the unit’s objectives.  Substantial class time should be provided for the project in each unit to ensure students have the opportunity to demonstrate mastery of the skills from each unit before moving on. 
+This curriculum advocates a "hands-on" learning approach in which students' primary means of learning is through discovery, experimentation, and application.  To that end, each unit is built around a large, culminating, programming project that exercises the objectives of the unit.  In addition, nearly all lessons in the curriculum include a guided activity of some kind to allow students to practice with and experience the concepts covered in the lesson first-hand.  Taken together, the lessons provide the skills and support necessary to enable to students to complete the project and demonstrate mastery of the unit's objectives.  Substantial class time should be provided for the project in each unit to ensure students have the opportunity to demonstrate mastery of the skills from each unit before moving on. 
 
 Because this curriculum was designed to be used in a wide variety of classrooms, we have made as few assumptions as possible.  In particular, the curriculum does not depend on any specific technologies or resources in the classroom other than computers with reliable internet access.  This curriculum is also designed without any student homework assignment, as not all classes will have students who can reliable access a computer with internet access at home.  For classes where home computer access is not an issue, some amount of lab work can be reassigned as homework.
 
@@ -39,9 +39,9 @@ Most lesson plans in this curriculum are designed to represent a single 55-minut
 With a few exceptions, each daily lesson plan consists of the following components:
 
 1)	Welcome/Announcements/Bell work
-- Five minutes are allotted at the beginning of each day for administrative tasks such as taking attendance, giving announcements, returning work, or other necessary actions.  During this time, teachers are encouraged to assign “bell work” (sometimes called “do now” activities) for students to work on.  
+- Five minutes are allotted at the beginning of each day for administrative tasks such as taking attendance, giving announcements, returning work, or other necessary actions.  During this time, teachers are encouraged to assign "bell work" (sometimes called "do now" activities) for students to work on.  
 - These activities aim to engage students with the subject immediately upon entering the room, and should be short, clear, and able to be completed by all students.  
-- Specific “do now” activities are not given in the lesson plans, as they should be chosen by the teacher to reinforce or preview the specific topics with which students have or are expected to struggle most.
+- Specific "do now" activities are not given in the lesson plans, as they should be chosen by the teacher to reinforce or preview the specific topics with which students have or are expected to struggle most.
 
 2)	Instruction/Discussion
 - Most lessons begin with a brief period of instruction on the topic of the day.  These sections should be kept as brief as possible—the primary means of student learning in most lessons will be the lab activities.  
@@ -49,7 +49,7 @@ With a few exceptions, each daily lesson plan consists of the following componen
 - Teaching teams should vary the ways in which the instruction is presented throughout the course, including class discussions, kinesthetic activities, demonstrations, Socratic seminars, occasional lectures, and other approaches. 
 
 3)	Activity
-- The largest portion of time in each lesson is dedicated to a guided activity that allows students to explore and practice with the day’s key topics.  Each activity is broken down into several parts, each of which consists of several steps.  In general, the steps in a single section build on each other, and each section covers a new topic or new application.  
+- The largest portion of time in each lesson is dedicated to a guided activity that allows students to explore and practice with the day's key topics.  Each activity is broken down into several parts, each of which consists of several steps.  In general, the steps in a single section build on each other, and each section covers a new topic or new application.  
 - It is intended that the labs be well enough structured for students to work through on their own, but teachers should feel free to interject at appropriate points to assess student progress and provide additional guidance as necessary.
 - On occasion, steps 3 and 4 are repeated for multi-part activities.
 
@@ -64,12 +64,12 @@ The curriculum includes a few special lesson plans that are intended to be appli
 
 These special plans include:
 - Lab Day Lesson 
-    - This lesson plan provides structure for a typical “lab day” (a class day in which students are primarily working on a larger-scale project).  
+    - This lesson plan provides structure for a typical "lab day" (a class day in which students are primarily working on a larger-scale project).  
     - The lab day lesson plan will most often be used during the culminating project of each unit, but can also occasionally be used for larger lab activities that require being split over multiple days.  
     - The lab day lesson provides a basic structure for reviewing and reinforcing important concepts before providing time for students to work independently.  
     - The lesson also provides recommendations for how to deal with questions and struggling students, and how to gauge student progress over the course of a project.
 - Culture Day Lessons 
-    - These lesson plans provide the basic outline for possible types of “culture days” (class days in which cultural, social, societal, or other topics not directly related to programming are covered).  
+    - These lesson plans provide the basic outline for possible types of "culture days" (class days in which cultural, social, societal, or other topics not directly related to programming are covered).  
     - These days are vital to the experience of this course, as they provide opportunities for students to connect the skills and concepts they are learning to real-world problems, view their society and culture through the lens of technology, and get glimpses of the types of problems and applications that they could encounter in further study of computer science.  
     - These lessons also provide an outstanding opportunity for students to bring their own personal experiences or knowledge into the classroom.  
     - Each culture day lesson plan provides a high-level structure for conducting one of several different forms of a culture day.  
@@ -80,4 +80,4 @@ These special plans include:
 This curriculum does not assign homework as part of its typical lessons.  Because this curriculum is intended to be used in a wide variety of classrooms, some of which may include students that do not have regular access to an internet-enabled computer at home, all work is done during class time.  In some circumstances, assigning some lab activities as homework can enable the teaching team to regain in-class time for additional lessons or activities, but this must be done with care.  In particular, if homework is assigned, arrangements must be made so that any students who do not have the ability to complete the homework at home do not fall behind.  Further, it should be expected that some students will not complete the assigned homework and teaching teams must have a way to both assess that homework was completed and ensure the material is reinforced briefly in class.
 
 ##Updates and contributions
-This curriculum is considered a living document and is intended to be updated regularly both by the TEALS team and with contributions from the TEALS community.  In particular, feedback on teaching teams’ experiences in conducting the lessons in this curriculum is always welcome.  Teaching teams are also encouraged to share ideas for additional activities, lessons, or projects that can be incorporated into the curriculum guide.  Please see the [Contributing](Contributing.md) page for more information about how to contribute to the curriculum, or send feedback to IntroSquad@tealsk12.org.  
+This curriculum is considered a living document and is intended to be updated regularly both by the TEALS team and with contributions from the TEALS community.  In particular, feedback on teaching teams' experiences in conducting the lessons in this curriculum is always welcome.  Teaching teams are also encouraged to share ideas for additional activities, lessons, or projects that can be incorporated into the curriculum guide.  Please see the [Contributing](Contributing.md) page for more information about how to contribute to the curriculum, or send feedback to IntroSquad@tealsk12.org.  

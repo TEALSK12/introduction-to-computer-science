@@ -22,7 +22,6 @@ Students will be able to...
 ## Instructor's Notes
 
 1.  Review
-
     -   Ask to students to restate the definition of "loop"
         -   _A type of block that causes other code to run multiple times in succession_
     -   Ask students to explain why loops are useful in programming
@@ -34,12 +33,11 @@ Students will be able to...
         -   Small changes, such as altering the size of the shape, became simpler
 
 2.  Lecture
-
     1.  Ask students to consider the problem of drawing two squares next to each other
 
         -   Work through writing a script to do this.  The likely result will duplicate the code to draw a single square: 
 
-        ![](<two squares.png>)
+        ![](<twosquares.png>)
 
         -   Remind students to remember what they previously learned and use loops
         -   Once the script is complete, ask students if there are ways they could improve the code
@@ -53,7 +51,7 @@ Students will be able to...
         -   Emphasize that the inner loop will run all its iterations _each time_ the outer loop runs.
     4.  Walk through rewriting the script to draw multiple squares to use nested loops:
 
-    ![](<two squares nested.png>)
+    ![](<twosquaresnested.png>)
 
         * Ask how many total times the sprite will move 50 steps
             * The sprite will move 50 steps 8 times (4 * 2)

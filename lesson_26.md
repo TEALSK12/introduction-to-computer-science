@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Reference to the Platform Game project: [Platform Game](project_2.md) ([Download in Word](Projects/Projects Word/Project 2 Platform Game.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Project%202%20Platform%20Game.pdf))
+-   Reference to the Platform Game project: [Platform Game](project_2.md) ([Download in Word](Projects/Projects Word/Project 2 Platform Game.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=HNTqByUTbkunmpikZb27IFL%2fpF93zt2Si5vQuQjxsUE%3d&docid=024981906f8a74c7b9bf318d24874e002))
 -   Easy Version of Project: [Easy Platform Game](project_2_platform_game_easy.md) ([Download in Word](Projects/Projects Word/Project 2 Platform Game Easy.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Project%202%20Platform%20Game%20Easy.pdf))
 -   [Optional] Printouts of the specification 
 -   A few suggested themes available for students who may struggle to come up with their own.

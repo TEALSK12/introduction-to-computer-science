@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 2.6 handout (What Goes Up...)](lab_26.md) ([Download in Word](Unit 2 Word/Lab 2.5 What Goes Up.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Lab%202.5%20What%20Goes%20Up.pdf))
+-   [Lab 2.6 handout (What Goes Up...)](lab_26.md) ([Download in Word](Unit 2 Word/Lab 2.5 What Goes Up.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=1BkJFCR%2bilrnGb2XqVHrb7vhwGPzJAs1it1MIdA6gRE%3d&docid=0a41e749c70e242b4abf080416e4e4e7e))
 
 ## Pacing Guide
 

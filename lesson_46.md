@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Project 4 - Hangman](project_4.md) ([Download in Word](Projects/Projects Word/Project 4 Hangman.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Project%204%20Hangman.pdf))
+-   [Project 4 - Hangman](project_4.md) ([Download in Word](Projects/Projects Word/Project 4 Hangman.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=mHd6gIaO8ivIS5HP6mPfe1lAHmuL7Zd193Kz0Xy8aFw%3d&docid=0bbc76be3ba0348a786759f446d4e638f))
 
 -   [Optional] Printouts of the specification
 -   Link to an online version of Hangman, such as <http://www.playhangman.com/> 

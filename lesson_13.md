@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([Download in Word](Unit 1 Word/Lab 1.3 Squares Triangles.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Lab%201.3%20Squares%20Triangles.pdf))
+-   [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([Download in Word](Unit 1 Word/Lab 1.3 Squares Triangles.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=WFwSRLBOuSCrLm81fSTBexpKq4pf2loFn0pW3xtW5uk%3d&docid=00f6a997df7e348f8bb387141050391af))
 
 ## Pacing Guide
 

@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 2.4 handout (Triangles of All Kinds)](lab_24.md) ([Download in Word](Unit 2 Word/Lab 2.4 Triangles of All Kinds.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Lab%202.4%20Triangles%20of%20All%20Kinds.pdf))
+-   [Lab 2.4 handout (Triangles of All Kinds)](lab_24.md) ([Download in Word](Unit 2 Word/Lab 2.4 Triangles of All Kinds.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=hxvo2nEHBhwdcjTXTK791hy01%2f8Fo5Z21cqgMR61PX8%3d&docid=04f343aec4d8141038dd482233763ef3c))
 
 ## Pacing Guide
 

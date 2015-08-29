@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 3.3 handout](lab_33.md) (Let Me Check My Calendar) ([Download in Word](Unit 3 Word/Lab 3.3 Let Me Check My Calendar.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.pdf))
+-   [Lab 3.3 handout](lab_33.md) (Let Me Check My Calendar) ([Download in Word](Unit 3 Word/Lab 3.3 Let Me Check My Calendar.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=tQMUBxbJaIcurEwX%2bKu4S10IdJL68E4kFsxLXuWHY90%3d&docid=018e7f81d7e1942e8983e3f1f94664f46))
 
 
 ## Pacing Guide

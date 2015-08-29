@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 4.3 handout (Guess Who)](lab_43.md) ([Download in Word](Unit 4 Word/Lab 4.3 Guess Who.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Lab%204.3%20Guess%20Who.pdf))
+-   [Lab 4.3 handout (Guess Who)](lab_43.md) ([Download in Word](Unit 4 Word/Lab 4.3 Guess Who.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=Fe7suj0aHM6%2b6eAkY2malrioWDYQOAJlZpbqWbKF9Zo%3d&docid=0a68fff396ca94bbeaf9916b70a76f224))
 
 ## Pacing Guide
 

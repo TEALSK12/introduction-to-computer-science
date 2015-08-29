@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 4.4 handout (Number Cruncher)](lab_44.md) ([Download in Word](Unit 4 Word/Lab 4.4 Number Cruncher.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/Shared%20Documents/Intro%20CS%20Labs%20PDF/Lab%204.4%20Number%20Cruncher.pdf))
+-   [Lab 4.4 handout (Number Cruncher)](lab_44.md) ([Download in Word](Unit 4 Word/Lab 4.4 Number Cruncher.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=1gN2zWm8uKxtwqRfhStVri%2bbp35kWjwyz1D5bvtzOFw%3d&docid=01c26b4146af742659458a2d427bdfd11))
 
 ## Pacing Guide
 

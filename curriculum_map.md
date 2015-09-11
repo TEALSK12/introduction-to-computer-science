@@ -13,7 +13,8 @@
 ## Unit 1: SNAP Basics
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
-| 1.1: Welcome to SNAP    | Define and identify "blocks," "scripts," "sprites," and "the stage" in SNAP. Write simple SNAP programs. Describe what simple SNAP programs do without executing the code.  | Welcome to SNAP! |
+| 1.1.1: Welcome to SNAP    | Define and identify "blocks," "scripts," "sprites," and "the stage" in SNAP. Write simple SNAP programs. Describe what simple SNAP programs do without executing the code.  | Welcome to SNAP! |
+| 1.1.2: Welcome to SNAP (Day Two)    | Continued lab  | Welcome to SNAP! |
 | 1.2: Building Blocks    |  Name the categories of blocks in SNAP and describe what the blocks in each category do. Describe the function of several common SNAP blocks. Be able to use common blocks to build simple SNAP programs. | SNAP Scavenger Hunt |
 | 1.3: Drawing Shapes    | Construct simple algorithms to draw shapes. Convert algorithms into SNAP programs. | Squares and Triangles and Stars, Oh My! |
 | 1.4: Animation    | Animate SNAP sprites using costume changes and movement. Trigger action in other sprites using broadcasts.  | Sprites in Action |
@@ -28,8 +29,7 @@
 ## Unit 2: Loop-de-Loop
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
-| 2.1.1: Loops | Define "loop" in a programming context. Explain why loops are useful. Implement simple repeat and forever loops in SNAP. Utilize loops to reduce redundancy in code. | Squares and Triangles Redux |
-| 2.1.2: Loops II | Define "loop" in a programming context. Explain why loops are useful. Implement simple repeat and forever loops in SNAP. Utilize loops to reduce redundancy in code. | Squares and Triangles Redux |
+| 2.1: Loops | Define "loop" in a programming context. Explain why loops are useful. Implement simple repeat and forever loops in SNAP. Utilize loops to reduce redundancy in code. | Squares and Triangles Redux |
 | 2.2: Nested Loops | Use nested loops to solve programming problems. | Another Brick in the Wall |
 | 2.3: Inputs and Conditionals | Ask for and receive user input in a SNAP program. Use simple conditional (if and if-else) blocks to alter control flow in a SNAP program. | What Shape Is That? | 
 | 2.4: Boole in the House | Define and identify Boolean expressions and operators. Evaluate Boolean expressions. Utilize Boolean operators (and/or/not) to create compound conditions. | Triangle of All Kinds |

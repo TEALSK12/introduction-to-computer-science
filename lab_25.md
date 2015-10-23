@@ -20,7 +20,7 @@ In this lab, you will use everything you've learned about loops and conditionals
 
 ## ...Must Come Down
 
-1.  Add a second sprite that looks like something that might already be on the ground when your first object is falling (like a house, a picnic table, a person, etc.).  Put this new object directly below where the first object falls so that the following object will hit it.
+1.  Add a second sprite that looks like something that might already be on the ground when your first object is falling (like a house, a picnic table, a person, etc.).  Put this new object directly below where the first object falls so that the falling object will hit it.
 
 2.  What should happen when the following object hits the object on the ground?  Will that happen with the model we currently have?  Why or why not?
     <br/>

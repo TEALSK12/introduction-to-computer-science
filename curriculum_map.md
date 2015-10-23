@@ -50,10 +50,11 @@
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 3.1: Variables | Use variables to track values throughout a program. | Guessing Game |
-| 3.2: Abstraction and Friends | Define abstraction, detail removal, generalization, and procedural decomposition in a computer science context. Describe how utilizing procedural decomposition can improve the readability and maintainability of algorithms and/or code. Recognize opportunities to improve algorithms by abstracting or generalizing parts into subprocedures. | Drawing Shapes (Again) |
-| 3.3: Customizing I: Arguments | Build custom SNAP blocks that take arguments. | Let Me Check My Calendar |
-| 3.4: Customizing II: Reporters and Predicates | Build custom reporter and predicate blocks in SNAP. | If My Calculations Are Correct... |
-| 3.5: Pong Project | Use custom blocks to implement a well-written version of Pong. Practice good style and conventions to create readable and maintainable code. | Project 3: Pong |
+| 3.2: Abstraction and Friends | Define abstraction, detail removal, generalization, and procedural decomposition in a computer science context. Describe how utilizing procedural decomposition can improve the readability and maintainability of algorithms and/or code. Recognize opportunities to improve algorithms by abstracting or generalizing parts into subprocedures. | N/A |
+| 3.3: Procedures | Build custom command blocks in Snap. Utilize detail removal and generalization to construct blocks that practice abstraction. | Drawing Shapes (Again) |
+| 3.4: Customizing I: Arguments | Build custom SNAP blocks that take arguments. | Let Me Check My Calendar |
+| 3.5: Customizing II: Reporters and Predicates | Build custom reporter and predicate blocks in SNAP. | If My Calculations Are Correct... |
+| 3.6: Pong Project | Use custom blocks to implement a well-written version of Pong. Practice good style and conventions to create readable and maintainable code. | Project 3: Pong |
 | 3.6: Project Day 1 | Project Work  | Project 3: Pong |
 | 3.7: Project Day 2 | Project Work  | Project 3: Pong |
 | 3.8: Project Day 3 | Project Work  | Project 3: Pong |

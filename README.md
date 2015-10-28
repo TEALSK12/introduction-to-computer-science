@@ -4,6 +4,8 @@
 aligning the class with other standards, but we need a more exciting
 name to attract students! -->
 
+<!-- Checking repo move to github -->
+
 Welcome to the new TEALS Intro CS Curriculum!
 
 ## About this curriculum

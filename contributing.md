@@ -1,6 +1,11 @@
 <!-- This document is very idealistic by design, feel free to suggest toning down any part -->
 # Contributing
 
+## Repository Location
+The curriculum's source code is hosted on Github at: https://github.com/TEALS-IntroCS/introduction-to-computer-science-principles
+
+You can open issues, fork the curriculum, or submit pull requests to suggest changes.
+
 ## Markdown style
 
 To keep the curriculum's underlying markdown consistent, we use [this markdown style guide](http://www.cirosantilli.com/markdown-style-guide). Since markdown is not a strict specification, there are a few options we choose to take from the style guide

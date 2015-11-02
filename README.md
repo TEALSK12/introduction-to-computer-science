@@ -7,6 +7,10 @@ name to attract students! -->
 Welcome to the new TEALS Intro CS Curriculum!
 
 ## About this curriculum
+
+### License
+This curriculum is licensed under the Creative Commons Attribution Non-Commercial Share-alike License (http://creativecommons.org/licenses/by-nc-sa/4.0/), which means you may share and adapt this material for non-commercial uses as long as you attribute its original source, and retain these same licensing terms.
+
 ### Philosophy
 
 This curriculum has been designed by the TEALS program to support computer science teachers and/or volunteer professionals teaching an introductory computer science course in a high school classroom.  The curriculum is based on, and borrows heavily from, the Beauty and Joy of Computing Curriculum (http://bjc.berkeley.edu/) developed at the University of California, Berkeley.  The TEALS curriculum has a heavier focus on the basic programming components of the course than BJC, sacrificing some of the advanced programming and conceptual topics that are less appropriate in an introductory high school classroom.  

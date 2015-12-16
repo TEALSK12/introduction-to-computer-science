@@ -9,7 +9,7 @@ You will write a SNAP program to choose a random number between 1 and 10 and the
 
 1.  Fill out a [Planning Worksheet](<SNAP Program Design and Planning Worksheet.docx>) for the above program.
 
-2.  Write the simple version of the guesing game program described above.
+2.  Write the simple version of the guessing game program described above.
 
 3.  Modify the program to keep asking the user for guesses until the correct number is given.  Be sure to give a message after each guess, but only reveal the secret number when the user has guessed correctly and the game is over.
 

@@ -39,7 +39,7 @@ Students will be able to...
         -   Nested loops
         -   User input
         -   Conditional blocks
-        -   Advanced (conditional) loops)
+        -   Advanced (conditional) loops
         -   Boolean logic
     -   Remind students that their solutions to previous assignments are an excellent resource when trying to accomplish similar tasks.
 2.  Introduce project

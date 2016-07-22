@@ -7,7 +7,7 @@ In this lab, you will write your first SNAP programs to draw some simple shapes 
 
 1.1) Write a SNAP script that draws a square when the number 1 is pressed on the keyboard. Remember that each corner of a square is a 90° angle, as shown in the figure below.
 
-![square diagram](90degreesquare.png)
+![square diagram](squarediagram.png)
 
 1.2) Add code so that the sprite says the word "square" while it is drawing. The sprite should stop saying "square" once it has finished drawing the square.
 

@@ -29,7 +29,7 @@ Students will be able to...
             -   To store an unknown number of values (e.g. a bunch of student test scores)
             -   To store a collection of related values as one entity (e.g. the number of absent students each day over a week)
     -   Demonstrate creating lists in SNAP
-        -   Use the variadic "list" block to create a simple list
+        -   Use the variables "list" block to create a simple list
         -   Point out the format in which lists are displayed (gray box with red elements)
         -   Show that lists can be assigned to variables like other values
             -   Emphasize that the list is considered a single value, even though it consists of multiple values

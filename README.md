@@ -58,7 +58,7 @@ With a few exceptions, each daily lesson plan consists of the following componen
 - On occasion, steps 3 and 4 are repeated for multi-part activities.
 
 4)	Debrief
-- After each activity has concluded, time is allotted for teachers to review and debrief the activities with students.  In general, there is not enough time, nor is there necessarily the need, to go through the lab step-by-step.  Students should be able to at least partially asses their own progress by verifying that their programs function as specified in the lab.  
+- After each activity has concluded, time is allotted for teachers to review and debrief the activities with students.  In general, there is not enough time, nor is there necessarily the need, to go through the lab step-by-step.  Students should be able to at least partially assess their own progress by verifying that their programs function as specified in the lab.  
 - Rather than presenting solutions to each step of the lab, teachers are encouraged to use the debrief time to focus on particularly tricky or noteworthy parts of the lab or to discuss areas in which students struggled.  
 - Debrief time can also be used to compare and contrast different possible approaches to some of the problems, emphasizing that, in most cases, there is more than one valid solution.  
 - Whenever possible, use examples of student work rather than instructor-created solutions during the debrief—this is an excellent chance to showcase students who solve problems in elegant, creative, or canonical ways.

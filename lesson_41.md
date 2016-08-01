@@ -35,7 +35,7 @@ Students will be able to...
         -   Pay particular attention to when the various materials are needed.
             -   The key here is that the student will need to constantly be referencing this same pool of discoveries e.g. Pool, Pool + 1 discovery, Pool + 1 discovery + another etc. etc.
     -   Once discussion of the algorithm is complete, instruct students to think about how they would write a SNAP program to complete this task.  They need not write actual code, but should write pseudocode to attempt to solve the problem.  
-    -   After groups have finished, explain to them that usually scientists organize their discoveries alphabetically not recently discovered. Challenge them to create an algorithm that organizes their new discoveries with their old discoveries alphabetically. After this is done, challenge them to create it in SNAP.
+    -   After groups have finished, explain to them that usually scientists organize their discoveries alphabetically not by recently discovered. Challenge them to create an algorithm that organizes their new discoveries with their old discoveries alphabetically. After this is done, challenge them to create it in SNAP.
     -   The ultimate conclusion should be that they need a way to store the entire collection of discoveries, and operate on individual parts of the collection.
 -   Debrief
     -   In attempting to write pseudocode, students should realize that they need variables to store the discoveries, but do not know ahead of time how many variables will be necessary.

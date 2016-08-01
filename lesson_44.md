@@ -31,10 +31,11 @@ Students will be able to...
         -   Discuss errors or flaws in each solution
         -   Point out similarities between each part, emphasizing that the basic code pattern is the same each time with only the operation performed on each item changing
             -   If you feel students can handle it, you can further classify various traversals (maps, filters, folds)
-                    		* If necessary, provide the basic code pattern for a traversal again: <br/>
-                ![simple list traversal](simpleListTraversal.png)
+        -   If necessary, provide the basic code pattern for a traversal again:
+
+            ![simple list traversal](simpleListTraversal.png)
 -   Activity
-    -   Students should complete the "<Clever Title>" lab individually
+    -   Students should complete the "Number Cruncher" lab individually
         -   The operations in this lab are fairly similar to those in lab 4.3, but work with lists of numbers instead of names.  As a result, students should progress more quickly. 
         -   As in lab 4.3, help students realize that the basic code pattern in each part will be the same.
 -   Debrief

@@ -31,7 +31,7 @@ Students will be able to...
     -   Ask students to think about why this might be done, if someone is very familiar with Pokemon, it might be good to have a student explain this portion.
 -   Activity
     -   In small groups, students will write an algorithm for adding Pokemon you catch into Pokemon GO. As with the PB&J activity, the process should be complete and detailed so that a person can unambiguously follow the steps.
-        -   Students should assume that the writing is supposed to end at a specific point on the road (for example, the location of a stop sign). 
+        -   Students should assume that the writing is supposed to end at a specific point (for example, after 4 Pokemon). 
         -   The process itself will seem relatively simple.  Ensure students think not only about the steps to be taken but the necessary materials and resources.
             -   Ensure that the algorithm would work for any Pokemon of any name size and does not make assumptions.
         -   Pay particular attention to when the various materials are needed.

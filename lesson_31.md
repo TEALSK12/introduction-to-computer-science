@@ -1,5 +1,5 @@
 <!--- REVISED -->
-# Lesson 3.2: Abstraction and Friends
+# Lesson 3.1: Abstraction and Friends
 
 ## Student Objectives
 
@@ -15,7 +15,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Lab 3.2 handout - [Drawing Shapes Again](lab_32.md) ([Download in Word](Unit 3 Word/Lab 3.2 Drawing Shapes Again.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=0ccIYWJIdCBcqen8vV1fc3gOtX1A7A%2bB8NXB9KVoDWY%3d&docid=0410249c7d9d3483f9a20498e0d5cb46d))
+-   Lab 3.1 handout - [Drawing Shapes Again](lab_31.md) ([Download in Word](Unit 3 Word/Lab 3.2 Drawing Shapes Again.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=0ccIYWJIdCBcqen8vV1fc3gOtX1A7A%2bB8NXB9KVoDWY%3d&docid=0410249c7d9d3483f9a20498e0d5cb46d))
 -   Student algorithms from lesson 0.2
     -   If algorithms are not still available, either provide students with a canonical sample or have them recreate their algorithms as the first part of this lesson
 -   Paper/writing implements for each group of students

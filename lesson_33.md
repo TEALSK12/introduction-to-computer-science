@@ -1,5 +1,5 @@
 <!--- REVISED -->
-# Lesson 3.4: Customization I
+# Lesson 3.3: Customization I
 
 ## Learning Objectives
 
@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 3.4 handout](lab_34.md) (Let Me Check My Calendar) ([Download in Word](Unit 3 Word/Lab 3.4 Let Me Check My Calendar.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=tQMUBxbJaIcurEwX%2bKu4S10IdJL68E4kFsxLXuWHY90%3d&docid=018e7f81d7e1942e8983e3f1f94664f46))
+-   [Lab 3.3 handout](lab_33.md) (Let Me Check My Calendar) ([Download in Word](Unit 3 Word/Lab 3.4 Let Me Check My Calendar.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=tQMUBxbJaIcurEwX%2bKu4S10IdJL68E4kFsxLXuWHY90%3d&docid=018e7f81d7e1942e8983e3f1f94664f46))
 
 
 ## Pacing Guide
@@ -43,7 +43,7 @@ Students will be able to...
             -   Basic argument in pen category
             -   Pass by value example in "other" category
 2.  Activity
-    -   Students should complete the ["Let Me Check My Calendar"](lab_33.md) activity individually or in pairs
+    -   Students should complete the ["Let Me Check My Calendar"](lab_32.md) activity individually or in pairs
         -   This lab consists of a series of independent custom blocks.  The blocks need not necessarily be completed in the order given, but are roughly in order of difficulty.
         -   The bonus (part 2.4) requires implementing a fairly complex formula.
 3.  Debrief

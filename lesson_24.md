@@ -1,4 +1,4 @@
-# Lesson 3.1: Variables
+# Lesson 2.4: Variables <---- Formerly 3.1 ---->
 
 ## Learning Objectives
 
@@ -8,7 +8,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Lab 3.1 handout - [Guessing Game](lab_31.md) ([Download in Word](Unit 3 Word/Lab 3.1 Guessing Game.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=gE0zfvAKGs7mO%2fC6UOwtOjkV%2bXMxTavqdEwR5MSf8Bk%3d&docid=07a06c91189774fcba5de37081f87044e))
+-   Lab 2.4 handout - [Guessing Game](lab_24.md) ([Download in Word](Unit 3 Word/Lab 3.1 Guessing Game.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=gE0zfvAKGs7mO%2fC6UOwtOjkV%2bXMxTavqdEwR5MSf8Bk%3d&docid=07a06c91189774fcba5de37081f87044e))
 
 ## Pacing Guide
 

@@ -1,52 +1,59 @@
 <!--- REVISED -->
-# Lesson 3.4: Customization II
+# Lesson 3.4: Customization I
 
 ## Learning Objectives
 
 Students will be able to...
 
--   Build custom reporter and predicate blocks in SNAP
+-   Build custom SNAP blocks that take arguments
 
 ## Materials/Preparation
 
--   [Lab 3.4 handout](lab_34.md) (If My Calculations Are Correct...) ([Download in Word](Unit 3 Word/Lab 3.5 If My Calculations Are Correct.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=BKutmPhPYHFHyejuzJOMtUqlof3QLpHofIy3b0oTbyA%3d&docid=03cba66e93c6c4da1897aac268c1a6d99))
+-   [Lab 3.4 handout](lab_34.md) (Let Me Check My Calendar) ([Download in Word](Unit 3 Word/Lab 3.4 Let Me Check My Calendar.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=tQMUBxbJaIcurEwX%2bKu4S10IdJL68E4kFsxLXuWHY90%3d&docid=018e7f81d7e1942e8983e3f1f94664f46))
+
 
 ## Pacing Guide
 
 | Duration   | Description                                   |
 | ---------- | --------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
-| 10 minutes | Lecture and introduce activity                |
-| 25 minutes | Custom reporter activity                      |
+| 15 minutes | Lecture and introduce activity                |
+| 20 minutes | Custom block argument activity                |
 | 15 minutes | Debrief and wrap-up                           |
 
 ## Instructor's Notes
 
 1.  Lecture
-    1.  Introduce reporter blocks
-        -   Ask students to find blocks with the reporter shape (round) and speculate as to what they do
-            -   Point out familiar examples, such as ![](xposition.png), ![](answer.png), ![](pickrandom.png), etc.
-        -   Explain the concept of reporting (returning) a value, and how reporter blocks are used to provide values to commands
-        -   Emphasize that reporters do not (and should not) perform any action—they are used to compute values which are in turn used by commands
-    2.  Introduce predicate blocks as a special case of reporter blocks
-        -   Emphasize that predicates must return true or false
-            -   Be aware, but don't necessarily tell students, that SNAP does not enforce this
-        -   Point out examples, such as ![](touching.png), ![](lessThan.png), ![](and.png)
-        -   Ask students why it might be useful to differentiate predicates from other reporters
-            -   Only predicates can be used in a conditional
+    1.  Introduce block arguments
+        -   Ask students to speculate on risks of relying on variables instead of arguments
+            -   Variables could be changed by code other than the custom block, variable names could be changed causing errors, etc. 
+        -   Emphasize importance of custom blocks being self-contained
+            -   Custom blocks should continue to function correctly independent of any other changes in the program
+            -   Custom blocks should work correctly anywhere in the program and not require specific setup or cleanup
+        -   Point out how frustrating code would be if blocks like ![](move.png) required setting a variable with a specific name to work
+    2.  Demonstrate declaration and usage of arguments
+        -   Point out that arguments are very similar to script variables, except their values come outside the block 
+        -   Explain argument types
+            -   Only discuss text, numbers, and Booleans
+                -   Other types can be mentioned, but won't be used in the course
+            -   Ask students to describe why restricting types is important
+        -   Point out that arguments are passed by value
+            -   Specifically, changing the value of an argument inside a custom block will typically NOT change the value at the call site
+        -   [Arguments example](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%203.3)
+            -   Basic argument in pen category
+            -   Pass by value example in "other" category
 2.  Activity
-    -   Students should complete the ["If My Calculations Are Correct..."](lab_34.md) activity individually.
-        -   This lab consists of a series of independent custom blocks.  The blocks need not necessarily be completed in the order given.
-        -   Work with students to ensure they are testing their blocks properly and reporting correct values.
-        -   Part 2.2 is challenging and requires traversing a String.
+    -   Students should complete the ["Let Me Check My Calendar"](lab_33.md) activity individually or in pairs
+        -   This lab consists of a series of independent custom blocks.  The blocks need not necessarily be completed in the order given, but are roughly in order of difficulty.
+        -   The bonus (part 2.4) requires implementing a fairly complex formula.
 3.  Debrief
-    -   Ask a different student to provide their solution to each part.  If time permits, go over multiple students' work for each part.
-        -   Point out differences and discuss advantages and disadvantages to different approaches.
-        -   Emphasize that custom blocks do not have to be long and complicated to be useful.
+    -   Ask a different student to provide their solution to each part.  
+    -   If time allows, discuss multiple solutions to each part.
+        -   Emphasize differences and encourage discussion about advantages and disadvantages.
+        -   Point out corner cases and cases where typed arguments are particularly helpful.
+            -   For example, avoiding try to find out whether "bubblegum" is a leap year
 
 ## Accommodations/Differentiation
 
--   Struggling students should focus on just the first 2 or 3 parts of the lab.  Even if they cannot move on to the more difficult problems, getting used to defining custom reporters is helpful and important.
--   Advanced students who finish quickly can be utilized to assist other students.
--   Students who struggle in math may not be familiar with the distance formula used in part 2.1.  Help students to translate the math into SNAP code, but understanding the formula and its applications is not necessary for the activity.
-    -   If most students are not equipped to handle this math, a simpler computation, such as area of a triangle or average of three numbers, can be substituted.
+-   Part 2.4 is a fairly complex formula and should be a challenge for advanced students.
+-   Struggling students should focus on section 1. The problems in section 2 represent more complex algorithms, but not necessarily any more difficult usage of arguments.

@@ -43,7 +43,7 @@ Students will be able to...
             -   Basic argument in pen category
             -   Pass by value example in "other" category
 2.  Activity
-    -   Students should complete the ["Let Me Check My Calendar"](lab_32.md) activity individually or in pairs
+    -   Students should complete the ["Let Me Check My Calendar"](lab_33.md) activity individually or in pairs
         -   This lab consists of a series of independent custom blocks.  The blocks need not necessarily be completed in the order given, but are roughly in order of difficulty.
         -   The bonus (part 2.4) requires implementing a fairly complex formula.
 3.  Debrief

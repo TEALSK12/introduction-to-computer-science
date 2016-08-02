@@ -1,4 +1,4 @@
-# Lab 3.3 - Drawing Shapes (Again)
+# Lab 3.2 - Drawing Shapes (Again)
 
 In this lab, you will write code to draw regular polygons.  But this time, you will write custom blocks and abstraction to write more efficient code.
 

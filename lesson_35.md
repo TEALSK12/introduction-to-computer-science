@@ -1,5 +1,5 @@
 <!--- REVISED -->
-# Lesson 3.6: Pong Project
+# Lesson 3.5: Pong Project
 
 ## Learning Objectives
 

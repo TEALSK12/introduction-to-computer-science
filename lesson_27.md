@@ -1,5 +1,5 @@
 <!--- REVISED -->
-# Lesson 2.6: Platform Game Project   <!-- Formerly 2.7 -->
+# Lesson 2.7: Platform Game Project   
 
 ## Learning Objectives
 

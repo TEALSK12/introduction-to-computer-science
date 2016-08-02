@@ -1,4 +1,4 @@
-# Lab 3.1 - Guessing Game
+# Lab 2.4 - Guessing Game <----Formerly 3.1---->
 
 In this lab, you will use conditional statements and variables to build a simple number guessing game.
 _(Adapted from BJC: <http://bjc.eecs.berkeley.edu/bjc-r/cur/programming/conditionals/number-guessing-game-v2-0.html?topic=berkeley_bjc%2Fintro_new%2F3-conditionals.topic>)_

@@ -1,5 +1,5 @@
 <!--- REVISED -->
-# Lesson 2.4: Boole in the House   <!-- Formerly 2.5 -->
+# Lesson 2.5: Boole in the House
 
 ## Learning Objectives
 
@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 2.4 handout (Triangles of All Kinds)](lab_24.md) ([Download in Word](Unit 2 Word/Lab 2.4 Triangles of All Kinds.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=hxvo2nEHBhwdcjTXTK791hy01%2f8Fo5Z21cqgMR61PX8%3d&docid=04f343aec4d8141038dd482233763ef3c))
+-   [Lab 2.5 handout (Triangles of All Kinds)](lab_25.md) ([Download in Word](Unit 2 Word/Lab 2.4 Triangles of All Kinds.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=hxvo2nEHBhwdcjTXTK791hy01%2f8Fo5Z21cqgMR61PX8%3d&docid=04f343aec4d8141038dd482233763ef3c))
 
 ## Pacing Guide
 
@@ -46,7 +46,7 @@ Students will be able to...
         -   The lack of <= and >= operators in SNAP makes for a great example
         -   
 3.  Activity
-    -   Students should complete the ["Triangles of All Kinds"](lab_24.md) activity individually or in pairs
+    -   Students should complete the ["Triangles of All Kinds"](lab_25.md) activity individually or in pairs
         -   A number of geometric concepts (Triangle Inequality Theorem, Pythagorean Theorem, etc.) are used in this lab, but students need not have a deep understanding of them.  The necessary points are explained in the lab.
         -   Encourage students to think about whether an "and" or an "or" is appropriate in each case.  Draw out truth tables if necessary.
 4.  Debrief

@@ -9,12 +9,13 @@ Students will be able to...
 
 
 ## Pacing Guide
-|Duration|Description|`
-|--|--|
-|5 minutes | Welcome, attendance, bell work, announcements |
-|5 minutes | Introduce activity |
-|35 minutes | Getting to Know You lab |
-|10 minutes | Debrief |
+
+| Duration   | Description                                   |
+| ---------- | --------------------------------------------- |
+| 5 minutes  | Welcome, attendance, bell work, announcements |
+| 5 minutes  | Introduce Activity                            |
+| 35 minutes | Getting to Know You lab                       |
+| 10 minutes | Debrief and wrap-up                           |
 
 
 ## Instructor's Notes

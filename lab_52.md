@@ -2,7 +2,7 @@
 In this lab, you will use cloning to create many identical sprites without having to reprogram each one individually.
 
 ## Part 1 - Follow the bouncing ball
-1. Create a SNAP program that contains a single sprite.  When the green flag is clicked, the sprite should go to the center of the stage, pick a random direction, and start moving in the chosen direction at a speed of 5.  If the sprite hits a wall, it should bounce off and keep moving.
+1. Create a SNAP program that contains a single sprite.  When the green flag is clicked, the sprite should go to the center of the stage, pick a random direction, and start moving in the chosen direction.  If the sprite hits a wall, it should bounce off and keep moving.
 
 2. Modify the program to be controlled by the stage rather than by the sprite itself.  When the spacebar is pressed, the stage should broadcast a message that triggers the sprite's movement.  Pressing the spacebar again should restart the sprite's movement, including a new speed and new direction.
 

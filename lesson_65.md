@@ -8,7 +8,7 @@ Students will be able to...
 
 
 ## Materials/Preparation
-* Students should each have their [Final Project Plan Organizer](Final Project Plan Organizer.docx) and [Final Project Development Plan](Final Project Development Plan.docx)
+* Students should each have their [Final Project Plan Organizer](https://github.com/TEALS-IntroCS/introduction-to-computer-science-principles/raw/master/Final%20Project%20Plan%20Organizer.docx) and [Final Project Development Plan](https://github.com/TEALS-IntroCS/introduction-to-computer-science-principles/raw/master/Final%20Project%20Development%20Plan.docx)
 
 ## Pacing Guide
 

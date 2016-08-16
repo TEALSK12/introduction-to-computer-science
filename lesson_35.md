@@ -44,6 +44,19 @@ Students will be able to...
         -   Point out differences and discuss advantages and disadvantages to different approaches.
         -   Emphasize that custom blocks do not have to be long and complicated to be useful.
 
+##BJC Lecture Suggestion
+####Background Information for Instructors 
+* [BJC Lecture 9: Recusion](https://www.youtube.com/watch?v=JKn3nsfzBdA)
+ - Movie “Inception” as an example of recursion 0:00-0:50
+ - Recursion 0:50-1:40
+ - Recursion Demo in Snap 1:40-17:00
+ - Overview 17:00-21:00
+ - Definition of Recursion 21:00-24:30
+ - Examples of Recursion (You Already Know It!) 24:30-26:20
+ - Trust the Recursion 26:22-29:40
+ - Summary of Recursion 29:40-End
+
+
 ## Accommodations/Differentiation
 
 -   Struggling students should focus on just the first 2 or 3 parts of the lab.  Even if they cannot move on to the more difficult problems, getting used to defining custom reporters is helpful and important.

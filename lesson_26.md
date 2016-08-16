@@ -31,9 +31,10 @@ Students will be able to...
 | 30-35 minutes | Lab time                                      |
 | 5 minutes     | Exit ticket                                   |
 
-## Instructor's Notes
 
-1.  Review/Introduction
+## Instructor's Notes
+    
+ 1.  Review/Introduction
     -   Play a review game (such as [GrudgeBall](http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html)) to remind students of the skills and concepts have been learned in this unit.
         -   Basic loops
         -   Nested loops
@@ -57,6 +58,27 @@ Students will be able to...
             -   If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
         -   Ensure that students are able to ask questions in class throughout the project
     -   See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
+
+## BJC Lecture Suggestions
+####Good for Classroom Instruction
+
+
+ * [ BJC Lecture 3: Video Games](https://www.youtube.com/watch?v=hdSFuhyGTIg)
+  - [History of Video Games Overview] (http://www.youtube.com/watch?v=hdSFuhyGTIg&t=2m30s) (Platform Game Prep) 2:30-7:55 
+  - [Casual Video Game World ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=8m0s)(light weight) 8:00-10:40 
+- [Core Video Game](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=10m45s) (heavy weight) 10:45-13:05   
+   - [Motion Capture ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=15m25s)(Hero Movement for Platform Game Lab 2.6) 15:25-17:30 
+   - Artificial Intelligence (Enemy Logic for Lab 2.6) 17:30-19:40
+  - [Video Games w/purpose](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=19m40s) (social benefits) 19:40-24:36 
+  - [Negative Aspects of Video Games ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=19m40s)(RSI, addition, violence) 24:40-28:00
+  - [Glenn Sugden-Game Developer ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=28m03s)(History of VG Development & Industry) 28:03-40:53 *Good for Classroom Instruction
+
+####Background Information for Instructors
+
+
+ * [ BJC Lecture 3: Video Games](https://www.youtube.com/watch?v=hdSFuhyGTIg)
+  - Demystification Lecture-Novel Interaction techniques(emotive systems) 00:00-2:30
+
 
 ## Accommodations/Differentiation
 

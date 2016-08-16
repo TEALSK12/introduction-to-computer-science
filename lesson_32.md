@@ -33,6 +33,7 @@ Students will be able to...
 
 ## Instructor's Notes
 
+  
 1.  Introductory discussion
     -   Ask students to review (or recreate) their algorithms for preparing a peanut butter and jelly sandwich (from lesson 0.2)
     -   Point out that some parts of the algorithm are similar or redundant
@@ -68,6 +69,13 @@ Students will be able to...
     -   Ask students how the skills learned in this lesson can be applied to programming
         -   Drive students to realize that code is simply an application of algorithms
         -   Tease the need for custom blocks (procedures)
+
+##BJC Lecture Suggestion
+####Good for Classroom Instruction
+ * [BJC Video Suggestion: BJC Lecture 4: Functions ](https://www.youtube.com/watch?v=_uKCBmQEf5w)
+  - [MIT Scratch --> BYOB Snap](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=10m0s)  (Development of SNAP, Demo) 10:00-11:30
+  - [BYOB-Custom Blocks ](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=10m0s)  (Explains functions with examples)   11:30-14:50
+
 
 ## Accommodation/Differentiation
 

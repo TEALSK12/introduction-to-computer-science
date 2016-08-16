@@ -31,6 +31,8 @@ _Note: This lesson may cover too much material for some classes to handle in one
 
 ##Instructor's Notes
 
+
+
 1.  Lecture
 
     1.  Point out that, so far, our programs have had minimal interactivity
@@ -68,6 +70,38 @@ _Note: This lesson may cover too much material for some classes to handle in one
         -   Place particular emphasis on the choice between if and if-else blocks
             -   Explain that, when conditions are mutually exclusive (as in part 2.1), a series of if vs. if-else blocks can be functionally equivalent
             -   When the conditions are not mutually exclusive (as in part 2.2), the choice matters more
+
+## BJC Lecture Suggestions
+####Good for Classroom Instruction 
+* [BJC Lecture 13: Mislababled as 14) Human-Computer Interaction Bjorn Hartman ](https://www.youtube.com/watch?v=3VZ7D01T2Yc)
+
+ - [Why Study User Interfaces](http://www.youtube.com/watch?v=3VZ7D01T2Yc&t=15m0s)
+ Ex:Mouse Xy axis, Sketchpad, PC, Tablets 15:00-25:00
+ - [Example Project: Using Dexterity for Computer Interface Video](http://www.youtube.com/watch?v=3VZ7D01T2Yc&t=28m30s) 28:30-29:30
+ - [Multi Touch Apps and Toolkits ](http://www.youtube.com/watch?v=3VZ7D01T2Yc&t=32m0s) 32:00-End
+
+
+
+
+####Background Information for Instructors
+
+* [BJC Lecture 13: Mislababled as 14) Human-Computer Interaction Bjorn Hartman ](https://www.youtube.com/watch?v=3VZ7D01T2Yc)
+ - Bjorn Hartman Background 0:00-3:30
+ - Human Computer Interface(HCI) 3:45-6:00
+ - HCI: Design, Computer Science, Applied Psychology 6:00-8:00
+ - Iterative Design Cycle 8:00-10:30
+ - Understanding Users 10:35-11:35
+ - Prototype Interface Examples 11:40-14:00
+ - Evaluation (Formative, Summative) 14:50
+ - [Why Study User Interfaces](http://www.youtube.com/watch?v=3VZ7D01T2Yc&t=15m0s)
+ Ex:Mouse Xy axis, Sketchpad, PC, Tablets 15:00-25:00
+ - What had changed? Research: Mainframe to Ubiquitous Computing 25:00-29:30
+ - [Example Project: Using Dexterity for Computer Interface Video](http://www.youtube.com/watch?v=3VZ7D01T2Yc&t=28m30s) 28:30-29:30
+ - Zipf/Power Law Distribution 30:00-32:00
+ - HCI Research at Berkeley 32:10-46:25
+ - [Multi Touch Apps and Toolkits ](http://www.youtube.com/watch?v=3VZ7D01T2Yc&t=32m0s) 32:00-End
+
+
 
 ## Accommodation/Differentiation
 

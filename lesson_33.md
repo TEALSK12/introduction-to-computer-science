@@ -24,7 +24,7 @@ Students will be able to...
 | 15 minutes | Review and wrap-up                              |
 
 ## Instructor's Notes
-
+        
 1.	Lecture and Demonstration
 	-	Review with students the concepts of abstraction, generalization, and detail removal
 		-	Ask students to provide definitions and examples of each
@@ -45,6 +45,11 @@ Students will be able to...
 		-	Point out missed opportunities for abstraction (if any)
 		-	Discuss how this custom block can be useful
 
+##BJC Lecture Suggestion
+####Good for Classroom Instruction
+* BJC Video Suggestion:[ BJC Lecture 4: Functions ](http://www.youtube.com/watch?v=_uKCBmQEf5w14&t=14m52s)
+ * [Why use functions-2 ](http://www.youtube.com/watch?v=_uKCBmQEf5w14&t=14m52s)  ( 
+ How to use the join block with multiple inputs) 14:52-17:50 
 
 ## Accommodation/Differentiation
 -	In addition to attempting the bonus in the lab, advanced students can be encouraged to write a new custom block that draws a specified number of the given shape (for example, 2 squares or 5 hexagons).  The number of shapes should be taken as user input.

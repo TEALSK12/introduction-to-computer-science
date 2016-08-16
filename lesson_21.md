@@ -25,7 +25,8 @@ Students will be able to...
 
 ## Instructor's Notes
 
-1.  Lecture
+1. Lecture
+
     1.  Introduce and discuss concepts of code redundancy and readability
         -   Remind students that a program can be written in many different ways that are functionally equivalent.
         -   Ask students to speculate as to why one version of a program might be better or worse.
@@ -57,6 +58,26 @@ Students will be able to...
         -   Ask students to think about what the code would look like without loops
     -   Discuss one or two students solutions to part 3.1
         -   Point out how unwieldy the code for these two shapes would be without loops
+
+## BJC Lecture Suggestions
+####Background Information for Instructors
+
+* BJC Video Suggestion: [BJC Lecture 4](https://www.youtube.com/watch?v=_uKCBmQEf5w): Functions
+ * SIRI-EVI 0:00-1:00
+ * Functions & Generaliztions (Function Basics) 1:00-3:45
+ * More Terminology (from Math) *Boolean etc* 3:47-6:10
+ * Types of Input (Sentences, words, characters, digits) 6:12-8:00
+ * Functions (Explanations of Use-can be tied in to loops, and inputs) 8:00-9:55
+ * MIT Scratch --> BYOB SNAP ( Development of SNAP, DEMO) 10:00-11:30
+ * Functions-1 (BYOB-Custom Blocks) & Generalization 11:30-14:50
+ * Functions-2 (Join Block) Domain and Range 14:52-17:50
+ * Types of Blocks 18:15-19:45
+ * Recursion Preview 19:50-27:40
+ * Functional Programming Summary 27:40- End
+ * Big concepts narrow down to functions
+
+
+
 
 ## Accommodation/Differentiation
 

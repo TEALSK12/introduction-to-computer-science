@@ -30,6 +30,8 @@ Needed for this lesson:
 
 ## Instructor's Notes
 
+    
+    
 1.  Introductory discussion
 
     -   Invite discussion about what constitutes a computer, what computers do, and what computer science is.
@@ -70,6 +72,55 @@ Needed for this lesson:
     -   Ask students to describe why there were problems with the first round of algorithms, and how those problems were fixed. Encourage the use of computer science terminology.
         -   Keep students from fixating on the specifics of any one error and guide discussion to the general approaches and concepts used to resolve problems.
     -   Have students discuss what lessons can be learned from this activity and how they can be applied to programming and computer science.
+
+## BJC Lecture Suggestions
+
+####Good for Classroom Instruction
+
+* BJC Video Suggestion: [BJC Lecture 6: Algorithm](https://www.youtube.com/watch?v=3tvbqdLjjSU) (With Luke Segar
+ - [Algorithm Definition](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=3m20s) 3:20-4:20 
+ - [Early Algorithms](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=4m25s) 4:25-5:55
+ - [Familiar Algorithms](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=6m00s) 6:00-7:30
+
+
+* BJC Video Suggestion: [BJC Lecture 7: Algorithm Complexity](https://www.youtube.com/watch?v=_fgtTE2bhMg)
+  - [Algorithm Analysis](http://www.youtube.com/watch?v=_fgtTE2bhMg&t=6m0s): The Basics 6:00-7:40
+ - [Algorithm Analysis:](http://www.youtube.com/watch?v=_fgtTE2bhMg&t=7m41s) Running Time 7:41-8:25
+
+#### Background Information for Instructors
+* BJC Video Suggestion: [BJC Lecture 6: Algorithm](https://www.youtube.com/watch?v=3tvbqdLjjSU) (With Luke Segar
+ - Computer Worms 0:00-1:30
+ - Algorithm Concept Intro: Rubic Cube Competition 1:40-2:40
+ - [Algorithm Definition](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=3m20s) 3:20-4:20 **Good for Classroom Instruction**
+ - [Early Algorithms](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=4m25s) 4:25-5:55 **Good for Classroom Instruction**
+ - [Familiar Algorithms](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=6m00s
+) 6:00-7:30 **Good for Classroom Instruction**
+ - Commonly Used Algorithms (Page Rank, etc.) 8:00-10:45
+ - Choosing an Algorithm Technique 10:50-12:15
+ - Ways to Tackle Problems (Brute Force, Top Down, Bottom Up) 12:20-15:30
+ - Algorithms vs Functions and Procedures 15:30-16:00
+ - Turing Completeness (Computer Theory-BYOB is Turing Complete) 16:05-21:15
+ - Algorithm Correctness 21:25-26:00
+ - Algorithm Summary 26:00-end
+
+
+* BJC Video Suggestion: [BJC Lecture 7: Algorithm Complexity](https://www.youtube.com/watch?v=_fgtTE2bhMg)
+ - Yahoo predicts America’s Political Winner 0:00-1:25
+ - Function Abstraction (Explanation of Functions and Algorithms) 1:28-2:45
+ - What is IN a Spec 2:45-3:30
+ - What is NOT in a Spec 3:30-5:15
+ - Reference Text “Introduction to Algorithms” 5:18
+ - [Algorithm Analysis](http://www.youtube.com/watch?v=_fgtTE2bhMg&t=6m0s): The Basics** Good for Classroom Instruction 6:00-7:40***
+ - [Algorithm Analysis:](http://www.youtube.com/watch?v=_fgtTE2bhMg&t=7m41s) Running Time** Good for Classroom Instruction 7:41-8:25**
+ - Algorithm Analysis: Runtime Analysis Problem and Solution 8:25-9:55
+ - Runtime Analysis: Input Size and Efficiency 9:58-11:25
+ - Runtime Analysis: Worst of Avg Case 11:25-13:20
+ - Run Time: Final Assessment 13:20-16:46
+ - Example:Finding a student by ID (detailed explanation of input/output)
+17:00-31:20
+ - Ex: Finding a shared birthday (Constant, Logarithmic, Linear, Quadratic, Exponential) 31:21-33:30
+ - Ex: Finding Subsets 33:40 to End
+
 
 ## Accommodations/Differentiation
 

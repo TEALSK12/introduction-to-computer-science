@@ -50,6 +50,20 @@ Students will be able to...
     -   Ask students to describe something they found challenging about the lab
     -   You will go over the correct solutions to the lab in the next lesson 
 
+##BJC Lecture Suggestion
+####Background Information for Instructors  
+* BJC Video Suggestion :[BJC Lecture 9: Recusion](https://www.youtube.com/watch?v=JKn3nsfzBdA)
+ - Movie “Inception” as an example of recursion 0:00-0:50
+ - Recursion 0:50-1:40
+ - Recursion Demo in Snap 1:40-17:00
+ - Overview 17:00-21:00
+ - Definition of Recursion 21:00-24:30
+ - Examples of Recursion (You Already Know It!) 24:30-26:20
+ - Trust the Recursion 26:22-29:40
+ - Summary of Recursion 29:40-End
+
+
+
 ## Accommodations/Differentiation
 
 -   Advanced students can attempt more complex filters in part 2.3 (such as finding all names that contain at least two vowels) and/or more advanced maps in part 1.3 (such as greeting each person by first initial).

@@ -22,6 +22,8 @@ Students will be able to...
 
 ## Instructor's Notes
 
+
+    
 1.  Review and lecture
     1.  Review loops and conditionals
         -   Ask students what loops do, when they are useful, and what loops exist in SNAP
@@ -47,6 +49,11 @@ Students will be able to...
     -   Students should complete "What Goes Up..." lab individually
         -   Mention that the code written in this lab will be helpful for the Platform Game project
 3.  Debrief
+
+## BJC Lecture Suggestions
+####Good for Classroom Instruction 
+ * BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=5m50s)
+  - [Modelling](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=5m50s) 5:50-10:57
 
 ## Accommodations/Differentiation
 

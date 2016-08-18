@@ -1,38 +1,24 @@
-<!--- REVISED -->
-# Lab 2.4 - Triangles of All Kinds  <!-- Formerly 2.5 -->
+# Lab 2.4 - Guessing Game <----Formerly 3.1---->
 
-In this lab, you will use Boolean operators to determine what sort of triangle a user is describing.
+In this lab, you will use conditional statements and variables to build a simple number guessing game.
+_(Adapted from BJC: <http://bjc.eecs.berkeley.edu/bjc-r/cur/programming/conditionals/number-guessing-game-v2-0.html?topic=berkeley_bjc%2Fintro_new%2F3-conditionals.topic>)_
 
-## Is that even possible!?
+## Section 1 - I'm Thinking of a Number...
 
-1.  Write a SNAP program that asks the user for the lengths of all three sides of a triangle.  Store each length in a variable.  Then say the perimeter of the triangle with those three side lengths
+You will write a SNAP program to choose a random number between 1 and 10 and then ask the user to guess a number.  If the user's guess matches the random number, the user wins.  If not, the user loses.  In either case, the user should be shown a message indicating whether he won or lost and the secret random number should be revealed.
 
-2.  Add code to your program to check whether or not the three side lengths can form a real triangle.  Remember that, in any real triangle, the sum of the lengths of any two sides is greater than the length of the third side.  So, if the triangle has side lengths $$a$$, $$b$$, and $$c$$, then all of the following must be true:
-    <br/>
-    $$
-    \begin{align*}
-    a + b &> c\\
-    a + c &> b\\
-    b + c &> a
-    \end{align*}
-    $$
+1.  Fill out a [Planning Worksheet](<SNAP Program Design and Planning Worksheet.docx>) for the above program.
 
-If the sides given cannot make a real triangle, say so instead of saying the perimeter.
+2.  Write the simple version of the guessing game program described above.
 
-## What kind of triangle?
+3.  Modify the program to keep asking the user for guesses until the correct number is given.  Be sure to give a message after each guess, but only reveal the secret number when the user has guessed correctly and the game is over.
 
-1.  Add code to your program to determine and say whether or not the triangle described is a right triangle.  If the triangle has side lengths $$a$$, $$b$$, and $$c$$, then the triangle is a right triangle if the following is true:
-    <br/>
-    $$
-    \begin{align*}
-    a _ 2 + b _ 2 = c _ 2
-    \end{align*}
-    $$
+4.  Add code to ask the player their name at the start of the game.  Then, personalize the message for an incorrect guess by adding the player's name.  For example, if Sarah is playing the game, then the message should say "Sorry, Sarah, that guess is not correct" instead of just "Sorry" when Sarah guesses incorrectly.
 
-2.  Add code to your program to determine which type of triangle has the side lengths given.  A triangle can be one of the following three types:
+## Section 2 - Game Upgrades
 
-| Triangle type | Description                           |
-| ------------- | ------------------------------------- |
-| Equilateral   | All three side lengths equal          |
-| Isosceles     | Two side lengths equal, one different |
-| Scalene       | All three side lengths different      |
+1.  Modify your guessing game so that the player can decide the range of possible numbers from which the secret number can be chosen.  After asking the player's name, ask what he or she wants the highest possible number to be.  Then, instead of choosing a random number between 1 and 10, choose a random number between 1 and the number the player requested.
+
+2.  Add code to keep track of how many guesses the player has made.  After the player guesses correctly, inform him or her how many tries it took before the correct number was guessed.
+
+3.  Increase the player's chances by telling him or her whether the guessed number is too high or too low instead of just that it is incorrect.

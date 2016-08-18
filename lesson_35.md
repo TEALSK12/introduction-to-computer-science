@@ -1,48 +1,62 @@
 <!--- REVISED -->
-# Lesson 3.5: Customization II
+# Lesson 3.5: Pong Project
 
 ## Learning Objectives
 
 Students will be able to...
 
--   Build custom reporter and predicate blocks in SNAP
+-   Use custom blocks to implement a well-written version of Pong
+-   Practice good style and conventions to create readable and maintainable code
 
 ## Materials/Preparation
 
--   [Lab 3.5 handout](lab_35.md) (If My Calculations Are Correct...) ([Download in Word](Unit 3 Word/Lab 3.5 If My Calculations Are Correct.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=BKutmPhPYHFHyejuzJOMtUqlof3QLpHofIy3b0oTbyA%3d&docid=03cba66e93c6c4da1897aac268c1a6d99))
+-   Reference to the Pong project: [Pong](project_3.md) ([Download in Word](Projects/Projects Word/Project 3 Pong.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=zIB91b9TjkBUSCUw6hdudjEREktankWIWXkVndlfD3c%3d&docid=029c2311cde11491ab89303bf594a7a9d))
+-   [Optional] Printouts of the specification
+-   Link to an online version of Pong for demonstration: <http://www.ponggame.org/>
 
 ## Pacing Guide
 
-| Duration   | Description                                   |
-| ---------- | --------------------------------------------- |
-| 5 minutes  | Welcome, attendance, bell work, announcements |
-| 10 minutes | Lecture and introduce activity                |
-| 25 minutes | Custom reporter activity                      |
-| 15 minutes | Debrief and wrap-up                           |
+| Duration      | Description                                   |
+| ------------- | --------------------------------------------- |
+| _Day 1_       |                                               |
+| 5 minutes     | Welcome, attendance, bell work, announcements |
+| 30 minutes    | Review unit concepts                          |
+| 20 minutes    | Introduce project                             |
+| _Days 2-9_    |                                               |
+| 5 minutes     | Welcome, attendance, bell work, announcements |
+| 10-15 minutes | Review                                        |
+| 30-35 minutes | Lab time                                      |
+| 5 minutes     | Exit ticket                                   |
 
 ## Instructor's Notes
 
-1.  Lecture
-    1.  Introduce reporter blocks
-        -   Ask students to find blocks with the reporter shape (round) and speculate as to what they do
-            -   Point out familiar examples, such as ![](xposition.png), ![](answer.png), ![](pickrandom.png), etc.
-        -   Explain the concept of reporting (returning) a value, and how reporter blocks are used to provide values to commands
-        -   Emphasize that reporters do not (and should not) perform any action—they are used to compute values which are in turn used by commands
-    2.  Introduce predicate blocks as a special case of reporter blocks
-        -   Emphasize that predicates must return true or false
-            -   Be aware, but don't necessarily tell students, that SNAP does not enforce this
-        -   Point out examples, such as ![](touching.png), ![](lessThan.png), ![](and.png)
-        -   Ask students why it might be useful to differentiate predicates from other reporters
-            -   Only predicates can be used in a conditional
-2.  Activity
-    -   Students should complete the ["If My Calculations Are Correct..."](lab_34.md) activity individually.
-        -   This lab consists of a series of independent custom blocks.  The blocks need not necessarily be completed in the order given.
-        -   Work with students to ensure they are testing their blocks properly and reporting correct values.
-        -   Part 2.2 is challenging and requires traversing a String.
-3.  Debrief
-    -   Ask a different student to provide their solution to each part.  If time permits, go over multiple students' work for each part.
-        -   Point out differences and discuss advantages and disadvantages to different approaches.
-        -   Emphasize that custom blocks do not have to be long and complicated to be useful.
+1.  Review/Introduction
+    -   Play a review game (such as [GrudgeBall](http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html)) to remind students of the skills and concepts have been learned in this unit.
+        -   Variables
+        -   Operators
+        -   Procedural decomposition/abstraction
+        -   Custom command blocks
+        -   Custom reporter/predicate blocks
+        -   Custom blocks with arguments
+    -   Remind students that their solutions to previous assignments are an excellent resource when trying to accomplish similar tasks.
+2.  Introduce project
+    -   Walk students through the project specification, pointing out important details, potential pitfalls, and requirements.
+        -   If students are unfamiliar with the concept of a platform game, spend a couple minutes demonstrating one for the class.  If you have a SNAP or Scratch version, that works best, but an online game (such as <http://www.ponggame.org/>) will work as well.
+        -   Discourage students from simply recreating a game they are already familiar with (and using copyrighted assets) and encourage them to be creative and design their own characters and world instead.
+        -   Static screens are somewhat easier to implement than smooth scrolling, but scrolling is doable with some scaffolding.
+3.  Project
+
+    -   This project is a summative assessment for the unit.  Students should be demonstrating mastery of all the skills covered.
+    -   Most students will require roughly 6-10 hours of total work time to complete the project
+        -   Assess the progress of your students regularly using such techniques as asking them to demonstate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
+        -   Adjust the amount of time allowed for the project to fit the needs of your students
+            -   It is vital that nearly all students complete the project before moving on
+        -   If most students have the ability to work on SNAP assignments at home, the amount of in-class time provided can be reduced if necessary.
+            -   If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
+        -   Ensure that students are able to ask questions in class throughout the project
+    -   See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
+
+    -   [Sample project solution](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Pong)
 
 ##BJC Lecture Suggestion
 ####Background Information for Instructors 
@@ -59,7 +73,7 @@ Students will be able to...
 
 ## Accommodations/Differentiation
 
--   Struggling students should focus on just the first 2 or 3 parts of the lab.  Even if they cannot move on to the more difficult problems, getting used to defining custom reporters is helpful and important.
--   Advanced students who finish quickly can be utilized to assist other students.
--   Students who struggle in math may not be familiar with the distance formula used in part 2.1.  Help students to translate the math into SNAP code, but understanding the formula and its applications is not necessary for the activity.
-    -   If most students are not equipped to handle this math, a simpler computation, such as area of a triangle or average of three numbers, can be substituted.
+-   If any students do not have the ability to work at home, ensure enough in-class time is provided to complete the assignment, offering extensions if necessary.
+-   Advanced students can be encouraged to add a single-player mode with a computer-controlled opponent, recreate the original mechanic in which the ball’s angle depends on where it hit the paddle, add different “levels” with obstacles or differently shaped fields, or any other extension.
+-   Struggling students can be exempted from certain features (such as ball speed or scoring) or given starter code
+    -   If students need significant assistance, focus them on the ball’s movement, as it is both the most computationally interesting part of the assignment as well as the area in which they are most likely to be able to use custom blocks.

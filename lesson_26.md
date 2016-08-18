@@ -1,37 +1,27 @@
 <!--- REVISED -->
-# Lesson 2.6: Platform Game Project   <!-- Formerly 2.7 -->
+# Lesson 2.6: Combining Variables  
 
 ## Learning Objectives
 
 Students will be able to...
 
--   Use loops, variables, and Boolean expressions to implement a Super Mario Bros. style platform game.
--   Practice good debugging skills to correct issues as they arise while programming.
+-   Combine loops with conditionals to create models with repeated but conditional behavior
 
 ## Materials/Preparation
 
--   Reference to the Platform Game Project: [Easy Platform Game](project_2_platform_game_easy.md) ([Download in Word](Projects/Projects Word/Project 2 Platform Game Easy.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=ZXpgrky7hjFmpwVmZVFkma7JI1kkTQzozmPADoYsMKE%3d&docid=0520929d59e904832b7a7a58c7dd33249))
--   (Optional) Advanced Version of the project: [Platform Game](project_2.md) ([Download in Word](Projects/Projects Word/Project 2 Platform Game.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=HNTqByUTbkunmpikZb27IFL%2fpF93zt2Si5vQuQjxsUE%3d&docid=024981906f8a74c7b9bf318d24874e002))
-
--   (Optional) Printouts of the specification 
--   A few suggested themes available for students who may struggle to come up with their own.
--   Suggestions for characters, power-ups, goals, etc.
+-   [Lab 2.6 handout (What Goes Up...)](lab_26.md) ([Download in Word](Unit 2 Word/Lab 2.5 What Goes Up.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=1BkJFCR%2bilrnGb2XqVHrb7vhwGPzJAs1it1MIdA6gRE%3d&docid=0a41e749c70e242b4abf080416e4e4e7e))
 
 ## Pacing Guide
 
-| Duration      | Description                                   |
-| ------------- | --------------------------------------------- |
-| _Day 1_       |                                               |
-| 5 minutes     | Welcome, attendance, bell work, announcements |
-| 30 minutes    | Review unit topics                            |
-| 20 minutes    | Introduce project                             |
-| _Days 2-9_    |                                               |
-| 5 minutes     | Welcome, attendance, bell work, announcements |
-| 10-15 minutes | Review                                        |
-| 30-35 minutes | Lab time                                      |
-| 5 minutes     | Exit ticket                                   |
+| Duration   | Description                                   |
+| ---------- | --------------------------------------------- |
+| 5 minutes  | Welcome, attendance, bell work, announcements |
+| 10 minutes | Review, lecture and introduce activity        |
+| 30 minutes | Gravity activity                              |
+| 10 minutes | Review and wrap-up                            |
 
 
+<<<<<<< HEAD
 ## Instructor's Notes
     
  1.  Review/Introduction
@@ -58,6 +48,33 @@ Students will be able to...
             -   If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
         -   Ensure that students are able to ask questions in class throughout the project
     -   See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
+=======
+1.  Review and lecture
+    1.  Review loops and conditionals
+        -   Ask students what loops do, when they are useful, and what loops exist in SNAP
+            -   loops cause code to execute multiple times
+            -   loops can help reduce redundancy and increase readability
+            -   SNAP contains three loops: repeat, forever, and repeat until
+        -   Ask students what conditionals are for and when they are useful
+            -   conditionals are used to execute a block of code only under certain circumstances
+        -   Encourage discussion about previous activities
+        -   Fill in understanding gaps when necessary
+    2.  Demonstrate combining loops and conditionals
+        -   Present ![](<repeat until.png>) and ![](foreverIf.png)
+        -   Ask students to suggest when these constructs might be useful
+            -   "repeat until" is useful when a loop needs to run not for a set number of iterations, but until some situation occurs
+            -   "forever if" is useful when code should execute _any time_ a condition is true, for the duration of the program
+        -   Point out that the condition in "repeat until" is a termination condition, while in "forever-if" it is a continuation condition
+    3.  Introduce the concept of modeling
+        -   _modeling: building a system to simulate the behavior of a real-life phenomenon by simplifying or ignoring certain details_
+        -   Ask students to suggest systems or concepts that might need to be modeled
+        -   Discuss important considerations when designing and implementing a model
+            -   Lead students to realize that most sacrifice some amount of accuracy or realism for simplicity
+2.  Activity
+    -   Students should complete "What Goes Up..." lab individually
+        -   Mention that the code written in this lab will be helpful for the Platform Game project
+3.  Debrief
+>>>>>>> parent of e45088e... Reverted to previous version to work with gitbook, will update later.
 
 ## BJC Lecture Suggestions
 ####Good for Classroom Instruction
@@ -82,7 +99,7 @@ Students will be able to...
 
 ## Accommodations/Differentiation
 
--   If any students do not have the ability to work at home, ensure enough in-class time is provided to complete the assignment, offering extensions if necessary.
--   Advanced students can be encouraged to extend their games beyond the minimum required number of screens, add more features (power-ups, "boss" enemies, secret screens, etc.), create multiple "levels" that must be worked through, or any other extension.
--   Struggling students can be exempted from certain requirements or given starter code.
-    -   If scaffolding this project, provide code to perform some of the various actions required in the game (changing screens, moving the character, defeating enemies, etc.) and ask the students to fill in the triggers and conditions for using these routines.
+-   Take care to ensure that all students have functional code by the end of the lab to avoid putting some students at a disadvantage starting the project
+    -   If many students struggle, consider releasing your own solution after the lab has been completed in class
+    -   Utilize TAs and advanced students to assist struggling students—it is vital that all students complete this lab in advance of starting the project
+-   Advanced students can consider increasing the realism of their gravity model by adding acceleration and/or beginning to implement jumping 

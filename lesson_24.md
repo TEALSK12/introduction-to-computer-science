@@ -1,62 +1,55 @@
-<!--- REVISED -->
-# Lesson 2.4: Boole in the House   <!-- Formerly 2.5 -->
+# Lesson 2.4: Variables <---- Formerly 3.1 ---->
 
 ## Learning Objectives
 
 Students will be able to...
 
--   Define and identify Boolean expressions and operators
--   Evaluate Boolean expressions
--   Utilize Boolean operators (and/or/not) to create compound conditions
+-   Use variables to track values throughout a program
 
 ## Materials/Preparation
 
--   [Lab 2.4 handout (Triangles of All Kinds)](lab_24.md) ([Download in Word](Unit 2 Word/Lab 2.4 Triangles of All Kinds.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=hxvo2nEHBhwdcjTXTK791hy01%2f8Fo5Z21cqgMR61PX8%3d&docid=04f343aec4d8141038dd482233763ef3c))
+-   Lab 2.4 handout - [Guessing Game](lab_24.md) ([Download in Word](Unit 3 Word/Lab 3.1 Guessing Game.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=gE0zfvAKGs7mO%2fC6UOwtOjkV%2bXMxTavqdEwR5MSf8Bk%3d&docid=07a06c91189774fcba5de37081f87044e))
 
 ## Pacing Guide
 
 | Duration   | Description                                   |
 | ---------- | --------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
-| 20 minutes | Review and lecture                            |
-| 20 minutes | Triangles activity                            |
+| 15 minutes | Lecture and introduce activity                |
+| 25 minutes | Activity - Guessing Game                      |
 | 10 minutes | Debrief and wrap-up                           |
 
 ## Instructor's Notes
 
-1.  Review
-    -   Remind students about conditional statements, and ask what the blocks that can go in the holes in if blocks have in common
-        -   Blocks are "pointy" and all  are "yes/no" or "true/false" questions
-2.  Lecture
-    -   Introduce and define "Boolean expressions" as expressions that evaluate to true or false
-        -   If desired, explain that the term "Boolean" is derived from [George Boole](https://en.wikipedia.org/wiki/George_Boole)
-        -   In SNAP, all Boolean expressions are pointy six-sided blocks
-    -   Present the three Boolean operators: and, or and not
-        -   Define the operators and describe when each will return true
-        -   Show the truth tables for each operator and explain how to read them
-            -   Describe that truth tables are read much like multiplication tables: find the two operands on the two edges, then find where the row and column meet to see the result
-            -   Truth tables are simply one way of expressing how the Boolean operators work; if students are struggling, other depictions (such as an exhaustive list of all possible results) can be substituted
-        -   Emphasize that since Boolean operators are themselves Boolean expressions, they can be nested
-        -   Practice evaluating Boolean expressions, starting simple and moving to more complex nested operations
-            -   Start with simple expressions: e.g. `5 < 7 AND 4 > 2`
-            -   Introduce variables: e.g. `x = 7; x < 5 OR x > 10`
-            -   Nest operations: e.g. `(x = 4; y = -3; x == y OR (x > 0 AND y < 0))`
-        -   Discuss short-circuiting in evaluation of Boolean expressions
-    -   Discuss situations in which the Boolean operators might be needed
-        -   The lack of <= and >= operators in SNAP makes for a great example
-        -   
-3.  Activity
-    -   Students should complete the ["Triangles of All Kinds"](lab_24.md) activity individually or in pairs
-        -   A number of geometric concepts (Triangle Inequality Theorem, Pythagorean Theorem, etc.) are used in this lab, but students need not have a deep understanding of them.  The necessary points are explained in the lab.
-        -   Encourage students to think about whether an "and" or an "or" is appropriate in each case.  Draw out truth tables if necessary.
-4.  Debrief
-    -   Walk through a student's response
-        -   Point out uses of Boolean operators
-        -   Discuss how nested or chained if blocks could potentially be used to obtain the same behavior, but would result in longer, less-readable code
+1.  Lecture
 
-## Accommodations/Differentiation
+    1.  Review user input, specifically the ![](answer.png) block
+        -   Ask students to speculate about how the ![](answer.png) block works
+            -   Students should recognize that the block must be storing a value somehow and remembering it for later
+        -   Ask students whether that type of functionality might be useful in other cases
+    2.  Introduce variables
+        -   Define and explain the concept of a variable
+            -   _a "place" to store a value for retrieval and use later_
+        -   Demonstrate creating, assigning, and accessing a variable in SNAP
+            -   Ignore global vs. this sprite only for now
+            -   Point out that a variable can only hold one value at a time
+                -   When a new value is assigned, the old value is lost and cannot be recovered
+            -   Emphasize the importance of descriptive, readable names for variables
+        -   Show that variables are independent
+            -   One variable's value can be assigned to another, as in ![](setVar1ToVar2.png), but changing the value of `var2` later will not update the value of `var1`
 
--   Students that have not taken Geometry made be intimidated by some of the concepts in the lab.  Deep understanding of the theorems is not necessary; encourage the students to simply focus on the equations and inequalities presented.
-    -   If the students continue to struggle, help them build the necessary expressions, but encourage them to assemble them into the full condition on their own.
--   Advanced students, especially those who have taken higher levels of math, can be encouraged to add additional functionality, such as using [Heron's formula](https://en.wikipedia.org/wiki/Heron%27s_formula) to calculate the triangles area or using trigonometry to attempt to draw the triangle.
-    -   Drawing the triangle is very challenging.
+2.  Activity
+
+    -   Briefly demonstrate the ![](random.png) block, which will be used in the lab
+    -   Direct students to complete [Guessing Game](lab_31.md) individually or in pairs
+
+3.  Debrief
+
+    -   Discuss and demonstrate one or more students' submissions
+    -   Ask students for commentary on usage and naming of variables throughout program
+
+## Accommodation/Differentiation
+
+-   Advanced students can be encouraged to implement statistics (best score, average guesses/game, number of time each secret number chosen, etc.)
+-   Struggling students can be given code that completes part 1.1, and possibly also part 1.2, to get them started
+    -   Students who are particularly overwhelmed should focus only on parts 1.2 and 2.2

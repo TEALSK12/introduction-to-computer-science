@@ -1,37 +1,38 @@
-# Lab 2.5 - What Goes Up... <!-- Formerly 2.6 -->
+<!--- REVISED -->
+# Lab 2.5 - Triangles of All Kinds
 
-In this lab, you will use everything you've learned about loops and conditionals to construct a simple model for gravity.
+In this lab, you will use Boolean operators to determine what sort of triangle a user is describing.
 
-## Channeling Newton
+## Is that even possible!?
 
-1.  Create a SNAP program with a background that looks like an outside scene.  Add a single sprite that looks like an object of your choice (a brick or a ball would work well) and place it so it is touching the "ground."
+1.  Write a SNAP program that asks the user for the lengths of all three sides of a triangle.  Store each length in a variable.  Then say the perimeter of the triangle with those three side lengths
 
-2.  Write code for your sprite so that, when the green flag is clicked, the object moves to the top of the stage and "falls" towards the bottom at a constant speed.
+2.  Add code to your program to check whether or not the three side lengths can form a real triangle.  Remember that, in any real triangle, the sum of the lengths of any two sides is greater than the length of the third side.  So, if the triangle has side lengths $$a$$, $$b$$, and $$c$$, then all of the following must be true:
+    <br/>
+    $$
+    \begin{align*}
+    a + b &> c\\
+    a + c &> b\\
+    b + c &> a
+    \end{align*}
+    $$
 
-3.  What happens in your program when the object hits the "ground"?  Is that an accurate model of how gravity works on Earth?
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
+If the sides given cannot make a real triangle, say so instead of saying the perimeter.
 
-4.  Modify your program so that the problem you identified in part 1.3 is fixed.  Make your object do something appropriate when it hits the "ground."  (Making sure the ground is a unique color and making use of that color will be helpful.)
+## What kind of triangle?
 
-## ...Must Come Down
+1.  Add code to your program to determine and say whether or not the triangle described is a right triangle.  If the triangle has side lengths $$a$$, $$b$$, and $$c$$, then the triangle is a right triangle if the following is true:
+    <br/>
+    $$
+    \begin{align*}
+    a _ 2 + b _ 2 = c _ 2
+    \end{align*}
+    $$
 
-1.  Add a second sprite that looks like something that might already be on the ground when your first object is falling (like a house, a picnic table, a person, etc.).  Put this new object directly below where the first object falls so that the falling object will hit it.
+2.  Add code to your program to determine which type of triangle has the side lengths given.  A triangle can be one of the following three types:
 
-2.  What should happen when the following object hits the object on the ground?  Will that happen with the model we currently have?  Why or why not?
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-
-3.  Modify your code so that you fix the problem you identified in part 2.2.  Make your falling object do something appropriate if it hits the object on the ground.  Once you've made that work, move the falling object and make sure you didn't break the situation when the falling object doesn't hit something on the way down.
-
-4.  Add code so that both objects move to a random x coordinate every time the green flag is clicked.  The falling object should be at the top of the stage, and the other object at the bottom.  Verify that the falling object does the right thing no matter where the two objects end up relative to each other.
-
-5.  Add a hill to your outdoor scene and make sure that your falling object does something appropriate when it hits the hill.
+| Triangle type | Description                           |
+| ------------- | ------------------------------------- |
+| Equilateral   | All three side lengths equal          |
+| Isosceles     | Two side lengths equal, one different |
+| Scalene       | All three side lengths different      |

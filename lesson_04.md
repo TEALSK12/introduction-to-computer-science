@@ -38,7 +38,7 @@ Students will be able to...
         * If the students build a pretty comprehensive list, you can use this as a chance to go over a brief roadmap for the course.
     * Ask students what they enjoyed about working with SNAP and what they disliked.
 
- ## BJC Lecture Suggestions 
+## BJC Lecture Suggestions 
 ####Good for Classroom Instruction
 
 

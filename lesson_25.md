@@ -44,7 +44,6 @@ Students will be able to...
         -   Discuss short-circuiting in evaluation of Boolean expressions
     -   Discuss situations in which the Boolean operators might be needed
         -   The lack of <= and >= operators in SNAP makes for a great example
-        -   
 3.  Activity
     -   Students should complete the ["Triangles of All Kinds"](lab_25.md) activity individually or in pairs
         -   A number of geometric concepts (Triangle Inequality Theorem, Pythagorean Theorem, etc.) are used in this lab, but students need not have a deep understanding of them.  The necessary points are explained in the lab.

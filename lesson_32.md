@@ -24,8 +24,6 @@ Students will be able to...
 | 15 minutes | Review and wrap-up                              |
 
 ## Instructor's Notes
-
-<<<<<<< HEAD
   
 1.  Introductory discussion
     -   Ask students to review (or recreate) their algorithms for preparing a peanut butter and jelly sandwich (from lesson 0.2)
@@ -62,7 +60,9 @@ Students will be able to...
     -   Ask students how the skills learned in this lesson can be applied to programming
         -   Drive students to realize that code is simply an application of algorithms
         -   Tease the need for custom blocks (procedures)
-=======
+
+==========
+
 1.	Lecture and Demonstration
 	-	Review with students the concepts of abstraction, generalization, and detail removal
 		-	Ask students to provide definitions and examples of each
@@ -82,8 +82,6 @@ Students will be able to...
 		-	Point out differences between different students’ solutions
 		-	Point out missed opportunities for abstraction (if any)
 		-	Discuss how this custom block can be useful
-
->>>>>>> parent of e45088e... Reverted to previous version to work with gitbook, will update later.
 
 ##BJC Lecture Suggestion
 ####Good for Classroom Instruction

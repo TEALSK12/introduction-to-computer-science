@@ -22,39 +22,6 @@ Students will be able to...
 | 15 minutes | Debrief and wrap-up                           |
 
 ## Instructor's Notes
-<<<<<<< HEAD
-        
-1.	Lecture and Demonstration
-	-	Review with students the concepts of abstraction, generalization, and detail removal
-		-	Ask students to provide definitions and examples of each
-	-	Discuss when abstraction can be used to help simplify code
-		-	Guide students to realization that much code is used in many similar circumstances and shouldn’t be rewritten
-		-	Emphasize potential for errors when changes are made in addition to inconvenience when code is redundant
-	-	Demonstrate constructing a custom command block
-		-	Use a simple example, such as jumping (from the platform game)
-		-	If needed, use part 2.1 (drawing a square) as a further example
-2.	Activity
-	-	Students should complete the “Drawing Shapes (Again)” activity individually or in pairs
-		-	Work with students to be certain that they are using custom blocks and variables as described by the activity
-		-	Point out places where code can be abstracted and generalized
-		-	Emphasize conciseness and clarity in code
-3.	Review
-	-	Discuss one or two student submissions
-		-	Point out differences between different students’ solutions
-		-	Point out missed opportunities for abstraction (if any)
-		-	Discuss how this custom block can be useful
-
-##BJC Lecture Suggestion
-####Good for Classroom Instruction
-* BJC Video Suggestion:[ BJC Lecture 4: Functions ](http://www.youtube.com/watch?v=_uKCBmQEf5w14&t=14m52s)
- * [Why use functions-2 ](http://www.youtube.com/watch?v=_uKCBmQEf5w14&t=14m52s)  ( 
- How to use the join block with multiple inputs) 14:52-17:50 
-
-## Accommodation/Differentiation
--	In addition to attempting the bonus in the lab, advanced students can be encouraged to write a new custom block that draws a specified number of the given shape (for example, 2 squares or 5 hexagons).  The number of shapes should be taken as user input.
--	Struggling students can be given solution code for all of section 1.  Work with these students to answer the questions in part 1.5 so that they are prepared to attempt the custom block authoring.
-
-=======
 
 1.  Lecture
     1.  Introduce block arguments
@@ -90,4 +57,4 @@ Students will be able to...
 
 -   Part 2.4 is a fairly complex formula and should be a challenge for advanced students.
 -   Struggling students should focus on section 1. The problems in section 2 represent more complex algorithms, but not necessarily any more difficult usage of arguments.
->>>>>>> parent of e45088e... Reverted to previous version to work with gitbook, will update later.
+

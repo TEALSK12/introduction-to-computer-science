@@ -25,7 +25,7 @@ If the sides given cannot make a real triangle, say so instead of saying the per
     <br/>
     $$
     \begin{align*}
-    a _ 2 + b _ 2 = c _ 2
+    a ^ 2 + b ^ 2 = c ^ 2
     \end{align*}
     $$
 

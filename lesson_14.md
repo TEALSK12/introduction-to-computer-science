@@ -33,6 +33,11 @@ Students will be able to...
     2.  Introduce the "broadcast" and "when I receive" blocks and show how they can be used to coordinate action between sprites
         -   Point out that all sprites "hear" a broadcast and any sprite with a corresponding "when I receive" will react.
         -   Discuss the difference between "broadcast" and "broadcast and wait" and ask students to come up with ideas for when each would be useful.
+    3.  It's worthwhile to introduce the rotate buttons located at the top left of the SNAP interface. These buttons allow you to snap (puns!) your rotation, allowing you to lock rotation, allow free rotation, or allow only left/right rotation.
+      
+    ![rotate buttons](rotateButton.PNG)
+
+
 2.  Activity
     -   Students should complete the ["Sprites in Action"](lab_14.md) lab individually.
         -   Ensure that students create two different sprites for parts 1 and 2 so they do not get the costumes mixed up.

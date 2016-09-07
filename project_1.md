@@ -1,7 +1,7 @@
 <!--- REVISED -->
 # Project 1: Animated Nursery Rhyme
 
-Students will use BYOB basics to implement an animated version of a nursery rhyme.
+Students will use SNAP basics to implement an animated version of a nursery rhyme.
 
 ## Overview
 
@@ -10,9 +10,9 @@ A nursery rhyme is a short poem or song written for children. Though the term is
 ## Details
 
 ###Behavior
-You will create a short animation in BYOB depicting a nursery rhyme of your choice. (See <http://en.wikipedia.org/wiki/Nursery_rhymes> for a list of possibilities.) 
+You will create a short animation in SNAP depicting a nursery rhyme of your choice. (See <http://en.wikipedia.org/wiki/Nursery_rhymes> for a list of possibilities.) 
 
--   Whenever the green flag is clicked, your BYOB animation should display your chosen nursery rhyme line by line somewhere on the stage. (This should work correctly even if the last run was interrupted and restart.) 
+-   Whenever the green flag is clicked, your SNAP animation should display your chosen nursery rhyme line by line somewhere on the stage. (This should work correctly even if the last run was interrupted and restart.) 
 -   As each line is shown, sprites should act out the story. 
 -   The animation should advance on its own, but should do so at a pace that allows each action to complete and the viewer to read the line before the next line is shown and new action begins. 
 -   In addition, the sprites must act out the rhyme; you should not simply create a series of static backgrounds or costumes that show a stop-motion version of the story. 
@@ -20,7 +20,7 @@ You will create a short animation in BYOB depicting a nursery rhyme of your choi
 -   When the story ends, there should be a way for the user to replay the entire animation from the beginning.
 -   You are free to be as creative as you like with your choice of sprites and actions.<br />
     <br />
-    You may choose from the sprites provided by BYOB or create your own. (You will not be graded on your artistic skills.) You may interpret the nursery rhyme literally or be clever with your depiction (but don't go too far). However, all sprites, behaviors, words, and animations must be school-appropriate.<br />
+    You may choose from the sprites provided by SNAP or create your own. (You will not be graded on your artistic skills.) You may interpret the nursery rhyme literally or be clever with your depiction (but don't go too far). However, all sprites, behaviors, words, and animations must be school-appropriate.<br />
     <br />
     If you choose a particularly long nursery rhyme, you may not need to animate the whole thing. Please check with your teacher if you think your rhyme is long enough for this.
 

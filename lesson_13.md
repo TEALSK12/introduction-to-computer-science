@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([Download in Word](Unit 1 Word/Lab 1.3 Squares Triangles.docx)) ([Link to PDF](Unit 1 PDF/Lab 1.3 Squares Triangles.pdf))
+-   [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([Download in Word](Unit 1 Word/Lab 1.3 Squares Triangles.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%201%20PDF/Lab%201.3%20Squares%20Triangles.pdf))
 
 ## Pacing Guide
 

@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Reference to Nursery Rhyme project: [Project 1 - Nursery Rhyme](project_1.md) ([Download in Word](Projects/Projects Word/Project 1 Nursery Rhyme.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=4OP7XMyE3ZaInB2JwCxItw462S1zx8V7LOGAq4cMf3g%3d&docid=08af8e6f64b144f549a593de5b11b395d))
+-   Reference to Nursery Rhyme project: [Project 1 - Nursery Rhyme](project_1.md) ([Download in Word](Projects/Projects Word/Project 1 Nursery Rhyme.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20PDF/Project%201%20Nursery%20Rhyme.pdf))
 -   _Optional_: Printouts of the project specification
 -   A list of possible nursery rhymes
     -   Wikipedia has a fairly comprehensive list: <https://en.wikipedia.org/wiki/List_of_nursery_rhymes>

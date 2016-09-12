@@ -8,7 +8,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Lab 2.2 handout - [Another Brick in the Wall](lab_22.md) ([Download in Word](Unit 2 Word/Lab 2.2 Another Brick in the Wall.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=DHeNERLL8vApyzeIPEi3tKDhtFop5svDP2mIstXjXFo%3d&docid=09a2976a24df8424c8982857639c6a9e8))
+-   Lab 2.2 handout - [Another Brick in the Wall](lab_22.md) ([Download in Word](Unit 2 Word/Lab 2.2 Another Brick in the Wall.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20PDF/Lab%202.2%20Another Brick%20in%20the%20Wall.pdf))
 
 ## Pacing Guide
 

@@ -1,34 +1,24 @@
-# Lab 3.2 - Drawing Shapes (Again)
+<!--- REVISED -->
+# Lab 3.2 - Let Me Check My Calendar
 
-In this lab, you will write code to draw regular polygons.  But this time, you will write custom blocks and abstraction to write more efficient code.
+In this lab, you will write some custom blocks that take arguments and are useful for calculations involving dates and calendars.
 
-## Simple Shapes
+## Basics
 
-1.  Write a SNAP script (or find one you've already written) to draw a square.
+1.  Write a custom SNAP block called "month name" that takes a number between 1 and 12 as an argument and says the name of the corresponding month.
 
-2.  Write a SNAP script (or find one you've already written) to draw an equilateral triangle.
+2.  Write a custom SNAP block called "day name" that takes a number between 1 and 7 as an argument and says the name of the corresponding day.  For our purposes, the week begins on Sunday. 
 
-3.  Write a SNAP script (or find one you've already written) to draw a regular pentagon.
+3.  Write a custom SNAP block called "days in " that takes a month name as an argument and says how many days are in that month.  Assume a non-leap year.
 
-4.  Write a SNAP script (or find one you've already written) to draw a regular octagon.
+## Going Farther
 
-5.  Look over the four programs from above.  Do you notice sections that are very similar?  What sections might be able to be abstracted into a separate block?
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
+1.  Write a custom SNAP block called "is a leap year" that takes a year number as an argument and says whether or not that year is a leap year.
 
-## If You've Seen One...
+    -   A year is a leap year if the year is a multiple of 4 that is not a multiple of 100 (e.g. 1984), or if it is a multiple of 400 (e.g. 2000). Years that are mutiples of 100 but not mutiples of 400 are NOT leap years (e.g. 1800).  See [Wikipedia](https://en.wikipedia.org/wiki/Leap_year#Algorithm) for more detail.
 
-1.  Take your script from above that draws a square and turn it into a custom block.
+2.  Write a custom SNAP block called "is a valid date" that takes a month name and a date as arguments and says whether or not that date exists in that month.  For example, the 31st is a valid date in January, but not in June.  The 5th is a valid date in every month, and the 40th is not a valid date in any month.
 
-2.  Modify your custom block to use a variable for the number of sides instead of the number 4.  Set that variable's value to be 4 so that you still draw a square.
+3.  Write a custom SNAP block called "day in year" that takes a year number and a number between 1 and 366 and says the date that corresponds to that numbered day of the specified year.  For example, in non-leap years day #1 is January 1, day #32 is February 1, day #365 is December 31, and day #185 is July 4.  Give an error message if the number is 366 and a non-leap year is specified.
 
-3.  Now, see if you can modify your block so that it will work correctly for any number of sides greater than 2.  Look closely at the angles in your four scripts section 1 and see if you can spot a pattern.
-
-4.  Use your custom block in a program that asks the user for a number and then draws a regular polygon with that many sides.  If the number given is less than 3, give an error message and do not draw anything.
-
-## Bonus: Sizing Things Up
-
-1.  Modify your custom block and program from the previous section so that the user can specify both the number of sides and the size of each side.  Be sure to utilize generalization and detail removal to make your program and block as clear and concise as possible.
+4.  BONUS: Write a custom SNAP block called "day of week" that takes a month name, date, and year as arguments and says the day of week on which that date falls in that year.  See <http://en.wikipedia.org/wiki/Determination_of_the_day_of_the_week> for information on finding the day of the week from a date.

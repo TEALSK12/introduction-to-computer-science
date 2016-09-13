@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Lab 3.2 handout - [Drawing Shapes Again](lab_32.md) ([Download in Word](Unit 3 Word/Lab 3.3 Drawing Shapes Again.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=0ccIYWJIdCBcqen8vV1fc3gOtX1A7A%2bB8NXB9KVoDWY%3d&docid=0410249c7d9d3483f9a20498e0d5cb46d))
+-   Lab 3.2 handout - [Drawing Shapes Again](lab_32.md) ([Download in Word](Unit 3 Word/Lab 3.2 Drawing Shapes Again.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%203%20PDF/Lab%203.2%20Drawing%20Shapes%20Again.pdf))
 
 
 ## Pacing Guide

@@ -38,7 +38,7 @@
 * [Unit 3: Variables and Customization](unit_3.md)
     * [Lesson 3.1: Abstraction and Friends](lesson_31.md)
     * [Lesson 3.2: Procedures](lesson_32.md)
-    * [Lab 3.2: Drawing Shapes \(Again\)](lab_33.md)
+    * [Lab 3.2: Drawing Shapes \(Again\)](lab_32.md)
     * [Lesson 3.3: Customization 1](lesson_33.md)
     * [Lab 3.3: Let Me Check My Calendar](lab_33.md)
     * [Lesson 3.4: Customization II](lesson_34.md)

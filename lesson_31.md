@@ -15,7 +15,6 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Lab 3.1 handout - [Drawing Shapes Again](lab_31.md) ([Download in Word](Unit 3 Word/Lab 3.1 Drawing Shapes Again.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%203%20PDF/Lab%203.1%20Drawing%20Shapes%20Again.pdf))
 -   Student algorithms from lesson 0.2
     -   If algorithms are not still available, either provide students with a canonical sample or have them recreate their algorithms as the first part of this lesson
 -   Paper/writing implements for each group of students

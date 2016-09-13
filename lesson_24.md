@@ -8,7 +8,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Lab 2.4 handout - [Guessing Game](lab_24.md) ([Download in Word](Unit 3 Word/Lab 3.1 Guessing Game.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=gE0zfvAKGs7mO%2fC6UOwtOjkV%2bXMxTavqdEwR5MSf8Bk%3d&docid=07a06c91189774fcba5de37081f87044e))
+-   Lab 2.4 handout - [Guessing Game](lab_24.md) ([Download in Word](Unit 2 Word/Lab 2.4 Guessing Game.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20PDF/Lab%202.4%20Guessing%20Game.pdf))
 
 ## Pacing Guide
 

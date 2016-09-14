@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 4.2 handout (You Talkin' to Me?)](lab_42.md) ([Download in Word](Unit 4 Word/Lab 4.2 You Talkin To Me.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=ESzwggcl2OZbWf4a8sS83L1Grso6%2fkw%2fE5FKsE6Azxo%3d&docid=026375cf2c21d4445b4c5dc0462963b7c))
+-   [Lab 4.2 handout (You Talkin' to Me?)](lab_42.md) ([Download in Word](Unit 4 Word/Lab 4.2 You Talkin To Me.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%204%20PDF/Lab%204.2%20You%20Talkin%20To%20Me.pdf))
 
 ## Pacing Guide
 

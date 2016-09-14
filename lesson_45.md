@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 4.5 handout (It's Around Here Somewhere)](lab_45.md) ([Download in Word](Unit 4 Word/Lab 4.5 Its Around Here Somewhere.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=ifWCW9o32ABPjQgpb25CpknIDu%2bQJ7%2bJs0i5feBJx0c%3d&docid=019116b6f27b14e9f8ef6a59b78a9b277))
+-   [Lab 4.5 handout (It's Around Here Somewhere)](lab_45.md) ([Download in Word](Unit 4 Word/Lab 4.5 Its Around Here Somewhere.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%204%20PDF/Lab%204.5%20Its%20Around%20Here%20Somewhere.pdf))
 
 ## Pacing Guide
 

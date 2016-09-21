@@ -235,7 +235,7 @@ c) Off the stage to the right <br />
 d) Off the stage to the left <br />
 
 8.3) **What would appear on the screen when this script is run?** <br />
-![forever say animals](foreversayanimals.png)
+![forever say animals](83.PNG)
 
 a) The sprite would say "Tiger" forever <br />
 b) The sprite would say "Tiger" then "Panda" once <br />
@@ -243,7 +243,7 @@ c) The sprite would alternate between saying "Tiger" and "Panda" forever <br />
 d) The sprite would say "Tiger" and "Panda" at the same time forever. <br />
 
 8.4) **Assuming the sprite started in the middle of the stage facing right, what kind of drawing would the sprite make?** <br />
-![forever draw something](foreverdrawsomething.png)
+![forever draw something](84.PNG)
 
 a) a circle <br />
 b) a dot <br />

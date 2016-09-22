@@ -28,13 +28,13 @@ You will now expand your program from above so that instead of just deciding if 
 
 Quadrilaterals come in many different varieties.  Add code to your program so that, if the user is thinking of is a quadrilateral, you ask more questions to find out which type of quadrilateral it is.  Your program should give the most specific name that applies.  The following table describes the quadrilaterals you should know about from most to least specific:
 
-| _Property_                                                  | _Quadrilateral name_  |
-| ----------------------------------------------------------- | --------------------- |
-| All four sides have the same length                         | Square                |
-| Not a square and all four angles have the same measure      | Rectangle             |
-| Not a rectangle and each side is parallel to one other side | Parallelogram         |
-| Not a paraellogram and two sides are parallel to each other | Trapezoid             |
-| Not a trapezoid                                             | Unknown quadrilateral |
+| _Property_                                                                    | _Quadrilateral name_  |
+| ----------------------------------------------------------------------------- | --------------------- |
+| All four sides have the same length and all four angles have the same measure | Square                |
+| Not a square and all four angles have the same measure                        | Rectangle             |
+| Not a rectangle and each side is parallel to one other side                   | Parallelogram         |
+| Not a parallelogram and two sides are parallel to each other                  | Trapezoid             |
+| Not a trapezoid                                                               | Unknown quadrilateral |
 
 1.  Fill out a [Planning Worksheet] (https://github.com/TEALS-IntroCS/introduction-to-computer-science-principles/blob/master/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx?raw=true) for the above program.  Make sure you consider all aspects of the program carefully.
 

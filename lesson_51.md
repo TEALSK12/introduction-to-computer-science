@@ -10,7 +10,7 @@ Students will be able to...
 -   Describe how complex goals can be accomplished using cloning
 
 ## Materials/Preparation
-- [Lab 5.1 Handout](lab_51.md) (Connect the Dots) ([Download in Word](Unit 5 Word/Lab 5.1 Connect the Dots.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=YGI547dBfsHaVP1SJ1IxLsnblSATa5XQydOM6IHAtf4%3d&docid=011f435f77ad34cf188b6bc94bcaddbfc))
+- [Lab 5.1 Handout](lab_51.md) (Connect the Dots) ([Download in Word](Unit 5 Word/Lab 5.1 Connect the Dots.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%205%20PDF/Lab%205.1%20Connect%20the%20Dots.pdf))
 - If possible, create large poster-sized versions of the dot grids (each grid is 12 x 3).
 
 ## Pacing Guide

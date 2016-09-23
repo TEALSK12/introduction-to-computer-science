@@ -36,6 +36,8 @@ Quadrilaterals come in many different varieties.  Add code to your program so th
 | Not a parallelogram and two sides are parallel to each other                  | Trapezoid             |
 | Not a trapezoid                                                               | Unknown quadrilateral |
 
+![](QuadrilateralSets.PNG)
+
 1.  Fill out a [Planning Worksheet] (https://github.com/TEALS-IntroCS/introduction-to-computer-science-principles/blob/master/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx?raw=true) for the above program.  Make sure you consider all aspects of the program carefully.
 
 2.  Write the program.  Be sure that your program works correctly in all cases.

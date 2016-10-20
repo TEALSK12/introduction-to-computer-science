@@ -51,7 +51,7 @@ Students will be able to...
         -   Emphasize that the inner loop will run all its iterations _each time_ the outer loop runs.
     4.  Walk through rewriting the script to draw multiple squares to use nested loops:
 
-    ![](<twosquaresnested.png>)
+        ![](<twosquaresnested.png>)
 
         * Ask how many total times the sprite will move 50 steps
             * The sprite will move 50 steps 8 times (4 * 2)

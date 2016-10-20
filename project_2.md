@@ -21,9 +21,9 @@ Platform games are among the most widely recognized types of video games.  Compo
     4.  **Hazards and Lives**
         <br/>
         Your program should include one of each of the following types of hazards:
-            * A falling hazard (a hole, pit, or other opening) into which the hero can fall if he or she does not jump to avoid it.  Falling to the bottom of this hazard causes the hero to die.
-            * A stationary enemy that does not move, but that causes the hero to die if it is touched.
-            * A moving enemy that also causes the hero to die if it is touched, but that moves in some way.
+        * A falling hazard (a hole, pit, or other opening) into which the hero can fall if he or she does not jump to avoid it.  Falling to the bottom of this hazard causes the hero to die.
+        * A stationary enemy that does not move, but that causes the hero to die if it is touched.
+        * A moving enemy that also causes the hero to die if it is touched, but that moves in some way.
         Note that an enemy can be either a character (like Goombas in Super Mario Bros.) or an environmental hazard (such as spikes).  When the hero dies by either falling down a falling hazard or touching an enemy, he or she loses a life.  If the hero has lives remaining, one should be lost, used power-ups and defeated enemies should be reinstated, and the hero should be placed back at the left edge of the current screen.  Otherwise, the game is over and a suitable message should be displayed.
     5.  **Power-Ups**
         <br/>
@@ -35,9 +35,9 @@ Platform games are among the most widely recognized types of video games.  Compo
     7.  **Reset Button**
         <br/>
         At any point during gameplay, if the player presses the 'z' key, the game should reset to its initial state.  The game state after pressing the 'z' key should be indistinguishable from when the game first begins.  This means, among other things, that:
-            * the hero should return to the left edge of the first screen, lose all special abilities, and be given back all his or her lives
-            * any destroyed enemies should be reinstated and replaced in their original positions
-            * obtained power-ups should become available and revealed power-ups should be hidden 
+        * the hero should return to the left edge of the first screen, lose all special abilities, and be given back all his or her lives
+        * any destroyed enemies should be reinstated and replaced in their original positions
+        * obtained power-ups should become available and revealed power-ups should be hidden 
 
 ## Implementation Details
 

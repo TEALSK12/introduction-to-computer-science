@@ -34,16 +34,14 @@ Hangman is a popular word game in which one player (the "chooser") chooses a sec
 
     1.  **Word List/Secret Word** <br/>
         You will be provided with a list of words from which the secret word should be chosen for each game.  Instructions for importing the word list:
-        
+
         * To import the list, set a variable "imported words" to be a list.
         * Download and save http://www.mieliestronk.com/corncob_lowercase.txt as a text file on your computer.
         * Click the checkbox on the "imported words" variable so that it is visible on the stage.
         * Right click on the stage image to find the 'import...' command. Select the correct file to import.
         * Set another variable to be a list of words by splitting the imported words by line.
-        
-        
-        ![](importingListInstructions.PNG)
-        
+
+            ![](importingListInstructions.PNG)
 
     2.  **Documentation** <br/>
         In addition to functioning well, your program must be well-documented and readable.  This includes, but is not limited to, things such as:

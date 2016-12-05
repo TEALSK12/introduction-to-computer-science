@@ -41,7 +41,7 @@ Students will be able to...
             -   Specifically, changing the value of an argument inside a custom block will typically NOT change the value at the call site
         -   [Arguments example](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%203.3)
             -   Basic argument in pen category
-            -   Pass by value example in "other" category
+            -   Pass by value example in "Variables" category
 2.  Activity
     -   Students should complete the ["Let Me Check My Calendar"](lab_33.md) activity individually or in pairs
         -   This lab consists of a series of independent custom blocks.  The blocks need not necessarily be completed in the order given, but are roughly in order of difficulty.

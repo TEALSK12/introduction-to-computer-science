@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 4.4 handout (Number Cruncher)](lab_44.md) ([Download in Word](Unit 4 Word/Lab 4.4 Number Cruncher.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%204%20PDF/Lab%204.4%20Number%20Cruncher.pdf))
+-   [Lab 4.4 handout (Number Cruncher)](lab_44.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%204%20Word/Lab%204.4%20Number%20Cruncher.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%204%20PDF/Lab%204.4%20Number%20Cruncher.pdf))
 
 ## Pacing Guide
 

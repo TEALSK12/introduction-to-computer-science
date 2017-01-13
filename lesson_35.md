@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Reference to the Pong project: [Pong](project_3.md) ([Download in Word](Projects/Projects Word/Project 3 Pong.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=zIB91b9TjkBUSCUw6hdudjEREktankWIWXkVndlfD3c%3d&docid=029c2311cde11491ab89303bf594a7a9d))
+-   Reference to the Pong project: [Pong](project_3.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20Word/Project%203%20Pong.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20PDF/Project%203%20Pong.pdf))
 -   [Optional] Printouts of the specification
 -   Link to an online version of Pong for demonstration: <http://www.ponggame.org/>
 

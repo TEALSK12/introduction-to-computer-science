@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Project 4 - Hangman](project_4.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20Word/Project%204%20Hangman.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=mHd6gIaO8ivIS5HP6mPfe1lAHmuL7Zd193Kz0Xy8aFw%3d&docid=0bbc76be3ba0348a786759f446d4e638f))
+-   [Project 4 - Hangman](project_4.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20Word/Project%204%20Hangman.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20PDF/Project%204%20Hangman.pdf))
 
 -   [Project 4 Alternative - Snowman](project_4.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20Word/Project%204%20Snowman.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20PDF/Project%204%20Snowman.pdf))
 

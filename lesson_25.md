@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 2.5 handout (Triangles of All Kinds)](lab_25.md) ([Download in Word](Unit 2 Word/Lab 2.5 Triangles of All Kinds.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20PDF/Lab%202.5%20Triangles%20of%20All%20Kinds.pdf))
+-   [Lab 2.5 handout (Triangles of All Kinds)](lab_25.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20Word/Lab%202.5%20Triangles%20of%20All%20Kinds.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20PDF/Lab%202.5%20Triangles%20of%20All%20Kinds.pdf))
 
 ## Pacing Guide
 

@@ -16,7 +16,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Lab 2.3 Handout - [What Shape is That?](lab_23.md) ([Download in Word](Unit 2 Word/Lab 2.3 What Shape Is That.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20PDF/Lab 2.3%20What%20Shape%20Is%20That.pdf))
+-   Lab 2.3 Handout - [What Shape is That?](lab_23.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20Word/Lab%202.3%20What%20Shape%20Is%20That.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20PDF/Lab 2.3%20What%20Shape%20Is%20That.pdf))
 
 ## Pacing Guide
 

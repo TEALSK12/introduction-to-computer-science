@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 2.6 handout (What Goes Up...)](lab_26.md) ([Download in Word](Unit 2 Word/Lab 2.6 What Goes Up.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20PDF/Lab%202.6%20What%20Goes%20Up.pdf))
+-   [Lab 2.6 handout (What Goes Up...)](lab_26.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20Word/Lab%202.6%20What%20Goes%20Up.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20PDF/Lab%202.6%20What%20Goes%20Up.pdf))
 
 ## Pacing Guide
 

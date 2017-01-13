@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 3.4 handout](lab_34.md) (If My Calculations Are Correct...) ([Download in Word](Unit 3 Word/Lab 3.4 If My Calculations Are Correct.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=BKutmPhPYHFHyejuzJOMtUqlof3QLpHofIy3b0oTbyA%3d&docid=03cba66e93c6c4da1897aac268c1a6d99))
+-   [Lab 3.4 handout](lab_34.md) (If My Calculations Are Correct...) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%203%20Word/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%203%20PDF/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.pdf))
 
 ## Pacing Guide
 

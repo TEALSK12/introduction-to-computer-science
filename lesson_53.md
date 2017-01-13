@@ -8,7 +8,7 @@ Students will be able to...
 -   Delete clones when they are no longer needed
 
 ## Materials/Preparation
-- [Lab 5.3 Handout](lab_53.md) (Fewer Balls) ([Download in Word](Unit 5 Word/Lab 5.3 Fewer Balls.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%205%20PDF/Lab%205.3%20Fewer%20Balls.pdf))
+- [Lab 5.3 Handout](lab_53.md) (Fewer Balls) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%205%20Word/Lab%205.3%20Fewer%20Balls.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%205%20PDF/Lab%205.3%20Fewer%20Balls.pdf))
     * Test out the lab on student machines before class to ensure the machines can handle the number of clones
 
 ## Pacing Guide

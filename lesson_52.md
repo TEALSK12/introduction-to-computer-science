@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Lab 5.2 handout](lab_52.md) (Lots of Balls) ([Download in Word](Unit 5 Word/Lab 5.2 Lots of Balls.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%205%20PDF/Lab%205.2%20Lots%20of%20Balls.pdf))
+-   [Lab 5.2 handout](lab_52.md) (Lots of Balls) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%205%20Word/Lab%205.2%20Lots%20of%20Balls.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%205%20PDF/Lab%205.2%20Lots%20of%20Balls.pdf))
     -   Test out the lab on student machines before class--  cloning in SNAP! can bring the web browser to a crawl on some machines
 
 ## Pacing Guide

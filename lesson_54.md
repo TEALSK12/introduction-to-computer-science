@@ -54,7 +54,7 @@ Students will be able to...
         -   Ensure that students are able to ask questions in class throughout the project
     -   See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
 
-    -   [Sample project solution]()
+    -   [Sample initial project solution](http://snap.berkeley.edu/snapsource/snap.html#present:Username=nathanielgranor&ProjectName=space%20invaders%20demo)
 
 ## Accommodations/Differentiation
 

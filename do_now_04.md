@@ -3,9 +3,9 @@ The purpose of a portfolio is to showcase a person's credentials and skills in o
 
 Check out some of these links below for examples of portfolios with a computer science focus.  
 
-1. ![http://anthonybarranco.com/](http://anthonybarranco.com/)
-2. ![http://borntostudycomputerscience.com/](http://borntostudycomputerscience.com/)
-3. ![http://chriscarini.com/](http://chriscarini.com/)
+1. [http://anthonybarranco.com/](http://anthonybarranco.com)
+2. [http://borntostudycomputerscience.com/](http://borntostudycomputerscience.com)
+3. [http://chriscarini.com/](http://chriscarini.com)
 
 After taking few minutes to browse, write a comment below:
 1. Identify one good thing about each site

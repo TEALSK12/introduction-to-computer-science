@@ -10,7 +10,7 @@ Students will be able to...
 -   Be able to use common blocks to build simple SNAP programs (see [lab](lab_12.md) for specific blocks)
 
 ## Materials/Preparation
-
+-   [Do Now: Tracing and Debugging](do_now_12.md)  
 -   [Lab 1.2](lab_12.md) handout (SNAP Scavenger Hunt) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%201%20Word/Lab%201.2%20SNAP%20Scavenger%20Hunt.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%201%20PDF/Lab%201.2%20SNAP%20Scavenger%20Hunt.pdf))
 -   Read through the handout so that you are familiar with the requirements and can assist students
 
@@ -29,7 +29,7 @@ Students will be able to...
 
     -   Review the basics of SNAP from the previous lesson
         -   Ensure that students can:
-            -   Define "block" and "script" 
+            -   Define "block" and "script"
             -   Describe how to build a script (snapping blocks together)
             -   Explain how scripts are executed (one block at a time in order)
     -   Introduce the concept of block categories

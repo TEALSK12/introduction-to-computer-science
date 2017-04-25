@@ -5,7 +5,7 @@ Students will be able to...
   * Create a simple "program" in SNAP to describe themselves
 
 ## Materials/Preparation
-* [Do Now](do_now_04.md) 
+* [Do Now: I am ____](do_now_04.md) 
 * [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%200/Lab%200.4.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%200/Lab%200.4.pdf))
 
 
@@ -39,14 +39,14 @@ Students will be able to...
         * If the students build a pretty comprehensive list, you can use this as a chance to go over a brief roadmap for the course.
     * Ask students what they enjoyed about working with SNAP and what they disliked.
 
-## BJC Lecture Suggestions 
+## BJC Lecture Suggestions
 ####Good for Classroom Instruction
 
 
 
 * BJC Video Suggestion: [BJC Lecture 4: Functions ](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=18m15s)
     - [Types of Blocks]( http://www.youtube.com/watch?v=_uKCBmQEf5w&t=18m15s)  18:15-19:45
-    
+
 ## Accommodation/Differentiation
 * Allow students to use whatever resources they need, including instructors, peers, and web searches if necessary, to create their programs.  The goal of this lesson is exploration and exposure, not mastery.
 * For students that are hesitant or unwilling to engage, point out some simple, useful features (like basic drawing and the ![](say.png) block) to get them started.  Remind them that complexity or "coolness" are not important for this lab.

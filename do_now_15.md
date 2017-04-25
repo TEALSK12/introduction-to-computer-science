@@ -1,4 +1,4 @@
-## Do Now 1.05
+## Do Now 1.05 Day 1
 
 Write a SNAP program where 1 sprite is telling another a "knock, knock" joke. Internet search for one if you need ideas. Use these blocks:
 

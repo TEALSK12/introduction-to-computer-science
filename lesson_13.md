@@ -10,6 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+-   [Do Now: Drawing a Triangle](do_now_13.md)  
 -   [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%201%20Word/Lab%201.3%20Squares%20Triangles.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%201%20PDF/Lab%201.3%20Squares%20Triangles.pdf))
 
 ## Pacing Guide

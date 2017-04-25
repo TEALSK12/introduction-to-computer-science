@@ -5,7 +5,8 @@ Students will be able to...
   * Create a simple "program" in SNAP to describe themselves
 
 ## Materials/Preparation
-* [Do Now: I am ____](do_now_04.md) 
+
+* [Do Now: I am ____](do_now_04.md)
 * [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%200/Lab%200.4.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%200/Lab%200.4.pdf))
 
 

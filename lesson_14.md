@@ -10,6 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+-   [Do Now: Sprite Communication](do_now_14.md)  
 -   [Lab 1.4 handout](lab_14.md) (Sprites in Action) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%201%20PDF/Lab%201.4%20Sprites%20in%20Action.pdf))
 
 ## Pacing Guide
@@ -34,7 +35,7 @@ Students will be able to...
         -   Point out that all sprites "hear" a broadcast and any sprite with a corresponding "when I receive" will react.
         -   Discuss the difference between "broadcast" and "broadcast and wait" and ask students to come up with ideas for when each would be useful.
     3.  It's worthwhile to introduce the rotate buttons located at the top left of the SNAP interface. These buttons allow you to snap (puns!) your rotation, allowing you to lock rotation, allow free rotation, or allow only left/right rotation.
-      
+
     ![rotate buttons](rotateButton.PNG)
 
 

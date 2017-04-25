@@ -1,7 +1,8 @@
-## Do Now 0.04
+## Do Now 0.04 I am ______
+
 How would you fill in the following: I am ______?
 
-This could be answered in many ways: 
+This could be answered in many ways:
 1. What you enjoy doing: I am a musician.
 2. Physically: I am tall.
 3. Personal characteristic: I am funny.

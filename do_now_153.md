@@ -1,4 +1,4 @@
-## Do Now 1.05 Day 3
+## Do Now 1.05 Day 3 Movement Interaction
 
 Click on this [starter project](http://snap.berkeley.edu/snapsource/snap.html#present:Username=whuangpha&ProjectName=160201%20Do%20Now%20Bat%20and%20Dragon).
 

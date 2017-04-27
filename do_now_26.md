@@ -1,6 +1,6 @@
-## Do Now 2.06 Boolean Practice
+## Do Now 2.6 Boolean Practice
 
-[Startercode](http://snap.berkeley.edu/snapsource/snap.html#present:Username=lordmcfuzz&ProjectName=SonicMultiscreen)
+Open the following [Startercode](http://snap.berkeley.edu/snapsource/snap.html#present:Username=lordmcfuzz&ProjectName=SonicMultiscreen)
 
 There are three rooms: Start, Checkpoint and End.
 

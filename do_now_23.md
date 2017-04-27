@@ -1,4 +1,4 @@
-## Do Now 2.03 Stairs
+## Do Now 2.3 Stairs
 
 1. Use the following "Repeat" block to draw a box.
 

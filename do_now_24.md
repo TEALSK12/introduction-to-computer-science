@@ -1,11 +1,11 @@
-## Do Now 2.04 Jumping
+## Do Now 2.4 Jumping
 
-Follow this link to a project with a dog that can move left and right in response to arrow keys. Make the following modifications to the code:
+Follow [link to a project with a dog](http://snap.berkeley.edu/snapsource/snap.html#present:Username=whuangpha&ProjectName=160223%20Do%20Now%20dog%20walking%20and%20jumping) that can move left and right in response to arrow keys. Make the following modifications to the code:
 
 1. Program a walking animation for the dog. Hint: it has 2 costumes.
 
 2. Add the code below to the forever block to make the dog "jump". What is the problem with this jump code when you test it? How should jump work when the player presses the spacebar?
 
-![Key Press jump](keypressjump.png)
+ ![Key Press jump](keypressjump.png)
 
 3. Implement gravity using an If block inside the forever loop. Hint: If not touching ground or platform color, go down by a small amount.

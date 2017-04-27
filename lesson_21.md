@@ -12,6 +12,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+-   [Do Now 2.1: Intro Loops](do_now_21.md)
 -   Lab 2.1 handout - [Squares and Triangles Redux](lab_21.md) ([Download in MS Word](Unit 2 Word/Lab 2.1 Triangles and Squares Redux.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20PDF/Lab%202.1%20Triangles%20and%20Squares%20Redux.pdf))
 
 ## Pacing Guide
@@ -39,7 +40,7 @@ Students will be able to...
         -   Introduce SNAP specific loops:
             -   ![](repeat.png) runs the body of the loop the specified number of times
                 -   Number of iterations can be a value, variable, or reporter
-            -   ![](forever.png) runs the body of the loop nonstop until the script is ended 
+            -   ![](forever.png) runs the body of the loop nonstop until the script is ended
                 -   Can be stopped either by clicking the stop sign or by any version of ![](stop.png)
             -   ![](<repeat until.png>) runs the body of the loop until the specified condition becomes true
                 -   Save detailed discussion of this loop until conditionals are introduced

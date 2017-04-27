@@ -16,6 +16,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+-   [Do Now 2.3: Stairs](do_now_23.md)
 -   Lab 2.3 Handout - [What Shape is That?](lab_23.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20Word/Lab%202.3%20What%20Shape%20Is%20That.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20PDF/Lab 2.3%20What%20Shape%20Is%20That.pdf))
 
 ## Pacing Guide
@@ -72,7 +73,7 @@ _Note: This lesson may cover too much material for some classes to handle in one
             -   When the conditions are not mutually exclusive (as in part 2.2), the choice matters more
 
 ## BJC Lecture Suggestions
-####Good for Classroom Instruction 
+####Good for Classroom Instruction
 * [BJC Lecture 13: Mislababled as 14) Human-Computer Interaction Bjorn Hartman ](https://www.youtube.com/watch?v=3VZ7D01T2Yc)
 
  - [Why Study User Interfaces](http://www.youtube.com/watch?v=3VZ7D01T2Yc&t=15m0s)
@@ -107,5 +108,5 @@ _Note: This lesson may cover too much material for some classes to handle in one
 
 -   Advanced students can be encouraged to add extra functionality, such as attempting to draw the shape the user is specifying or identifying types of triangles (equilateral, isosceles, scalene)
 -   Students who are struggling can be allowed to skip some parts of the tables in 2.1 and 2.2, focusing on just a few cases
-     
+
     [Lab 2.3 Solution](http://snap.berkeley.edu/snapsource/snap.html#present:Username=kenneychan&ProjectName=Lab%202.3)

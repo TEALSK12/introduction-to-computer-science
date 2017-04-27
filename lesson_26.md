@@ -9,6 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+-   [Do Now 2.6: Boolean Practice](do_now_26.md)
 -   [Lab 2.6 handout (What Goes Up...)](lab_26.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20Word/Lab%202.6%20What%20Goes%20Up.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20PDF/Lab%202.6%20What%20Goes%20Up.pdf))
 
 ## Pacing Guide
@@ -21,7 +22,7 @@ Students will be able to...
 | 10 minutes | Review and wrap-up                            |
 
 ## Instructor's Notes
-    
+
 1.  Review and lecture
     1.  Review loops and conditionals
         -   Ask students what loops do, when they are useful, and what loops exist in SNAP
@@ -53,12 +54,12 @@ Students will be able to...
 
 
  * [ BJC Lecture 3: Video Games](https://www.youtube.com/watch?v=hdSFuhyGTIg)
-  - [History of Video Games Overview] (http://www.youtube.com/watch?v=hdSFuhyGTIg&t=2m30s) (Platform Game Prep) 2:30-7:55 
-  - [Casual Video Game World ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=8m0s)(light weight) 8:00-10:40 
+  - [History of Video Games Overview] (http://www.youtube.com/watch?v=hdSFuhyGTIg&t=2m30s) (Platform Game Prep) 2:30-7:55
+  - [Casual Video Game World ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=8m0s)(light weight) 8:00-10:40
 - [Core Video Game](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=10m45s) (heavy weight) 10:45-13:05   
-   - [Motion Capture ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=15m25s)(Hero Movement for Platform Game Lab 2.6) 15:25-17:30 
+   - [Motion Capture ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=15m25s)(Hero Movement for Platform Game Lab 2.6) 15:25-17:30
    - Artificial Intelligence (Enemy Logic for Lab 2.6) 17:30-19:40
-  - [Video Games w/purpose](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=19m40s) (social benefits) 19:40-24:36 
+  - [Video Games w/purpose](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=19m40s) (social benefits) 19:40-24:36
   - [Negative Aspects of Video Games ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=19m40s)(RSI, addition, violence) 24:40-28:00
   - [Glenn Sugden-Game Developer ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=28m03s)(History of VG Development & Industry) 28:03-40:53 *Good for Classroom Instruction
 
@@ -74,4 +75,4 @@ Students will be able to...
 -   Take care to ensure that all students have functional code by the end of the lab to avoid putting some students at a disadvantage starting the project
     -   If many students struggle, consider releasing your own solution after the lab has been completed in class
     -   Utilize TAs and advanced students to assist struggling students—it is vital that all students complete this lab in advance of starting the project
--   Advanced students can consider increasing the realism of their gravity model by adding acceleration and/or beginning to implement jumping 
+-   Advanced students can consider increasing the realism of their gravity model by adding acceleration and/or beginning to implement jumping

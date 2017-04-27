@@ -11,6 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+-   [Do Now 2.5: Variables Practice](do_now_25.md)
 -   [Lab 2.5 handout (Triangles of All Kinds)](lab_25.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20Word/Lab%202.5%20Triangles%20of%20All%20Kinds.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20PDF/Lab%202.5%20Triangles%20of%20All%20Kinds.pdf))
 
 ## Pacing Guide
@@ -54,7 +55,7 @@ Students will be able to...
         -   Discuss how nested or chained if blocks could potentially be used to obtain the same behavior, but would result in longer, less-readable code
 
 ## BJC Lecture Suggestions
-####Good for Classroom Instruction 
+####Good for Classroom Instruction
  * BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=5m50s)
   - [Modelling](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=5m50s) 5:50-10:57
 

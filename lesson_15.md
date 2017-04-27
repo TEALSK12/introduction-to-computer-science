@@ -10,9 +10,9 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Do Now: Day 1, Knock Knock](do_now_15.md)  
--   [Do Now: Day 2, Click Event Interaction](do_now_152.md)  
--   [Do Now: Day 3, Movement Interaction](do_now_153.md)  
+-   [Do Now 1.5: Day 1, Knock Knock](do_now_15.md)  
+-   [Do Now 1.52: Day 2, Click Event Interaction](do_now_152.md)  
+-   [Do Now 1.53: Day 3, Movement Interaction](do_now_153.md)  
 -   Reference to Nursery Rhyme project: [Project 1 - Nursery Rhyme](project_1.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20Word/Project%201%20Nursery%20Rhyme.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20PDF/Project%201%20Nursery%20Rhyme.pdf))
 -   _Optional_: Printouts of the project specification
 -   A list of possible nursery rhymes

@@ -9,13 +9,14 @@ Students will be able to...
 
 ## Materials/Preparation
 
+-   [Do Now 4.6: Gentle Hangman](do_now_46.md)
 -   [Project 4 - Hangman](project_4.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20Word/Project%204%20Hangman.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20PDF/Project%204%20Hangman.pdf))
 
 -   [Project 4 Alternative - Snowman](project_4.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20Word/Project%204%20Snowman.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20PDF/Project%204%20Snowman.pdf))
 
 -   [Optional] Printouts of the specification
--   Link to an online version of Hangman, such as <http://www.playhangman.com/> 
--   A word list from which words can be selected for the game, such as <http://www.mieliestronk.com/corncob_lowercase.txt> 
+-   Link to an online version of Hangman, such as <http://www.playhangman.com/>
+-   A word list from which words can be selected for the game, such as <http://www.mieliestronk.com/corncob_lowercase.txt>
 
 ## Pacing Guide
 

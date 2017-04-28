@@ -6,7 +6,7 @@ However all the sprites are moving at the same speed.  How would we get the spri
 
 We will solve this problem by adding an argument to the custom block named "speed".  We can then pass the speed we want each sprite to move.
 
-1. Open yestreday's do now with the "bounce" custom block.
+1. Open yesterday's do now with the "bounce" custom block.
 
 2. Add an argument named "speed" to the "bounce" block by clicking the "+".
 

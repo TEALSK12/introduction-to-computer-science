@@ -11,6 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+-   [Do Now 4.3: Quote of the Day](do_now_43.md)
 -   [Lab 4.3 handout (Guess Who)](lab_43.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%204%20Word/Lab%204.3%20Guess%20Who.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%204%20PDF/Lab%204.3%20Guess%20Who.pdf))
 
 ## Pacing Guide
@@ -48,7 +49,7 @@ Students will be able to...
     -   Ask students to briefly describe how the various parts of the lab were similar or different
         -   Hopefully the students find that the scripts were quite similar for each part.
     -   Ask students to describe something they found challenging about the lab
-    -   You will go over the correct solutions to the lab in the next lesson 
+    -   You will go over the correct solutions to the lab in the next lesson
 
 ##BJC Lecture Suggestion
 ####Background Information for Instructors  

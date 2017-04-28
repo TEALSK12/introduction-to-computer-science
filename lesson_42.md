@@ -10,6 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+-   [Do Now 4.2: Letters of a Word](do_now_42.md)
 -   [Lab 4.2 handout (You Talkin' to Me?)](lab_42.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%204%20Word/Lab%204.2%20You%20Talkin%20To%20Me.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%204%20PDF/Lab%204.2%20You%20Talkin%20To%20Me.pdf))
 
 ## Pacing Guide
@@ -24,7 +25,7 @@ Students will be able to...
 ## Instructor's Notes
 
 -   Lecture
-    -   Review the concept of a list from the previous lesson 
+    -   Review the concept of a list from the previous lesson
         -   Ask students to brainstorm examples of when lists could be useful
             -   To store an unknown number of values (e.g. a bunch of student test scores)
             -   To store a collection of related values as one entity (e.g. the number of absent students each day over a week)

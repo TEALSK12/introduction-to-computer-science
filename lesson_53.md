@@ -8,6 +8,8 @@ Students will be able to...
 -   Delete clones when they are no longer needed
 
 ## Materials/Preparation
+
+- [Do Now 5.3: Star Wars Troopers using Cloning](do_now_53.md)
 - [Lab 5.3 Handout](lab_53.md) (Fewer Balls) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%205%20Word/Lab%205.3%20Fewer%20Balls.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%205%20PDF/Lab%205.3%20Fewer%20Balls.pdf))
     * Test out the lab on student machines before class to ensure the machines can handle the number of clones
 
@@ -46,4 +48,4 @@ Students will be able to...
 
 -   For faster students, explaining and demonstrating race conditions would be valuable. Instructors could also give out project with a "simple race condition" (if such a thing exists) and ask the students to fix it
 -   Advanced students can also try to implement features giving them additional control over clones, such as changing a specific clone's speed or direction.
--   Struggling students can ignore the requirement to be able to create new sprites after some have been deleted and justfocus on deleting clones one at a time. 
+-   Struggling students can ignore the requirement to be able to create new sprites after some have been deleted and justfocus on deleting clones one at a time.

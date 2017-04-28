@@ -9,6 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+-   [Do Now 3.3: Custom Block Practice](do_now_33.md)
 -   [Lab 3.3 handout](lab_33.md) (Let Me Check My Calendar) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%203%20Word/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%203%20PDF/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.pdf))
 
 
@@ -26,13 +27,13 @@ Students will be able to...
 1.  Lecture
     1.  Introduce block arguments
         -   Ask students to speculate on risks of relying on variables instead of arguments
-            -   Variables could be changed by code other than the custom block, variable names could be changed causing errors, etc. 
+            -   Variables could be changed by code other than the custom block, variable names could be changed causing errors, etc.
         -   Emphasize importance of custom blocks being self-contained
             -   Custom blocks should continue to function correctly independent of any other changes in the program
             -   Custom blocks should work correctly anywhere in the program and not require specific setup or cleanup
         -   Point out how frustrating code would be if blocks like ![](move.png) required setting a variable with a specific name to work
     2.  Demonstrate declaration and usage of arguments
-        -   Point out that arguments are very similar to script variables, except their values come outside the block 
+        -   Point out that arguments are very similar to script variables, except their values come outside the block
         -   Explain argument types
             -   Only discuss text, numbers, and Booleans
                 -   Other types can be mentioned, but won't be used in the course
@@ -57,4 +58,3 @@ Students will be able to...
 
 -   Part 2.4 is a fairly complex formula and should be a challenge for advanced students.
 -   Struggling students should focus on section 1. The problems in section 2 represent more complex algorithms, but not necessarily any more difficult usage of arguments.
-

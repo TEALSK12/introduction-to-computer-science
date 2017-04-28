@@ -11,6 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+-   [Do Now 3.2: Drawing Squares](do_now_32.md)
 -   Lab 3.2 handout - [Drawing Shapes Again](lab_32.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%203%20Word/Lab%203.2%20Drawing%20Shapes%20Again.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%203%20PDF/Lab%203.2%20Drawing%20Shapes%20Again.pdf))
 
 
@@ -24,7 +25,7 @@ Students will be able to...
 | 15 minutes | Review and wrap-up                              |
 
 ## Instructor's Notes
-  
+
 
 1.	Lecture and Demonstration
 	-	Review with students the concepts of abstraction, generalization, and detail removal
@@ -56,4 +57,3 @@ Students will be able to...
 ## Accommodation/Differentiation
 -	In addition to attempting the bonus in the lab, advanced students can be encouraged to write a new custom block that draws a specified number of the given shape (for example, 2 squares or 5 hexagons).  The number of shapes should be taken as user input.
 -	Struggling students can be given solution code for all of section 1.  Work with these students to answer the questions in part 1.5 so that they are prepared to attempt the custom block authoring.
-

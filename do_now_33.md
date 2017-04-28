@@ -8,7 +8,7 @@
 
     ![if on edge, bounce](ifedgebounce.png)
 
-2. Create a script that when the flag is clicked, the "bounce" custom block is called forever.
+2. After saving the custom block, create a script that when the flag is clicked, the "bounce" custom block is called forever.
 
 3. Add a second script.  Add the same script from step 2 above for the new sprite.
 

@@ -3,7 +3,7 @@
 <!-- TODO: Name of the course: Intro to CSP is good in terms of
 aligning the class with other standards, but we need a more exciting
 name to attract students! -->
-a
+
 Welcome to the new TEALS Intro CS Curriculum!
 
 ## About this curriculum
@@ -19,14 +19,14 @@ This curriculum advocates a "hands-on" learning approach in which students' prim
 
 Because this curriculum was designed to be used in a wide variety of classrooms, we have made as few assumptions as possible.  In particular, the curriculum does not depend on any specific technologies or resources in the classroom other than computers with reliable internet access.  This curriculum is also designed without any student homework assignment, as not all classes will have students who can reliably access a computer with internet access at home.  For classes where home computer access is not an issue, some amount of lab work can be reassigned as homework.
 
-###Resources
+### Resources
 This curriculum is designed for use with the Snap! programming language designed at the University of California, Berkeley.  Snap! is a visual programming language designed to allow students to focus on concepts and skills rather than syntax when learning to program.  Snap! is an extension and reimplementation of Scratch, designed at MIT, and many Scratch lessons and programs can be easily adapted to Snap!  The following resources are available to support use of Snap! in this curriculum:
 - The Snap! Reference Manual: http://snap.berkeley.edu/SnapManual.pdf
 - Snap! examples and extensions (including using hardware devices with Snap!): http://snap.berkeley.edu/#help-examples
 - ScratchEd online community for Scratch educators: https://scratch.mit.edu/educators/
 - Beauty and Joy of Computing curriculum: http://bjc.berkeley.edu/
 
-###Snap Mirrors
+### Snap Mirrors
 Access to Snap! is necessary for students to complete the labs.  The main Snap! site has been know to be inaccessible due to system updates or network outages.  It is important to have contingency plans in the event the web site is unreachable.  Here is a list of mirror sites that can be used in the event the main site is unreachable.  In addition, Snap! can be downloaded to run locally on a student's computer, however the projects will not be able to be save to the cloud and will need to be exported and then imported to the cloud when Snap! becomes available.
 
 The Berkeley Snap! is located at: http://snap.berkeley.edu/
@@ -42,11 +42,11 @@ Download a local copy of Snap! as a backup:
 1. Run Snap! from browser
 2. Click on the Snap! logo in the upper-left of the app.
 3. Choose “Download source” from the menu
+ ![Snap! download](snapdownload.PNG)
 4. Save snap.zip locally on your computer.
 5. Extract snap.zip.
 6. Open snap.html in a web browser.
 
-![Snap! download](snapdownload.PNG)
 
 ## Using this curriculum
 ### Semester pacing
@@ -59,7 +59,7 @@ The TEALS Intro CS curriculum is designed for a semester-long introductory cours
 
 - **Unit 6** must be preserved if at all possible.  The capstone experience for the course, Unit 6 enables students to apply the skills they have learned in a large-scale, individualized project setting.  Cutting this unit would deprive students of the opportunity to experience a close approximation of a real-world development setting.  Earlier units should be condensed or cut as necessary to ensure that Unit 6 is still included in the curriculum.
 
-###Daily lesson plans
+### Daily lesson plans
 Most lesson plans in this curriculum are designed to represent a single 55-minute class period with average pacing.  Each class will have slightly different needs, possibly including different period length, student capabilities, classroom interruptions, and more.  Teachers and volunteers are encouraged to consider the lesson plans as guidance for one possible use of time to present the material, and to feel free to adapt the lesson plans as necessary to fit the needs of the particular class in which the plans are being applied.
 
 With a few exceptions, each daily lesson plan consists of the following components:
@@ -85,7 +85,7 @@ With a few exceptions, each daily lesson plan consists of the following componen
 - Debrief time can also be used to compare and contrast different possible approaches to some of the problems, emphasizing that, in most cases, there is more than one valid solution.  
 - Whenever possible, use examples of student work rather than instructor-created solutions during the debrief—this is an excellent chance to showcase students who solve problems in elegant, creative, or canonical ways.
 
-###Special lesson plans
+### Special lesson plans
 The curriculum includes a few special lesson plans that are intended to be applied at multiple times during the semester.  These lesson plans are templates for a particular type of lesson, though the specific topics will vary each time the plan is used.  
 
 These special plans include:
@@ -102,8 +102,8 @@ These special plans include:
     - Suggested topics are provided, but teaching teams are encouraged to choose topics that are both of interest to their students and that play to the strengths of the instructors.  
     - These lessons may require more preparation than the typical lesson to adapt the plan to the particular topic chosen.  
 
-###Homework
+### Homework
 This curriculum does not assign homework as part of its typical lessons.  Because this curriculum is intended to be used in a wide variety of classrooms, some of which may include students that do not have regular access to an internet-enabled computer at home, all work is done during class time.  In some circumstances, assigning some lab activities as homework can enable the teaching team to regain in-class time for additional lessons or activities, but this must be done with care.  In particular, if homework is assigned, arrangements must be made so that any students who do not have the ability to complete the homework at home do not fall behind.  Further, it should be expected that some students will not complete the assigned homework and teaching teams must have a way to both assess that homework was completed and ensure the material is reinforced briefly in class.
 
-##Updates and contributions
+## Updates and contributions
 This curriculum is considered a living document and is intended to be updated regularly both by the TEALS team and with contributions from the TEALS community.  In particular, feedback on teaching teams' experiences in conducting the lessons in this curriculum is always welcome.  Teaching teams are also encouraged to share ideas for additional activities, lessons, or projects that can be incorporated into the curriculum guide.  Please see the [Contributing](contributing.md) page for more information about how to contribute to the curriculum, or send feedback to IntroSquad@tealsk12.org.  

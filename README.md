@@ -3,7 +3,7 @@
 <!-- TODO: Name of the course: Intro to CSP is good in terms of
 aligning the class with other standards, but we need a more exciting
 name to attract students! -->
-
+a
 Welcome to the new TEALS Intro CS Curriculum!
 
 ## About this curriculum
@@ -15,7 +15,7 @@ This curriculum is licensed under the Creative Commons Attribution Non-Commercia
 
 This curriculum has been designed by the TEALS program to support computer science teachers and/or volunteer professionals teaching an introductory computer science course in a high school classroom.  The curriculum is based on, and borrows heavily from, the Beauty and Joy of Computing Curriculum (http://bjc.berkeley.edu/) developed at the University of California, Berkeley.  The TEALS curriculum has a heavier focus on the basic programming components of the course than BJC, sacrificing some of the advanced programming and conceptual topics that are less appropriate in an introductory high school classroom.  
 
-This curriculum advocates a "hands-on" learning approach in which students' primary means of learning is through discovery, experimentation, and application.  To that end, each unit is built around a large, culminating, programming project that exercises the objectives of the unit.  In addition, nearly all lessons in the curriculum include a guided activity of some kind to allow students to practice with and experience the concepts covered in the lesson first-hand.  Taken together, the lessons provide the skills and support necessary to enable students to complete the project and demonstrate mastery of the unit's objectives.  Substantial class time should be provided for the project in each unit to ensure students have the opportunity to demonstrate mastery of the skills from each unit before moving on. 
+This curriculum advocates a "hands-on" learning approach in which students' primary means of learning is through discovery, experimentation, and application.  To that end, each unit is built around a large, culminating, programming project that exercises the objectives of the unit.  In addition, nearly all lessons in the curriculum include a guided activity of some kind to allow students to practice with and experience the concepts covered in the lesson first-hand.  Taken together, the lessons provide the skills and support necessary to enable students to complete the project and demonstrate mastery of the unit's objectives.  Substantial class time should be provided for the project in each unit to ensure students have the opportunity to demonstrate mastery of the skills from each unit before moving on.
 
 Because this curriculum was designed to be used in a wide variety of classrooms, we have made as few assumptions as possible.  In particular, the curriculum does not depend on any specific technologies or resources in the classroom other than computers with reliable internet access.  This curriculum is also designed without any student homework assignment, as not all classes will have students who can reliably access a computer with internet access at home.  For classes where home computer access is not an issue, some amount of lab work can be reassigned as homework.
 
@@ -25,6 +25,28 @@ This curriculum is designed for use with the Snap! programming language designed
 - Snap! examples and extensions (including using hardware devices with Snap!): http://snap.berkeley.edu/#help-examples
 - ScratchEd online community for Scratch educators: https://scratch.mit.edu/educators/
 - Beauty and Joy of Computing curriculum: http://bjc.berkeley.edu/
+
+###Snap Mirrors
+Access to Snap! is necessary for students to complete the labs.  The main Snap! site has been know to be inaccessible due to system updates or network outages.  It is important to have contingency plans in the event the web site is unreachable.  Here is a list of mirror sites that can be used in the event the main site is unreachable.  In addition, Snap! can be downloaded to run locally on a student's computer, however the projects will not be able to be save to the cloud and will need to be exported and then imported to the cloud when Snap! becomes available.
+
+The Berkeley Snap! is located at: http://snap.berkeley.edu/
+
+The following are mirror sights:
+- http://bjc.edc.org/snapsource/snap.html
+- https://snap.apps.miosoft.com/
+- http://media.mit.edu/~harveyb/snap
+- http://cs10.org/snap
+
+Download a local copy of Snap! as a backup:
+
+1. Run Snap! from browser
+2. Click on the Snap! logo in the upper-left of the app.
+3. Choose “Download source” from the menu
+4. Save snap.zip locally on your computer.
+5. Extract snap.zip.
+6. Open snap.html in a web browser.
+
+![Snap! download](snapdownload.PNG)
 
 ## Using this curriculum
 ### Semester pacing
@@ -50,7 +72,7 @@ With a few exceptions, each daily lesson plan consists of the following componen
 2)	Instruction/Discussion
 - Most lessons begin with a brief period of instruction on the topic of the day.  These sections should be kept as brief as possible—the primary means of student learning in most lessons will be the lab activities.  
 - The goals of the instruction section of the lesson should be to motivate the concepts being exercised in the lab and to provide a short demonstration to help students find the necessary parts of SNAP the first time.  
-- Teaching teams should vary the ways in which the instruction is presented throughout the course, including class discussions, kinesthetic activities, demonstrations, Socratic seminars, occasional lectures, and other approaches. 
+- Teaching teams should vary the ways in which the instruction is presented throughout the course, including class discussions, kinesthetic activities, demonstrations, Socratic seminars, occasional lectures, and other approaches.
 
 3)	Activity
 - The largest portion of time in each lesson is dedicated to a guided activity that allows students to explore and practice with the day's key topics.  Each activity is broken down into several parts, each of which consists of several steps.  In general, the steps in a single section build on each other, and each section covers a new topic or new application.  
@@ -67,12 +89,12 @@ With a few exceptions, each daily lesson plan consists of the following componen
 The curriculum includes a few special lesson plans that are intended to be applied at multiple times during the semester.  These lesson plans are templates for a particular type of lesson, though the specific topics will vary each time the plan is used.  
 
 These special plans include:
-- Lab Day Lesson 
+- Lab Day Lesson
     - This lesson plan provides structure for a typical "lab day" (a class day in which students are primarily working on a larger-scale project).  
     - The lab day lesson plan will most often be used during the culminating project of each unit, but can also occasionally be used for larger lab activities that require being split over multiple days.  
     - The lab day lesson provides a basic structure for reviewing and reinforcing important concepts before providing time for students to work independently.  
     - The lesson also provides recommendations for how to deal with questions and struggling students, and how to gauge student progress over the course of a project.
-- Culture Day Lessons 
+- Culture Day Lessons
     - These lesson plans provide the basic outline for possible types of "culture days" (class days in which cultural, social, societal, or other topics not directly related to programming are covered).  
     - These days are vital to the experience of this course, as they provide opportunities for students to connect the skills and concepts they are learning to real-world problems, view their society and culture through the lens of technology, and get glimpses of the types of problems and applications that they could encounter in further study of computer science.  
     - These lessons also provide an outstanding opportunity for students to bring their own personal experiences or knowledge into the classroom.  

@@ -10,8 +10,8 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Reference to the Platform Game Project: [Easy Platform Game](project_2_platform_game_easy.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20Word/Project%202%20Platform%20Game%20Easy.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20PDF/Project%202%20Platform%20Game%20Easy.pdf))
--   (Optional) Advanced Version of the project: [Platform Game](project_2.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20Word/Project%202%20Platform%20Game.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20PDF/Project%202%20Platform%20Game.pdf))
+-   Reference to the Platform Game Project: [Easy Platform Game](project_2_platform_game_easy.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%202%20Platform%20Game%20Easy.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%202%20Platform%20Game%20Easy.pdf))
+-   (Optional) Advanced Version of the project: [Platform Game](project_2.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%202%20Platform%20Game.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%202%20Platform%20Game.pdf))
 
 -   (Optional) Printouts of the specification
 -   A few suggested themes available for students who may struggle to come up with their own.

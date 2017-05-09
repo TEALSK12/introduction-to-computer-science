@@ -11,7 +11,7 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 1.4: Sprite Communication](do_now_14.md)  
--   [Lab 1.4 handout](lab_14.md) (Sprites in Action) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%201%20PDF/Lab%201.4%20Sprites%20in%20Action.pdf))
+-   [Lab 1.4 handout](lab_14.md) (Sprites in Action) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%201%20PDF/Lab%201.4%20Sprites%20in%20Action.pdf))
 
 ## Pacing Guide
 

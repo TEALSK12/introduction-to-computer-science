@@ -10,7 +10,7 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 3.4: Practice using Arguments](do_now_34.md)
--   [Lab 3.4 handout](lab_34.md) (If My Calculations Are Correct...) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%203%20Word/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%203%20PDF/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.pdf))
+-   [Lab 3.4 handout](lab_34.md) (If My Calculations Are Correct...) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%203%20Word/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%203%20PDF/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.pdf))
 
 ## Pacing Guide
 

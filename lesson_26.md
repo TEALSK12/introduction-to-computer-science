@@ -10,7 +10,7 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 2.6: Boolean Practice](do_now_26.md)
--   [Lab 2.6 handout (What Goes Up...)](lab_26.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20Word/Lab%202.6%20What%20Goes%20Up.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%202%20PDF/Lab%202.6%20What%20Goes%20Up.pdf))
+-   [Lab 2.6 handout (What Goes Up...)](lab_26.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%202%20Word/Lab%202.6%20What%20Goes%20Up.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%202%20PDF/Lab%202.6%20What%20Goes%20Up.pdf))
 
 ## Pacing Guide
 

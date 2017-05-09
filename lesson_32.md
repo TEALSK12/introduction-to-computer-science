@@ -12,7 +12,7 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 3.2: Drawing Squares](do_now_32.md)
--   Lab 3.2 handout - [Drawing Shapes Again](lab_32.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%203%20Word/Lab%203.2%20Drawing%20Shapes%20Again.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%203%20PDF/Lab%203.2%20Drawing%20Shapes%20Again.pdf))
+-   Lab 3.2 handout - [Drawing Shapes Again](lab_32.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%203%20Word/Lab%203.2%20Drawing%20Shapes%20Again.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%203%20PDF/Lab%203.2%20Drawing%20Shapes%20Again.pdf))
 
 
 ## Pacing Guide

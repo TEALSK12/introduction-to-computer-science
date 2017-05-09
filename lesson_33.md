@@ -10,7 +10,7 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 3.3: Custom Block Practice](do_now_33.md)
--   [Lab 3.3 handout](lab_33.md) (Let Me Check My Calendar) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%203%20Word/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%203%20PDF/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.pdf))
+-   [Lab 3.3 handout](lab_33.md) (Let Me Check My Calendar) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%203%20Word/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%203%20PDF/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.pdf))
 
 
 ## Pacing Guide

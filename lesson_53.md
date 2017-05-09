@@ -10,7 +10,7 @@ Students will be able to...
 ## Materials/Preparation
 
 - [Do Now 5.3: Star Wars Troopers using Cloning](do_now_53.md)
-- [Lab 5.3 Handout](lab_53.md) (Fewer Balls) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%205%20Word/Lab%205.3%20Fewer%20Balls.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%205%20PDF/Lab%205.3%20Fewer%20Balls.pdf))
+- [Lab 5.3 Handout](lab_53.md) (Fewer Balls) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%205%20Word/Lab%205.3%20Fewer%20Balls.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%205%20PDF/Lab%205.3%20Fewer%20Balls.pdf))
     * Test out the lab on student machines before class to ensure the machines can handle the number of clones
 
 ## Pacing Guide

@@ -1,4 +1,4 @@
-# Project 2: Platform Game
+# Project 3: Platform Game
 
 Adapted from Forest Ridge High School's Mario Project.
 
@@ -34,7 +34,7 @@ Platform games are among the most widely recognized types of video games.  Compo
     - Following with the layers, scenery sprites should move at different speeds so that one seems farther away. For example, a faraway mountain should move more slowly than a nearby tree.
 
     - Scenery sprites should roll over/re-appear when they hit the edge of the stage. For example, when Mario is walking to the right, the scenery Sprites should re-appear on the right side of the stage when they roll off the left.
-    
+
 3.  **On-Ground Enemy**
     <br/>
 There should be an on-ground enemy for Mario to contend with. Specific criteria here include:
@@ -50,7 +50,7 @@ There should be an on-ground enemy for Mario to contend with. Specific criteria 
     - If Mario does not jump he runs into the enemy and the game ends with an appropriate message (HINT: you can use the “STOP ALL” block to end all scripts)
 
     - It should be possible for Mario to jump over the enemy.
-    
+
     <br/>
  ##Programming Habits
     We will again look for you to incorporate good programming habits in your code:
@@ -59,7 +59,7 @@ There should be an on-ground enemy for Mario to contend with. Specific criteria 
     - Making sure you initialize state appropriately so that your program is repeatable.
     - Add comments to your code so it is easy to understand.
     - Always keep in mind all Good Programming Skills you’ve been taught
-    
+
  ##Additional Extensions
 Once you complete the above, you can extend your program. Some suggestions:
 
@@ -93,11 +93,11 @@ The detailed list for what we will use to grade your projects is below. Please r
 | Mario can jump over the enemy | 5 |
 | *Good programming #1:* Program has clear start and stop | 5 |
 | *Good programming #2:* Program is repeatable and initializes state correctly | 5 |
-| * Good programming #3:* Use of comments in your code | 5 |
+| *Good programming #3:* Use of comments in your code | 5 |
 | *Good programming #4:* General skills you’ve been taught | 5 |
+| *Good programming #5:* Custom blocks used to break down program into logical parts | 5 |
 | **Extra Credit:** Include flying enemies for Mario to dodge or duck | 5 |
 | **Extra Credit:** Keep score based on how many objects Mario gets by | 5 |
 | **Extra Credit:** Have Mario jump to ‘grab’ an object that offers Mario extra points or more powerful abilities. The objects must appear at random times and move smoothly as Mario runs | 10 |
 | **Extra Credit:** Create Your Own Extension | 0-10 |
-| **TOTAL POINTS** | **100** (130 Possible with all the extra credit) |
-
+| **TOTAL POINTS** | **105** (135 Possible with all the extra credit) |

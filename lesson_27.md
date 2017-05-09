@@ -1,21 +1,19 @@
 <!--- REVISED -->
-# Lesson 2.7: Platform Game Project   
+# Lesson 3.5: Pong Project
 
 ## Learning Objectives
 
 Students will be able to...
 
--   Use loops, variables, and Boolean expressions to implement a Super Mario Bros. style platform game.
--   Practice good debugging skills to correct issues as they arise while programming.
+-   Use custom blocks to implement a well-written version of Pong
+-   Practice good style and conventions to create readable and maintainable code
 
 ## Materials/Preparation
 
--   Reference to the Platform Game Project: [Easy Platform Game](project_2_platform_game_easy.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20Word/Project%202%20Platform%20Game%20Easy.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20PDF/Project%202%20Platform%20Game%20Easy.pdf))
--   (Optional) Advanced Version of the project: [Platform Game](project_2.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20Word/Project%202%20Platform%20Game.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20PDF/Project%202%20Platform%20Game.pdf))
-
--   (Optional) Printouts of the specification 
--   A few suggested themes available for students who may struggle to come up with their own.
--   Suggestions for characters, power-ups, goals, etc.
+-   Reference to the Pong project: [Pong](project_3.md) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20Word/Project%203%20Pong.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Projects/Projects%20PDF/Project%203%20Pong.pdf))
+-   Pong planning worksheet: ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project_2_Pong_Planning_Worksheet.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project_2_Pong_Planning_Worksheet.pdf))
+-   [Optional] Printouts of the specification
+-   Link to an online version of Pong for demonstration: <http://www.ponggame.org/>
 
 ## Pacing Guide
 
@@ -23,7 +21,7 @@ Students will be able to...
 | ------------- | --------------------------------------------- |
 | _Day 1_       |                                               |
 | 5 minutes     | Welcome, attendance, bell work, announcements |
-| 30 minutes    | Review unit topics                            |
+| 30 minutes    | Review unit concepts                          |
 | 20 minutes    | Introduce project                             |
 | _Days 2-9_    |                                               |
 | 5 minutes     | Welcome, attendance, bell work, announcements |
@@ -35,19 +33,20 @@ Students will be able to...
 
 1.  Review/Introduction
     -   Play a review game (such as [GrudgeBall](http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html)) to remind students of the skills and concepts have been learned in this unit.
-        -   Basic loops
-        -   Nested loops
-        -   User input
-        -   Conditional blocks
-        -   Advanced (conditional) loops
-        -   Boolean logic
+        -   Variables
+        -   Operators
+        -   Procedural decomposition/abstraction
+        -   Custom command blocks
+        -   Custom reporter/predicate blocks
+        -   Custom blocks with arguments
     -   Remind students that their solutions to previous assignments are an excellent resource when trying to accomplish similar tasks.
 2.  Introduce project
     -   Walk students through the project specification, pointing out important details, potential pitfalls, and requirements.
-        -   If students are unfamiliar with the concept of a platform game, spend a couple minutes demonstrating one for the class.  If you have a SNAP or Scratch version, that works best, but an online game (such as [Super Mario Flash](http://www.pouetpu-games.com/index.php?section=2&game_id=1&w=640&h=480)) will work as well.
+        -   If students are unfamiliar with the concept of a platform game, spend a couple minutes demonstrating one for the class.  If you have a SNAP or Scratch version, that works best, but an online game (such as <http://www.ponggame.org/>) will work as well.
         -   Discourage students from simply recreating a game they are already familiar with (and using copyrighted assets) and encourage them to be creative and design their own characters and world instead.
         -   Static screens are somewhat easier to implement than smooth scrolling, but scrolling is doable with some scaffolding.
 3.  Project
+
     -   This project is a summative assessment for the unit.  Students should be demonstrating mastery of all the skills covered.
     -   Most students will require roughly 6-10 hours of total work time to complete the project
         -   Assess the progress of your students regularly using such techniques as asking them to demonstate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
@@ -58,9 +57,24 @@ Students will be able to...
         -   Ensure that students are able to ask questions in class throughout the project
     -   See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
 
+    -   [Sample project solution](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Pong)
+
+##BJC Lecture Suggestion
+####Background Information for Instructors
+* [BJC Lecture 9: Recusion](https://www.youtube.com/watch?v=JKn3nsfzBdA)
+ - Movie “Inception” as an example of recursion 0:00-0:50
+ - Recursion 0:50-1:40
+ - Recursion Demo in Snap 1:40-17:00
+ - Overview 17:00-21:00
+ - Definition of Recursion 21:00-24:30
+ - Examples of Recursion (You Already Know It!) 24:30-26:20
+ - Trust the Recursion 26:22-29:40
+ - Summary of Recursion 29:40-End
+
+
 ## Accommodations/Differentiation
 
 -   If any students do not have the ability to work at home, ensure enough in-class time is provided to complete the assignment, offering extensions if necessary.
--   Advanced students can be encouraged to extend their games beyond the minimum required number of screens, add more features (power-ups, "boss" enemies, secret screens, etc.), create multiple "levels" that must be worked through, or any other extension.
--   Struggling students can be exempted from certain requirements or given starter code.
-    -   If scaffolding this project, provide code to perform some of the various actions required in the game (changing screens, moving the character, defeating enemies, etc.) and ask the students to fill in the triggers and conditions for using these routines.
+-   Advanced students can be encouraged to add a single-player mode with a computer-controlled opponent, recreate the original mechanic in which the ball’s angle depends on where it hit the paddle, add different “levels” with obstacles or differently shaped fields, or any other extension.
+-   Struggling students can be exempted from certain features (such as ball speed or scoring) or given starter code
+    -   If students need significant assistance, focus them on the ball’s movement, as it is both the most computationally interesting part of the assignment as well as the area in which they are most likely to be able to use custom blocks.

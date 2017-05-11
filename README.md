@@ -27,7 +27,7 @@ This curriculum is designed for use with the Snap! programming language designed
 - Beauty and Joy of Computing curriculum: http://bjc.berkeley.edu/
 
 ### Snap Mirrors
-Access to Snap! is necessary for students to complete the labs.  The main Snap! site has been know to be inaccessible due to system updates or network outages.  It is important to have contingency plans in the event the web site is unreachable.  Here is a list of mirror sites that can be used in the event the main site is unreachable.  In addition, Snap! can be downloaded to run locally on a student's computer, however the projects will not be able to be save to the cloud and will need to be exported and then imported to the cloud when Snap! becomes available.
+Access to Snap! is necessary for students to complete the labs.  The main Snap! site has been known to be inaccessible due to system updates or network outages.  It is important to have contingency plans in the event the web site is unreachable.  Here is a list of mirror sites that can be used in the event the main site is unreachable.  In addition, Snap! can be downloaded to run locally on a student's computer, however the projects will not be able to be save to the cloud and will need to be exported and then imported to the cloud when Snap! becomes available.
 
 The Berkeley Snap! is located at: http://snap.berkeley.edu/
 

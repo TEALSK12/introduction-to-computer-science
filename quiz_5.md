@@ -1,4 +1,4 @@
-# Unit 1 Quiz SNAP Basics
+# Unit 5 Quiz Cloning
 
 ## Learning Objectives
 
@@ -7,4 +7,4 @@ Formative assessment on student progress: To gauge student understanding, the ad
 ## Materials/Preparation
 Note: Quizzes are located in protected Introduction to Computer Science Instructor GitHub repository: [https://github.com/TEALSK12/introduction-to-computer-science-instructor](https://github.com/TEALSK12/introduction-to-computer-science-instructor)
 
-- [Unit 1 Quiz](https://github.com/TEALSK12/introduction-to-computer-science-instructor/blob/master/curriculum/quizzes/Unit%201%20Quiz.docx)
+- [Unit 5 Quiz](https://github.com/TEALSK12/introduction-to-computer-science-instructor/blob/master/curriculum/quizzes/Unit%205%20Quiz.docx)

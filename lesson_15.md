@@ -1,5 +1,5 @@
 <!--- REVISED -->
-# Lesson 1.5: Nursery Rhyme Project
+# Lesson 1.5: Storytelling Project
 
 ## Learning Objectives
 
@@ -13,8 +13,9 @@ Students will be able to...
 -   [Do Now 1.5: Day 1, Knock Knock](do_now_15.md)  
 -   [Do Now 1.52: Day 2, Click Event Interaction](do_now_152.md)  
 -   [Do Now 1.53: Day 3, Movement Interaction](do_now_153.md)  
--   Reference to Nursery Rhyme project: [Project 1 - Nursery Rhyme](project_1.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%201%20Nursery%20Rhyme.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%201%20Nursery%20Rhyme.pdf))
+-   Reference to Storytelling project: [Project 1 - Storytelling](project_1.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%201%20Storytelling.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%201%20Storytelling.pdf))
 -   _Optional_: Printouts of the project specification
+-   A list of possible plays to find a scene to animate: http://www.npr.org/sections/ed/2015/07/30/427138970/the-most-popular-high-school-plays-and-musicals
 -   A list of possible nursery rhymes
     -   Wikipedia has a fairly comprehensive list: <https://en.wikipedia.org/wiki/List_of_nursery_rhymes>
 -   A few suggested subjects for students who struggle to come up with their own
@@ -50,9 +51,9 @@ Students will be able to...
 2.  Introduce project
 
     -   Walk students through project specification, pointing out important details, potential pitfalls, and specific requirements
-        -   The words to the nursery rhyme must appear on the screen somehow
+        -   The words to the story must appear on the screen somehow
             -   This can be as a sprite, as a part of the background, or "said" by a narrator
-        -   Sprites must act out the nursery rhyme line by line
+        -   Sprites must act out the story line by line
             -   The action must be dynamic-- a series of static images is not sufficient
         -   The action and words should advance automatically, but at a slow enough pace that the viewer can follow
         -   The user must be able to restart the animation (in a manner other than pressing the green flag again) after it has concluded
@@ -73,7 +74,7 @@ Students will be able to...
 
 ## Accommodation/Differentiation
 
--   Instead of a nursery rhyme, students can recreate a famous scene from a movie or play, depict lyrics from their favorite song, or develop their own unique animations.  Feel free to modify the specification for whichever version will appeal most to your students.
+-   Instead of a scene from a play or a nursery rhyme, students can recreate a famous scene from a movie, depict lyrics from their favorite song, or develop their own unique animations.  Feel free to modify the specification for whichever version will appeal most to your students.
 -   Advanced students can be encouraged to add detail and/or complexity to their project for possible extra credit.
--   For ELL students or students from other cultures, offer the opportunity to choose an animation subject familiar to them rather than requiring a traditional English nursery rhyme.
+-   For ELL students or students from other cultures, offer the opportunity to choose an animation subject familiar to them rather than requiring a traditional English nursery rhyme or play.
     -   If necessary, a non-English language can be used for this assignment without affecting the learning objectives.  Discuss this option with the student's ELL specialist to determine if it is appropriate.

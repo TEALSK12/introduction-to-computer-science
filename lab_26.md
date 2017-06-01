@@ -2,36 +2,31 @@
 
 In this lab, you will use everything you've learned about loops and conditionals to construct a simple model for gravity.
 
+## Before You Start
+
+Go to the starter project at [http://bitly.com/aelcs-lab2-5](http://bitly.com/aelcs-lab2-5). Log into SNAP and save your own copy of the project by choosing “Save as” from the file menu. Be sure to click the “Share” button in the Save dialog box. Highlight the URL in the address bar and copy it.
+
 ## Channeling Newton
 
-1.  Create a SNAP program with a background that looks like an outside scene.  Add a single sprite that looks like an object of your choice (a brick or a ball would work well) and place it so it is touching the "ground."
+Write a script for the Dino sprite so that:
 
-2.  Write code for your sprite so that, when the green flag is clicked, the object moves to the top of the stage and "falls" towards the bottom at a constant speed.
+1.	(1 point) When the green flag is clicked.
+2.	(1 point) Dino goes to the top of the stage.
+3.	(2 points) Dino falls towards the bottom of the stage in a forever loop.
+4.	(3 points) But when Dino hits the ground (in other words, if Dino is touching the ground), it should stop falling.  You can use the fact that the ground is all the same color green, along with the “touching color” block.  You can change the color by clicking on the color, then clicking on anything that has the desired color.
 
-3.  What happens in your program when the object hits the "ground"?  Is that an accurate model of how gravity works on Earth?
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-
-4.  Modify your program so that the problem you identified in part 1.3 is fixed.  Make your object do something appropriate when it hits the "ground."  (Making sure the ground is a unique color and making use of that color will be helpful.)
 
 ## ...Must Come Down
 
-1.  Add a second sprite that looks like something that might already be on the ground when your first object is falling (like a house, a picnic table, a person, etc.).  Put this new object directly below where the first object falls so that the falling object will hit it.
+5.	(2 points) Modify your code so that when the green flag is clicked, Dino will not only move to the top of the stage, it will move to a random x-coordinate on the stage (between -240 and 240).  Use the “pick random” block:
+6.  (2 points) Modify your code so that the Dino sprite not only stops falling when it touches the ground, but it also stops falling if it is touching the Platform sprite.  In other words, it should always fall unless it is touching the ground OR it is touching the Platform sprite.  
 
-2.  What should happen when the following object hits the object on the ground?  Will that happen with the model we currently have?  Why or why not?
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
+## Jump Up
 
-3.  Modify your code so that you fix the problem you identified in part 2.2.  Make your falling object do something appropriate if it hits the object on the ground.  Once you've made that work, move the falling object and make sure you didn't break the situation when the falling object doesn't hit something on the way down.
+7.  (2 points) Modify your code so that when the spacebar is pressed, Dino will jump up.  Have Dino jump by using a repeat loop with a block in it that will move Dino up.  Dino will have to move up faster than you think since it will be fighting the forever loop that causes it to always go down.
 
-4.  Add code so that both objects move to a random x coordinate every time the green flag is clicked.  The falling object should be at the top of the stage, and the other object at the bottom.  Verify that the falling object does the right thing no matter where the two objects end up relative to each other.
+## Challenge!
 
-5.  Add a hill to your outdoor scene and make sure that your falling object does something appropriate when it hits the hill.
+8.  (2 points) Dino jumps any time the spacebar is pressed, even if it is in midair.  How do you make it so Dino can only jump while on the ground or the platform?
+9.  (2 points) Can you add code so Dino will move right and left with the arrow keys?
+10.  (5 points) In reality, gravity pulls down with constant acceleration, not constant speed.  How can you change your code to model gravity as a constant acceleration instead of a constant speed?  

@@ -14,6 +14,8 @@ Students will be able to...
 
 -   [Project 4 Alternative - Snowman](project_4.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%204%20Snowman.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%204%20Snowman.pdf))
 
+-   Hangman planning worksheet: ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project_4_Hangman_Planning_Worksheet.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project_4_Hangman_Planning_Worksheet.pdf))
+
 -   [Optional] Printouts of the specification
 -   Link to an online version of Hangman, such as <http://www.playhangman.com/>
 -   A word list from which words can be selected for the game, such as <http://www.mieliestronk.com/corncob_lowercase.txt>

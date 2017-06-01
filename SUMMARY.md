@@ -21,6 +21,7 @@
     * [Lesson 1.4: Animation](lesson_14.md)
       * [Do Now 1.4: Sprite Communication](do_now_14.md)
       * [Lab 1.4: Sprites in Action](lab_14.md)
+    * [Unit 1 Quiz: SNAP Basics](quiz_1.md)
     * [Lesson 1.5: Nursery Rhyme Project](lesson_15.md)
       * [Do Now 1.5 Day 1: Knock Knock](do_now_15.md)
       * [Do Now 1.5 Day 2: Click Event Interaction](do_now_152.md)

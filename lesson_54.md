@@ -11,7 +11,7 @@ Students will be able to...
 
 -   [Project 5 - Space Invaders](project_5.md) ([Download in Word](Projects/Projects Word/Project 5 Space Invaders.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=%2fWvUoinE6f6mYjTSnt9Dt9HD%2bmiwwHs9M0LBJf0%2fo5w%3d&docid=04b51971fcc9e4368970c042ca39d8e2e))
 -   [Optional] Printouts of the specification
--   Link to an online version of Space Invaders, such as <http://www.pacxon4u.com/space-invaders/> 
+-   Link to an online version of Space Invaders, such as <http://www.pacxon4u.com/space-invaders/>
 
 ## Pacing Guide
 
@@ -53,8 +53,7 @@ Students will be able to...
             -   If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
         -   Ensure that students are able to ask questions in class throughout the project
     -   See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
-
-    -   [Sample initial project solution](http://snap.berkeley.edu/snapsource/snap.html#present:Username=nathanielgranor&ProjectName=space%20invaders%20demo)
+    -   [Sample project solution](https://github.com/TEALSK12/introduction-to-computer-science-instructor/blob/master/curriculum/Sample%20Project%20Solutions.md)
 
 ## Accommodations/Differentiation
 

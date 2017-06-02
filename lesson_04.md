@@ -8,7 +8,7 @@ Students will be able to...
 
 * [Do Now: I am ____](do_now_04.md)
 * [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Lab%200.4.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Lab%200.4.pdf))
-
+* Optional: digital camera
 
 ## Pacing Guide
 
@@ -35,6 +35,9 @@ Students will be able to...
     * Instruct students to complete the ["Getting to Know You"](lab_04.md) lab.
         * For part 1.3, you can either assign pairs or allow students to pair up on their own.  If students are allowed to choose their own partners, take care to ensure that no one is excluded.
         * If the class has an odd number, form a single group of three.
+    * Optional
+        * If you have a digital camera available, you can take photos of the students and have them use their picture as the costume to the sprite.  Doing so will give a level of personalization to each student's project.  You will need to provide students with a location to download their photo.  In addition you need to walk students through the process of importing a costume from the file menu.
+
 3. Debrief
     * Ask each student to identify and describe _one_ feature they discovered in SNAP.  Keep a running list on the whiteboard or projector.
         * If the students build a pretty comprehensive list, you can use this as a chance to go over a brief roadmap for the course.

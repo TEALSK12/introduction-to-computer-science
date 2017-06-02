@@ -14,6 +14,8 @@ Students will be able to...
 
 -   [Project 4 Alternative - Snowman](project_4.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%204%20Snowman.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%204%20Snowman.pdf))
 
+-   Hangman planning worksheet: ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project_4_Hangman_Planning_Worksheet.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project_4_Hangman_Planning_Worksheet.pdf))
+
 -   [Optional] Printouts of the specification
 -   Link to an online version of Hangman, such as <http://www.playhangman.com/>
 -   A word list from which words can be selected for the game, such as <http://www.mieliestronk.com/corncob_lowercase.txt>
@@ -41,6 +43,7 @@ Students will be able to...
     -   This is a summative assessment project.  Students should be given at least a few days in class to work on the project.  The exact schedule should be determined by your teaching team based on overall class capability and other factors.
         -   If most students have the ability to work at home, you can consider reducing the amount of in-class time provided and requiring students to spend time working at home.
     -   Provide a means for students to ask questions throughout the project and provide assistance as needed.
+    -   [Sample project solution](https://github.com/TEALSK12/introduction-to-computer-science-instructor/blob/master/curriculum/Sample%20Project%20Solutions.md)
 
 ## Accommodations/Differentiation
 

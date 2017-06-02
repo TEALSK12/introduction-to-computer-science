@@ -57,3 +57,8 @@ Students will be able to...
 * If you wish, you can add a second day to this lesson for students to share out their programs.  Work with your classroom teacher and/or school IT staff to determine the best way for students to be able to present.
     * One simple option is to have all students share their projects with you, and then show each one in turn on the teacher computer/projector.
 * Have a plan for collecting or accumulating the students' programs, which you can then use to get to know your class!
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/unit-0-beginnings/lesson-0-4-snap-self-portrait" target="_blank">
+Lesson 0.4 SNAP Self Portrait (TEALS Discourse account required).</a>

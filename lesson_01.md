@@ -89,7 +89,7 @@ Students will be able to...
 -   In some school's the first day of schools is an altered or shortened schedule.  Find this out ahead of time and plan for however much time you have available.
     -   If necessary, split these topics across multiple days.
 
-Forum discussion
----------------------------
+## Forum discussion
+
 <a href="http://tealsk12.trydiscourse.com/c/unit-0-beginnings/lesson-0-1-the-first-day" target="_blank">
 Lesson 0.1 The First Day (TEALS Discourse account required).</a>

@@ -80,4 +80,11 @@ Students will be able to...
 -   Not all students will recognize all the possible places to use nested loops in the final program.  Encourage students to find as many places to use a nested loop as possible, but allow struggling students to focus on just one or two uses.
 -   Advanced students can be encouraged to change the size of the bricks, which will require not only altering the number of steps moved but also the number if iterations in the loops
 
-[Lab 2.2 Solution](http://snap.berkeley.edu/snapsource/snap.html#present:Username=kenneychan&ProjectName=Lab%202.2)
+## Sample Solution
+
+[Lab 2.2 Solution](https://github.com/TEALSK12/introduction-to-computer-science-instructor/blob/master/curriculum/Sample%20Project%20Solutions.md)
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-2-loops/lesson-2-2-nested-loops" target="_blank">
+Lesson 2.2 Nested Loops (TEALS Discourse account required).</a>

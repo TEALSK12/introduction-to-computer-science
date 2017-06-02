@@ -56,7 +56,6 @@ Students will be able to...
             -   If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
         -   Ensure that students are able to ask questions in class throughout the project
     -   See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
-    -   [Sample project solution](https://github.com/TEALSK12/introduction-to-computer-science-instructor/blob/master/curriculum/Sample%20Project%20Solutions.md)
 
 ##BJC Lecture Suggestion
 ####Background Information for Instructors
@@ -77,3 +76,12 @@ Students will be able to...
 -   Advanced students can be encouraged to add a single-player mode with a computer-controlled opponent, recreate the original mechanic in which the ball’s angle depends on where it hit the paddle, add different “levels” with obstacles or differently shaped fields, or any other extension.
 -   Struggling students can be exempted from certain features (such as ball speed or scoring) or given starter code
     -   If students need significant assistance, focus them on the ball’s movement, as it is both the most computationally interesting part of the assignment as well as the area in which they are most likely to be able to use custom blocks.
+
+## Sample Solution
+
+[Project 2 Solution](https://github.com/TEALSK12/introduction-to-computer-science-instructor/blob/master/curriculum/Sample%20Project%20Solutions.md)
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-2-loops/lesson-2-7-pong-project" target="_blank">
+Lesson 2.2 Pong Project (TEALS Discourse account required).</a>

@@ -65,3 +65,8 @@ Students will be able to...
     -   If the students continue to struggle, help them build the necessary expressions, but encourage them to assemble them into the full condition on their own.
 -   Advanced students, especially those who have taken higher levels of math, can be encouraged to add additional functionality, such as using [Heron's formula](https://en.wikipedia.org/wiki/Heron%27s_formula) to calculate the triangles area or using trigonometry to attempt to draw the triangle.
     -   Drawing the triangle is very challenging.
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-2-loops/lesson-2-5-boole-in-the-house" target="_blank">
+Lesson 2.5 Boole in the House (TEALS Discourse account required).</a>

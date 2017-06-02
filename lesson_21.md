@@ -85,4 +85,11 @@ Students will be able to...
 -   More advanced students can add additional shapes, including a five-pointed star without interior lines.  
     *  Particularly advanced students can be encouraged to build pictures by combining multiple shapes (e.g. a house built of squares of various sizes).
 
-[Lab 2.1 Solution](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lab%202.1)
+## Sample Solution
+
+[Lab 2.1 Solution](https://github.com/TEALSK12/introduction-to-computer-science-instructor/blob/master/curriculum/Sample%20Project%20Solutions.md)
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-2-loops/lesson-2-1-loops" target="_blank">
+Lesson 2.1 Loops (TEALS Discourse account required).</a>

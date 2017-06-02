@@ -26,7 +26,7 @@ Students will be able to...
 | 15 minutes | Course norms, procedures, and administrivia |
 
 ## Instructor's Notes
-      
+
 -   Utilize the plan developed with your teaching team for the first day of school.
     -   The pacing guide above is a very broad suggestion.  You should adapt (or ignore) as necessary to fit your team's plan.
 -   Suggested topics to cover:
@@ -38,12 +38,12 @@ Students will be able to...
     -   High-level learning objectives for course
 
 
-## BJC Lecture Suggestions 
+## BJC Lecture Suggestions
 
 ####Good for Classroom Instruction-Previewing Suggested due to Social Media Examples.  
 
 (This could be used for a Social Media Safety/Awareness lesson)
-* [BJC Lecture 11:Social Implications II Dr. Gerald Friedland](https://www.youtube.com/watch?v=RNN19b61oRg) 
+* [BJC Lecture 11:Social Implications II Dr. Gerald Friedland](https://www.youtube.com/watch?v=RNN19b61oRg)
  - Dr. Gerald Friedland Sr. Research Scientist at International Computer Science Institute (ICSI) on Sharing Multimedia and the Impact on Online Privacy) 0:00-1:45
  - Introduction to Social Media: The Price of Social Media Use-Stephen Colbert 1:50-6:25
  - Observations on Sharing Data and Ineffective Privacy Protection 6:30-7:50
@@ -88,3 +88,8 @@ Students will be able to...
 
 -   In some school's the first day of schools is an altered or shortened schedule.  Find this out ahead of time and plan for however much time you have available.
     -   If necessary, split these topics across multiple days.
+
+Forum discussion
+---------------------------
+<a href="http://tealsk12.trydiscourse.com/c/unit-0-beginnings/lesson-0-1-the-first-day" target="_blank">
+Lesson 0.1 The First Day (TEALS Discourse account required).</a>

@@ -48,3 +48,9 @@ Students will be able to...
 
 -   Advanced students can be encouraged to explore more efficient searching algorithms (specifically binary search).
 -   Struggling students should focus on just parts 1.1 and/or 2.1 of the lab.  Remind these students that they are starting with a traversal and simply changing what happens to each item.
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-4-lists/lesson-4-5-sequential-search" target="_blank">
+Lesson 4.5: Sequential Search (TEALS Discourse account required).</a>

@@ -54,3 +54,9 @@ Students will be able to...
 -   Struggling students should focus on generating a noun phrase from only a few words.  The other parts of speech and phrase types can be omitted without losing the key learning objectives.
 -   Non-native English speakers or those with low literacy may struggle with the grammatical concepts here.  Since the grammar is not the key objective, feel free to scaffold liberally and/or substitute a different type of grammar.
     -   Other grammar examples, including arithmetic expressions (which are a good simple substitute) can be found here: <https://www.cs.rochester.edu/~nelson/courses/csc_173/grammars/cfg.html>.
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-4-lists/lesson-4-2-static-lists" target="_blank">
+Lesson 4.2: Static Lists (TEALS Discourse account required).</a>

@@ -10,7 +10,7 @@ Students will be able to...
 ## Materials/Preparation
 
 -   Paper/writing implements for each group of students
-    -   Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine 
+    -   Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine
 
 ## Pacing Guide
 
@@ -47,3 +47,9 @@ Students will be able to...
 
 -   As in the PB&J activity, discourage stronger students from dominating the conversation and instead ask them to take on a leadership role and help other group members find issues.
 -   Struggling students can be given permission to use a higher level of abstraction, ignoring certain details that other students will attend to.
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-4-lists/lesson-4-1-intro-to-lists" target="_blank">
+Lesson 4.1: Intro to Lists (TEALS Discourse account required).</a>

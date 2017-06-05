@@ -69,3 +69,9 @@ Students will be able to...
 
 -   Advanced students can attempt more complex filters in part 2.3 (such as finding all names that contain at least two vowels) and/or more advanced maps in part 1.3 (such as greeting each person by first initial).
 -   Struggling students should focus on parts 1.2, 2.1, and select items from part 2.3.  Partial code can be provided.
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-4-lists/lesson-4-3-list-practice-i" target="_blank">
+Lesson 4.3: List Practice I (TEALS Discourse account required).</a>

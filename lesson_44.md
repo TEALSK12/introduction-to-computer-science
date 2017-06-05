@@ -50,3 +50,9 @@ Students will be able to...
 
 -   Advanced students should complete both bonus parts of the lab (1.5 and 2.3) and then assist struggling students.
 -   Students who need more assistance should focus on parts 1.3, 2.1, and 2.2.  Ensure that all students are able to complete at least these three parts before concluding the lesson.
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-4-lists/lesson-4-4-list-practice-ii" target="_blank">
+Lesson 4.4: List Practice II (TEALS Discourse account required).</a>

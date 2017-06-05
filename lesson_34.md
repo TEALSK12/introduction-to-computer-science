@@ -51,3 +51,9 @@ Students will be able to...
 -   Advanced students who finish quickly can be utilized to assist other students.
 -   Students who struggle in math may not be familiar with the distance formula used in part 2.1.  Help students to translate the math into SNAP code, but understanding the formula and its applications is not necessary for the activity.
     -   If most students are not equipped to handle this math, a simpler computation, such as area of a triangle or average of three numbers, can be substituted.
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-3-variables-and-customization/lesson-3-4-customization-ii" target="_blank">
+Lesson 3.4: Customization II (TEALS Discourse account required).</a>

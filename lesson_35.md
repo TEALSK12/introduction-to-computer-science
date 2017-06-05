@@ -65,3 +65,9 @@ Students will be able to...
 -   Advanced students can be encouraged to extend their games beyond the minimum required number of screens, add more features (power-ups, "boss" enemies, secret screens, etc.), create multiple "levels" that must be worked through, or any other extension.
 -   Struggling students can be exempted from certain requirements or given starter code.
     -   If scaffolding this project, provide code to perform some of the various actions required in the game (changing screens, moving the character, defeating enemies, etc.) and ask the students to fill in the triggers and conditions for using these routines.
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-3-variables-and-customization/lesson-3-5-platform-game-project" target="_blank">
+Lesson 3.5: Platform Game Project (TEALS Discourse account required).</a>

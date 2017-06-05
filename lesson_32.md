@@ -57,3 +57,8 @@ Students will be able to...
 ## Accommodation/Differentiation
 -	In addition to attempting the bonus in the lab, advanced students can be encouraged to write a new custom block that draws a specified number of the given shape (for example, 2 squares or 5 hexagons).  The number of shapes should be taken as user input.
 -	Struggling students can be given solution code for all of section 1.  Work with these students to answer the questions in part 1.5 so that they are prepared to attempt the custom block authoring.
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-3-variables-and-customization/lesson-3-2-procedures" target="_blank">
+Lesson 3.2: Procedures (TEALS Discourse account required).</a>

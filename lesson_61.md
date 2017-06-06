@@ -31,7 +31,7 @@ Students will be able to...
         * Try to hit a bunch of different types of programs.  Many students will gravitate towards games, but other options include simulations, productivity tools, musical projects, animations, and more.
         * TEALS can provide a few samples if needed.
     4. Distribute the project rubric and point out key aspects of the requirements
-        * Point out the steps in the process and that each one is equally important 
+        * Point out the steps in the process and that each one is equally important
         * Specifically mention the large number of points for things _not_ related to coding
         * Remind students that, as they are now SNAP experts, there are high expectations for the depth, complexity, and completeness of their projects
 2. Sample design activity
@@ -44,9 +44,9 @@ Students will be able to...
         3. Sketch - Draw a very basic wireframe sketch of the main "screens" of the app
             * In this step, try to keep students from fixating on making their app look _exactly_ like the existing app
         4. Expand - Build a spec using the [Final Project Plan Organizer](Final Project Plan Organizer.docx).
-            * In this step, emphasize completeness and detail.  Leaving out steps or requirements will make it difficult to plan effectively and will likely force major changes or cuts later. 
+            * In this step, emphasize completeness and detail.  Leaving out steps or requirements will make it difficult to plan effectively and will likely force major changes or cuts later.
         5. Plan - Based on the feature list and spec, create a full development plan using the [Final Project Development Plan](Final Project Development Plan.docx).
-            * As tasks and costs are listed, remind students to keep an eye on the total amount of time required and to include buffer for things going wrong.  Be sure to prioritize tasks so that cuts can be made if necessary. 
+            * As tasks and costs are listed, remind students to keep an eye on the total amount of time required and to include buffer for things going wrong.  Be sure to prioritize tasks so that cuts can be made if necessary.
 3. Debrief
     * Once all documents have been created, ask students what the next steps should be.
         * Get more detail than "start coding."  Students should be focused on the highest-priority tasks and should understand the plan for evaluating progress throughout the project.
@@ -57,3 +57,9 @@ Students will be able to...
 ## Accommodation/Differentiation
 * This lesson could easily take two or even three days depending on the class.  Take as long as is necessary to ensure students have a complete understanding of the steps necessary to create their final project, but try not to get too bogged down in the details of the sample app.
 * For classes with a large number of self-sufficient students, consider having students complete this activity in small groups rather than as a full class.  Along the way, have groups share their progress and provide feedback to each other.
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-6/lesson-6-1-design-basics" target="_blank">
+Lesson 6.1 - Design Basics (TEALS Discourse account required).</a>

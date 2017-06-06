@@ -43,4 +43,9 @@ Students will be able to...
     * As class ends, ensure students retain their work as they will use it to construct a detailed specification and implementation plan tomorrow.
 
 ## Accommodation/Differentiation
-          
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-6/lesson-6-3-defining-requirements" target="_blank">
+Lesson 6.3 - Defining Requirements (TEALS Discourse account required).</a>

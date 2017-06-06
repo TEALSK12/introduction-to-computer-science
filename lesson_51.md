@@ -38,9 +38,9 @@ Students will be able to...
     * Introduce the terms "prototyping" and "cloning" as (mostly) synonyms:
         * _prototyping: creating a single "master" entity that defines the behavior for a group of objects, then creating many copies of the prototype to duplicate the behavior_
 
-##BJC Lecture Suggestions 
+##BJC Lecture Suggestions
 
-#### Good for Classroom Instruction 
+#### Good for Classroom Instruction
  - [Fibonacci and Fibonacci Series Video](http://www.youtube.com/watch?v=w2d_snYBLeY&t=7m45s) 7:45-11:45
 ####Background Information for Instructors
 
@@ -55,3 +55,9 @@ Students will be able to...
 
 
 ## Accommodations/Differentiation
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-5-cloning/lesson-5-1-intro-to-cloning" target="_blank">
+Lesson 5.1: Intro to Cloning (TEALS Discourse account required).</a>

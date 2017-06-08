@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Classroom computers with internet access 
+-   Classroom computers with internet access
 -   **IMPORTANT: At least a few days prior to class,** ensure that the classroom computers can load the website for both activities.  If not, work with school IT to solve the problem.
     -   If you are not able to load SNAP on your classroom computers, you will not be able to proceed with the course.  Test this well ahead of time and make sure your school's IT staff knows what the requirements are and can help achieve them.
 -   Work through both the [LightBot Hour of Code](http://lightbot.com/hocflash.html) activity and the [SNAP Hour of Code](http://snap.berkeley.edu/hoc/) activity on your own so you are familiar with the activities and can provide assistance as needed
@@ -54,10 +54,10 @@ Students will be able to...
         -   Why can instructions not be given in simple English? Why must we be limited to certain operations from which we must build up solutions?
             -   If students seem interested, this can be an opportunity for a brief conversation about the difference between high-level programming languages and machine languages (assembly code).
 
-## BJC Lecture Suggestions 
+## BJC Lecture Suggestions
 ####Good for Classroom Instruction
 - [OOP Ex: Sketch Pad Dr. Ivan Sutherland](http://www.youtube.com/watch?v=_4ScHcLvQnw&t=15m45s) "Father of Computer Graphics  15:45-22:10
- 
+
 
 ####Background Information for Instructors
 * BJC Video Suggestion: [BJC Lecture 5: Algorithm](https://www.youtube.com/watch?v=_4ScHcLvQnw)
@@ -83,3 +83,8 @@ Students will be able to...
     -   LightBot is more challenging, but not substantially so, and is more game-like, which often leads to greater engagement.  LightBot is recommended if students seem capable of handling the challenge.
     -   The SNAP activity is simpler, and most of the material is covered in the first few lessons of Unit 1, so it can be skipped without losing any experience.  However, in a suspected high-needs classroom, the easier goals and extra time with SNAP may be beneficial.
 -   It is unlikely that students will finish _both_ activities in one class period.  On the rare occasion some do, encourage them to explore SNAP on their own or to try the full version of LightBot 2.0 at <http://armorgames.com/play/6061/light-bot-20>
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/unit-0-beginnings/lesson-0-3-programming-languages" target="_blank">
+Lesson 0.3 Programming Languages (TEALS Discourse account required).</a>

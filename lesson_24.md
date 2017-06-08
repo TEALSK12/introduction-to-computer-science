@@ -54,3 +54,8 @@ Students will be able to...
 -   Advanced students can be encouraged to implement statistics (best score, average guesses/game, number of time each secret number chosen, etc.)
 -   Struggling students can be given code that completes part 1.1, and possibly also part 1.2, to get them started
     -   Students who are particularly overwhelmed should focus only on parts 1.2 and 2.2
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-2-loops/lesson-2-4-variables" target="_blank">
+Lesson 2.4 Variables (TEALS Discourse account required).</a>

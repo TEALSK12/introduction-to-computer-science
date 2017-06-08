@@ -58,3 +58,9 @@ Students will be able to...
 
 -   Part 2.4 is a fairly complex formula and should be a challenge for advanced students.
 -   Struggling students should focus on section 1. The problems in section 2 represent more complex algorithms, but not necessarily any more difficult usage of arguments.
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-3-variables-and-customization/lesson-3-3-customization-1" target="_blank">
+Lesson 3.3: Customization I (TEALS Discourse account required).</a>

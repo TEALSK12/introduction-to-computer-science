@@ -47,3 +47,9 @@ Students will be able to...
 * If your class is fairly self-sufficient and mature, you can consider allowing students to "borrow" an idea from a classmate if they find one they like better than any of their own.  Make sure the person who had the idea is OK with it being borrowed, and emphasize that the students must each build their own version.
     * This can be a bit dangerous, as it puts the student somewhat behind in the process right from the start, since they won't have as much context having not written the pitch themself.  Consider carefully whether this is a good idea.
 * Encourage each student to pick a project that fits his or her level of technical skill.  Make sure students are not overcommitting and choosing projects they do not have the skills to complete.  Also try to discourage stronger students from choosing simpler projects in an effort to do less work.
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-6/lesson-6-2-brainstorming-and-evaluating" target="_blank">
+Lesson 6.2 - Brainstorming and Evaluating (TEALS Discourse account required).</a>

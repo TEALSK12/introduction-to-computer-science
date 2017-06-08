@@ -37,3 +37,10 @@ Students will be able to...
     * Ideally, anytime there is a question about the requirements or scope of the project, the spec should have the answer.  If not, it's a new idea and the spec needs to be updated acordingly.
 
 ## Accommodation/Differentiation
+
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-6/lesson-6-4-building-a-plan" target="_blank">
+Lesson 6.4 - Building a Plan (TEALS Discourse account required).</a>

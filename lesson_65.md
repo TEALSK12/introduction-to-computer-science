@@ -49,3 +49,9 @@ Students will be able to...
 
 
 ## Accommodation/Differentiation
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-6/lesson-6-5-project-implementation" target="_blank">
+Lesson 6.5 - Project Implementation (TEALS Discourse account required).</a>

@@ -45,3 +45,9 @@ Students will be able to...
 ## Accommodations/Differentiation
 * Advanced students can attempt to assign properties to clones (color, size, etc.) so that not all clones look alike.  To do this, they will need to use a global variable to temporary hold the value that can be "claimed" by the clone.
 * Struggling students should focus on just creating a single clone from the prototype and not worry about creating multiple clones.
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-5-cloning/lesson-5-2-cloning-sprites" target="_blank">
+Lesson 5.2: Cloning Sprites (TEALS Discourse account required).</a>

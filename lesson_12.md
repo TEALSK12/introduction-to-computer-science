@@ -59,3 +59,8 @@ Students will be able to...
 -   Colorblind students may not be able to identify the block colors, but can still recognize the organization of categories. Be sensitive to this, but no modifications are likely required.
 -   Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity.
 -   The bonus assignment (3.4) should be used for students who finish quickly, and can be a setup for the [Animation Project](project_1.md).
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/unit-1-snap-basics/lesson-1-2-building-blocks" target="_blank">
+Lesson 1.2 Building Blocks (TEALS Discourse account required).</a>

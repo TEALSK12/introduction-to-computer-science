@@ -49,3 +49,8 @@ Students will be able to...
 -   Students who have not yet taken geometry may have difficulty determining the correct angles. Point out to them that geometric understanding is not necessary—the angles can be determined using trial and error.
     -   If students need more scaffolding, they can be pointed to an online resource such as <http://www.mathsisfun.com/geometry/interior-angles-polygons.html>
     -   If most students are not equipped to figure out the angles on their own, provide diagrams like the one of a square in part 1.1 to assist.
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/unit-1-snap-basics/lesson-1-3-drawing-shapes" target="_blank">
+Lesson 1.3 Drawing Shapes (TEALS Discourse account required).</a>

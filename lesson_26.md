@@ -76,3 +76,8 @@ Students will be able to...
     -   If many students struggle, consider releasing your own solution after the lab has been completed in class
     -   Utilize TAs and advanced students to assist struggling students—it is vital that all students complete this lab in advance of starting the project
 -   Advanced students can consider increasing the realism of their gravity model by adding acceleration and/or beginning to implement jumping
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-2-loops/lesson-2-6-combining-loops-and-conditionals" target="_blank">
+Lesson 2.6 Combining Loops and Conditionals (TEALS Discourse account required).</a>

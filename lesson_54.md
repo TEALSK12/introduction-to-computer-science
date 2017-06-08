@@ -61,3 +61,9 @@ Students will be able to...
 -   Advanced students can be encouraged to add different types of invaders that behave differently, implement a Galaga-style "swoop" behavior from the invaders, add player power-ups (such as advanced weapons), or any other extension.
 -   Struggling students can be exempted from certain features (such as levels or invader firing) or given starter code
     -   If students need significant assistance, focus them on the invaders.  Getting a set of invaders created and moving properly will best target the vital objectives from this unit-- namely cloning.
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-5-cloning/lesson-5-4-space-invaders-project" target="_blank">
+Lesson 5.4: Space Invaders Project (TEALS Discourse account required).</a>

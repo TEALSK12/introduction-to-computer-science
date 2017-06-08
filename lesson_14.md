@@ -52,3 +52,8 @@ Students will be able to...
 -   Students that finish quickly can be encouraged to add more detail to their animations, such as sounds, "say" blocks, and/or more costumes.
 -   Especially advanced students can be encouraged to create their own costumes for a new animation that does not use any built-in sprites.
 -   With struggling students, re-emphasize the fact that each sprite can have different costumes and that changing costumes is very much like changing position by moving. Get students to be able to change costumes on a key press before moving on to the animation aspect.
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/unit-1-snap-basics/lesson-1-4-animation" target="_blank">
+Lesson 1.4 Animation (TEALS Discourse account required).</a>

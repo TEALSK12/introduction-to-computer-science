@@ -57,3 +57,9 @@ Students will be able to...
 -   Struggling students can be given starter code or exempted from certain features
     -   Though it is the most difficult part of the assignment, tracking the "blanks" is the best practice working with lists and should be preserved.  
     -   The requirements to display a graphical hangman, track repeated guesses, and specifically recognize a win can be removed for students in need of significant simplification.
+
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-4-lists/lesson-4-6-hangman-project" target="_blank">
+Lesson 4.6: Hangman Project (TEALS Discourse account required).</a>

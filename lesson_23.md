@@ -109,4 +109,11 @@ _Note: This lesson may cover too much material for some classes to handle in one
 -   Advanced students can be encouraged to add extra functionality, such as attempting to draw the shape the user is specifying or identifying types of triangles (equilateral, isosceles, scalene)
 -   Students who are struggling can be allowed to skip some parts of the tables in 2.1 and 2.2, focusing on just a few cases
 
-    [Lab 2.3 Solution](http://snap.berkeley.edu/snapsource/snap.html#present:Username=kenneychan&ProjectName=Lab%202.3)
+## Sample Solution
+
+[Lab 2.3 Solution](https://github.com/TEALSK12/introduction-to-computer-science-instructor/blob/master/curriculum/Sample%20Project%20Solutions.md)
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/intro-unit-2-loops/lesson-2-3-inputs-and-conditionals" target="_blank">
+Lesson 2.3 Inputs and Conditionals (TEALS Discourse account required).</a>

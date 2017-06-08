@@ -30,8 +30,8 @@ Needed for this lesson:
 
 ## Instructor's Notes
 
-    
-    
+
+
 1.  Introductory discussion
 
     -   Invite discussion about what constitutes a computer, what computers do, and what computer science is.
@@ -78,7 +78,7 @@ Needed for this lesson:
 ####Good for Classroom Instruction
 
 * BJC Video Suggestion: [BJC Lecture 6: Algorithm](https://www.youtube.com/watch?v=3tvbqdLjjSU) (With Luke Segar
- - [Algorithm Definition](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=3m20s) 3:20-4:20 
+ - [Algorithm Definition](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=3m20s) 3:20-4:20
  - [Early Algorithms](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=4m25s) 4:25-5:55
  - [Familiar Algorithms](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=6m00s) 6:00-7:30
 
@@ -124,7 +124,7 @@ Needed for this lesson:
 
 ## Accommodations/Differentiation
 
--   Check for food allergies before performing this exercise.  If any student has allergies that would put them at risk, substitute another food item or simulate the process with stand-in ingredients. 
+-   Check for food allergies before performing this exercise.  If any student has allergies that would put them at risk, substitute another food item or simulate the process with stand-in ingredients.
     -   The most common allergy will be to peanuts. Possible alternatives in this case include cream cheese & jelly, toast with butter and jam, or even a deli sandwich (turkey/ham/roast beef) with mayo and/or mustard.
     -   For other allergies, or if no options are acceptable, simulate using fake ingredients.  (Even slips of paper with the ingredients written on them can suffice.)
 -   Students who have previous programming experience may tend to dominate the algorithm generation process.  Encourage these students to avoid pointing out errors directly and help the other members of their group find and fix errors.
@@ -132,3 +132,8 @@ Needed for this lesson:
     -   This can lead to an excellent conversation about abstraction.
 -   In the "debugging" round, some students may go overboard with the level of detail in an attempt to resolve all possible ambiguities.  Remind these students that there are some basic instructions that can be easily understood by most people, and there is no need to go into further detail in those cases.
     -   If you feel students can handle the discussion, you can draw a parallel to machine code here.
+
+## Forum discussion
+
+<a href="http://tealsk12.trydiscourse.com/c/unit-0-beginnings/lesson-0-2-algorithms" target="_blank">
+Lesson 0.2 Algorithms (TEALS Discourse account required).</a>

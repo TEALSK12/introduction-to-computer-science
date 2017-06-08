@@ -100,7 +100,7 @@
     * [Lesson 6.3: Defining Requirements](lesson_63.md)
     * [Lesson 6.4: Building a Plan](lesson_64.md)
     * [Lesson 6.5: Project Implementation](lesson_65.md)
-    * [Project 6: Final Project](project_6.md)
+      * [Project 6: Final Project](project_6.md)
 * [Additional Curriculum Resources](additional_curriculum_resources.md)
 * [Contributing](contributing.md)
 * [Appendix: BJC Lecture Videos](bjc_videosuggestions.md/bjcvideosuggestions.md)

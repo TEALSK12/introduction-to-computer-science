@@ -135,5 +135,5 @@ Needed for this lesson:
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/unit-0-beginnings/lesson-0-2-algorithms" target="_blank">
+<a href="http://forums.tealsk12.org/c/unit-0-beginnings/lesson-0-2-algorithms" target="_blank">
 Lesson 0.2 Algorithms (TEALS Discourse account required).</a>

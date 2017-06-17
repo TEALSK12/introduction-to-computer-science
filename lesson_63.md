@@ -47,5 +47,5 @@ Students will be able to...
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/intro-unit-6/lesson-6-3-defining-requirements" target="_blank">
+<a href="http://forums.tealsk12.org/c/intro-unit-6/lesson-6-3-defining-requirements" target="_blank">
 Lesson 6.3 - Defining Requirements (TEALS Discourse account required).</a>

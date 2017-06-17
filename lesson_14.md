@@ -55,5 +55,5 @@ Students will be able to...
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/unit-1-snap-basics/lesson-1-4-animation" target="_blank">
+<a href="http://forums.tealsk12.org/c/unit-1-snap-basics/lesson-1-4-animation" target="_blank">
 Lesson 1.4 Animation (TEALS Discourse account required).</a>

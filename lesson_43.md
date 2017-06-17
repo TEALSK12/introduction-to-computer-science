@@ -73,5 +73,5 @@ Students will be able to...
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/intro-unit-4-lists/lesson-4-3-list-practice-i" target="_blank">
+<a href="http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-3-list-practice-i" target="_blank">
 Lesson 4.3: List Practice I (TEALS Discourse account required).</a>

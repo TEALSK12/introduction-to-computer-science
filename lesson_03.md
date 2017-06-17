@@ -86,5 +86,5 @@ Students will be able to...
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/unit-0-beginnings/lesson-0-3-programming-languages" target="_blank">
+<a href="http://forums.tealsk12.org/c/unit-0-beginnings/lesson-0-3-programming-languages" target="_blank">
 Lesson 0.3 Programming Languages (TEALS Discourse account required).</a>

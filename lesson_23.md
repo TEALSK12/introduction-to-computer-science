@@ -115,5 +115,5 @@ _Note: This lesson may cover too much material for some classes to handle in one
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/intro-unit-2-loops/lesson-2-3-inputs-and-conditionals" target="_blank">
+<a href="http://forums.tealsk12.org/c/intro-unit-2-loops/lesson-2-3-inputs-and-conditionals" target="_blank">
 Lesson 2.3 Inputs and Conditionals (TEALS Discourse account required).</a>

@@ -76,5 +76,5 @@ Students will be able to...
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/intro-unit-3-variables-and-customization/lesson-3-1-abstraction-and-friends" target="_blank">
+<a href="http://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-1-abstraction-and-friends" target="_blank">
 Lesson 3.1: Abstraction and Friends (TEALS Discourse account required).</a>

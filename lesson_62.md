@@ -51,5 +51,5 @@ Students will be able to...
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/intro-unit-6/lesson-6-2-brainstorming-and-evaluating" target="_blank">
+<a href="http://forums.tealsk12.org/c/intro-unit-6/lesson-6-2-brainstorming-and-evaluating" target="_blank">
 Lesson 6.2 - Brainstorming and Evaluating (TEALS Discourse account required).</a>

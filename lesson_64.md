@@ -42,5 +42,5 @@ Students will be able to...
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/intro-unit-6/lesson-6-4-building-a-plan" target="_blank">
+<a href="http://forums.tealsk12.org/c/intro-unit-6/lesson-6-4-building-a-plan" target="_blank">
 Lesson 6.4 - Building a Plan (TEALS Discourse account required).</a>

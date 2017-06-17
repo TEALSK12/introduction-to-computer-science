@@ -52,5 +52,5 @@ Students will be able to...
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/intro-unit-4-lists/lesson-4-5-sequential-search" target="_blank">
+<a href="http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-5-sequential-search" target="_blank">
 Lesson 4.5: Sequential Search (TEALS Discourse account required).</a>

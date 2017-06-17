@@ -54,5 +54,5 @@ Students will be able to...
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/intro-unit-4-lists/lesson-4-4-list-practice-ii" target="_blank">
+<a href="http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-4-list-practice-ii" target="_blank">
 Lesson 4.4: List Practice II (TEALS Discourse account required).</a>

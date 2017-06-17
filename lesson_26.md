@@ -79,5 +79,5 @@ Students will be able to...
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/intro-unit-2-loops/lesson-2-6-combining-loops-and-conditionals" target="_blank">
+<a href="http://forums.tealsk12.org/c/intro-unit-2-loops/lesson-2-6-combining-loops-and-conditionals" target="_blank">
 Lesson 2.6 Combining Loops and Conditionals (TEALS Discourse account required).</a>

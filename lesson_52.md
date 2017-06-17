@@ -49,5 +49,5 @@ Students will be able to...
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/intro-unit-5-cloning/lesson-5-2-cloning-sprites" target="_blank">
+<a href="http://forums.tealsk12.org/c/intro-unit-5-cloning/lesson-5-2-cloning-sprites" target="_blank">
 Lesson 5.2: Cloning Sprites (TEALS Discourse account required).</a>

@@ -83,5 +83,5 @@ Students will be able to...
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/intro-unit-2-loops/lesson-2-7-pong-project" target="_blank">
+<a href="http://forums.tealsk12.org/c/intro-unit-2-loops/lesson-2-7-pong-project" target="_blank">
 Lesson 2.2 Pong Project (TEALS Discourse account required).</a>

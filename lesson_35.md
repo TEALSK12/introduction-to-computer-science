@@ -69,5 +69,5 @@ Students will be able to...
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/intro-unit-3-variables-and-customization/lesson-3-5-platform-game-project" target="_blank">
+<a href="http://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-5-platform-game-project" target="_blank">
 Lesson 3.5: Platform Game Project (TEALS Discourse account required).</a>

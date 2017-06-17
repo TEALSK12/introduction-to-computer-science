@@ -61,5 +61,5 @@ Students will be able to...
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/intro-unit-4-lists/lesson-4-6-hangman-project" target="_blank">
+<a href="http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-6-hangman-project" target="_blank">
 Lesson 4.6: Hangman Project (TEALS Discourse account required).</a>

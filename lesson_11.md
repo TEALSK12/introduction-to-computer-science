@@ -110,5 +110,5 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 
 ## Forum discussion
 
-<a href="http://tealsk12.trydiscourse.com/c/unit-1-snap-basics/lesson-1-1-welcome-to-snap" target="_blank">
+<a href="http://forums.tealsk12.org/c/unit-1-snap-basics/lesson-1-1-welcome-to-snap" target="_blank">
 Lesson 1.1 Welcome to SNAP (TEALS Discourse account required).</a>

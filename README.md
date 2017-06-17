@@ -9,7 +9,7 @@ Welcome to the TEALS Intro CS Curriculum!
 Note the change in repository and GitBook locations starting the 2017-18 school year.
 
 - GitHub: https://github.com/TEALSK12/introduction-to-computer-science
-- GibBook: https://www.gitbook.com/book/tealsk12/introduction-to-computer-science/details
+- GitBook: https://www.gitbook.com/book/tealsk12/introduction-to-computer-science/details
 
 ## About this curriculum
 

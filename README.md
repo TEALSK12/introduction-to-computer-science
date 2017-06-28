@@ -9,7 +9,7 @@ Welcome to the TEALS Intro CS Curriculum!
 Note the change in repository and GitBook locations starting the 2017-18 school year.
 
 - GitHub: https://github.com/TEALSK12/introduction-to-computer-science
-- GitBook: https://www.gitbook.com/book/tealsk12/introduction-to-computer-science/details
+- GitBook: https://tealsk12.gitbooks.io/introduction-to-computer-science/content/
 
 ## About this curriculum
 
@@ -115,3 +115,6 @@ To gauge student understanding, the addition of Unit quizzes has been added.  Th
 
 ## Updates and contributions
 This curriculum is considered a living document and is intended to be updated regularly both by the TEALS team and with contributions from the TEALS community.  In particular, feedback on teaching teams' experiences in conducting the lessons in this curriculum is always welcome.  Teaching teams are also encouraged to share ideas for additional activities, lessons, or projects that can be incorporated into the curriculum guide.  Please see the [Contributing](contributing.md) page for more information about how to contribute to the curriculum, or send feedback to IntroSquad@tealsk12.org.  
+
+# Printing GitBook
+The Introduction to Computer Science GitBook can be printed by navigating to https://www.gitbook.com/book/tealsk12/introduction-to-computer-science/details, clicking the "Download PDF" in the upper right corner, and selecting the pages to print.

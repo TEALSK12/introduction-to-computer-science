@@ -41,7 +41,7 @@ Students will be able to...
             -   What knowledge might make writing a program easier?
             -   What might you need to do when writing a computer program that you have never or rarely done before?
             -   What parts of programming are most intimidating or scary?
-            -   What are you good that might help you be a good programmer?
+            -   What are you good at that might help you be a good programmer?
 2.  Activity
     -   Students should work through the LightBot 2.0 Hour of Code activity and/or the SNAP Hour of Code Activity.
         -   Choose one activity as the requirement, and leave the other for those who finish quickly.

@@ -42,7 +42,7 @@ Students will be able to...
 2.  Activity
 
     -   Briefly demonstrate the ![](random.png) block, which will be used in the lab
-    -   Direct students to complete [Guessing Game](lab_31.md) individually or in pairs
+    -   Direct students to complete [Guessing Game](lab_24.md) individually or in pairs
 
 3.  Debrief
 

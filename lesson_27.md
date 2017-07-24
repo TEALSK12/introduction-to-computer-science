@@ -5,7 +5,7 @@
 
 Students will be able to...
 
--   Use custom blocks to implement a well-written version of Pong
+-   Implement a well-written version of Pong
 -   Practice good style and conventions to create readable and maintainable code
 
 ## Materials/Preparation
@@ -35,10 +35,7 @@ Students will be able to...
     -   Play a review game (such as [GrudgeBall](http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html)) to remind students of the skills and concepts have been learned in this unit.
         -   Variables
         -   Operators
-        -   Procedural decomposition/abstraction
-        -   Custom command blocks
-        -   Custom reporter/predicate blocks
-        -   Custom blocks with arguments
+
     -   Remind students that their solutions to previous assignments are an excellent resource when trying to accomplish similar tasks.
 2.  Introduce project
     -   Walk students through the project specification, pointing out important details, potential pitfalls, and requirements.
@@ -75,7 +72,7 @@ Students will be able to...
 -   If any students do not have the ability to work at home, ensure enough in-class time is provided to complete the assignment, offering extensions if necessary.
 -   Advanced students can be encouraged to add a single-player mode with a computer-controlled opponent, recreate the original mechanic in which the ball’s angle depends on where it hit the paddle, add different “levels” with obstacles or differently shaped fields, or any other extension.
 -   Struggling students can be exempted from certain features (such as ball speed or scoring) or given starter code
-    -   If students need significant assistance, focus them on the ball’s movement, as it is both the most computationally interesting part of the assignment as well as the area in which they are most likely to be able to use custom blocks.
+    -   If students need significant assistance, focus them on the ball’s movement, as it is both the most computationally interesting part of the assignment.
 
 ## Sample Solution
 

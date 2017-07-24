@@ -46,7 +46,7 @@ Students will be able to...
 2.  Activity
     -   Students should complete the ["Let Me Check My Calendar"](lab_33.md) activity individually or in pairs
         -   This lab consists of a series of independent custom blocks.  The blocks need not necessarily be completed in the order given, but are roughly in order of difficulty.
-        -   The bonus (part 2.4) requires implementing a fairly complex formula.
+        -   The bonus (part 3.4) requires implementing a fairly complex formula.
 3.  Debrief
     -   Ask a different student to provide their solution to each part.  
     -   If time allows, discuss multiple solutions to each part.
@@ -56,7 +56,7 @@ Students will be able to...
 
 ## Accommodations/Differentiation
 
--   Part 2.4 is a fairly complex formula and should be a challenge for advanced students.
+-   Part 3.4 is a fairly complex formula and should be a challenge for advanced students.
 -   Struggling students should focus on section 1. The problems in section 2 represent more complex algorithms, but not necessarily any more difficult usage of arguments.
 
 

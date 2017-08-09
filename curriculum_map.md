@@ -34,15 +34,15 @@
 | 2.3: Inputs and Conditionals | Ask for and receive user input in a SNAP program. Use simple conditional (if and if-else) blocks to alter control flow in a SNAP program. | What Shape Is That? |
 | 2.4: Boole in the House | Define and identify Boolean expressions and operators. Evaluate Boolean expressions. Utilize Boolean operators (and/or/not) to create compound conditions. | Triangle of All Kinds |
 | 2.5: Combining Loops and Conditionals | Combine loops with conditionals to create models with repeated but conditional behavior. | What Goes Up... |
-| 2.6: Pong Project | Use custom blocks to implement a well-written version of Pong. Practice good style and conventions to create readable and maintainable code. | Project 2: Pong |
-| 2.6: Project Day 1 | Project Work  | Project 3: Pong |
-| 2.7: Project Day 2 | Project Work  | Project 3: Pong |
-| 2.8: Project Day 3 | Project Work  | Project 3: Pong |
-| 2.9: Project Day 4 | Project Work  | Project 3: Pong |
-| 2.10: Project Day 5 | Project Work  | Project 3: Pong |
-| 2.11: Project Day 6 | Project Work  | Project 3: Pong |
-| 2.12: Project Day 7 | Project Work  | Project 3: Pong |
-| 2.13: Project Day 8 | Project Work  | Project 3: Pong |
+| 2.6: Pong Project | Implement a well-written version of Pong. Practice good style and conventions to create readable and maintainable code. | Project 2: Pong |
+| 2.6: Project Day 1 | Project Work  | Project 2: Pong |
+| 2.7: Project Day 2 | Project Work  | Project 2: Pong |
+| 2.8: Project Day 3 | Project Work  | Project 2: Pong |
+| 2.9: Project Day 4 | Project Work  | Project 2: Pong |
+| 2.10: Project Day 5 | Project Work  | Project 2: Pong |
+| 2.11: Project Day 6 | Project Work  | Project 2: Pong |
+| 2.12: Project Day 7 | Project Work  | Project 2: Pong |
+| 2.13: Project Day 8 | Project Work  | Project 2: Pong |
 | 2.14: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 | 2.15: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 
@@ -55,14 +55,14 @@
 | 3.4: Customizing I: Arguments | Build custom SNAP blocks that take arguments. | Let Me Check My Calendar |
 | 3.5: Customizing II: Reporters and Predicates | Build custom reporter and predicate blocks in SNAP. | If My Calculations Are Correct... |
 | 3.6: Platform Game Project | Use loops, variables, and Boolean expressions to implement a Super Mario Bros. style platform game. Practice good debugging skills to correct issues as they arise while programming. | Project 3: Platform Game |
-| 3.7: Project Day 1 | Project Work  | Project 2: Platform Game |
-| 3.8: Project Day 2 | Project Work  | Project 2: Platform Game |
-| 3.9: Project Day 3 | Project Work  | Project 2: Platform Game |
-| 3.10: Project Day 4 | Project Work  | Project 2: Platform Game |
-| 3.11: Project Day 5 | Project Work  | Project 2: Platform Game |
-| 3.12: Project Day 6 | Project Work  | Project 2: Platform Game |
-| 3.13: Project Day 7 | Project Work  | Project 2: Platform Game |
-| 3.14: Project Day 8 | Project Work  | Project 2: Platform Game |
+| 3.7: Project Day 1 | Project Work  | Project 3: Platform Game |
+| 3.8: Project Day 2 | Project Work  | Project 3: Platform Game |
+| 3.9: Project Day 3 | Project Work  | Project 3: Platform Game |
+| 3.10: Project Day 4 | Project Work  | Project 3: Platform Game |
+| 3.11: Project Day 5 | Project Work  | Project 3: Platform Game |
+| 3.12: Project Day 6 | Project Work  | Project 3: Platform Game |
+| 3.13: Project Day 7 | Project Work  | Project 3: Platform Game |
+| 3.14: Project Day 8 | Project Work  | Project 3: Platform Game |
 | 3.15: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 | 3.16: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 

@@ -44,24 +44,27 @@ Platform games are among the most widely recognized types of video games.  Compo
 1.  **Design and Creativity**
     <br/>
     Your program should be well-designed and have a unifying theme, characteristic, or style.  This can be a particular style of artwork, common colors, and/or related types of characters.  In addition, you should show some effort and creativity in your design.  Do not simply recreate an existing game or use only ideas put forth in this spec.  Come up with some original concepts for characters, backgrounds, power-ups, etc. and utilize them in your game.  If you make us say "Wow!" it may even be worth some extra credit.  Using copyrighted assets (including characters or artwork from an existing game), even with modification, is not allowed.  
-2.  **Documentation**
+2.  **Custom Blocks**
+    <br/>
+    Throughout your program, you should use custom blocks to generalize common operations and increase the readability and maintainability of your code. Your program must include at least three custom blocks, at least one of which must take arguments. Do not limit yourself to just three blocks: use custom blocks (including arguments and reporters) anywhere you feel it will help your code. Part of your grade will be based on not only meeting the minimum usage requirement but also on your decisions of when, where, and how to use custom blocks.
+3.  **Documentation**
     <br/>
     In addition to functioning well, your program must be well-documented and readable.  This includes, but is not limited to, things such as:
     -   organizing your scripts so that they can be read and comprehended easily
     -   giving  your sprites meaningful names
     -   naming and using your variables well
     -   including comments to describe the structure of your program and any particularly complex or unintuitive pieces of code
-3.  **Required Snap! Elements**
+4.  **Required Snap! Elements**
     <br/>
     Your program must include, at a minimum, the following Snap! code elements:
     -   At least two variables
     -   At least one conditional (if or if-else) statement
     -   At least two messages, one of which must be received and responded to by multiple sprites
-4.  **Peer Feedback**
+5.  **Peer Feedback**
      <br/>
     As part of the software development experience on this project, you will participate in a peer review with one or more of your classmates.  Near the end of the project, you will play another student's game and provide him or her with notes and comments.  Your partner(s) will also play your game and offer the same feedback.  Describe to your partner what parts of the game you liked.  You should offer suggestions for features that could be improved or changed as well as look for bugs in the program you are reviewing.  Keep your comments constructive and professional!  Don't just point out things you don't like—explain your thinking and propose solutions.  Also, restrict your comments to things that can be reasonably addressed.  Do not tell your partner that he or she made a poor choice of theme and should start over, for example.
     After receiving your peer feedback, you should consider the comments carefully and respond.  You will be expected to turn in the feedback provided to you and identify ways in which you modified your game in response to the feedback you received.
-5.  **Required Checkpoints**
+6.  **Required Checkpoints**
     1.  Monday, October 27: Screens should be designed; the hero should be able to move and jump; gravity should work; reset button should be functional
     2.  Monday, November 3: Hazards and enemies should be present; death should work properly.
     3.  Monday, November 10 (final due date): Lives, power-ups, and victory should be implemented; all other required program components must work

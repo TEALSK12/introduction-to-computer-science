@@ -9,4 +9,4 @@ Quizzes are located in protected Introduction to Computer Science Instructor Git
 
 - [Unit 1 Quiz](https://github.com/TEALSK12/introduction-to-computer-science-instructor/blob/master/curriculum/quizzes/Unit%201%20Quiz.docx)
 
-Note: TEALS Classes can access the Quizzes by logging into the TEALS Dashboard and navigating to "Additional Curriculum Materials" -> "Intro CS Curriculum" 
+Note: TEALS Classes can access the Quizzes by logging into the TEALS Dashboard and navigating to "Additional Curriculum Materials" -> "Intro CS Curriculum" (you may need to log in using incognito mode on the browser).

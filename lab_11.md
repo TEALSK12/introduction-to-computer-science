@@ -44,11 +44,11 @@ These tabs are an important organizational structure in SNAP because they are ho
 > | ------------------------- | -------- |
 > | ![](playNote.png)         |          |
 > | ![](clear.png)            |          |
-> | ![](mouseX.png)           |          |
+> | ![](mousex.png)           |          |
 > | ![](touching.png)         |          |
 > | ![](changeY.png)          |          |
 > | ![](distanceTo.png)       |          |
-> | ![](pointInDirection.png) |          |
+> | ![](pointindirection.png) |          |
 > | ![](stopAllSounds.png)    |          |
 > 
 > Look at the **Motion** tab. Under this tab you will find a bunch of blocks that correspond to motion-like actions. For example, click on the ![](move.png) block, drag it to the scripting area, and drop it anywhere in the scripting area.

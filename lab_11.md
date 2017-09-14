@@ -277,3 +277,27 @@ Some tips:
     **Hint: All the sprites are reflecting in different ways around the (x=0, y=0) origin point of the stage.**
 
 -   Once you figured this out, try out some complicated formulas and/or more sprites, and share with your classmates! 
+
+## Grading Scheme/Rubric
+
+| **Lab 1.1 Criteria**                        |                |
+| ------------------------------------------- | -------------- |
+| 1.1 What does it do?                        | 0.2 points     |
+| 2.1 Categories                              | 0.4 points     |
+| 2.2 Move in opposite direction              | 0.1 points     |
+| 3.2 What happens                            | 0.2 points     |
+| 4.1 x positions                             | 0.3 points     |
+| 5.1 Coordinates of red sprite               | 0.2 points     |
+| 5.2 List 4 change poistion Motion blocks    | 0.2 points     |
+| 6.1 What it does                            | 0.3 points     |
+| 6.2 Does turn block change x or y position  | 0.1 points     |
+| 6.3 Draw a square                           | 0.4 points     |
+| 7.1 What does it do                         | 0.2 points     |
+| 7.2 Dragging the mouse                      | 0.1 points     |
+| 7.3 Program behavior w/modification         | 0.1 points     |
+| **Total**                                   | **2.8 points** |
+| **Mini-project**                            |                |
+| 9 Make a Kaleidoscope                       | 1.0 points     |
+| **Total**                                   | **1.0 points** |
+| **PROJECT TOTAL**                           | **3.8 points** |
+

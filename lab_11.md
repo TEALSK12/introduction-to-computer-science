@@ -296,8 +296,11 @@ Some tips:
 | 7.2 Dragging the mouse                      | 0.1 points     |
 | 7.3 Program behavior w/modification         | 0.1 points     |
 | **Total**                                   | **2.8 points** |
+| **Checking for Understanding**              |                |
+| 8 Multiple choice                           | 0.4 points     |
+| **Total**                                   | **0.4 points** |
 | **Mini-project**                            |                |
 | 9 Make a Kaleidoscope                       | 1.0 points     |
 | **Total**                                   | **1.0 points** |
-| **PROJECT TOTAL**                           | **3.8 points** |
+| **PROJECT TOTAL**                           | **4.2 points** |
 

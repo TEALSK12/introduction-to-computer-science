@@ -75,6 +75,7 @@ You are now going to use some of the blocks you've explored to create, save, and
 File URL:
 
 * * *
+## Grading Scheme/Rubric
 
 | **Lab 1.2 Criteria**                                          |                |
 | ------------------------------------------------------------- | -------------- |

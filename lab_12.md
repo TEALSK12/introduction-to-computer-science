@@ -75,3 +75,14 @@ You are now going to use some of the blocks you've explored to create, save, and
 File URL:
 
 * * *
+
+| **Lab 1.2 Criteria**                                          |                |
+| ------------------------------------------------------------- | -------------- |
+| 1.1 Locating common blocks                                    | 0.2 points     |
+| 2.1 What does it do?                                          | 0.4 points     |
+| 2.2 Categories                                                | 0.3 points     |
+| 4 different notes, 2 rests in between                         | 0.4 points     |
+| repeat block plays song                                       | 0.3 points     |
+| multi-color, multi-line thickness shape at (-20,10)           | 0.4 points     |
+| BONUS: draw picture with at least 4 blocks from 1.1 and 2.1   | 0.5 points     |
+| **PROJECT TOTAL**                                             | **2.5 points** |

@@ -40,7 +40,7 @@ In this lab, you will explore SNAP and create a simple "self-portrait" program t
 | Includes name                                                 | .2 points      |
 | Current grade                                                 | .2 points      |
 | Age                                                           | .2 points      |
-| Favorite class in school                                      | .2 point       |
+| Favorite class in school                                      | .2 points      |
 | Hobby or interest                                             | .2 points      |
 | Programming or computer experience                            | .0 points      |
 | **Total**                                                     | **1.0 points** |

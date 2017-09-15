@@ -44,7 +44,7 @@ In this lab, you will use costumes and movement to create simple SNAP animations
 
 ## Grading Scheme/Rubric
 
-| **Lab 143 Criteria**                          |                |
+| **Lab 1.4 Criteria**                          |                |
 | --------------------------------------------- | -------------- |
 | Dragon breathes fire                          | 0.25 points    |
 | Dragon attacks mouse pointer correctly        | 0.75 points    |

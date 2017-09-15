@@ -32,3 +32,16 @@ In this lab, you will write code to draw regular polygons.  But this time, you w
 ## Bonus: Sizing Things Up
 
 1.  Modify your custom block and program from the previous section so that the user can specify both the number of sides and the size of each side.  Be sure to utilize generalization and detail removal to make your program and block as clear and concise as possible.
+
+## Grading Scheme/Rubric
+
+| **Lab 3.2 Criteria**                        |                |
+| ------------------------------------------- | -------------- |
+| Custom block draws square                   | 0.25 points    |
+| Use variable for number of sides            | 0.5 points     |
+| Works for all sides > 2                     | 0.5 points     |
+| Program asks for sides, calls block         | 0.5 points     |
+| Program handles input <= 2                  | 0.5 points     |
+| Program and block handle size of sides      | 0.5 points     |
+| Code clear and concise                      | 0.25 points    |
+| **PROJECT TOTAL**                           | **3.0 points** |

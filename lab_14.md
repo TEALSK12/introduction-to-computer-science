@@ -41,3 +41,14 @@ In this lab, you will use costumes and movement to create simple SNAP animations
 3.3) Modify your code so that instead of moving when the 'r' key is pressed, the new sprite moves when the dragon "attacks."  The "fleeing" sprite should move when the dragon starts breathing fire.
 
 3.4) Add a second sprite that runs away from the dragon as well.
+
+## Grading Scheme/Rubric
+
+| **Lab 143 Criteria**                          |                |
+| --------------------------------------------- | -------------- |
+| Dragon breathes fire                          | 0.25 points    |
+| Dragon attacks mouse pointer correctly        | 0.75 points    |
+| A sprite runs away from dragon                | 0.25 points    |
+| Sprite runs away when dragon breathes fire    | 0.5 points     |
+| Another sprite runs away too                  | 0.25 points    |
+| **PROJECT TOTAL**                             | **2.0 points** |

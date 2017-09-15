@@ -41,10 +41,11 @@ If the sides given cannot make a real triangle, say so instead of saying the per
 
 | **Lab 2.5 Criteria**                |                |
 | ----------------------------------- | -------------- |
-| Sprite falls                        | 0.5 points     |
-| Sprite hits ground appropriately    | 0.5 points     |
-| Sprite hits object appropriately    | 0.5 points     |
-| Random locations for both           | 0.5 points     |
-| Sprite hits hill appropriately      | 0.5 points     |
-| **PROJECT TOTAL**                   | **2.5 points** |
+| Computes perimeter or says invalid  | 1.0 points     |
+| Identifies right                    | 0.25 points    |
+| Identifies equilateral              | 0.25 points    |
+| Identifies isosceles                | 0.25 points    |
+| Identifies scalene                  | 0.25 points    |
+| **PROJECT TOTAL**                   | **2.0 points** |
+
 

@@ -16,3 +16,14 @@ In this lab, you will use cloning to create many identical sprites without havin
 3. Modify the program so that the original ("master") sprite hides at the beginning of the program and each new sprite appears when it is created.
 
 4. BONUS: Assign each clone a different value for some properties, such as speed, color, or size.  Try controlling these values from the master sprite rather than having each clone choose its own.
+
+## Grading Scheme/Rubric
+
+| **Lab 5.2 Criteria**                               |                |
+| -------------------------------------------------- | -------------- |
+| One bouncing sprite                                | 0.5 points     |
+| Sprite controlled by stage                         | 0.5 points     |
+| Clones created by stage                            | 0.5 points     |
+| Hide master sprite                                 | 0.5 points     |
+| Sprites have different properties                  | 0.5 points     |
+| **PROJECT TOTAL**                                  | **2.5 points** |

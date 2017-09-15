@@ -23,3 +23,13 @@ In this lab, you will rewrite your SNAP programs from Lab 1.3 to draw shapes usi
 | 8                             | Circle                     |
 
 You may not be able to draw a true circle, but you should get as close as you can.
+
+## Grading Scheme/Rubric
+
+| **Lab 2.1 Criteria**                |                |
+| ----------------------------------- | -------------- |
+| Square using loop                   | 0.5 points     |
+| Decagon                             | 0.5 points     |
+| Circle                              | 0.5 points     |
+| Minimum redundancy in all           | 0.5 points     |
+| **PROJECT TOTAL**                   | **2.0 points** |

@@ -46,3 +46,18 @@ In this lab, you will create a simple sentence generator using lists.  (Adapted 
 | p   | preposition    |
 
 1.  Write a script so that when the 'x' key is pressed, the user is asked for one of the parts of speech and then for a number (n).  Your script should remove the nth item from the list of words for the specified part of speech.  For example, if the user types in "verb" and "3" then you should remove the 3rd word from the list of verbs.  The removed word should no longer appear in sentences.
+
+## Grading Scheme/Rubric
+
+| **Lab 4.2 Criteria**                               |                |
+| -------------------------------------------------- | -------------- |
+| 6 lists                                            | 0.5 points     |
+| 6 "part of speech" reporters                       | 0.5 points     |
+| 3 phrase and sentence reporters                    | 0.5 points     |
+| sentence script                                    | 0.5 points     |
+| Bonus: Add proper nouns                            | 0.25 points    |
+| Bonus: Make prepositional phrase for verb phrases  | 0.25 points    |
+| Add nouns                                          | 0.25 points    |
+| Add other 5 parts of speech                        | 0.25 points    |
+| Remove a part of speech                            | 0.5 points     |
+| **PROJECT TOTAL**                                  | **3.5 points** |

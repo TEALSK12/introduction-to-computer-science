@@ -42,6 +42,8 @@ Quadrilaterals come in many different varieties.  Add code to your program so th
 
 2.  Write the program.  Be sure that your program works correctly in all cases.
 
+## Grading Scheme/Rubric
+
 | **Lab 2.3 Criteria**                |                |
 | ----------------------------------- | -------------- |
 | Identifies triangle                 | 0.5 points     |

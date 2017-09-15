@@ -27,9 +27,11 @@ You will write a SNAP program to choose a random number between 1 and 10 and the
 
 | **Lab 2.4 Criteria**                |                |
 | ----------------------------------- | -------------- |
-| Computes perimeter or says invalid  | 1.0 points     |
-| Identifies right                    | 0.25 points    |
-| Identifies equilateral              | 0.25 points    |
-| Identifies isosceles                | 0.25 points    |
-| Identifies scalene                  | 0.25 points    |
+| Planning Worksheet                  | 0.5 points     |
+| Simple version                      | 0.25 points    |
+| Repeat till correct guess           | 0.25 points    |
+| User name                           | 0.25 points    |
+| Range of numbers                    | 0.25 points    |
+| Number of guesses                   | 0.25 points    |
+| High or low                         | 0.25 points    |
 | **PROJECT TOTAL**                   | **2.0 points** |

@@ -36,3 +36,15 @@ If the sides given cannot make a real triangle, say so instead of saying the per
 | Equilateral   | All three side lengths equal          |
 | Isosceles     | Two side lengths equal, one different |
 | Scalene       | All three side lengths different      |
+
+## Grading Scheme/Rubric
+
+| **Lab 2.5 Criteria**                |                |
+| ----------------------------------- | -------------- |
+| Sprite falls                        | 0.5 points     |
+| Sprite hits ground appropriately    | 0.5 points     |
+| Sprite hits object appropriately    | 0.5 points     |
+| Random locations for both           | 0.5 points     |
+| Sprite hits hill appropriately      | 0.5 points     |
+| **PROJECT TOTAL**                   | **2.5 points** |
+

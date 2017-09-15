@@ -15,3 +15,13 @@ In this lab, you will implement several custom blocks performing variants of seq
 1.  Write a custom block called "first e-word" that takes a list as an argument and reports the first word in the list that starts with the letter 'e'.  If no such word exists, report a blank (nothing).
 
 2.  BONUS: Write a custom block called "first word that starts with" that takes a list and a letter as arguments, and reports the first word in the list that starts with the given letter.  If no such word exists, report a blank (nothing).
+
+## Grading Scheme/Rubric
+
+| **Lab 4.5 Criteria**                               |                |
+| -------------------------------------------------- | -------------- |
+| contains block                                     | 0.5 points     |
+| index of block                                     | 0.5 points     |
+| first e-word block                                 | 1.0 points     |
+| BONUS: first word that starts with block           | 0.5 points     |
+| **PROJECT TOTAL**                                  | **2.5 points** |

@@ -25,7 +25,7 @@ In this lab, you will write some custom blocks that take arguments and are usefu
 
 ## Grading Scheme/Rubric
 
-| **Lab 3.2 Criteria**        |                |
+| **Lab 3.3 Criteria**        |                |
 | --------------------------- | -------------- |
 | month name                  | 0.5 points     |
 | day name                    | 0.5 points     |

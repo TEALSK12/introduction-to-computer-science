@@ -21,3 +21,17 @@ In this lab, you will continue practicing processing lists, this time using list
 2.  Write a custom SNAP reporter block called "only evens" that takes a list of integers as an argument and reports a new list that contains only the even numbers from the argument list.  The result list should have its values in the same order as the original list, but with the odd integers removed.  (Remember that "mod" block can be useful in determining whether or not a number is even.)
 
 3.  BONUS: Write a custom SNAP reporter block called "add all" that takes two list of numbers as arguments and returns a new list that contains the sum of the corresponding values in each argument list.  For example, if the arguments to "add all" are (1, 4, 6) and (2, 2, 3), the result should be (3, 6, 9).  You can assume the two lists will be the same size.
+
+## Grading Scheme/Rubric
+
+| **Lab 4.4 Criteria**                               |                 |
+| -------------------------------------------------- | --------------- |
+| sum reporter                                       | 0.25 points     |
+| average reporter                                   | 0.25 points     |
+| includes negative predicate                        | 0.25 points     |
+| increasing? predicate                              | 0.25 points     |
+| maximum reporter                                   | 0.25 points     |
+| make all positive reporter                         | 0.5 points      |
+| only evens reporter                                | 0.25 points     |
+| Bonus: add all reporter                            | 0.25 points     |
+| **PROJECT TOTAL**                                  | **2.25 points** |

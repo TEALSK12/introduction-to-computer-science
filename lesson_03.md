@@ -60,7 +60,7 @@ Students will be able to...
 
 
 ####Background Information for Instructors
-* BJC Video Suggestion: [BJC Lecture 5: Algorithm](https://www.youtube.com/watch?v=_4ScHcLvQnw)
+* BJC Video Suggestion: [BJC Lecture 5: Programming Paradigms](https://www.youtube.com/watch?v=_4ScHcLvQnw)
  - Dilemma of Being a Cyborg 0:00-2:30
  - Programming Paradigms 2:30-3:50
  - Snap! BYOB (Hybrid) 3:55-4:45

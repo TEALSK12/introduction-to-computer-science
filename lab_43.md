@@ -28,3 +28,19 @@ In this lab, you will create a list of names and then look through the list pull
 | 3                           | End with the letter 'y'                             | Sally                 |
 | 4                           | Are not the first two or last two names in the list | Michelle, John        |
 | 5 (optional)                | Contain the letter 'e'                              | Eric, Michelle, Caleb |
+
+## Grading Scheme/Rubric
+
+| **Lab 4.3 Criteria**                               |                |
+| -------------------------------------------------- | -------------- |
+| Welcome by name                                    | 0.25 points    |
+| Welcome all at once                                | 0.25 points    |
+| Bonus: Enter list, then welcome all at once        | 0.25 points    |
+| Every other name                                   | 0.25 points    |
+| Reverse order                                      | 0.5 points     |
+| > 4 letters                                        | 0.25 points    |
+| start with C                                       | 0.5 points     |
+| End with y                                         | 0.5 points     |
+| Not first 2 or last 2                              | 0.5 points     |
+| Bonus: Contain e or E                              | 0.25 points    |
+| **PROJECT TOTAL**                                  | **3.5 points** |

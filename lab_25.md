@@ -43,7 +43,7 @@ If the sides given cannot make a real triangle, say so instead of saying the per
 | --------------------------------------- | -------------- |
 | 1.2 Computes perimeter or says invalid  | 1.0 points     |
 | 2.1 Identifies right                    | 0.25 points    |
-| Section 2                               |                |
+| Section 2.2                               |                |
 | Identifies equilateral                  | 0.25 points    |
 | Identifies isosceles                    | 0.25 points    |
 | Identifies scalene                      | 0.25 points    |

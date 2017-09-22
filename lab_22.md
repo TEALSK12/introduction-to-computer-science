@@ -23,10 +23,10 @@ In this lab, you will use nested loops to draw a large brick wall using as littl
 
 | **Lab 2.2 Criteria**                |                |
 | ----------------------------------- | -------------- |
-| 2 bricks bottom left                | 0.5 points     |
-| row on bottom                       | 0.5 points     |
-| second row offset                   | 0.5 points     |
-| complete wall                       | 0.5 points     |
+| 1.2 2 bricks bottom left            | 0.5 points     |
+| 1.3 row on bottom                   | 0.5 points     |
+| 2.1 second row offset               | 0.5 points     |
+| 3.3 complete wall                   | 0.5 points     |
 | No extra bricks                     | 0.25 points    |
 | Uses at least one loop              | 0.5 points     |
 | Minimum redundancy in all           | 0.25 points    |

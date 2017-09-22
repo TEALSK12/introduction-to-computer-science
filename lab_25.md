@@ -3,7 +3,7 @@
 
 In this lab, you will use Boolean operators to determine what sort of triangle a user is describing.
 
-## Is that even possible!?
+## Section 1 Is that even possible!?
 
 1.  Write a SNAP program that asks the user for the lengths of all three sides of a triangle.  Store each length in a variable.  Then say the perimeter of the triangle with those three side lengths
 
@@ -19,7 +19,7 @@ In this lab, you will use Boolean operators to determine what sort of triangle a
 
 If the sides given cannot make a real triangle, say so instead of saying the perimeter.
 
-## What kind of triangle?
+## Section 2 What kind of triangle?
 
 1.  Add code to your program to determine and say whether or not the triangle described is a right triangle.  If the triangle has side lengths $$a$$, $$b$$, and $$c$$, then the triangle is a right triangle if the following is true:
     <br/>
@@ -39,13 +39,14 @@ If the sides given cannot make a real triangle, say so instead of saying the per
 
 ## Grading Scheme/Rubric
 
-| **Lab 2.5 Criteria**                |                |
-| ----------------------------------- | -------------- |
-| Computes perimeter or says invalid  | 1.0 points     |
-| Identifies right                    | 0.25 points    |
-| Identifies equilateral              | 0.25 points    |
-| Identifies isosceles                | 0.25 points    |
-| Identifies scalene                  | 0.25 points    |
-| **PROJECT TOTAL**                   | **2.0 points** |
+| **Lab 2.5 Criteria**                    |                |
+| --------------------------------------- | -------------- |
+| 1.2 Computes perimeter or says invalid  | 1.0 points     |
+| 2.1 Identifies right                    | 0.25 points    |
+| Section 2                               |                |
+| Identifies equilateral                  | 0.25 points    |
+| Identifies isosceles                    | 0.25 points    |
+| Identifies scalene                      | 0.25 points    |
+| **PROJECT TOTAL**                       | **2.0 points** |
 
 

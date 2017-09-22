@@ -44,11 +44,11 @@ In this lab, you will use costumes and movement to create simple SNAP animations
 
 ## Grading Scheme/Rubric
 
-| **Lab 1.4 Criteria**                          |                |
-| --------------------------------------------- | -------------- |
-| Dragon breathes fire                          | 0.25 points    |
-| Dragon attacks mouse pointer correctly        | 0.75 points    |
-| A sprite runs away from dragon                | 0.25 points    |
-| Sprite runs away when dragon breathes fire    | 0.5 points     |
-| Another sprite runs away too                  | 0.25 points    |
-| **PROJECT TOTAL**                             | **2.0 points** |
+| **Lab 1.4 Criteria**                              |                |
+| ------------------------------------------------- | -------------- |
+| 2.2 Dragon breathes fire                          | 0.25 points    |
+| 2.3 Dragon attacks mouse pointer correctly        | 0.75 points    |
+| 3.2 A sprite runs away from dragon                | 0.25 points    |
+| 3.3 Sprite runs away when dragon breathes fire    | 0.5 points     |
+| 3.4 Another sprite runs away too                  | 0.25 points    |
+| **PROJECT TOTAL**                                 | **2.0 points** |

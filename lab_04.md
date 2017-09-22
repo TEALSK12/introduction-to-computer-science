@@ -34,14 +34,13 @@ In this lab, you will explore SNAP and create a simple "self-portrait" program t
 
 | **Lab 0.4 Criteria**                                          |                |
 | ------------------------------------------------------------- | -------------- |
-| Listed 3 things you found Snap can do                         | 0.3 points      |
-| Listed 3 things your partner found Snap can do                | 0.3 points      |
-| **Total**                                                     | **0.6 points**  |
-| Includes name                                                 | 0.2 points      |
-| Current grade                                                 | 0.2 points      |
-| Age                                                           | 0.2 points      |
-| Favorite class in school                                      | 0.2 points      |
-| Hobby or interest                                             | 0.2 points      |
-| Programming or computer experience                            | 0.0 points      |
-| **Total**                                                     | **1.0 points** |
+| 1.2 Listed 3 things you found Snap can do                     | 0.3 points     |
+| 1.3 Listed 3 things your partner found Snap can do            | 0.3 points     |
+| Part 2                                                        |                |
+| Includes name                                                 | 0.2 points     |
+| Current grade                                                 | 0.2 points     |
+| Age                                                           | 0.2 points     |
+| Favorite class in school                                      | 0.2 points     |
+| Hobby or interest                                             | 0.2 points     |
+| Programming or computer experience                            | 0.0 points     |
 | **PROJECT TOTAL**                                             | **1.6 points** |

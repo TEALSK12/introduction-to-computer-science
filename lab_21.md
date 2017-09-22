@@ -28,7 +28,8 @@ You may not be able to draw a true circle, but you should get as close as you ca
 
 | **Lab 2.1 Criteria**                |                |
 | ----------------------------------- | -------------- |
-| Square using loop                   | 0.5 points     |
+| 2.2 Square using loop               | 0.5 points     |
+| Section 3                           |                |
 | Decagon                             | 0.5 points     |
 | Circle                              | 0.5 points     |
 | Minimum redundancy in all           | 0.5 points     |

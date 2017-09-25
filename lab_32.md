@@ -35,13 +35,13 @@ In this lab, you will write code to draw regular polygons.  But this time, you w
 
 ## Grading Scheme/Rubric
 
-| **Lab 3.2 Criteria**                        |                |
-| ------------------------------------------- | -------------- |
-| Custom block draws square                   | 0.25 points    |
-| Use variable for number of sides            | 0.5 points     |
-| Works for all sides > 2                     | 0.5 points     |
-| Program asks for sides, calls block         | 0.5 points     |
-| Program handles input <= 2                  | 0.5 points     |
-| Program and block handle size of sides      | 0.5 points     |
-| Code clear and concise                      | 0.25 points    |
-| **PROJECT TOTAL**                           | **3.0 points** |
+| **Lab 3.2 Criteria**                              |                |
+| ------------------------------------------------- | -------------- |
+| 1 Custom block draws square                       | 0.25 points    |
+| 2 Use variable for number of sides                | 0.5 points     |
+| 3 Works for all sides > 2                         | 0.5 points     |
+| 4a Program asks for sides, calls block            | 0.5 points     |
+| 4b Program handles input <= 2                     | 0.5 points     |
+| Bonus Program and block handle size of sides      | 0.5 points     |
+| Code clear and concise                            | 0.25 points    |
+| **PROJECT TOTAL**                                 | **3.0 points** |

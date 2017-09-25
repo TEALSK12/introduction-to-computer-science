@@ -57,7 +57,7 @@ In this lab, you will create a simple sentence generator using lists.  (Adapted 
 | ------------------------------------------------------ | -------------- |
 | 1.1 6 lists                                            | 0.5 points     |
 | 2.1 "noun phrase" reporters                            | 0.5 points     |
-| 2.1 3 phrase and sentence reporters                    | 0.5 points     |
+| 2.2 3 phrase and sentence reporters                    | 0.5 points     |
 | 3.1 sentence script                                    | 0.5 points     |
 | 3.2 Bonus: Add proper nouns                            | 0.25 points    |
 | 3.3 Bonus: Make prepositional phrase for verb phrases  | 0.25 points    |

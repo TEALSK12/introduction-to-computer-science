@@ -3,7 +3,7 @@
 
 In this lab, you will write some custom blocks that take arguments and are useful for calculations involving dates and calendars.
 
-## Basics
+## 1 - Basics
 
 1.  Write a custom SNAP block called "month name" that takes a number between 1 and 12 as an argument and says the name of the corresponding month.
 
@@ -11,7 +11,7 @@ In this lab, you will write some custom blocks that take arguments and are usefu
 
 3.  Write a custom SNAP block called "days in " that takes a month name as an argument and says how many days are in that month.  Assume a non-leap year.
 
-## Going Farther
+## 2 - Going Farther
 
 1.  Write a custom SNAP block called "is a leap year" that takes a year number as an argument and says whether or not that year is a leap year.
 
@@ -25,13 +25,13 @@ In this lab, you will write some custom blocks that take arguments and are usefu
 
 ## Grading Scheme/Rubric
 
-| **Lab 3.3 Criteria**        |                |
-| --------------------------- | -------------- |
-| month name                  | 0.5 points     |
-| day name                    | 0.5 points     |
-| days in                     | 0.5 points     |
-| is leap year                | 0.5 points     |
-| Bonus: is a valid date      | 0.5 points     |
-| Bonus: day in year          | 0.5 points     |
-| Bonus: day in week          | 0.5 points     |
-| **PROJECT TOTAL**           | **3.5 points** |
+| **Lab 3.3 Criteria**            |                |
+| ------------------------------- | -------------- |
+| 1.1 month name                  | 0.5 points     |
+| 1.2 day name                    | 0.5 points     |
+| 1.3 days in                     | 0.5 points     |
+| 2.1 is leap year                | 0.5 points     |
+| 2.2 is a valid date             | 0.5 points     |
+| 2.3 day in year                 | 0.5 points     |
+| 2.4 Bonus: day in week          | 0.5 points     |
+| **PROJECT TOTAL**               | **3.5 points** |

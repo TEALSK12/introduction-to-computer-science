@@ -46,7 +46,7 @@ Quadrilaterals come in many different varieties.  Add code to your program so th
 
 | **Lab 2.3 Criteria**                |                |
 | ----------------------------------- | -------------- |
-| 1 Identifies triangle                 | 0.5 points     |
-| 2 Identifies polygons              | 1.0 points     |
-| 3 Identifies quadrilaterals        | 0.5 points     |
+| 1 Identifies triangle               | 0.5 points     |
+| 2 Identifies polygons               | 1.0 points     |
+| 3 Identifies quadrilaterals         | 0.5 points     |
 | **PROJECT TOTAL**                   | **2.0 points** |

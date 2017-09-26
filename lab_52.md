@@ -21,9 +21,9 @@ In this lab, you will use cloning to create many identical sprites without havin
 
 | **Lab 5.2 Criteria**                               |                |
 | -------------------------------------------------- | -------------- |
-| One bouncing sprite                                | 0.5 points     |
-| Sprite controlled by stage                         | 0.5 points     |
-| Clones created by stage                            | 0.5 points     |
-| Hide master sprite                                 | 0.5 points     |
-| Sprites have different properties                  | 0.5 points     |
+| 1.1 One bouncing sprite                            | 0.5 points     |
+| 1.2 Sprite controlled by stage                     | 0.5 points     |
+| 2.1 Clones created by stage                        | 0.5 points     |
+| 2.3 Hide master sprite                             | 0.5 points     |
+| 2.4 Bonus: Sprites have different properties       | 0.5 points     |
 | **PROJECT TOTAL**                                  | **2.5 points** |

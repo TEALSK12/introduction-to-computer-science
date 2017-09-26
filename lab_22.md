@@ -18,3 +18,16 @@ In this lab, you will use nested loops to draw a large brick wall using as littl
 
 3.  Finish off the wall the by building alternating rows all the way to the top of the stage.  Remember that the stage is 360 pixels tall.  Your final wall should look like this:
     ![](<brick wall.png>)
+
+## Grading Scheme/Rubric
+
+| **Lab 2.2 Criteria**                |                |
+| ----------------------------------- | -------------- |
+| 1.2 2 bricks bottom left            | 0.5 points     |
+| 1.3 row on bottom                   | 0.5 points     |
+| 2.1 second row offset               | 0.5 points     |
+| 3.3 complete wall                   | 0.5 points     |
+| No extra bricks                     | 0.25 points    |
+| Uses at least one loop              | 0.5 points     |
+| Minimum redundancy in all           | 0.25 points    |
+| **PROJECT TOTAL**                   | **3.0 points** |

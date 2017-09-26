@@ -3,7 +3,7 @@
 
 In this lab, you will write custom reporter blocks to perform a number of useful calculations and computations.
 
-## Simple Computations
+## 1 - Simple Computations
 
 1.  Write a custom SNAP reporter block called "min" that determines which of two numbers is smaller and reports that value.  If the two numbers are equal, report either one.
 
@@ -13,8 +13,20 @@ In this lab, you will write custom reporter blocks to perform a number of useful
 
 4.  Write a custom SNAP predicate called "at least as long as" that determines whether or not word has at least a specified number of letters.
 
-## Stepping Things Up
+## 2 - Stepping Things Up
 
 1.  Write a custom SNAP reporter block called "distance to" that computes and reports the distance from a sprite's position to another point.  Use the "x position" and "y position" blocks to determine the sprite's position.  Remember that the formula for the distance between points $$(x_1, y_1)$$ and $$(x_2, y_2)$$ is $$\sqrt{((y_2-y_1)^2+(x_2-x_1)^2 )}$$ .
 
 2.  Write a custom SNAP predicate block called "contains letter" that determines whether or not a word contains a particular letter.  You can consider upper-case and lower-case letters to be different for the purposes of matching.
+
+## Grading Scheme/Rubric
+
+| **Lab 3.4 Criteria**            |                |
+| ------------------------------- | -------------- |
+| 1.1 min                         | 0.25 points    |
+| 1.2 max                         | 0.25 points    |
+| 1.3 between                     | 0.5 points     |
+| 1.4 at least as long as         | 0.5 points     |
+| 2.1 distance to                 | 0.5 points     |
+| 2.2 contains letter             | 0.5 points     |
+| **PROJECT TOTAL**           | **2.5 points** |

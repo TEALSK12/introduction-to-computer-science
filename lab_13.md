@@ -33,3 +33,15 @@ You may want to draw a diagram similar to the one above of a square to figure ou
 2.3) Modify your code so that each different shape is drawn in a _different_ color and with a _different line thickness_. So, for example, if the square is drawn in blue with a line thickness of 3, each other shape must be drawn in a color that is not blue and with a line thickness that is not 3.
 
 2.4) Add code so that the sprite is hidden when it is not drawing.  This is will make sure that the sprite is not obstructing the view of your beautiful artwork!
+
+## Grading Scheme/Rubric
+
+| **Lab 1.3 Criteria**                |                |
+| ----------------------------------- | -------------- |
+| 1 - Square                          | 0.25 points     |
+| 2 - Equilateral Triangle            | 0.25 points     |
+| 3 - Diamond                         | 0.5 points     |
+| 4 - Pentagon                        | 0.5 points     |
+| 5 - Parallelogram                   | 0.5 points     |
+| Star (bonus!)                       | 0.5 points     |
+| **PROJECT TOTAL**                   | **2.5 points** |

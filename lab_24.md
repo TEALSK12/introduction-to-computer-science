@@ -22,3 +22,16 @@ You will write a SNAP program to choose a random number between 1 and 10 and the
 2.  Add code to keep track of how many guesses the player has made.  After the player guesses correctly, inform him or her how many tries it took before the correct number was guessed.
 
 3.  Increase the player's chances by telling him or her whether the guessed number is too high or too low instead of just that it is incorrect.
+
+## Grading Scheme/Rubric
+
+| **Lab 2.4 Criteria**                |                |
+| ----------------------------------- | -------------- |
+| 1.1 Planning Worksheet              | 0.5 points     |
+| 1.2 Simple version                  | 0.25 points    |
+| 1.3 Repeat till correct guess       | 0.25 points    |
+| 1.4 User name                       | 0.25 points    |
+| 2.1 Range of numbers                | 0.25 points    |
+| 2.2 Number of guesses               | 0.25 points    |
+| 2.3 High or low                     | 0.25 points    |
+| **PROJECT TOTAL**                   | **2.0 points** |

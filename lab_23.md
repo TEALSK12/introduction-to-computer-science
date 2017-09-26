@@ -41,3 +41,12 @@ Quadrilaterals come in many different varieties.  Add code to your program so th
 1.  Fill out a [Planning Worksheet] (https://tealsk12.gitbooks.io/introduction-to-computer-science/content/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx) for the above program.  Make sure you consider all aspects of the program carefully.
 
 2.  Write the program.  Be sure that your program works correctly in all cases.
+
+## Grading Scheme/Rubric
+
+| **Lab 2.3 Criteria**                |                |
+| ----------------------------------- | -------------- |
+| 1 Identifies triangle               | 0.5 points     |
+| 2 Identifies polygons               | 1.0 points     |
+| 3 Identifies quadrilaterals         | 0.5 points     |
+| **PROJECT TOTAL**                   | **2.0 points** |

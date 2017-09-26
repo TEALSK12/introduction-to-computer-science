@@ -6,19 +6,19 @@ In this lab, you will explore SNAP and create a simple "self-portrait" program t
 
 2. Write down three things you found that SNAP can do and how to do them.  Be as specific as you can!
  
- |SNAP can do this...| If I do this...|
- |---|---|
- |1.   |   |
- |2.   |   |
- |3.   |.   |
+ | SNAP can do this...| If I do this... |
+ | --- | --- |
+ | 1.  |     |
+ | 2.  |     |
+ | 3.  | .   |
 
 3. Find a partner and compare notes.  Share your findings with your partner and ask him or her about what he or she learned.  Write down the three capabilities your partner found below.
 
- |SNAP can do this...| If I do this...|
- |---|---|
- |1.   |   |
- |2.   |   |
- |3.   |.   |
+ | SNAP can do this... | If I do this... |
+ | --- | --- |
+ | 1.  |     |
+ | 2.  |     |
+ | 3.  | .   |
 
 ## Part 2 - Who Are You?
 4. Using what you've learned and other things you might discover, create a SNAP program that describes yourself.  This can take whatever form and use whatever SNAP tools and blocks you want.  Make sure that somehow, at some point in your program you show the following information:
@@ -29,3 +29,18 @@ In this lab, you will explore SNAP and create a simple "self-portrait" program t
     * One of your hobbies or interests
     * Any previous programming or computer experience you have
     * Now that you have had some additional time to think about "I am ____", express who you are using SNAP.
+
+## Grading Scheme/Rubric
+
+| **Lab 0.4 Criteria**                                          |                |
+| ------------------------------------------------------------- | -------------- |
+| 1.2 Listed 3 things you found Snap can do                     | 0.3 points     |
+| 1.3 Listed 3 things your partner found Snap can do            | 0.3 points     |
+| Part 2                                                        |                |
+| Includes name                                                 | 0.2 points     |
+| Current grade                                                 | 0.2 points     |
+| Age                                                           | 0.2 points     |
+| Favorite class in school                                      | 0.2 points     |
+| Hobby or interest                                             | 0.2 points     |
+| Programming or computer experience                            | 0.0 points     |
+| **PROJECT TOTAL**                                             | **1.6 points** |

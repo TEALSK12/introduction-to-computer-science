@@ -3,7 +3,7 @@
 
 In this lab, you will write some custom blocks that take arguments and are useful for calculations involving dates and calendars.
 
-## Basics
+## 1 - Basics
 
 1.  Write a custom SNAP block called "month name" that takes a number between 1 and 12 as an argument and says the name of the corresponding month.
 
@@ -11,7 +11,7 @@ In this lab, you will write some custom blocks that take arguments and are usefu
 
 3.  Write a custom SNAP block called "days in " that takes a month name as an argument and says how many days are in that month.  Assume a non-leap year.
 
-## Going Farther
+## 2 - Going Farther
 
 1.  Write a custom SNAP block called "is a leap year" that takes a year number as an argument and says whether or not that year is a leap year.
 
@@ -22,3 +22,16 @@ In this lab, you will write some custom blocks that take arguments and are usefu
 3.  Write a custom SNAP block called "day in year" that takes a year number and a number between 1 and 366 and says the date that corresponds to that numbered day of the specified year.  For example, in non-leap years day #1 is January 1, day #32 is February 1, day #365 is December 31, and day #185 is July 4.  Give an error message if the number is 366 and a non-leap year is specified.
 
 4.  BONUS: Write a custom SNAP block called "day of week" that takes a month name, date, and year as arguments and says the day of week on which that date falls in that year.  See <http://en.wikipedia.org/wiki/Determination_of_the_day_of_the_week> for information on finding the day of the week from a date.
+
+## Grading Scheme/Rubric
+
+| **Lab 3.3 Criteria**            |                |
+| ------------------------------- | -------------- |
+| 1.1 month name                  | 0.5 points     |
+| 1.2 day name                    | 0.5 points     |
+| 1.3 days in                     | 0.5 points     |
+| 2.1 is leap year                | 0.5 points     |
+| 2.2 is a valid date             | 0.5 points     |
+| 2.3 day in year                 | 0.5 points     |
+| 2.4 Bonus: day in week          | 0.5 points     |
+| **PROJECT TOTAL**               | **3.5 points** |

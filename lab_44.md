@@ -1,4 +1,4 @@
-# Number Cruncher
+# 1 - Number Cruncher
 
 In this lab, you will continue practicing processing lists, this time using lists of numbers instead of words.
 
@@ -14,7 +14,7 @@ In this lab, you will continue practicing processing lists, this time using list
 
 5.  Write a custom SNAP reporter block called "maximum" that takes a list as an argument and reports the largest number in the list.
 
-## Transforming Lists
+## 2 - Transforming Lists
 
 1.  Write a custom SNAP reporter block called "make all positive" that takes a list of numbers as an argument and reports a new list that is the same as the argument, except all negative numbers have been replaced by their absolute value.  
 
@@ -24,14 +24,14 @@ In this lab, you will continue practicing processing lists, this time using list
 
 ## Grading Scheme/Rubric
 
-| **Lab 4.4 Criteria**                               |                 |
-| -------------------------------------------------- | --------------- |
-| sum reporter                                       | 0.25 points     |
-| average reporter                                   | 0.25 points     |
-| includes negative predicate                        | 0.25 points     |
-| increasing? predicate                              | 0.25 points     |
-| maximum reporter                                   | 0.25 points     |
-| make all positive reporter                         | 0.5 points      |
-| only evens reporter                                | 0.25 points     |
-| Bonus: add all reporter                            | 0.25 points     |
-| **PROJECT TOTAL**                                  | **2.25 points** |
+| **Lab 4.4 Criteria**                                   |                 |
+| ------------------------------------------------------ | --------------- |
+| 1.1 sum reporter                                       | 0.25 points     |
+| 1.2 average reporter                                   | 0.25 points     |
+| 1.3 includes negative predicate                        | 0.25 points     |
+| 1.4 increasing? predicate                              | 0.25 points     |
+| 1.5 maximum reporter                                   | 0.25 points     |
+| 2.1 make all positive reporter                         | 0.5 points      |
+| 2.2 only evens reporter                                | 0.25 points     |
+| 2.3 Bonus: add all reporter                            | 0.25 points     |
+| **PROJECT TOTAL**                                      | **2.25 points** |

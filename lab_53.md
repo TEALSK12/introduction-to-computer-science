@@ -20,9 +20,9 @@ In this lab, you will build on what you created in lab 5.2 to enable better mana
 
 | **Lab 5.3 Criteria**                               |                |
 | -------------------------------------------------- | -------------- |
-| Delete all clones                                  | 0.5 points     |
-| Assign unique s_ID to each clone                   | 0.5 points     |
-| Delete newest clone                                | 0.5 points     |
-| Delete newest and add combined                     | 0.5 points     |
-| Delete specific clone                              | 0.5 points     |
+| 1.2 Delete all clones                                  | 0.5 points     |
+| 2.1 Assign unique s_ID to each clone                   | 0.5 points     |
+| 2.2 Delete newest clone                                | 0.5 points     |
+| 2.3 Delete newest and add combined                     | 0.5 points     |
+| 2.4 Bonus: Delete specific clone                              | 0.5 points     |
 | **PROJECT TOTAL**                                  | **2.5 points** |

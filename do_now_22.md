@@ -1,5 +1,7 @@
-## Do Now 2.2 Debugging Loops
+## Do Now 2.2 Zig Zag
 
-Follow the link to a [Two Sprites Tag](http://snap.berkeley.edu/snapsource/snap.html#present:Username=whuangpha&ProjectName=two%20sprites%20tag%20with%20bug) project with a bug.
+Follow the link to a [DoNow22](http://snap.berkeley.edu/snapsource/snap.html#present:Username=kenneychan&ProjectName=DoNow22) puzzle.
 
-Explain what the bug is and how to fix it. There are THREE bugs.
+Reassemble the blocks so Alonzo asks how many zig zags to draw. Then have Alanzo draw zig zags from the center of the stage to the upper right the number of times specfied:
+
+![Zig zag](do_now_22.PNG)

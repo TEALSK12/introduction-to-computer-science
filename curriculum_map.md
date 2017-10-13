@@ -32,39 +32,39 @@
 | 2.1: Loops | Define "loop" in a programming context. Explain why loops are useful. Implement simple repeat and forever loops in SNAP. Utilize loops to reduce redundancy in code. | Squares and Triangles Redux |
 | 2.2: Nested Loops | Use nested loops to solve programming problems. | Another Brick in the Wall |
 | 2.3: Inputs and Conditionals | Ask for and receive user input in a SNAP program. Use simple conditional (if and if-else) blocks to alter control flow in a SNAP program. | What Shape Is That? |
-| 2.4: Boole in the House | Define and identify Boolean expressions and operators. Evaluate Boolean expressions. Utilize Boolean operators (and/or/not) to create compound conditions. | Triangle of All Kinds |
-| 2.5: Combining Loops and Conditionals | Combine loops with conditionals to create models with repeated but conditional behavior. | What Goes Up... |
-| 2.6: Pong Project | Implement a well-written version of Pong. Practice good style and conventions to create readable and maintainable code. | Project 2: Pong |
-| 2.6: Project Day 1 | Project Work  | Project 2: Pong |
-| 2.7: Project Day 2 | Project Work  | Project 2: Pong |
-| 2.8: Project Day 3 | Project Work  | Project 2: Pong |
-| 2.9: Project Day 4 | Project Work  | Project 2: Pong |
-| 2.10: Project Day 5 | Project Work  | Project 2: Pong |
-| 2.11: Project Day 6 | Project Work  | Project 2: Pong |
-| 2.12: Project Day 7 | Project Work  | Project 2: Pong |
-| 2.13: Project Day 8 | Project Work  | Project 2: Pong |
-| 2.14: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
+| 2.4: Variables | Use variables to track values throughout a program. | Guessing Game |
+| 2.5: Boole in the House | Define and identify Boolean expressions and operators. Evaluate Boolean expressions. Utilize Boolean operators (and/or/not) to create compound conditions. | Triangle of All Kinds |
+| 2.6: Combining Loops and Conditionals | Combine loops with conditionals to create models with repeated but conditional behavior. | What Goes Up... |
+| 2.7: Pong Project | Implement a well-written version of Pong. Practice good style and conventions to create readable and maintainable code. | Project 2: Pong |
+| 2.7: Project Day 1 | Project Work  | Project 2: Pong |
+| 2.8: Project Day 2 | Project Work  | Project 2: Pong |
+| 2.9: Project Day 3 | Project Work  | Project 2: Pong |
+| 2.10: Project Day 4 | Project Work  | Project 2: Pong |
+| 2.11: Project Day 5 | Project Work  | Project 2: Pong |
+| 2.12: Project Day 6 | Project Work  | Project 2: Pong |
+| 2.13: Project Day 7 | Project Work  | Project 2: Pong |
+| 2.14: Project Day 8 | Project Work  | Project 2: Pong |
 | 2.15: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
+| 2.16: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 
 ## Unit 3: Variables and Customization
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
-| 3.1: Variables | Use variables to track values throughout a program. | Guessing Game |
-| 3.2: Abstraction and Friends | Define abstraction, detail removal, generalization, and procedural decomposition in a computer science context. Describe how utilizing procedural decomposition can improve the readability and maintainability of algorithms and/or code. Recognize opportunities to improve algorithms by abstracting or generalizing parts into subprocedures. | N/A |
-| 3.3: Procedures | Build custom command blocks in Snap. Utilize detail removal and generalization to construct blocks that practice abstraction. | Drawing Shapes (Again) |
-| 3.4: Customizing I: Arguments | Build custom SNAP blocks that take arguments. | Let Me Check My Calendar |
-| 3.5: Customizing II: Reporters and Predicates | Build custom reporter and predicate blocks in SNAP. | If My Calculations Are Correct... |
-| 3.6: Platform Game Project | Use loops, variables, and Boolean expressions to implement a Super Mario Bros. style platform game. Practice good debugging skills to correct issues as they arise while programming. | Project 3: Platform Game |
-| 3.7: Project Day 1 | Project Work  | Project 3: Platform Game |
-| 3.8: Project Day 2 | Project Work  | Project 3: Platform Game |
-| 3.9: Project Day 3 | Project Work  | Project 3: Platform Game |
-| 3.10: Project Day 4 | Project Work  | Project 3: Platform Game |
-| 3.11: Project Day 5 | Project Work  | Project 3: Platform Game |
-| 3.12: Project Day 6 | Project Work  | Project 3: Platform Game |
-| 3.13: Project Day 7 | Project Work  | Project 3: Platform Game |
-| 3.14: Project Day 8 | Project Work  | Project 3: Platform Game |
+| 3.1: Abstraction and Friends | Define abstraction, detail removal, generalization, and procedural decomposition in a computer science context. Describe how utilizing procedural decomposition can improve the readability and maintainability of algorithms and/or code. Recognize opportunities to improve algorithms by abstracting or generalizing parts into subprocedures. | N/A |
+| 3.2: Procedures | Build custom command blocks in Snap. Utilize detail removal and generalization to construct blocks that practice abstraction. | Drawing Shapes (Again) |
+| 3.3: Customizing I: Arguments | Build custom SNAP blocks that take arguments. | Let Me Check My Calendar |
+| 3.4: Customizing II: Reporters and Predicates | Build custom reporter and predicate blocks in SNAP. | If My Calculations Are Correct... |
+| 3.5: Platform Game Project | Use loops, variables, and Boolean expressions to implement a Super Mario Bros. style platform game. Practice good debugging skills to correct issues as they arise while programming. | Project 3: Platform Game |
+| 3.6: Project Day 1 | Project Work  | Project 3: Platform Game |
+| 3.7: Project Day 2 | Project Work  | Project 3: Platform Game |
+| 3.8: Project Day 3 | Project Work  | Project 3: Platform Game |
+| 3.9: Project Day 4 | Project Work  | Project 3: Platform Game |
+| 3.10: Project Day 5 | Project Work  | Project 3: Platform Game |
+| 3.11: Project Day 6 | Project Work  | Project 3: Platform Game |
+| 3.12: Project Day 7 | Project Work  | Project 3: Platform Game |
+| 3.13: Project Day 8 | Project Work  | Project 3: Platform Game |
+| 3.14: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 | 3.15: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
-| 3.16: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 
 ## Unit 4: Lists
 | Lesson | Objectives | Lab |

@@ -39,9 +39,7 @@ Students will be able to...
     -   Remind students that their solutions to previous assignments are an excellent resource when trying to accomplish similar tasks.
 2.  Introduce project
     -   Walk students through the project specification, pointing out important details, potential pitfalls, and requirements.
-        -   If students are unfamiliar with the concept of a platform game, spend a couple minutes demonstrating one for the class.  If you have a SNAP or Scratch version, that works best, but an online game (such as <http://www.ponggame.org/>) will work as well.
-        -   Discourage students from simply recreating a game they are already familiar with (and using copyrighted assets) and encourage them to be creative and design their own characters and world instead.
-        -   Static screens are somewhat easier to implement than smooth scrolling, but scrolling is doable with some scaffolding.
+        -   If students are unfamiliar with the concept of the pong game, spend a couple minutes demonstrating one for the class.  If you have a SNAP or Scratch version, that works best, but an online game (such as <http://www.ponggame.org/>) will work as well.
 3.  Project
 
     -   This project is a summative assessment for the unit.  Students should be demonstrating mastery of all the skills covered.

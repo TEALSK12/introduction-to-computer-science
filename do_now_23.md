@@ -1,6 +1,6 @@
 ## Do Now 2.3 Stairs
 
-1. Use the following "Repeat" block to draw a square.
+1. Use the following "Repeat" block to draw a square (note: you will have to put a number in place of the blank!).
 
  ![Repeat](repeat.png)
 

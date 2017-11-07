@@ -34,8 +34,7 @@ Students will be able to...
         -   In SNAP, all Boolean expressions are pointy six-sided blocks
     -   Present the three Boolean operators: and, or and not
         -   Define the operators and describe when each will return true
-        -   Show the truth tables for each operator and explain how to read them
-            -   Describe that truth tables are read much like multiplication tables: find the two operands on the two edges, then find where the row and column meet to see the result
+        -   Show the truth tables for each operator and explain how to read them (see below for trueth table example)
             -   Truth tables are simply one way of expressing how the Boolean operators work; if students are struggling, other depictions (such as an exhaustive list of all possible results) can be substituted
         -   Emphasize that since Boolean operators are themselves Boolean expressions, they can be nested
         -   Practice evaluating Boolean expressions, starting simple and moving to more complex nested operations
@@ -53,6 +52,32 @@ Students will be able to...
     -   Walk through a student's response
         -   Point out uses of Boolean operators
         -   Discuss how nested or chained if blocks could potentially be used to obtain the same behavior, but would result in longer, less-readable code
+
+## Logical AND truth table
+
+|   p   |   q   | p and q |
+| ----- | ------| ------- |
+| true  | true  | true    |
+| true  | false | false   |
+| false | true  | false   |
+| false | false | false   |
+
+## Logical OR truth table
+
+|   p   |   q   | p or q |
+| ----- | ------| ------ |
+| true  | true  | true   |
+| true  | false | true   |
+| false | true  | true   |
+| false | false | false  |
+
+## Logical NOT truth table
+
+|   p   | not p |
+| ----- | ------|
+| true  | false |
+| false | true  |
+
 
 ## BJC Lecture Suggestions
 ####Good for Classroom Instruction

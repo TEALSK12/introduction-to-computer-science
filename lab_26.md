@@ -4,7 +4,7 @@ In this lab, you will use everything you've learned about loops and conditionals
 
 ## Before You Start
 
-Go to the starter project at [http://bitly.com/aelcs-lab2-5](http://bitly.com/aelcs-lab2-5). Log into SNAP and save your own copy of the project by choosing “Save as” from the file menu. Be sure to click the “Share” button in the Save dialog box. Highlight the URL in the address bar and copy it.
+Go to the starter project at [https://aka.ms/intro-lab2-6](https://aka.ms/intro-lab2-6). Log into SNAP and save your own copy of the project by choosing “Save as” from the file menu. Be sure to click the “Share” button in the Save dialog box. Highlight the URL in the address bar and copy it.
 
 ## Channeling Newton
 

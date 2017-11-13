@@ -38,7 +38,7 @@
       * [Do Now 2.3: Stairs](do_now_23.md)
       * [Lab 2.3: What Shape is That?](lab_23.md)
     * [Lesson 2.4: Variables](lesson_24.md)
-      * [Do Now 2.4: Jumping](do_now_24.md)
+      * [Do Now 2.4: Debugging](do_now_24.md)
       * [Lab 2.4: Guessing Game](lab_24.md)
     * [Lesson 2.5: Boole in the House](lesson_25.md)
       * [Do Now 2.5: Variables Practice](do_now_25.md)

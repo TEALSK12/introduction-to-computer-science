@@ -8,7 +8,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Do Now 2.4: Jumping](do_now_24.md)
+-   [Do Now 2.4: Debugging](do_now_24.md)
 -   Lab 2.4 handout - [Guessing Game](lab_24.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%202%20Word/Lab%202.4%20Guessing%20Game.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%202%20PDF/Lab%202.4%20Guessing%20Game.pdf))
 
 ## Pacing Guide

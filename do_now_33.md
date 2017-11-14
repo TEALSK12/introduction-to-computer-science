@@ -1,15 +1,11 @@
-## Do Now 3.3 Custom Block Practice
+## Do Now 3.3 Jumping
 
-1. Write a custom block named "bounce" that does the following:
+Follow [link to a project with a dog](http://snap.berkeley.edu/snapsource/snap.html#present:Username=whuangpha&ProjectName=160223%20Do%20Now%20dog%20walking%20and%20jumping) that can move left and right in response to arrow keys. Make the following modifications to the code:
 
-  - move 10 steps
+1. Program a walking animation for the dog. Hint: it has 2 costumes.
 
-  - bounce off the edge of the screen using:
+2. Add the code below to the forever block to make the dog "jump". What is the problem with this jump code when you test it? How should jump work when the player presses the spacebar?
 
-    ![if on edge, bounce](ifedgebounce.png)
+ ![Key Press jump](keypressjump.png)
 
-2. After saving the custom block, create a script that when the flag is clicked, the "bounce" custom block is called forever.
-
-3. Add a second script.  Add the same script from step 2 above for the new sprite.
-
-4. What happens when you run?  Explain what you observe.
+3. Implement gravity using an If block inside the forever loop. Hint: If not touching ground or platform color, go down by a small amount.

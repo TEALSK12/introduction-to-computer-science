@@ -111,7 +111,7 @@ _Note: This lesson may cover too much material for some classes to handle in one
 
 ## Sample Solution
 
-[Lab 2.3 Solution](https://github.com/TEALSK12/introduction-to-computer-science-instructor/blob/master/curriculum/Sample%20Project%20Solutions.md)
+[Lab 2.3 Solution](https://www.tealsk12.org/intro-to-computer-science-sample-solutions/)
 
 ## Forum discussion
 

@@ -43,7 +43,7 @@ Students will be able to...
     -   This is a summative assessment project.  Students should be given at least a few days in class to work on the project.  The exact schedule should be determined by your teaching team based on overall class capability and other factors.
         -   If most students have the ability to work at home, you can consider reducing the amount of in-class time provided and requiring students to spend time working at home.
     -   Provide a means for students to ask questions throughout the project and provide assistance as needed.
-    -   [Sample project solution](https://github.com/TEALSK12/introduction-to-computer-science-instructor/blob/master/curriculum/Sample%20Project%20Solutions.md)
+    -   [Sample project solution](https://www.tealsk12.org/intro-to-computer-science-sample-solutions/)
 
 ## Accommodations/Differentiation
 

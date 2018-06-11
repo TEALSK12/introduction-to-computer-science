@@ -36,7 +36,7 @@ Access to Snap! is necessary for students to complete the labs.  The main Snap! 
 
 The Berkeley Snap! is located at: http://snap.berkeley.edu/
 
-The following are mirror sights:
+The following are mirror sites:
 - http://bjc.edc.org/snapsource/snap.html
 - https://snap.apps.miosoft.com/
 - http://media.mit.edu/~harveyb/snap

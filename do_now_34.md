@@ -1,8 +1,8 @@
 ## Do Now 3.4 Practice using Arguments
 
-Yesterdays you created a "gravity" custom block where a sprite would fall to the ground and stop when it touchec a color.
+Yesterday you created a "gravity" custom block where a sprite would fall to the ground and stop when it touched a color.
 
-However all the sprite always falls at the same rate.  How would we get the sprite to fall at different rates.
+However, the sprite always falls at the same rate.  How would we get the sprite to fall at different rates?
 
 We will solve this problem by adding an argument to the custom block named "gravity".  We can then pass the rate we want the sprite to move.
 

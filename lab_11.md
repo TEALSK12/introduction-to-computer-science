@@ -252,7 +252,7 @@ d) a straight line <br />
 
 ## Part 9: Make a Kaleidoscope
 
-Explore this drawing program for a little bit (<https://aka.ms/snapkaleidodraw>). Press the spacebar to run the program, and move your mouse cursor over the stage of the SNAP! window. While over the stage, use the **d** (pen down), **u** (pen up), and **c** (clear) keyboard keys to change what gets drawn on the screen. The script that causes the sprite to follow the pointer is 
+Explore this drawing program for a little bit (<https://aka.ms/kaleidodraw2>). Press the spacebar to run the program, and move your mouse cursor over the stage of the SNAP! window. While over the stage, use the **d** (pen down), **u** (pen up), and **c** (clear) keyboard keys to change what gets drawn on the screen. The script that causes the sprite to follow the pointer is 
 
 ![forever go to mouse x-y](forevergotomouse.png)
  

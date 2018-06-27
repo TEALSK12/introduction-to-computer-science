@@ -12,4 +12,4 @@ We will solve this problem by adding an argument to the custom block named "grav
 
 3. Change the "move" block to move "rate" spaces by dragging the rate variable to the "move" block.
 
-4. You can now pass different rates in your "gravity" custom block call located in the sprite's for ever loop.
+4. You can now pass different rates in your "gravity" custom block call located in the sprite's forever loop.

@@ -1,15 +1,15 @@
 ## Do Now 3.4 Practice using Arguments
 
-Yesterdays you created a "bounce" custom block where multiple sprites could bounce around the screen by writing the code once.
+Yesterday you created a "gravity" custom block where a sprite would fall to the ground and stop when it touched a color.
 
-However all the sprites are moving at the same speed.  How would we get the sprites to move at different speeds.
+However, the sprite always falls at the same rate.  How would we get the sprite to fall at different rates?
 
-We will solve this problem by adding an argument to the custom block named "speed".  We can then pass the speed we want each sprite to move.
+We will solve this problem by adding an argument to the custom block named "gravity".  We can then pass the rate we want the sprite to move.
 
-1. Open yesterday's do now with the "bounce" custom block.
+1. Open yesterday's do now with the "gravity" custom block.
 
-2. Add an argument named "speed" to the "bounce" block by clicking the "+".
+2. Add an argument named "rate" to the "gravity" block by clicking the "+" next to the custom block name.
 
-3. Change the "move" block to move "speed" spaces.
+3. Change the "move" block to move "rate" spaces by dragging the rate variable to the "move" block.
 
-4. For each sprite, update the call to the custom block "bounce" to pass different speeds.
+4. You can now pass different rates in your "gravity" custom block call located in the sprite's forever loop.

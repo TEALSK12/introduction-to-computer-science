@@ -8,4 +8,6 @@ Follow [link to a project with a dog](http://snap.berkeley.edu/snapsource/snap.h
 
  ![Key Press jump](keypressjump.png)
 
-3. Implement gravity using an If block inside the forever loop. Hint: If not touching ground or platform color, go down by a small amount.
+3. Program gravity by making a custom Motion block "gravity" and adding it inside the forever loop. In the "gravity" custom block use an if statement to implement gravity. Hint: If not touching ground or platform color, go down by a small amount.
+
+4. Remember to save your work.

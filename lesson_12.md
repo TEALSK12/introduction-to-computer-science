@@ -42,7 +42,7 @@ Students will be able to...
 
     -   Individually or in heterogeneous pairs as described in previous lessons, have students work through the ["SNAP Scavenger Hunt"](lab_12.md) activity
         -   Students should turn in answers to all questions and SNAP programs for the final problems
-
+        -   Consider gamifying the worksheet or debrief as an online poll and/or quiz
 3.  Debrief
     -   Go through each question or prompt in parts 1 and 2 and ask students to share their answer
         -   Cold calling alternative works well for this lab due to the large number of questions
@@ -56,7 +56,7 @@ At that point you have lots of options:  You can ask a follow-up to the same stu
         -   Solicit a few student responses for each category in part 2.2 before commenting yourself
             -   Try to guide the students to discuss with each other and settle on a description for each category with minimal instructor intervention
     -   Discuss one or two student solutions to each of the SNAP programming problems
-        -   Either solicit volunteers or cold call
+        -   Either solicit volunteers or use cold call alternative
         -   Point out differences between student solutions and call attention to the fact that there is more than one way to solve a problem
 
 ## Accommodations/Differentiation

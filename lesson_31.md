@@ -68,6 +68,13 @@ Students will be able to...
         -   Drive students to realize that code is simply an application of algorithms
         -   Tease the need for custom blocks (procedures)
 
+## BJC Lecture Suggestions
+
+####Background Information for Instructors
+- BJC Video Suggestion: [BJC Lecture 1: Abstraction](https://www.youtube.com/watch?v=Dxw9cIbzaLk)
+ - Abstraction: 11:40-15:40
+ - Generalization: 15:50-20:00
+
 ## Accommodation/Differentiation
 
 -   A lasagna is used in this activity because it has many similar, repeated steps with different ingredients (layer of noodles, layer of sauce, layer of cheese, etc.).  If students are not familiar with lasagna, another recipe with similar characteristics can be substituted.

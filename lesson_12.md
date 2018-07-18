@@ -62,7 +62,7 @@ At that point you have lots of options:  You can ask a follow-up to the same stu
 ## Accommodations/Differentiation
 
 -   Colorblind students may not be able to identify the block colors, but can still recognize the organization of categories. Be sensitive to this, but no modifications are likely required.
--   Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity.
+-   Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity. Use you could also use ["Helping Trios]
 -   The bonus assignment (3.4) should be used for students who finish quickly, and can be a setup for the [Animation Project](project_1.md).
 
 ## Forum discussion

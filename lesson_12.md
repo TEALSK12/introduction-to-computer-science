@@ -14,6 +14,7 @@ Students will be able to...
 -   [Do Now 1.2: Tracing and Debugging](do_now_12.md) If you like you can place a picture of [Admiral Grace Hopper](https://upload.wikimedia.org/wikipedia/commons/2/21/Grace_Murray_Hopper%2C_in_her_office_in_Washington_DC%2C_1978%2C_%C2%A9Lynn_Gilbert.jpg) or her Mark II [notes](https://upload.wikimedia.org/wikipedia/commons/8/8a/H96566k.jpg) that show the bug she found in the computer.
 -   [Lab 1.2](lab_12.md) handout (SNAP Scavenger Hunt) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%201%20Word/Lab%201.2%20SNAP%20Scavenger%20Hunt.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%201%20PDF/Lab%201.2%20SNAP%20Scavenger%20Hunt.pdf))
 -   Read through the handout so that you are familiar with the requirements and can assist students
+-   Index cards with each students name on them. One name per index card.
 
 ## Pacing Guide
 
@@ -39,12 +40,15 @@ Students will be able to...
 
 2.  Activity
 
-    -   Individually or in pairs, have students work through the ["SNAP Scavenger Hunt"](lab_12.md) activity
+    -   Individually or in heterogeneous pairs as described in previous lessons, have students work through the ["SNAP Scavenger Hunt"](lab_12.md) activity
         -   Students should turn in answers to all questions and SNAP programs for the final problems
 
 3.  Debrief
     -   Go through each question or prompt in parts 1 and 2 and ask students to share their answer
-        -   Cold calling works well for this lab due to the large number of questions
+        -   Cold calling alternative works well for this lab due to the large number of questions
+            -  **Cold calling alternative:** Write each student’s name on an index card and shuffle the cards. Next, ask a few “review” questions to set the stage that ask for application (or creativity, or evaluation) and have no single “right answer.” Give students a little time to formulate an answer- 30-60 seconds. You can have them talk in pairs or groups for a few minutes as well if you prefer. It’s only after students have been thinking that you take the top card to see who answers. Sometimes you can say something like, “If you don’t know, make something up like you would on a mid-term, and then we’ll all help you develop better answers.” The student takes their best shot, knowing that others will help if necessary.
+At that point you have lots of options:  You can ask a follow-up to the same student, pick another card and have somebody else answer the follow-up, or simply have students volunteer to expand on the first answer.
+
         -   Point out the color coding for each category
         -   Emphasize important details in some of the blocks listed in part 2, such as:
             -   the ![](think.png) block will leave the bubble on the stage until something else is thought

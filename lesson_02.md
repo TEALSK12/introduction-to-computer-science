@@ -42,7 +42,7 @@ Needed for this lesson:
 2.  Activity
 
     1.  Write algorithms
-        -   In pairs or small groups, students will attempt to develop an algorithm for preparing a peanut butter and jelly sandwich. Specify to students that their algorithm must be complete and detailed enough for a "computer" (the teacher) to unambiguously follow the steps and achieve the desired result. OR ask students to develop a 10 step algoritm to teach a computer to [brush their teeth](https://bam.files.bbci.co.uk/bam/live/content/z9bmxnb/transcript).
+        -   In pairs or small groups, students will attempt to develop an algorithm for preparing a peanut butter and jelly sandwich. Specify to students that their algorithm must be complete and detailed enough for a "computer" (the teacher) to unambiguously follow the steps and achieve the desired result. OR ask students to develop a 10 step algorithm to teach a computer to [brush their teeth](https://bam.files.bbci.co.uk/bam/live/content/z9bmxnb/transcript).
         -   Give little guidance at this stage, as the confusion (and the errors that are likely to result) will both reinforce the importance of specificity and detail as well as provide entertainment value later on.
         -   Algorithms should be written on paper to be shared and reviewed.  Students should _not_ be writing any code, nor should they develop algorithms "in their heads."
     2.  Algorithm execution

@@ -47,8 +47,8 @@ Students will be able to...
 		-	Point out missed opportunities for abstraction (if any)
 		-	Discuss how this custom block can be useful
 
-##BJC Lecture Suggestion
-####Good for Classroom Instruction
+## BJC Lecture Suggestion
+#### Good for Classroom Instruction
  * [BJC Video Suggestion: BJC Lecture 4: Functions ](https://www.youtube.com/watch?v=_uKCBmQEf5w)
   - [MIT Scratch --> BYOB Snap](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=10m0s)  (Development of SNAP, Demo) 10:00-11:30
   - [BYOB-Custom Blocks ](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=10m0s)  (Explains functions with examples)   11:30-14:50

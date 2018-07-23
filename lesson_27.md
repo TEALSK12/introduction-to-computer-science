@@ -53,8 +53,8 @@ Students will be able to...
         -   Ensure that students are able to ask questions in class throughout the project
     -   See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
 
-##BJC Lecture Suggestion
-####Background Information for Instructors
+## BJC Lecture Suggestion
+#### Background Information for Instructors
 * [BJC Lecture 9: Recusion](https://www.youtube.com/watch?v=JKn3nsfzBdA)
  - Movie “Inception” as an example of recursion 0:00-0:50
  - Recursion 0:50-1:40

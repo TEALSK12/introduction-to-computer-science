@@ -40,7 +40,7 @@ Students will be able to...
 
 ## BJC Lecture Suggestions
 
-####Good for Classroom Instruction-Previewing Suggested due to Social Media Examples.  
+#### Good for Classroom Instruction-Previewing Suggested due to Social Media Examples.  
 
 (This could be used for a Social Media Safety/Awareness lesson)
 * [BJC Lecture 11:Social Implications II Dr. Gerald Friedland](https://www.youtube.com/watch?v=RNN19b61oRg)
@@ -61,7 +61,7 @@ Students will be able to...
  - Solutions for Privacy that Don’t Work: Think Before You Post! 26:45-28:14
 
 
-####Background Information for Instructors
+#### Background Information for Instructors
 - BJC Video Suggestion: [BJC Lecture 1: Abstraction](https://www.youtube.com/watch?v=Dxw9cIbzaLk)
  - Basic concepts of the course: 0:00-7:00
  - Introduction of Piazza: 7:00-8:25

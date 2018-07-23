@@ -75,7 +75,7 @@ Needed for this lesson:
 
 ## BJC Lecture Suggestions
 
-####Good for Classroom Instruction
+#### Good for Classroom Instruction
 
 * BJC Video Suggestion: [BJC Lecture 6: Algorithm](https://www.youtube.com/watch?v=3tvbqdLjjSU) (With Luke Segar
  - [Algorithm Definition](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=3m20s) 3:20-4:20

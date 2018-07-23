@@ -70,7 +70,7 @@ Students will be able to...
 
 ## BJC Lecture Suggestions
 
-####Background Information for Instructors
+#### Background Information for Instructors
 - BJC Video Suggestion: [BJC Lecture 1: Abstraction](https://www.youtube.com/watch?v=Dxw9cIbzaLk)
  - Abstraction: 11:40-15:40
  - Generalization: 15:50-20:00

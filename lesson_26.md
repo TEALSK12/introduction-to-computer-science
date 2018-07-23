@@ -50,7 +50,7 @@ Students will be able to...
 3.  Debrief
 
 ## BJC Lecture Suggestions
-####Good for Classroom Instruction
+#### Good for Classroom Instruction
 
 
  * [ BJC Lecture 3: Video Games](https://www.youtube.com/watch?v=hdSFuhyGTIg)
@@ -63,7 +63,7 @@ Students will be able to...
   - [Negative Aspects of Video Games ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=19m40s)(RSI, addition, violence) 24:40-28:00
   - [Glenn Sugden-Game Developer ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=28m03s)(History of VG Development & Industry) 28:03-40:53 *Good for Classroom Instruction
 
-####Background Information for Instructors
+#### Background Information for Instructors
 
 
  * [ BJC Lecture 3: Video Games](https://www.youtube.com/watch?v=hdSFuhyGTIg)

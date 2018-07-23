@@ -61,7 +61,7 @@ Students will be able to...
         -   Point out how unwieldy the code for these two shapes would be without loops
 
 ## BJC Lecture Suggestions
-####Background Information for Instructors
+#### Background Information for Instructors
 
 * BJC Video Suggestion: [BJC Lecture 4](https://www.youtube.com/watch?v=_uKCBmQEf5w): Functions
  * SIRI-EVI 0:00-1:00

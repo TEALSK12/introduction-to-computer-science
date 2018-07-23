@@ -95,7 +95,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
         -   Remind students of the turn-in procedures discussed yesterday and ensure all students are able to turn in their work
 
  ## BJC Lecture Suggestions
-####Good for Classroom Instruction
+#### Good for Classroom Instruction
 
 
 

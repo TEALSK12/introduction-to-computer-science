@@ -44,7 +44,7 @@ Students will be able to...
     * Ask students what they enjoyed about working with SNAP and what they disliked.
 
 ## BJC Lecture Suggestions
-####Good for Classroom Instruction
+#### Good for Classroom Instruction
 
 
 

@@ -80,7 +80,7 @@ Students will be able to...
 
 
 ## BJC Lecture Suggestions
-####Good for Classroom Instruction
+#### Good for Classroom Instruction
  * BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=5m50s)
   - [Modelling](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=5m50s) 5:50-10:57
 

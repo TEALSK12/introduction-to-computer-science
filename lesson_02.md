@@ -35,14 +35,14 @@ Needed for this lesson:
 1.  Introductory discussion
 
     -   Invite discussion about what constitutes a computer, what computers do, and what computer science is.
-        -   An excellent protocol for these types of discussions is ["Chalk Talk"](http://www.nsrfharmony.org/system/files/protocols/chalk_talk_0.pdf).
+        -   An excellent protocol for these types of discussions is ["Chalk Talk"](http://www.nsrfharmony.org/system/files/protocols/chalk_talk_0.pdf) or ["World Cafe"](http://www.ctohe.org/arcresources/ARCI2015/Core/Files/Cournoyer/CournoyerWorldCaf%C3%A9DiscussionProtocolHandoutJune9.pdf)
     -   Develop definitions for important terms ("computer," "computer science," "algorithm," "program,"  "programming language")
         -   Display each term on the board or projector and ask students to provide key ideas or concepts they know that relate to the term. From this, you can develop a classroom definition. Feel free to have a pre-written definition and guide students to that definition using leading questions.
 
 2.  Activity
 
     1.  Write algorithms
-        -   In pairs or small groups, students will attempt to develop an algorithm for preparing a peanut butter and jelly sandwich. Specify to students that their algorithm must be complete and detailed enough for a "computer" (the teacher) to unambiguously follow the steps and achieve the desired result.
+        -   In pairs or small groups, students will attempt to develop an algorithm for preparing a peanut butter and jelly sandwich. Specify to students that their algorithm must be complete and detailed enough for a "computer" (the teacher) to unambiguously follow the steps and achieve the desired result. OR ask students to develop a 10 step algorithm to teach a computer to [brush their teeth](https://bam.files.bbci.co.uk/bam/live/content/z9bmxnb/transcript).
         -   Give little guidance at this stage, as the confusion (and the errors that are likely to result) will both reinforce the importance of specificity and detail as well as provide entertainment value later on.
         -   Algorithms should be written on paper to be shared and reviewed.  Students should _not_ be writing any code, nor should they develop algorithms "in their heads."
     2.  Algorithm execution

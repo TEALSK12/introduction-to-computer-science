@@ -63,7 +63,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 
     3.  Activity
 
-        -   Individually or in pairs, have students continue working through the ["Welcome to SNAP"](lab_11.md) lab activity. Students should answer all questions and complete all activities and turn them in using your chosen turn-in procedure.
+        -   Individually or in pairs, have students continue working through the ["Welcome to SNAP"](lab_11.md) lab activity.  If you choose to assign pairs, try to partner students into groups that are heterogenous by ability or background. Try to pair students who do not normally interact. Students should answer all questions and complete all activities and turn them in using your chosen turn-in procedure.
             -   For written questions, either have students hand-write answers and turn in the hard copies or set up an electronic submission system of some kind.
             -   For SNAP programs, including the Kaleidoscope program, students should save the program to the cloud and share a link with you
         -   Students should aim to get through at least part 6 by the end of Day 1
@@ -105,7 +105,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 ## Accommodations/Differentiation
 
 -   For students that finish the lab early, encourage them to add more advanced features to their Kaleidoscope program, exploring parts of SNAP not covered in the lab.
--   Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity.
+-   Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity.  You can also use Helping Trios. 
     -   No parts of this lab can be easily skipped without impacting learning objectives, so provide as much support or scaffolding as you can to ensure all students are able to complete the lab.  Add days to the lesson if needed.
 
 ## Forum discussion

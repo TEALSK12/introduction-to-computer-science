@@ -60,13 +60,13 @@ Students will be able to...
 
 3.  Activity
 
-    -   Direct students to complete the ["Another Brick in the Wall"](lab_22.md) activity individually or in pairs
+    -   Direct students to complete the ["Another Brick in the Wall"](lab_22.md) activity individually or in pairs. Try to pair students that have not previously interacted.  
         -   Remind students to continue using the principles learned with basic loops
         -   Encourage students to write scripts that are as short and succinct as possible while still being functional and readable
 
 4.  Debrief
     -   Show a student's solution
-        -   Either request a volunteer or cold call
+        -   Either request a volunteer or cold call alternative
         -   Point out uses of nested loops
     -   Ask students to describe how loops, specifically nested loops, made the assignment easier
         -   Each brick, or at least each row, would have needed to be coded separately creating much longer scripts
@@ -78,7 +78,7 @@ Students will be able to...
 ## Accommodation/Differentiation
 
 -   Not all students will recognize all the possible places to use nested loops in the final program.  Encourage students to find as many places to use a nested loop as possible, but allow struggling students to focus on just one or two uses.
--   Advanced students can be encouraged to change the size of the bricks, which will require not only altering the number of steps moved but also the number if iterations in the loops
+-   Advanced students can be encouraged to change the size of the bricks, which will require not only altering the number of steps moved but also the number if iterations in the loops.  You can ask students to draw a building/house using only squares.  For example, they can be instructed to draw they live, favorite building, or school.  
 
 ## Sample Solution
 

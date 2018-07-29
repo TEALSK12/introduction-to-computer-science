@@ -32,7 +32,7 @@ Students will be able to...
 2.  Activity
     -   Students should complete the ["Triangles, Squares, and Stars, Oh My!"](lab_13.md) activity individually.
         -   Point out that the shapes in part 2.1 are not necessarily listed from easiest to hardest, and that the scripts need not be written in the given order.
-        -  Here is a [Geometry Cheatsheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif)by Math Salamanders showing various shapes and their respective angles. It can presented to students as a refence during the Do Now activity and/or enlarged and placed at the front of the classroom for use throughout unit 2.
+        -  Here is a [Geometry Cheatsheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif) by Math Salamanders showing various shapes and their respective angles. It can presented to students as a refence during the Do Now activity and/or enlarged and placed at the front of the classroom for use throughout unit 2.
     -   When students finish, have them turn in their project using whatever procedures you have set up.
 3.  Debrief
     -   Have students switch seats with a nearby classmate and review each other's work

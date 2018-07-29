@@ -37,6 +37,7 @@ Students will be able to...
             -   Attempt to get students to realize that the code is _redundant_ and could be simplified if there were a way to execute a block of code more than once
     2.  Introduce loops
         -   Begin with general definition: _A type of block that causes other code to run multiple times in succession_
+        -   Use real life loops to introduce the concept- [water cycle](https://pmm.nasa.gov/education/water-cycle), eating one spoonful at a time,use a poem like ["Still I Rise"](https://m.poets.org/poetsorg/poem/still-i-rise) by Maya Angelou or a song with a repetitive hook like ["Happy"](https://genius.com/Pharrell-williams-happy-lyrics) by Pharrell Williams. If you choose to use a song, you can break students into groups and have each group choose their own song.  Make sure to ask students to identify a song that has a repetitive hook without explicit lyrics.
         -   Introduce SNAP specific loops:
             -   ![](repeat.png) runs the body of the loop the specified number of times
                 -   Number of iterations can be a value, variable, or reporter

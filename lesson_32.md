@@ -29,7 +29,9 @@ Students will be able to...
 
 1.	Lecture and Demonstration
 	-	Review with students the concepts of abstraction, generalization, and detail removal
-		-	Ask students to provide definitions and examples of each
+		- 	Provide an example of a poorly written algorithm that doesn't demonstrate the concepts of abstraction, generalization, and detail removal and a well written algorithm that does demonstrate them.  
+		-	Ask students to point out the differences and ask what concepts they demonstrate that were previously learned 
+		-	Ask students to provide definitions of abstraction, generaralization, and detail removal refering to the sample algorithm provided 
 	-	Discuss when abstraction can be used to help simplify code
 		-	Guide students to realization that much code is used in many similar circumstances and shouldn’t be rewritten
 		-	Emphasize potential for errors when changes are made in addition to inconvenience when code is redundant
@@ -37,7 +39,7 @@ Students will be able to...
 		-	Use a simple example, such as jumping (from the platform game)
 		-	If needed, use part 2.1 (drawing a square) as a further example
 2.	Activity
-	-	Students should complete the “Drawing Shapes (Again)” activity individually or in pairs
+	-	Students should complete the “Drawing Shapes (Again)” activity individually or in diverse pairs
 		-	Work with students to be certain that they are using custom blocks and variables as described by the activity
 		-	Point out places where code can be abstracted and generalized
 		-	Emphasize conciseness and clarity in code

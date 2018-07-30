@@ -31,6 +31,7 @@ Students will be able to...
     2.  Introduce variables
         -   Define and explain the concept of a variable
             -   _a "place" to store a value for retrieval and use later_
+        -   Consider introducing variables with an interactive physical demonstration by modifying the ["The Box Variable Activity"](https://teachinglondoncomputing.org/resources/inspiring-unplugged-classroom-activities/the-box-variable-activity/) for your students.   
         -   Demonstrate creating, assigning, and accessing a variable in SNAP
             -   Ignore global vs. this sprite only for now
             -   Point out that a variable can only hold one value at a time

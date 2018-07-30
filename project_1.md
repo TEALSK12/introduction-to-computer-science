@@ -11,11 +11,11 @@ Storytelling is a great way to convey culture.  Some examples of storytelling ar
 #### Emphasizing with students ...
 #### Big Ideas - Digital tools and technologies can help capture stories in our own heritage, especially ones that might otherwise be lost, or difficult to write down
 
-In Canada there are over 600 First Nation communities, speaking more than 50 distinct languages, and a multitude of dialects.  Students may be familiar with many towns and cities in Canada that have been given names adapted from the original Aboriginal language spoken in the area,  such as Coquitlam ("small red salmon",  or Oshawa ("crossing a stream"),  or Tsawwassen ("facing the ocean").  Traditionally First Nations people relied on storytelling instead of the written language to pass down information and history.  
+In Canada there are over 600 First Nation communities, speaking more than 50 distinct languages, and a multitude of dialects.  Students may be familiar with many towns and cities in Canada that have been given names adapted from the original Aboriginal language spoken in the area,  such as Coquitlam ("small red salmon"),  or Oshawa ("crossing a stream"),  or Tsawwassen ("facing the ocean").  Traditionally First Nations people relied on storytelling instead of the written language to pass down information and history.  
 
 When British Columbia joined confederation in 1871, as many as 17,000 Chinese works were employed to build the railway through the Rocky Mountains, linking Canada together.  These workers faced many hardships.  Many died.  Some were eventually able to reunite with their wives or children, and later work as cooks or operated laundromats.   Like the First Nation people, and like many other immigrant and settlers recruited to populate western Canada after the railway was built, these stories were often shared from generation to generation by word of mouth from a relative or elder.   
 
-For this project, student may be encouraged to portray an animation that depicts some aspect of their own heritage, such as:
+For this project, student may be encouraged to portray an animation that depicts some aspect of their own heritage, especially stories that have been passed down by word of mouth.  Some ideas:
     - animation of how a city/town name in Canada came to be
     - animated map of an immigration journey
     - a personal family story
@@ -39,7 +39,7 @@ You will create a short animation in SNAP depicting a story of your choice.
 -   Whenever the green flag is clicked, your SNAP animation should display your chosen story line by line somewhere on the stage. (This should work correctly even if the last run was interrupted and restart.)
 -   As each line is shown, sprites should act out the story.
 -   The animation should advance on its own, but should do so at a pace that allows each action to complete and the viewer to read the line before the next line is shown and new action begins.
--   In addition, the sprites must act out the rhyme; you should not simply create a series of static backgrounds or costumes that show a stop-motion version of the story.
+-   In addition, the sprites must act out the story; you should not simply create a series of static backgrounds or costumes that show a stop-motion version of the story.
 -   Each line must be readable and must stay shown while the corresponding action is occurring.
 -   When the story ends, there should be a way for the user to replay the entire animation from the beginning.
 -   You are free to be as creative as you like with your choice of sprites and actions.<br />

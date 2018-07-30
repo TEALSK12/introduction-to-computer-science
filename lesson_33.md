@@ -26,6 +26,7 @@ Students will be able to...
 
 1.  Lecture
     1.  Introduce block arguments
+        -   Define arguments: An argument is any area in a block that accepts user input, or another block. It could be a Boolean Block or a value placed inside of a variable or block.
         -   Ask students to speculate on risks of relying on variables instead of arguments
             -   Variables could be changed by code other than the custom block, variable names could be changed causing errors, etc.
         -   Emphasize importance of custom blocks being self-contained

@@ -29,7 +29,8 @@ Students will be able to...
     -   Remind students about conditional statements, and ask what the blocks that can go in the holes in if blocks have in common
         -   Blocks are "pointy" and all  are "yes/no" or "true/false" questions
 2.  Lecture
-    -   Introduce and define "Boolean expressions" as expressions that evaluate to true or false
+    -   Introduce Booleans with the ["Stand Up, Sit Down:"](https://curriculum.code.org/csd-1718/unit3/10/) Warm Up activity of the Code.org "Booleans Unplugged" lesson
+    -   Define "Boolean expressions" as expressions that evaluate to true or false
         -   If desired, explain that the term "Boolean" is derived from [George Boole](https://en.wikipedia.org/wiki/George_Boole)
         -   In SNAP, all Boolean expressions are pointy six-sided blocks
     -   Present the three Boolean operators: and, or and not

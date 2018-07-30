@@ -46,9 +46,10 @@ Students will be able to...
     -   Discuss situations in which the Boolean operators might be needed
         -   The lack of <= and >= operators in SNAP makes for a great example
 3.  Activity
-    -   Students should complete the ["Triangles of All Kinds"](lab_25.md) activity individually or in pairs
+    -   Students should complete the ["Triangles of All Kinds"](lab_25.md) activity individually or in diverse pairs (students who have not interacted previously, by ability, etc.)
         -   A number of geometric concepts (Triangle Inequality Theorem, Pythagorean Theorem, etc.) are used in this lab, but students need not have a deep understanding of them.  The necessary points are explained in the lab.
         -   Encourage students to think about whether an "and" or an "or" is appropriate in each case.  Draw out truth tables if necessary.
+        -   As done previously in the unit, you can make the [Geometry Cheatsheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif) available to students.
 4.  Debrief
     -   Walk through a student's response
         -   Point out uses of Boolean operators

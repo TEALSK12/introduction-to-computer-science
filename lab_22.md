@@ -6,7 +6,7 @@ In this lab, you will use nested loops to draw a large brick wall using as littl
 
 1.  Write a SNAP script to draw a single 20x10 "brick" in the lower left corner of the stage when the green flag is clicked.
 
-2.  Modify your code to draw two bricks side by side.  The bricks should share a short edge, like this: ![](<two bricks.png>)
+2.  Modify your code to draw two bricks side by side.  The bricks should share a short edge, like this: ![](<two%20bricks.png>)
 
 3.  Now modify your code again to build a full row of bricks across the entire length of the stage.  Use a loop to keep your code as concise as possible.  Remember that the stage is 480 pixels wide.
 

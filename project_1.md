@@ -33,7 +33,7 @@ For this project, student may be encouraged to portray an animation that depicts
 
 ## Details
 
-###Behavior
+1. Behavior
 You will create a short animation in SNAP depicting a story of your choice. 
 
 -   Whenever the green flag is clicked, your SNAP animation should display your chosen story line by line somewhere on the stage. (This should work correctly even if the last run was interrupted and restart.)
@@ -48,7 +48,7 @@ You will create a short animation in SNAP depicting a story of your choice.
     <br />
     If you choose a particularly long story, you may not need to animate the whole thing. Please check with your teacher if you think your idea is long enough for this.
 
-###Implementation Details
+2. Implementation Details
 As mentioned above, your animation must display the text and animate each line. Action must be performed by sprites and must consist of more than simply changing costumes. You must include the following components in your animation:
 
 -   At least two sprites that act in some way to contribute to the depiction of the story

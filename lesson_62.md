@@ -4,6 +4,15 @@
 Students will be able to...
   * Identify factors to use when choosing between project ideas
   * Rank a group of proposed project ideas using the identified factors
+  
+          
+---
+#### Emphasizing with students ...
+#### Big Ideas - personal design interests and team collaboration goals
+
+When coming up with ideas, personal interests should be considered.  The final product should reflect the personality of the designers behind the product.   However, if you are working as a group, there may be differences in interests and preferences.  Your goal as a group, is to agree on one project idea that is interesting to everyone (doesn't have to be everyone's favourite or first choice).  Everyone should be willing to see the project through to completion. 
+
+---
 
 ## Materials/Preparation
 
@@ -40,6 +49,15 @@ Students will be able to...
 5. Debrief
     * At this points, students should have between one and three pitches that are well-defined and reasonably well fleshed-out.  Overnight, students should consider their pitches and rank them in order or which they would most like to pursue as their final project.
         * Make sure students don't just pick the "coolest" sounding idea, but also consider the technical challenges, amount of time available, and their own interest in and willingness to see the project through to completion.
+        * As homework, students may create a simple survey or a list of questions to ask friends or relatives to help you refine your ideas, and subsequently, decide on your final project.  
+
+---
+#### Emphasizing with students ...
+#### Competancy - Applied Design - understanding context, defining, ideating
+
+Software design is a process that takes time.   After you have a few ideas, consider conducting user-centred research to help narrow down and refine your idea.   You can create a simple survey, or some interview questions, for your friends or relatives.  For example, what components are necessary?  What components are nice to have?  Make changes to your project ideas based on these recommendations.
+
+---
 
 
 ## Accommodation/Differentiation

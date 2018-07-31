@@ -11,7 +11,7 @@ Students will be able to...
 
 #### Competancy - Applied Design - understanding context, defining, ideating
 
-When students first learn computer programming, it is understandable to have this urge to dive right into coding.
+When we first learn computer programming, it is not uncommon for students to have this urge to dive right into coding.
 However, software development is a process.  It begins with carefully thinking about your design. 
 This might involve conducting user-centred research to understand the needs of the client/customer/end-user.
 This research helps us understand design opportunities and limitations.
@@ -41,17 +41,22 @@ This research helps us understand design opportunities and limitations.
     3. Demonstrate a few example projects (with as much variety as possible).
         * Try to hit a bunch of different types of programs.  Many students will gravitate towards games, but other options include simulations, productivity tools, musical projects, animations, and more.
         * TEALS can provide a few samples if needed.
-        
+
+   4. Distribute the project rubric and point out key aspects of the requirements
+        * Point out the steps in the process and that each one is equally important
+        * Specifically mention the large number of points for things _not_ related to coding
+        * Remind students that, as they are now SNAP experts, there are high expectations for the depth, complexity, and completeness of their projects
+   
+       
 ---
 #### Emphasizing with students ...
 #### Competancy - Applied Design - understanding context, defining, ideating
 
-There are a gazillion apps out there there that do a gazillion things.  What are the different categories of software applications?  When looking at an application, what type of functionality does it have?  Who are the end users, or target audience?  What do you like, or not like, about it?  What do other users/reviewers say about it?  How does it compare to, or stand apart from, other similar apps?
+There are a gazillion apps out there there that do a gazillion things.  What are the different categories of software applications?  When looking at an application, what type of functionality does it have?  Who are the end users, or target audience?  What do you like, or not like, about it?  What do other users/reviewers say about it?  How does it compare to, or stand apart from, other similar apps? As we examine and evaluate example applications, we gain experience that will help us design our own.
+
 ---
-    4. Distribute the project rubric and point out key aspects of the requirements
-        * Point out the steps in the process and that each one is equally important
-        * Specifically mention the large number of points for things _not_ related to coding
-        * Remind students that, as they are now SNAP experts, there are high expectations for the depth, complexity, and completeness of their projects
+
+        
 2. Sample design activity
     1. Tell students that, as a class, they will now practice some of the design and planning tasks for the project on a well-known app
         * Pick an app that both you and most of your students have a deep familiarity with, but that is not too complex.  Twitter, Instagram, Pinterest, or other relatively small-scope social media apps work well here.

@@ -6,6 +6,17 @@ Students will be able to...
   * Describe methods for prioritizing features, use cases, and/or scenarios
   * Explain why design and planning are necessary steps in the software engineering process
 
+---
+#### Emphasizing with students ...
+
+#### Competancy - Applied Design - understanding context, defining, ideating
+
+When students first learn computer programming, it is understandable to have this urge to dive right into coding.
+However, software development is a process.  It begins with carefully thinking about your design. 
+This might involve conducting user-centred research to understand the needs of the client/customer/end-user.
+This research helps us understand design opportunities and limitations.
+
+---
 
 ## Materials/Preparation
 
@@ -30,6 +41,13 @@ Students will be able to...
     3. Demonstrate a few example projects (with as much variety as possible).
         * Try to hit a bunch of different types of programs.  Many students will gravitate towards games, but other options include simulations, productivity tools, musical projects, animations, and more.
         * TEALS can provide a few samples if needed.
+        
+---
+#### Emphasizing with students ...
+#### Competancy - Applied Design - understanding context, defining, ideating
+
+There are a gazillion apps out there there that do a gazillion things.  What are the different categories of software applications?  When looking at an application, what type of functionality does it have?  Who are the end users, or target audience?  What do you like, or not like, about it?  What do other users/reviewers say about it?  How does it compare to, or stand apart from, other similar apps?
+---
     4. Distribute the project rubric and point out key aspects of the requirements
         * Point out the steps in the process and that each one is equally important
         * Specifically mention the large number of points for things _not_ related to coding

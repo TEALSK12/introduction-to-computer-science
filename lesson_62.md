@@ -1,16 +1,22 @@
-# Lesson 6.2 - Brainstorming and Evaluating
+# Lesson 6.2 - Research and Ideate
 
-## Learning Objectives
+## Learning Objectives (Curricular Competencies)
 Students will be able to...
-  * Identify factors to use when choosing between project ideas
-  * Rank a group of proposed project ideas using the identified factors
-  
+  * Conduct user-centred research to understand design opportunities and barriers
+  * Identify potential users, intended impact, and possible unintended negative consequences
+  * Generate ideas to create range of possibilities using a brainstorm technique
+  * Critically analyze factors when choosing between project ideas
+  * Prioritize proposed project ideas using the identified factors
           
 ---
 #### Emphasizing with students ...
-#### Big Ideas - personal design interests and team collaboration goals
+#### Big Ideas - personal design interests and project goals
 
-When coming up with ideas, personal interests should be considered.  The final product should reflect the personality of the designers behind the product.   However, if you are working as a group, there may be differences in interests and preferences.  Your goal as a group, is to agree on one project idea that is interesting to everyone (doesn't have to be everyone's favourite or first choice).  Everyone should be willing to see the project through to completion. 
+When coming up with ideas, personal interests should be considered.  The final product should reflect the personality of the designers behind the product.  Each person should be willing to see the project through to completion. 
+
+#### Big Ideas - products design for life cycle
+
+A new software product progresses through a sequence of stages called the "life cycle", and is often associated with changes in the marketing situation.  The first step of introducing a product involves getting to know the market, or in other words, the users or potential customers out there.  
 
 ---
 
@@ -46,8 +52,8 @@ When coming up with ideas, personal interests should be considered.  The final p
         * Remind students to keep all feedback constructive, respectful, and professional.  Students should not criticize each other's ideas, but can point out potential concerns.
         * Students should take notes during their conversations and refine their pitches based on their partner's feedback and their own realizations.
     * If time allows (or over the course of multiple days), repeat this process with new partners.
-5. Debrief
-    * At this points, students should have between one and three pitches that are well-defined and reasonably well fleshed-out.  Overnight, students should consider their pitches and rank them in order or which they would most like to pursue as their final project.
+5. Research and evaluate
+    * At this points, students should have between one and three pitches that are well-defined and reasonably well fleshed-out.  Overnight, students should do some research, re-consider their pitches and rank them in order or which they would most like to pursue as their final project.
         * Make sure students don't just pick the "coolest" sounding idea, but also consider the technical challenges, amount of time available, and their own interest in and willingness to see the project through to completion.
         * As homework, students may create a simple survey or a list of questions to ask friends or relatives to help you refine your ideas, and subsequently, decide on your final project.  
 

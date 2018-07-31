@@ -59,6 +59,9 @@ As mentioned above, your animation must display the text and animate each line. 
 
 Note that multiple of these requirements may be satisfied by the same sprite (e.g. the same sprite can both move and change costume), but you must have at least two separate sprites that act in the animation.
 
+3.  Sharing
+Stories are meant to be shared.  Prepare to demo your animation with a partner, in front of the whole class, or with your family members.  See if your audience can understand the meaning of your animation, and be prepared to provide some background information associated with the story.
+
 ## Grading Scheme/Rubric
 
 | **Functional Correctness (Behavior)**                                                                  |               |

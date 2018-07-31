@@ -33,7 +33,7 @@ For this project, student may be encouraged to portray an animation that depicts
 
 ## Details
 
-1. Behavior
+### Behavior
 You will create a short animation in SNAP depicting a story of your choice. 
 
 -   Whenever the green flag is clicked, your SNAP animation should display your chosen story line by line somewhere on the stage. (This should work correctly even if the last run was interrupted and restart.)
@@ -48,7 +48,7 @@ You will create a short animation in SNAP depicting a story of your choice.
     <br />
     If you choose a particularly long story, you may not need to animate the whole thing. Please check with your teacher if you think your idea is long enough for this.
 
-2. Implementation Details
+### Implementation Details
 As mentioned above, your animation must display the text and animate each line. Action must be performed by sprites and must consist of more than simply changing costumes. You must include the following components in your animation:
 
 -   At least two sprites that act in some way to contribute to the depiction of the story
@@ -59,8 +59,16 @@ As mentioned above, your animation must display the text and animate each line. 
 
 Note that multiple of these requirements may be satisfied by the same sprite (e.g. the same sprite can both move and change costume), but you must have at least two separate sprites that act in the animation.
 
-3.  Sharing
+### Sharing
 Stories are meant to be shared.  Prepare to demo your animation with a partner, in front of the whole class, or with your family members.  See if your audience can understand the meaning of your animation, and be prepared to provide some background information associated with the story.
+
+---
+#### Emphasizing with students ...
+#### Competency - Design Sharing
+
+As you create software, you will need to keep the end-user, or final audience, in mind.  Be conscious of why are you creating a piece of work, and be prepared to explain your thoughts behind the ideas.
+
+---
 
 ## Grading Scheme/Rubric
 

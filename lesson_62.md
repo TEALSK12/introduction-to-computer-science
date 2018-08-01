@@ -20,7 +20,7 @@ The design of a new software product progresses through a sequence of stages cal
 
 #### Competancy - understanding context, defining, ideating
 
-When coming up with a great product idea, one useful method is to conduct user-centred research to understand the needs of the client/customer/end-user.  This research helps us understand design opportunities and barriers.  This research could be done as a survey or interview, given to random people, others in your friends or family circle, and specific population of people (like customers of a supermarket, or members of a soccer club, for example). 
+When coming up with a great product idea, it is important to conduct user-centred research to understand the needs of the client/customer/end-user.  This research helps us understand design opportunities and barriers.  This research could be done as a survey or interview, given to random people, to people in your friends or family circle, or to a specific population of people (like customers of a supermarket, or members of a soccer club, for example). 
 
 ---
 
@@ -60,13 +60,13 @@ When coming up with a great product idea, one useful method is to conduct user-c
 5. Prepare interview questions, and evaluate
     * At this points, students should have between one and three pitches that are well-defined and reasonably well fleshed-out.  Overnight, students should do some research, re-consider their pitches and rank them in order or which they would most like to pursue as their final project.
         * Make sure students don't just pick the "coolest" sounding idea, but also consider the technical challenges, amount of time available, and their own interest in and willingness to see the project through to completion.
-        * As homework, students may create a simple survey or a list of questions to ask friends or relatives to help refine ideas, and subsequently, decide on the final project.  
+        * As homework, students may create a simple survey or a list of questions to ask friends or relatives to help refine ideas, and subsequently, decide on the final project.  Make changes to the project pitch based on these recommendations.
 
 ---
 #### Emphasizing with students ...
 #### Competancy - understanding context
 
-Software design is a process that takes time.   Students can do user-centred research to help narrow down and refine your idea.   You can create a simple survey, or some interview questions, for your friends or relatives.   What do potential users think?  For example, what components are necessary?  What components are nice to have?  Make changes to your project ideas based on these recommendations.
+Software design is a process that takes time.   Conducting user-centred research helps narrow down and refine ideas.  What do potential users think?  For example, what components are necessary?  What components are nice to have?  Is it easy to use? 
 
 ---
 

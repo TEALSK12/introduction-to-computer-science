@@ -11,10 +11,8 @@ Students will be able to...
 
 #### Competancy - Applied Design - understanding context, defining, ideating
 
-When we first learn computer programming, it is not uncommon for students to have this urge to dive right into coding.
-However, software development is a process.  It begins with carefully thinking about your design. 
-This might involve conducting user-centred research to understand the needs of the client/customer/end-user.
-This research helps us understand design opportunities and limitations.
+When we first learn computer programming, it may seem fun to dive right into coding.  Resist the urge to do so! 
+Software development is a process.  It begins with carefully thinking about, and planning out, your design.  This includes invisioning what the final product might look like, and planning out the steps needed to implement it.    Remember,  "design then code".  
 
 ---
 

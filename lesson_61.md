@@ -9,7 +9,9 @@ Students will be able to...
 ---
 #### Emphasize with students ...
 
-#### Competancy - Applied Design - understanding context, defining, ideating
+#### Curricular Competencies - understanding context, defining, ideating
+
+In this course, we are not actually typing out any code.  In our case, "coding" would refer to the stage where we actually drag-and-drop in the SNAP design environment.   Later when we learn other languages, "coding" would refer to when we start typing out code in a specific language like Java or Python. 
 
 When we first learn computer programming, it may seem fun to dive right into coding.  Resist the urge to do so! 
 Software development is a process.  It begins with carefully thinking about, and planning out, your design.  This includes invisioning what the final product might look like, and planning out the steps needed to implement it.    Remember,  "design then code".  
@@ -48,9 +50,9 @@ Software development is a process.  It begins with carefully thinking about, and
        
 ---
 #### Emphasize with students ...
-#### Competancy - Applied Design - understanding context, defining, ideating
+#### Curricular Competencies - understanding context, defining, ideating
 
-There are a gazillion apps out there there that do a gazillion things.  What are the different categories of software applications?  When looking at an application, what type of functionality does it have?  Who are the end users, or target audience?  What do you like, or not like, about it?  What do other users/reviewers say about it?  How does it compare to, or stand apart from, other similar apps? As we study and analyze sample applications, we gain experience that will help us design our own.
+There are a gazillion apps out there there to do a gazillion things.  What are the different categories of software applications?  When looking at an application, what type of functionality does it have?  Who are the end users, or target audience?  What do you like, or not like, about it?  What do other users/reviewers say about it?  How does it compare to, or stand apart from, other similar apps? As we study and analyze sample applications, we gain experience that will help us design our own.
 
 ---
 

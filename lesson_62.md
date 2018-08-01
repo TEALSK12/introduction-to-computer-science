@@ -60,7 +60,7 @@ When coming up with a great product idea, one useful method is to conduct user-c
 5. Prepare interview questions, and evaluate
     * At this points, students should have between one and three pitches that are well-defined and reasonably well fleshed-out.  Overnight, students should do some research, re-consider their pitches and rank them in order or which they would most like to pursue as their final project.
         * Make sure students don't just pick the "coolest" sounding idea, but also consider the technical challenges, amount of time available, and their own interest in and willingness to see the project through to completion.
-        * As homework, students may create a simple survey or a list of questions to ask friends or relatives to help you refine your ideas, and subsequently, decide on your final project.  
+        * As homework, students may create a simple survey or a list of questions to ask friends or relatives to help refine ideas, and subsequently, decide on the final project.  
 
 ---
 #### Emphasizing with students ...

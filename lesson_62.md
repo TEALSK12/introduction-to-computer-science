@@ -18,7 +18,7 @@ When coming up with ideas, personal interests are considered.  The final product
 
 The design of a new software product progresses through a sequence of stages called the "life cycle", and is often associated with changes in the marketing situation.  The first step of introducing a product involves getting to know the market, or in other words, the users or potential customers out there.  
 
-#### Competancy - understanding context, defining, ideating
+#### Competency - understanding context, defining, ideating
 
 When coming up with a great product idea, it is important to conduct user-centred research to understand the needs of the client/customer/end-user.  This research helps us understand design opportunities and barriers.  This research could be done as a survey or interview, given to random people, to people in your friends or family circle, or to a specific population of people (like customers of a supermarket, or members of a soccer club, for example). 
 
@@ -63,8 +63,8 @@ When coming up with a great product idea, it is important to conduct user-centre
         * As homework, students may create a simple survey or a list of questions to ask friends or relatives to help refine ideas, and subsequently, decide on the final project.  Make changes to the project pitch based on these recommendations.
 
 ---
-#### Emphasizing with students ...
-#### Competancy - understanding context
+#### Emphasize with students ...
+#### Competency - understanding context
 
 Software design is a process that takes time.   Conducting user-centred research helps narrow down and refine ideas.  What do potential users think?  For example, what components are necessary?  What components are nice to have?  Is it easy to use? 
 

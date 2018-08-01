@@ -1,20 +1,20 @@
-# Lesson 4.6: Hangman Project
+# Lesson 4.6: Guess My Word Project
 
 ## Learning Objectives
 
 Students will be able to...
 
--   Use lists to implement a complete version of "Hangman"
+-   Use lists to implement a complete version of "Guess My Word"
 -   Exercise good programming practices to produce code that is not only functional but also elegant and well-written
 
 ## Materials/Preparation
 
--   [Do Now 4.6: Gentle Hangman](do_now_46.md)
--   [Project 4 - Hangman](project_4.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%204%20Hangman.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%204%20Hangman.pdf))
+-   [Do Now 4.6: Gentle Guess My Word](do_now_46.md)
+-   [Project 4 - Guess My Word](project_4.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%204%20Guessmyword.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%204%20Guessmyword.pdf))
 
 -   [Project 4 Alternative - Snowman](project_4.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%204%20Snowman.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%204%20Snowman.pdf))
 
--   Hangman planning worksheet: ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project_4_Hangman_Planning_Worksheet.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project_4_Hangman_Planning_Worksheet.pdf))
+-   Guess My Word planning worksheet: ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project_4_Guessmyword_Planning_Worksheet.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project_4_Guessmyword_Planning_Worksheet.pdf))
 
 -   [Optional] Printouts of the specification
 -   Link to an online version of Hangman, such as <http://www.playhangman.com/>
@@ -26,7 +26,7 @@ Students will be able to...
 | ---------- | --------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 15 minutes | Review and introduce project                  |
-| As needed  | Lab time for Hangman project                  |
+| As needed  | Lab time for Guess My Word project            |
 
 ## Instructor's Notes
 
@@ -47,7 +47,7 @@ Students will be able to...
 
 ## Accommodations/Differentiation
 
--   The concept of a "hangman" may be troubling to some students, especially in parts of the country with a history of lynching or other similar types of violence.  If you believe that to be the case, feel free to rename the game (e.g. "Wheel of Fortune") and choose a different image or theme for tracking incorrect guesses (such as popping balloons).
+-   The Guess My Word project is similar to the "hangman" game and may be troubling to some students, especially in parts of the country with a history of lynching or other similar types of violence.  If you believe that to be the case, feel free to rename the game (e.g. "Wheel of Fortune") and choose a different image or theme for tracking incorrect guesses (such as popping balloons).
 -   If any students do not have the ability to work at home, ensure enough in-class time is provided to complete the assignment, offering extensions if necessary.
 -   Advanced students can be encouraged to add extensions such as:
     -   Enabling guessing of the entire word
@@ -56,10 +56,10 @@ Students will be able to...
 -   _Very_ advanced students can attempt Evil Hangman: <http://inst.eecs.berkeley.edu/~cs10/sp13/hw/hw3.html>
 -   Struggling students can be given starter code or exempted from certain features
     -   Though it is the most difficult part of the assignment, tracking the "blanks" is the best practice working with lists and should be preserved.  
-    -   The requirements to display a graphical hangman, track repeated guesses, and specifically recognize a win can be removed for students in need of significant simplification.
+    -   The requirements to display a graphical figure, track repeated guesses, and specifically recognize a win can be removed for students in need of significant simplification.
 
 
 ## Forum discussion
 
 <a href="http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-6-hangman-project" target="_blank">
-Lesson 4.6: Hangman Project (TEALS Discourse account required).</a>
+Lesson 4.6: Guess My Word Project (TEALS Discourse account required).</a>

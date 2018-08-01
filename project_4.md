@@ -1,5 +1,6 @@
 # Project 4: Guess My Word
 
+Students will implement a Snap! "Guess my Word" word game.
 
 ## Overview
 
@@ -13,6 +14,7 @@ In Guess My Word, one player (the "chooser") chooses a secret word and another p
         In this implementation of Guess My Word, the computer will take on the role of the "chooser" and the human player will be the "guesser."  The computer will secretly choose a word from a list (see below) and show the player how many letters are in the word by displaying a sequence of blanks (underscores).  Then, the computer will begin asking for guesses.  If the player guesses a letter that is in the secret word, all blanks representing an instance of that letter should be replaced by the letter.  If the guessed letter is not in the word at all, the player should lose a chance and a new part of the figure being built should appear.  If the player guesses a letter he or she has already guessed, he or she should not lose a chance, even if that letter is not in the word.  If the player guesses all letters in the word, he or she wins.  If the figure being built is completed, the player loses.  In either case, the secret word should be revealed after the game is over.
 
     2.  **Sprites** <br/>
+        Your game will need to include at least three sprites: the figure being built, a "host" sprite that asks the player for a guess and informs him or her whether the guess is correct, and an "assistant" sprite that tells the player the status of the secret word.  You may use more sprites if you think they are appropriate. The host and assistant should have clear roles and should never do each other's job.
 
     3.  **Word Status** <br/>
         As the game is played, the player should be shown the current guessed status of the secret word.  Letters that have been correctly guessed should be shown in the correct locations.  Unguessed letters will appear as blanks.  At the beginning of the game, no letters will have been guessed, and the only information shown to the player will be a sequence of blanks, with one blank for each letter in the secret word.  As the player guesses letters correctly, blanks representing guessed letters should be replaced by those letters.  So, for example, if the secret word is "screwdriver" and the player has guessed `e`, `s`, `r`, and `d`, the current word status would be: `s _ r e _ d r _ _ e r`.

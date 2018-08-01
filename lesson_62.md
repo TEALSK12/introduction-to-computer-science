@@ -1,6 +1,6 @@
 # Lesson 6.2 - Research and Ideate
 
-## Learning Objectives (Curricular Competencies)
+## Learning Objectives (Key Curricular Competencies)
 Students will be able to...
   * Identify potential users, intended impact, and possible unintended negative consequences
   * Generate ideas to create range of possibilities using a brainstorm technique
@@ -9,7 +9,7 @@ Students will be able to...
   * Prioritize proposed project ideas using the identified factors
           
 ---
-#### Emphasizing with students ...
+#### Emphasize with students ...
 #### Big Ideas - personal design interests and project goals
 
 When coming up with ideas, personal interests are considered.  The final product often reflect the "heart and soul" of the designers behind the product.  If you are working in a group, each person should be willing to see the project through to completion. 

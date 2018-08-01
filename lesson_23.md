@@ -54,6 +54,7 @@ _Note: This lesson may cover too much material for some classes to handle in one
 
     3.  Introduce conditional statements
         -   Define "conditional" - _a block used to make a choice between executing two different chunks of code_
+        -   You can also use this [video on conditionals](https://www.flocabulary.com/unit/coding-conditionals/) by Flocabulary.
         -   Point out the differences between ![](if.png) and ![](if-else.png)
             -   Namely, if-else provides a choice between two code paths, whereas if simply chooses between executing code or not
         -   Emphasize that **only one** of the bodies, either the if or the else, will ever be executed

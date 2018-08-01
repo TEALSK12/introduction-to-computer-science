@@ -14,6 +14,7 @@ Students will be able to...
 
 -   [Do Now 2.1: Intro Loops](do_now_21.md)
 -   Lab 2.1 handout - [Squares and Triangles Redux](lab_21.md) ([Download in MS Word](Unit 2 Word/Lab 2.1 Triangles and Squares Redux.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%202%20PDF/Lab%202.1%20Triangles%20and%20Squares%20Redux.pdf))
+-   [Geometry Cheat Sheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif)
 
 ## Pacing Guide
 
@@ -37,6 +38,7 @@ Students will be able to...
             -   Attempt to get students to realize that the code is _redundant_ and could be simplified if there were a way to execute a block of code more than once
     2.  Introduce loops
         -   Begin with general definition: _A type of block that causes other code to run multiple times in succession_
+        -   Use real life loops to introduce the concept- [water cycle](https://pmm.nasa.gov/education/water-cycle), eating one spoonful at a time,use a poem like ["Still I Rise"](https://m.poets.org/poetsorg/poem/still-i-rise) by Maya Angelou or a song with a repetitive hook like ["Happy"](https://genius.com/Pharrell-williams-happy-lyrics) by Pharrell Williams. If you choose to use a song, you can break students into groups and have each group choose their own song.  Make sure to ask students to identify a song that has a repetitive hook without explicit lyrics.
         -   Introduce SNAP specific loops:
             -   ![](repeat.png) runs the body of the loop the specified number of times
                 -   Number of iterations can be a value, variable, or reporter
@@ -52,7 +54,7 @@ Students will be able to...
     -   Direct students to complete ["Squares and Triangles Redux"](lab_21.md) individually.  
         -   If available, students should use their solutions to Lab 1.3 ("Squares and Triangles and Stars, Oh My!") as a starting point.  Ensure students "Save as..." before starting on the new lab to not overwrite their original project (part 1.1).
             -   If student solutions for Lab 1.3 are not available, or are not correct, provide a correct implementation (the solution to Lab 1.3 can be found on the TEALS Dashboard under Additional Curriculum Materials).
-        -   Encourage students to try to use as few blocks and have as little code duplication as possible to draw each shape while still creating understandable scripts.
+        -   Encourage students to try to use as few blocks and have as little code duplication as possible to draw each shape while still creating understandable scripts. Asa reminder you may want to make the [Geometry Cheat Sheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif) showing various shapes and their respective angles as a reference for students throught unit 2. 
         -   Once students complete part 2.1, the remaining parts should go much more quickly as they all follow the same basic pattern.
 3.  Debrief
     -   Discuss one or two student solutions to part 2.2

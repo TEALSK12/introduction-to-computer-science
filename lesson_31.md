@@ -47,7 +47,7 @@ Students will be able to...
 2.  Activity, part 1
     -   Instruct students to review their PB&J algorithms looking for opportunities for abstraction and procedural decomposition and rewrite the algorithms to improve readability
         -   Possible opportunities include: abstracting spreading peanut butter and jelly, looping when spreading to get enough of the ingredient, removing details with regard to opening packages, etc.
-    -   Encourage students to make their new algorithms as concise as possible while still being easy to understand
+    -   Break students into groups and encourage students to make their new algorithms as concise as possible while still being easy to understand
 3.  Review
     -   Ask one or two groups to share their rewritten algorithms, pointing out the places where they abstracted or generalized
         -   If possible, choose groups with good approaches while circulating during the activity
@@ -55,7 +55,7 @@ Students will be able to...
     -   Discuss advantages to writing algorithms using abstraction
         -   More concise code, more structure, easier to follow, ability to ignore details until relevant
 4.  Activity, part 2
-    -   Have students return to their groups and develop an algorithm for constructing and cooking a [lasagna ](https://en.wikipedia.org/wiki/Lasagne)
+    -   Have students return to their groups and develop an algorithm for constructing and cooking a food that invloves layers (ex. [lasagna ](https://en.wikipedia.org/wiki/Lasagne).  
         -   Encourage students to be aware of opportunities for abstraction and/or procedural decomposition when writing their algorithms
         -   As much as possible, students should abstract while writing the algorithm rather than writing a complete algorithm and then making edits
     -   Emphasize the balance between conciseness and readability

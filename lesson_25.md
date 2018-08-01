@@ -29,7 +29,8 @@ Students will be able to...
     -   Remind students about conditional statements, and ask what the blocks that can go in the holes in if blocks have in common
         -   Blocks are "pointy" and all  are "yes/no" or "true/false" questions
 2.  Lecture
-    -   Introduce and define "Boolean expressions" as expressions that evaluate to true or false
+    -   Introduce Booleans with the ["Stand Up, Sit Down:"](https://curriculum.code.org/csd-1718/unit3/10/) Warm Up activity of the Code.org "Booleans Unplugged" lesson
+    -   Define "Boolean expressions" as expressions that evaluate to true or false
         -   If desired, explain that the term "Boolean" is derived from [George Boole](https://en.wikipedia.org/wiki/George_Boole)
         -   In SNAP, all Boolean expressions are pointy six-sided blocks
     -   Present the three Boolean operators: and, or and not
@@ -45,9 +46,10 @@ Students will be able to...
     -   Discuss situations in which the Boolean operators might be needed
         -   The lack of <= and >= operators in SNAP makes for a great example
 3.  Activity
-    -   Students should complete the ["Triangles of All Kinds"](lab_25.md) activity individually or in pairs
+    -   Students should complete the ["Triangles of All Kinds"](lab_25.md) activity individually or in diverse pairs (students who have not interacted previously, by ability, etc.)
         -   A number of geometric concepts (Triangle Inequality Theorem, Pythagorean Theorem, etc.) are used in this lab, but students need not have a deep understanding of them.  The necessary points are explained in the lab.
         -   Encourage students to think about whether an "and" or an "or" is appropriate in each case.  Draw out truth tables if necessary.
+        -   As done previously in the unit, you can make the [Geometry Cheatsheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif) available to students.
 4.  Debrief
     -   Walk through a student's response
         -   Point out uses of Boolean operators

@@ -7,7 +7,7 @@ Students will be able to...
   * Explain why design and planning are necessary steps in the software engineering process
 
 ---
-#### Emphasizing with students ...
+#### Emphasize with students ...
 
 #### Competancy - Applied Design - understanding context, defining, ideating
 
@@ -47,7 +47,7 @@ Software development is a process.  It begins with carefully thinking about, and
    
        
 ---
-#### Emphasizing with students ...
+#### Emphasize with students ...
 #### Competancy - Applied Design - understanding context, defining, ideating
 
 There are a gazillion apps out there there that do a gazillion things.  What are the different categories of software applications?  When looking at an application, what type of functionality does it have?  Who are the end users, or target audience?  What do you like, or not like, about it?  What do other users/reviewers say about it?  How does it compare to, or stand apart from, other similar apps? As we study and analyze sample applications, we gain experience that will help us design our own.

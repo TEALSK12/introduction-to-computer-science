@@ -8,7 +8,7 @@ Students will use SNAP basics to implement an animated version of a story.
 Storytelling is a great way to convey culture.  Some examples of storytelling are plays and nursery rhymes. Famous plays like those of William Shakespeare have been performed over centuries.  Some have been adapted for modern times like West Side Story. A nursery rhyme is a short poem or song written for children. Though the term is typically applied to British or other English language poems, similar concepts exist in many world cultures. These short stories are generally meant to entertain and/or calm young children. Some are believed to have a hidden moral or meaning related to historical events, but many of these meanings are questionable.
 
 ---
-#### Emphasizing with students ...
+#### Emphasize with students ...
 #### Big Ideas - Digital tools and technologies can help capture stories in our own heritage, especially ones that might otherwise be lost, or difficult to write down
 
 In Canada there are over 600 First Nation communities, speaking more than 50 distinct languages, and a multitude of dialects.  Students may be familiar with many towns and cities in Canada that have been given names adapted from the original Aboriginal language spoken in the area,  such as Coquitlam ("small red salmon"),  or Oshawa ("crossing a stream"),  or Tsawwassen ("facing the ocean").  Traditionally First Nations people relied on storytelling instead of the written language to pass down information and history.  

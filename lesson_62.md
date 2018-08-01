@@ -12,7 +12,7 @@ Students will be able to...
 #### Emphasizing with students ...
 #### Big Ideas - personal design interests verses project goals
 
-When coming up with ideas, personal interests should be considered.  The final product should reflect the personality of the designers behind the product.  If you are working in a group, each person should be willing to see the project through to completion. 
+When coming up with ideas, personal interests are considered.  The final product often reflect the "heart and soul" of the designers behind the product.  If you are working in a group, each person should be willing to see the project through to completion. 
 
 #### Big Ideas - product life cycle
 

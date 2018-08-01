@@ -2,9 +2,9 @@
 
 ## Learning Objectives (Curricular Competencies)
 Students will be able to...
-  * Conduct user-centred research to understand design opportunities and barriers
   * Identify potential users, intended impact, and possible unintended negative consequences
   * Generate ideas to create range of possibilities using a brainstorm technique
+  * Conduct user-centred research to understand design opportunities and barriers
   * Critically analyze factors when choosing between project ideas
   * Prioritize proposed project ideas using the identified factors
           
@@ -34,7 +34,8 @@ When coming up with a great product idea, one useful method is to conduct user-c
 | 10 minutes | Review process and identify first steps |
 | 5 minutes | Brainstorming |
 | 10 minutes | Pitch writing |
-| 20 minutes | Peer review  |
+| 15 minutes | Peer review  |
+| 5 minutes | Prepare interview or survey questions
 | 5 minutes | Debrief and wrap-up|
 
 ## Instructor's Notes
@@ -56,7 +57,7 @@ When coming up with a great product idea, one useful method is to conduct user-c
         * Remind students to keep all feedback constructive, respectful, and professional.  Students should not criticize each other's ideas, but can point out potential concerns.
         * Students should take notes during their conversations and refine their pitches based on their partner's feedback and their own realizations.
     * If time allows (or over the course of multiple days), repeat this process with new partners.
-5. Research and evaluate
+5. Prepare interview questions, and evaluate
     * At this points, students should have between one and three pitches that are well-defined and reasonably well fleshed-out.  Overnight, students should do some research, re-consider their pitches and rank them in order or which they would most like to pursue as their final project.
         * Make sure students don't just pick the "coolest" sounding idea, but also consider the technical challenges, amount of time available, and their own interest in and willingness to see the project through to completion.
         * As homework, students may create a simple survey or a list of questions to ask friends or relatives to help you refine your ideas, and subsequently, decide on your final project.  
@@ -65,7 +66,7 @@ When coming up with a great product idea, one useful method is to conduct user-c
 #### Emphasizing with students ...
 #### Competancy - Applied Design - understanding context, defining, ideating
 
-Software design is a process that takes time.   Further user-centred research to help narrow down and refine your idea.   You can create a simple survey, or some interview questions, for your friends or relatives.  For example, what components are necessary?  What components are nice to have?  Make changes to your project ideas based on these recommendations.
+Software design is a process that takes time.   Students can do user-centred research to help narrow down and refine your idea.   You can create a simple survey, or some interview questions, for your friends or relatives.  For example, what components are necessary?  What components are nice to have?  Make changes to your project ideas based on these recommendations.
 
 ---
 

@@ -66,7 +66,7 @@ Stories are meant to be shared.  Prepare to demo your animation with a partner, 
 #### Emphasizing with students ...
 #### Competency - Design Sharing
 
-As you create software, you will need to keep the end-user, or final audience, in mind.  Be conscious of why are you creating a piece of work, and be prepared to explain your thoughts behind the ideas.
+As you create software, you will need to keep the end-user, or final audience, in mind.  Be thinking of what you are hoping to achieve or communicate when you are creating a piece of work, and be prepared to explain your thoughts behind the ideas.
 
 ---
 

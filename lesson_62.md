@@ -10,13 +10,17 @@ Students will be able to...
           
 ---
 #### Emphasizing with students ...
-#### Big Ideas - personal design interests and project goals
+#### Big Ideas - personal design interests verses project goals
 
-When coming up with ideas, personal interests should be considered.  The final product should reflect the personality of the designers behind the product.  Each person should be willing to see the project through to completion. 
+When coming up with ideas, personal interests should be considered.  The final product should reflect the personality of the designers behind the product.  If you are working in a group, each person should be willing to see the project through to completion. 
 
-#### Big Ideas - products design for life cycle
+#### Big Ideas - product life cycle
 
-A new software product progresses through a sequence of stages called the "life cycle", and is often associated with changes in the marketing situation.  The first step of introducing a product involves getting to know the market, or in other words, the users or potential customers out there.  
+The design of a new software product progresses through a sequence of stages called the "life cycle", and is often associated with changes in the marketing situation.  The first step of introducing a product involves getting to know the market, or in other words, the users or potential customers out there.  
+
+#### Competancy - understanding context, defining, ideating
+
+When coming up with a great product idea, one useful method is to conduct user-centred research to understand the needs of the client/customer/end-user.  This research helps us understand design opportunities and barriers.  This research could be done as a survey or interview, given to random people, others in your friends or family circle, and specific population of people (like customers of a supermarket, or members of a soccer club, for example). 
 
 ---
 
@@ -61,7 +65,7 @@ A new software product progresses through a sequence of stages called the "life 
 #### Emphasizing with students ...
 #### Competancy - Applied Design - understanding context, defining, ideating
 
-Software design is a process that takes time.   After you have a few ideas, consider conducting user-centred research to help narrow down and refine your idea.   You can create a simple survey, or some interview questions, for your friends or relatives.  For example, what components are necessary?  What components are nice to have?  Make changes to your project ideas based on these recommendations.
+Software design is a process that takes time.   Further user-centred research to help narrow down and refine your idea.   You can create a simple survey, or some interview questions, for your friends or relatives.  For example, what components are necessary?  What components are nice to have?  Make changes to your project ideas based on these recommendations.
 
 ---
 

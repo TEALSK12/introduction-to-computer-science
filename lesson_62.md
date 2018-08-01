@@ -64,9 +64,9 @@ When coming up with a great product idea, one useful method is to conduct user-c
 
 ---
 #### Emphasizing with students ...
-#### Competancy - Applied Design - understanding context, defining, ideating
+#### Competancy - understanding context
 
-Software design is a process that takes time.   Students can do user-centred research to help narrow down and refine your idea.   You can create a simple survey, or some interview questions, for your friends or relatives.  For example, what components are necessary?  What components are nice to have?  Make changes to your project ideas based on these recommendations.
+Software design is a process that takes time.   Students can do user-centred research to help narrow down and refine your idea.   You can create a simple survey, or some interview questions, for your friends or relatives.   What do potential users think?  For example, what components are necessary?  What components are nice to have?  Make changes to your project ideas based on these recommendations.
 
 ---
 

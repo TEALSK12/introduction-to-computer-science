@@ -8,7 +8,7 @@ Students will be able to ...
 * Research, ideate, and apply personal interests to an application that includes:
     *   1 or more moving sprites
     *   2 or more user keyboard controlled sprites 
-    *   The sprites should interact in a way that allows the users to accumlate a score or value. 
+    *   The sprites should interact in a way that allows the users to accumulate a score or value. 
     
 * Practice good style and conventions to create readable and maintainable code                                                                                                                                                       
 ## Overview
@@ -20,14 +20,14 @@ Your challenge is to create a project of your own that contains similar elements
 
 1.  **Possible Ideas**
     -  **Cretaceous World** <br/>
-        The Elasmosaurus was a water reptile that lived about 80 million years ago, in the Cretaceious period.  They had super long necks (body up to 14 meters), and their fossils have been found in British Columbia.  The speedy Albertosaurus (an early relative of the famous Tyrannosaurux rex) lived about 70 million years ago.  It was first discovered in Alberta, and fed on another dinosaur discovered in Canada called the Edmontosaurus.  Learn more about these fascinating dinosaurs here: http://www.cbc.ca/kidscbc2/the-feed/5-dinosaurs-that-called-canada-home  
+        The Elasmosaurus was a water reptile that lived about 80 million years ago, in the Cretaceous period.  They had super long necks (with a body up to 14 meters long), and their fossils have been found in British Columbia.  The speedy Albertosaurus (an early relative of the famous Tyrannosaurux rex) lived about 70 million years ago.  It was first discovered in Alberta, and fed on another dinosaur discovered in Canada called the Edmontosaurus.  Learn more about these fascinating dinosaurs here: http://www.cbc.ca/kidscbc2/the-feed/5-dinosaurs-that-called-canada-home  
         
-        Imagine that a few Canadian dinosaurs living on an imaginary northern frontier is now being endangered by our changing climate which has caused melting glaciers and sharp icebergs.  These beaufiful creatures roam around randomly, unaware of impending threats to their survival.   Your goal is to move your truck (user-controlled-sprite1) to catch a dinosaur, so the it can be safely transported to another habitat where they can be safe to roam and survive.  Meanwhile a moving iceberg (user-controlled-sprite2) is endangering the animals.  When the dinosaur comes in contact with the iceberg, it is injured, and it's movement is affected... 
+        Imagine that a few Canadian dinosaurs living on an imaginary northern frontier are now being endangered by our changing climate which has caused melting glaciers and sharp icebergs.  These beaufiful creatures roam around randomly, unaware of impending threats to their survival.   Your goal is to move your truck (user-controlled-sprite1) to catch a dinosaur, so they can be safely transported to another habitat where they are safe to roam and survive.  Meanwhile a moving iceberg (user-controlled-sprite2) is endangering the animals.  When the dinosaur comes in contact with the iceberg, it is injured, and it's movement is affected... 
         
     -  **Penny Catcher** <br/>
-       The Canadian penny, also called a one-cent piece, is a coin worth one one-hundreth of a dollar.  The production of the penny ceased in May 2012, and the Royal Canadian Mint ceased distribution of them February 2013.   However, as with all discontinued currency in the Canadian monetary system, the coin is still legal tender.   You might still see them now and again.  Learn more about this precious little coin here:  https://www.mint.ca/store/mint/about-the-mint/phasing-out-the-penny-6900002#.W2KisRL0lBw  https://en.wikipedia.org/wiki/Penny_(Canadian_coin) 
+       The Canadian penny, also called a one-cent piece, is a coin worth one one-hundredth of a dollar.  The production of the penny ceased in May 2012, and the Royal Canadian Mint ceased distribution of them February 2013.   However, as with all discontinued currency in the Canadian monetary system, the coin is still legal tender.   You might still see them now and again.  Learn more about this precious little coin here:  https://www.mint.ca/store/mint/about-the-mint/phasing-out-the-penny-6900002#.W2KisRL0lBw  https://en.wikipedia.org/wiki/Penny_(Canadian_coin) 
        
-       Imagine that decades have passed, and hardly any young person has seen a Canadian penny.  You go to your grandfather's attic to look for something, and by accident, spill several basket of coins.  Coins are flying around randomly.  Your job is to catch the pennies with your basket as fast as possible.  Some coins are falling into cracks in the wood.  Some coins are not pennies (and you don't care about them).  To complicate matters, a window washer pops by and he happens to be a numismatist (pronounced "noo-miz-ma-ticks") someone who collects coins.  He is also trying to catch the pennies, thus competing with you...
+       Imagine that decades have passed, and hardly any young person has seen a Canadian penny.  You go to your grandfather's attic to look for something, and by accident, spill several baskets of coins.  Coins are flying around randomly.  Your job is to catch the pennies with your basket as fast as possible.  Some coins are falling into cracks in the wood.  Some coins are not pennies (and you don't care about them).  To complicate matters, a window washer pops by and he happens to be a numismatist (pronounced "noo-miz-ma-ticks") someone who collects coins.  He is also trying to catch the pennies, thus competing with you...
        
     -  **On Your Own** <br/>
         Come up with your own creative idea!  
@@ -45,7 +45,7 @@ Part of the design process is planning.  The "Pong Planning Worksheet" is an exa
 | Functional Correctness (Behavior)                                                    |           |
 | ------------------------------------------------------------------------------------ | --------- |
 | Players can control sprites with required keys                                       | 2 points  |
-| Random-sprite begins from a fixed location and returns there after certain event(s)           | 3 points  |
+| Random-sprite begins from a fixed location and returns there after certain event(s)  | 3 points  |
 | Random-sprite bounces correctly and moves within the window space                    | 4 points  |
 | Random-sprite's movement changes after certain event(s)                              | 3 points  |
 | Score is changed when some interaction happens between sprites                       | 3 points  |
@@ -55,7 +55,7 @@ Part of the design process is planning.  The "Pong Planning Worksheet" is an exa
 | Total                                                                                | 19 points |
 | Technical Correctness (Implementation)                                               |           |
 | ------------------------------------------------------------------------------------ | --------- |
-| Animation or game logic is smooth, polished, and intuitive                                   | 3 points  |
+| Animation or game logic is smooth, polished, and intuitive                           | 3 points  |
 | Program shows good creativity and effort                                             | 2 points  |
 | Program is well-documented and exhibits good style                                   | 2 points  |
 | Checkpoint 1                                                                         | 4 points  |

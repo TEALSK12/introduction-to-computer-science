@@ -85,8 +85,7 @@ How can the classic platform game be adapted to a specific purpose, cause, or co
 #### Emphasize with students ...
 #### Curriculum Competencies - Design Sharing
 
-As you create software, you will need to put yourself in the end-user's position, and imagine yourself using the software.  
-At the same time, providing objective, critical analysis and feedback of other people's work will not only benefit others, but also help you in your own design work.  Being able to welcome, and provide, feedback are essential skills for a software developer. 
+As you create software, you will need to put yourself in the end-user's position, and imagine yourself using the software.  At the same time, providing objective, critical analysis and feedback of other people's work will not only benefit others, but also help you in your own design work.  Being able to welcome, and provide, feedback are essential skills for a software developer. 
 
 ---
     

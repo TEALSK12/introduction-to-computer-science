@@ -13,7 +13,7 @@ Students will be able to...
 
 #### Curriculum Competencies - Applied Skills and Technology
 
-Students may have stereotypes and myths about technology jobs.  
+Students may come with stereotypes and myths about technology jobs.  
 
 There are many different types of roles and skills needed in the technology industry.  Not everyone is a coder;  and not everyone is coding all day long.  There are artistic designers, music creators, script writers, project managers, marketing specialists, quality assurance testers, front-end designer,  etc.  
 

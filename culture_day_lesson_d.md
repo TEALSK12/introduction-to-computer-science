@@ -12,11 +12,11 @@ Students will be able to...
 
 #### Curriculum Competencies - Applied Skills and Technology
 
-Students may come to course with many stereotypes/myths about technology jobs.  
+Students may have stereotypes and myths about technology jobs.  
 
-There are many different types of roles and skills needed in the technology industry.  Not everyone is a coder;  and not everyone is coding all day long.  There are artistic designers, music creators, script writers, project managers,  marketing specialists,  front-end designer,  etc.  
+There are many different types of roles and skills needed in the technology industry.  Not everyone is a coder;  and not everyone is coding all day long.  There are artistic designers, music creators, script writers, project managers, marketing specialists, quality assurance testers, front-end designer,  etc.  
 
-As students get to know people in their community, they may even discover individuals who are willing to be mentors for your classroom. 
+As students get to know people in their community, they may even discover individuals who are willing to be mentors for your classroom in the days ahead. 
 
 ---
 

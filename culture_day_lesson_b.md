@@ -4,9 +4,17 @@
 Students will be able to...
 * Describe in detail the topic of their assigned/chosen project
 * Answer questions about their topic
-* Connect the project and topic to computer science:
-   - Explore existing, new, and emerging tools, technologies, and systems
-   - Analyze the role of 
+* Connect the project and topic to computer science
+
+
+---
+#### Emphasize with students...
+
+#### Curriculum Competencies - Applied Technologies
+
+Coding is simply a technical skill.   Yet the process of software development, product creation, and deployment, involves the intersection of diverse technical innovations, global community of peoples, cultural beliefs, values, and ethical positions.   There is impact from, and impact on, our life and society at many levels (personal, community, global, and environmental), including the unintended negative consequences of the technology choices we make.  These connections and discussions, help us appreciate the past, be wiser in the present, and more ready to embrace the future.
+
+---
 
 ## Materials/Preparation
 * A list of possible topics for research projects
@@ -19,16 +27,7 @@ Students will be able to...
 * New and emerging technologies (AI, Machine Learning, robotics, cryptocurrencies, etc.)
 * Impact of technology on society (social media, health and lifestyle, screen time, etc.)
 * Ethics (privacy, cyberbullying, security, etc.) 
-
----
-#### Emphasize with students...
-
-#### Curriculum Competencies - Applied Technologies
-
-Coding is simply a technical skill.   Yet the process of software development, product creation, and deployment, involves the intersection of diverse technical innovations, global community of peoples, cultural beliefs, values, and ethical positions.   There is impact from, and impact on, our life and society at many levels (personal, community, global, and environmental), including the unintended negative consequences of the technology choices we make.  These connections and discussions, help us appreciate the past, be wiser in the present, and more ready to embrace the future.
-
----
-
+This list should be expanded and updated for currency.
 
 ## Pacing Guide
 |Duration | Description|

@@ -2,10 +2,9 @@
 
 ## Learning Objectives
 Students will be able to...
-* Describe in detail the topic of their assigned/chosen project
+* Describe in detail the topic of their assigned/chosen computer science related topic
 * Answer questions about their topic
-* Connect the project and topic to computer science
-
+* Explore and analyze the impact on, and impact of, technology in the context of their topic
 
 ---
 #### Emphasize with students...

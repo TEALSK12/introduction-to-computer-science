@@ -15,9 +15,6 @@ Coding is simply a technical skill.   Yet the process of software development, p
 
 ---
 
-## Materials/Preparation
-* A list of possible topics for research projects
-* Guidelines for projects and/or presentations
 
 ## Possible Topics
 * Famous figures in computer science (Donald Knuth, Alan Turing, Kernighan & Ritchie, Mark Zuckerburg, Bill Gates, etc.)
@@ -26,7 +23,13 @@ Coding is simply a technical skill.   Yet the process of software development, p
 * New and emerging technologies (AI, Machine Learning, robotics, cryptocurrencies, etc.)
 * Impact of technology on society (social media, health and lifestyle, screen time, etc.)
 * Ethics (privacy, cyberbullying, security, etc.) 
+
 This list should be expanded and updated for currency.
+
+
+## Materials/Preparation
+* A list of possible topics for research projects
+* Guidelines for projects and/or presentations
 
 ## Pacing Guide
 |Duration | Description|

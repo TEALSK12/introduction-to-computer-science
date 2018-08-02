@@ -4,11 +4,30 @@
 Students will be able to...
 * Describe in detail the topic of their assigned/chosen project
 * Answer questions about their topic
-* Connect the project and topic to computer science
+* Connect the project and topic to computer science:
+   - Explore existing, new, and emerging tools, technologies, and systems
+   - Analyze the role of 
 
 ## Materials/Preparation
 * A list of possible topics for research projects
 * Guidelines for projects and/or presentations
+
+## Possible Topics
+* Famous figures in computer science (Donald Knuth, Alan Turing, Kernighan & Ritchie, Mark Zuckerburg, Bill Gates, etc.)
+* Famous women figures in computer science (Grace Hopper, Bletchley code breakers, Ada Lovelace, Dorothy Vaughan, etc)
+* Important technologies or algorithms (RSA, Dijstra's Algorithm, RAID, etc.)
+* New and emerging technologies (AI, Machine Learning, robotics, cryptocurrencies, etc.)
+* Impact of technology on society (social media, health and lifestyle, screen time, etc.)
+* Ethics (privacy, cyberbullying, security, etc.) 
+
+---
+#### Emphasize with students...
+
+#### Curriculum Competencies - Applied Technologies
+
+Coding is simply a technical skill.   Yet the process of software development, product creation, and deployment, involves the intersection of diverse technical innovations, global community of peoples, cultural beliefs, values, and ethical positions.   There is impact from, and impact on, our life and society at many levels (personal, community, global, and environmental), including the unintended negative consequences of the technology choices we make.  These connections and discussions, help us appreciate the past, be wiser in the present, and more ready to embrace the future.
+
+---
 
 
 ## Pacing Guide
@@ -24,10 +43,7 @@ Students will be able to...
 1. _**Prior to Culture Day**_
     * Assign each student one or more topics to research and present to the class on a future day
         * Topics can be assigned, chosen by students from a pre-defined list, or suggested by students and approved by instructors
-        * Possible options include:
-            * Famous figures in computer science (Grace Hopper, Alan Turing, Kernighan & Ritchie, etc.)
-            * Important technologies or algorithms (RSA, Dijstra's Algorithm, RAID, etc.)
-            * Societal or cultural topics (social media, cyberbullying, computer security, etc.)
+
     * Create a schedule of when culture days will occur and which students will present on each day
 
 2. Student presentations

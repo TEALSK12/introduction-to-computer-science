@@ -13,7 +13,7 @@ Students will be able to...
 
 Students may come to course with many stereotypes/myths in their minds, about what they can do, or can't do.  Minority groups may experience more hesitation and apprehension about technology.  By keeping a journal for self-evalaution and self-reflection,  students can see what skills they already have, what they have gained over time, what they are capable of learning, what their personal interests might be, and what they would like to learn in the future. 
 
-It's ok to not know everything.  There is always something new to learn.  Just take one step at a time. 
+It's ok not to know everything.  There is always something new to learn.  Just take one step at a time. 
 
 ---
 

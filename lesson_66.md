@@ -18,7 +18,7 @@ Students will be able to...
 At the end of the day, software must connect with people.  Now it's time to share your project with others!  
 It's also fun, and helpful, to see what others have been doing.  
 
-Furthermore, it's time to reflect on the whole development process, and share what you have learnt from this experience.  Invite questions and feedback from peers and guests.  Celebrate your achievement, and consider ideas for improvement and future work. Think about how you could do things differently using other tools/strategies.Think about how this product could be apapted for another culture, social situation, or target user group. 
+Furthermore, it's time to reflect on the whole development process, and share what you have learnt from this experience.  Invite questions and feedback from peers and guests.  Celebrate your achievement, and consider ideas for improvement and future work. Think about how you could do things differently using other tools/strategies. Think about how this project might be apapted for, or influenced by, another culture, social situation, or target user group. 
 
 ---
 

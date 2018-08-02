@@ -34,7 +34,7 @@ Your challenge is to create a project of your own that contains similar elements
 
 2.  **Required Checkpoints**
     1.  Create 2 or more user controlled sprites; Create 1 or more randomly moving sprite. 
-    2.  When the random-sprite touches a wall it changes movement and/or direction.
+    2.  When the random-sprite touches certain wall/object it changes movement and/or direction.
     3.  Final due date: When the user-controlled sprite and random-sprite touch, something happens to the score or counter.   When the score or counter reaches are certain value, or condition, the animation or game is over.  
 
 ## Planning Worksheet

@@ -25,11 +25,10 @@ It's ok to not know everything.  There is always something new to learn.  Just t
   * after final project
 
 ## Materials/Preparation
-* 
+* Prepare notebooks, blog space, or worksheet handout (see possible questions below) for students to use
 
 ## Instructor's Notes
-1.  **Prior to Start of Class**
-  * Prepare notebooks, or worksheet handout (see possible questions below), for students
+1.  **Start of Class**
   * Introduce students to the idea of Learning Journal
   * Create a schedule of when students are expected to write in their Journal
   
@@ -50,14 +49,14 @@ It's ok to not know everything.  There is always something new to learn.  Just t
       * other thoughts
   * Final entry
       * If you were to give advice to a new student who will start the course, what would it be?
-      * What it easier, or harder than you thought?  Explain.
-      * Based on the exposure you have had so far, hat are your project or design interests?
+      * What learning new skills easier, or harder than you thought?  Explain.
+      * What are your project or design interests?
       * Would kind of skills would you like to learn next?
       * What kind of future jobs would you be interested in?
       * other thoughts
  
- 3.  Sharing with peers
- Near the end of the course, ask students to share a few key points with the class.
+ 3.  Share learning journey with peers
+ At the end of the course, ask each students to share a few key points with the class.
  They can refer to their Final entry page. 
 
 ## Pacing Guide

@@ -80,6 +80,17 @@ How can the classic platform game be adapted to a specific purpose, cause, or co
      <br/>
     As part of the software development experience on this project, you will participate in a peer review with one or more of your classmates.  Near the end of the project, you will play another student's game and provide him or her with notes and comments.  Your partner(s) will also play your game and offer the same feedback.  Describe to your partner what parts of the game you liked.  You should offer suggestions for features that could be improved or changed as well as look for bugs in the program you are reviewing.  Keep your comments constructive and professional!  Don't just point out things you don't like—explain your thinking and propose solutions.  Also, restrict your comments to things that can be reasonably addressed.  Do not tell your partner that he or she made a poor choice of theme and should start over, for example.
     After receiving your peer feedback, you should consider the comments carefully and respond.  You will be expected to turn in the feedback provided to you and identify ways in which you modified your game in response to the feedback you received.
+   
+---
+#### Emphasize with students ...
+#### Curriculum Competencies - Design Sharing
+
+As you create software, you will need to put yourself in the end-user's position, and imagine yourself using the software.  
+At the same time, providing objective, critical analysis and feedback of other people's work will not only benefit others, but also help you in your own design work.  Being able to welcome, and provide, feedback are essential skills for a software developer. 
+
+---
+    
+    
 6.  **Required Checkpoints**
     1.  Monday, October 27: Screens should be designed; the hero should be able to move and jump; gravity should work; reset button should be functional
     2.  Monday, November 3: Hazards and enemies should be present; death should work properly.

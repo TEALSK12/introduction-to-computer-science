@@ -5,6 +5,17 @@ Students will be able to...
   * Use the skills developed throughout the course to implement a medium- to large-scale software project
   * Realistically evaluate progress during software development and identify when cuts are necessary
   * Prioritize features and scenarios and choose which should be eliminated or modified if/when resources and/or time become limited
+  * Record time taken for tasks, and lessons learnt in the process, to help refine estimates
+  * Record iterations of prototyping
+  
+  ---
+
+#### Emphasize with students ...
+#### Curriculum Competencies - Prototype, Test, and Make
+
+From Lessons 6.3 to 6.5 you will be practicing an "Agile" iterative and incremental project management workflow.  Now it's time to start following your plan.  You can finally start "coding", and testing!   Remember that not all tasks involve coding.  Take note of the time it takes you to complete each task (this will help you make better estimates in the future).   Estimating time for tasks can be difficult to do.  This will get better with experience.
+
+---
 
 
 ## Materials/Preparation
@@ -38,7 +49,7 @@ Students will be able to...
     -   Be sure to meerkat and not spend more than a minute or two with any single student at a time
 
 3.  Exit ticket
-    -   Before students leave, have them answer the following questions on a small piece of paper:
+    -   Before students leave, have them answer the following questions on a small piece of paper, or in their daily journal notebook:
         1.  What was the last thing you accomplished on the project today?
         2.  What is the first thing you will work on tomorrow?
         3.  Are you currently ahead, behind, or on track with your schedule?  If you are behind, what tasks will you cut to get back on track?  If you are ahead, what are some extra features you can add?

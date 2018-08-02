@@ -17,7 +17,7 @@ Students may come with stereotypes and myths about technology jobs.
 
 There are many different types of roles and skills needed in the technology industry.  Not everyone is a coder;  and not everyone is coding all day long.  There are artistic designers, music creators, script writers, project managers, marketing specialists, quality assurance testers, front-end designer,  etc.  
 
-As students get to know people in their community, they may even discover individuals who are willing to be mentors for your classroom in the days ahead. 
+As students get to know people in their community, they may even discover individuals who are willing to be mentors for your classroom in the days ahead.
 
 ---
 
@@ -70,5 +70,5 @@ Ask each students to share a few key points with the class.
 * Share with peers
 
 ## Accommodation/Differentiation
-* Students who have little experience with interviews may practice interviewing one another in the class with a short list of questions.  
+* Students who have little experience with interviews may practice interviewing one another in the class with a few simple questions.  
 * 

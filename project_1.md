@@ -63,8 +63,8 @@ Note that multiple of these requirements may be satisfied by the same sprite (e.
 Stories are meant to be shared.  Prepare to demo your animation with a partner, in front of the whole class, or with your family members.  See if your audience can understand the meaning of your animation, and be prepared to provide some background information associated with the story.  The animation can also be video captured and shared online.   
 
 ---
-#### Emphasizing with students ...
-#### Competency - Design Sharing
+#### Emphasize with students ...
+#### Curriculum Competencies - Design Sharing
 
 As you create software, you will need to keep the end-user, or final audience, in mind.  Be thinking of what you are hoping to achieve or communicate when you are creating a piece of work, and be prepared to explain your thoughts behind the ideas.
 

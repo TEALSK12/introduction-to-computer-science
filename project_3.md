@@ -18,7 +18,7 @@ Example1: In British Columbia, many efforts exist to promote and guide the susta
 
 Example2:  The summer of 2017 was one of the worst wildfire seasons in British Columbia's history.  https://www2.gov.bc.ca/gov/content/safety/wildfire-status/about-bcws/wildfire-history/wildfire-season-summary  Students can create a game where a traveller drives through different town, parks, and highways in your area,  extinguishing hazards (cigarette butts, campfires), battling enemies (fires out of control), enforcing fire bans, reporting fires, being a good neighbour (fire-smart), home prevention (https://www2.gov.bc.ca/gov/content/safety/wildfire-status/prevention/for-your-home-community), rescuing animals, and so on.   Game play can introduce elements of geography (parks and forests, lakes and waters) and climate (temperature and dryness).  Read more about wildfires in BC here:  https://www2.gov.bc.ca/gov/content/safety/wildfire-status
 
-How can the classic platform game be adapted to a specific purpose, cause or context that interests you? 
+How can the classic platform game be adapted to a specific purpose, cause or context that interests you or impacts your community? 
 
 ---
 

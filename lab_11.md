@@ -1,6 +1,5 @@
 <!--- REVISED -->
 # Lab 1.1 - Welcome To SNAP!
-_Adapted from Beauty and Joy of Computing: http://bjc.eecs.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_new/1-introduction.topic_
 
 SNAP is a programming language, which you can use to tell a computer what to do. A program is a particular set of instructions for the computer to follow.
 

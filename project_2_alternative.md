@@ -19,14 +19,14 @@ Your challenge is to create a project of your own that contains similar elements
 ## Details
 
 1.  **Possible Ideas**
-    1.  **Cretaceous World** <br/>
+    -  **Cretaceous World** <br/>
         The Elasmosaurus was a kind of water reptile that lived about 80 million years ago, in the Cretaceious period.  They has super long necks (body up to 14 meters), and their fossils have been found in British Columbia.  The speedy Albertosaurus (an early relative of the famous Tyrannosaurux rex) lived about 70 million years ago.  It was first discovered in Alberta, and fed on another dinosaur discovered in found in Canada called the Edmontosaurus. 
         
         Imagine that a few Canadian dinosaurs living on an imaginary northern frontier is being endangered by melting glaciers and sharp icebergs.  They roam around randomly.  Your goal is to move your truck (user-controlled-sprite1) to catch a dinosaur, so the it can be safely transported to another habitat where they can be safe to roam and survive.  Meanwhile a moving iceberg (user-controlled-sprite2) is endangering the animals.  When the dinosaur comes in contact with the iceberg, it is injured, and it's movement is affected. 
         
-    2.  **Penny Catcher** <br/>
+    -  **Penny Catcher** <br/>
         
-    3.  **Your Own** <br/>
+    -  **Your Own** <br/>
         Come up with your own creative idea!
 
 2.  **Required Checkpoints**

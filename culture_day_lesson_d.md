@@ -2,10 +2,10 @@
 
 ## Learning Objectives
 Students will be able to...
-* Identify the people in their family, or community, who have technology-related jobx
+* Identify the people in their family, or community, who have technology-related jobs
 * Create interview questions to find out about their jobs
 * Identify the different types of roles and skills needed in the technology industry
-* Identify technology skills needed in many non-technologry organizations
+* Identify technology skills needed in non-technology organizations
 * Reflect on how technology could be part of their future career
 
 ---

@@ -2,11 +2,39 @@
 
 ## Learning Objectives
 Students will be able to...
-  * Identify the main components of a functional project specification and explain the purpose of each section
-  * Develop a project idea into a full, detailed specification
+  * Break down, and identify the main technical components needed for the functional project specifictions (scenarios)
+  * Explain the purpose of each technical component
+  * Develop the project idea into a full, detailed specification
+  * Create a plan that includes specific steps, ie, list of bite-sized tasks
+  * Estimate time required for tasks
 
+
+---
+
+#### Emphasize with students ...
+#### Curriculum Competencies - Prototype, Test, and Make
+
+From Lessons 6.3 to 6.5 you will be practicing an "Agile" iterative and incremental project management workflow.  In Lesson 6.3 you identified user scenarios.  Now in Lesson 6.4 you identify what technical components are needed for each scenario,  and define all the tasks that need to be done.  You are not "coding" yet. 
+
+Each defined task, or step, should be bite-sized, and specific enough to do.  
+This plan should include testing done by you, as the developer, and by other users. 
+As you progress, gather feedback from users/testers over time, and make changes to your design as needed.
+
+#### Curriculum Competencies - Applied Technologies
+
+Your classroom may have a diverse student poplulation, and include English Language Learning (ELL) students.  
+Following an Agile project management flow helps ensure that the development process is simple, clear to follow, well documented, and easy to share and evaluate.  Practicing these skills will help students collaborate and share their work in diverse classrooms.  These skills prepare students to engage more successfully in an increasingly global technology industry. 
+
+---
+
+## Reference
+
+- Agile Project Management https://www.atlassian.com/agile
+- English Language Learning https://www2.gov.bc.ca/gov/content/education-training/k-12/teach/teaching-tools/english-language-learning
 
 ## Materials/Preparation
+
+*
 
 
 ## Pacing Guide
@@ -31,14 +59,13 @@ Students will be able to...
 3. Implementation plan
     * Students should use the details built in their plan organizer to list the tasks necessary on their [Final Project Development Plan](Final Project Development Plan.docx).
         * Emphasize to students that tasks should be at a very low level of granularity (hence the time requirement being specified in minutes).  If a single task has a time estimate of more than a few hours, the student should try to break the task into smaller pieces.
-        * Ensure that students do not skip "trivial" or "simple" tasks (such as building a script they have written before) or non-coding tasks (such as developing graphics) in their pla.
+        * Ensure that students do not skip "trivial" or "simple" tasks (such as building a script they have written before) or non-coding tasks (such as developing graphics) in their plan.
+        
 4. Debrief
     * As class ends, remind students that their spec and implementation plan will be their guides throughout the process.  They should update them each day and keep them with them at all times.
     * Ideally, anytime there is a question about the requirements or scope of the project, the spec should have the answer.  If not, it's a new idea and the spec needs to be updated acordingly.
 
 ## Accommodation/Differentiation
-
-
 
 ## Forum discussion
 

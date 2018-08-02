@@ -18,7 +18,7 @@ From Lessons 6.3 to 6.5 you will be practicing an "Agile" iterative and incremen
 
 Each defined task, or step, should be bite-sized, and specific enough to do.  
 This plan should include testing done by you, as the developer, and by other users. 
-As you progress, gather feedback from users/testers over time, and make changes to your design as needed.
+As you progress, gather feedback from users/testers over time, and make changes to your design, and plan, as needed.
 
 #### Curriculum Competencies - Applied Technologies
 

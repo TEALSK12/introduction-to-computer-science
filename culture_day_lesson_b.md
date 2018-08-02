@@ -17,9 +17,9 @@ Coding is simply a technical skill.   Yet the process of software development, p
 
 
 ## Possible Topics
-* Famous figures in computer science (Donald Knuth, Alan Turing, Kernighan & Ritchie, Mark Zuckerburg, Bill Gates, etc.)
-* Famous women figures in computer science (Grace Hopper, Bletchley code breakers, Ada Lovelace, Dorothy Vaughan, etc)
-* Important technologies or algorithms (RSA, Dijstra's Algorithm, RAID, etc.)
+* Famous figures in computer science (Donald Knuth, Alan Turing, Kernighan & Ritchie, Mark Zuckerburg, Bill Gates, Elon Musk, Steve Jobs, etc.)
+* Famous women figures in computer science (Grace Hopper, Bletchley code breakers, Ada Lovelace, Dorothy Vaughan, Anita Borg, etc)
+* Important technologies or algorithms (RSA, Dijstra's Algorithm, RAID, integrated circuits, etc.)
 * New and emerging technologies (AI, Machine Learning, robotics, cryptocurrencies, etc.)
 * Impact of technology on society (social media, health and lifestyle, screen time, etc.)
 * Ethics (privacy, cyberbullying, security, etc.) 

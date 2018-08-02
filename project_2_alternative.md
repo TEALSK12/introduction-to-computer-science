@@ -55,7 +55,7 @@ Part of the design process is planning.  The "Pong Planning Worksheet" is an exa
 | Total                                                                                | 19 points |
 | Technical Correctness (Implementation)                                               |           |
 | ------------------------------------------------------------------------------------ | --------- |
-| Animation logic is smooth, polished, and intuitive                                   | 3 points  |
+| Animation or game logic is smooth, polished, and intuitive                                   | 3 points  |
 | Program shows good creativity and effort                                             | 2 points  |
 | Program is well-documented and exhibits good style                                   | 2 points  |
 | Checkpoint 1                                                                         | 4 points  |

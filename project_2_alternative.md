@@ -38,16 +38,16 @@ Your challenge is to create a project of your own that contains similar elements
     3.  Final due date: When the user-controlled sprite and random-sprite touch, something happens to the score or counter.   When the score or counter reaches are certain value, or condition, the animation or game is over.  
 
 ## Planning Worksheet
-Part of the design process is planning.  The "Pong Planning Worksheet" is an example of how to plan.  Fill out the planning worksheet first before writing any code.   Describe your own "game play" or animation rules using 1-2 paragraphs. 
+Part of the design process is planning.  The "Pong Planning Worksheet" is an example of how to plan.  Create a similar planning worksheet first before writing any code.   Describe your own "game play" or animation rules using 1-2 paragraphs. 
 
 ## Grading Scheme/Rubric
 
 | Functional Correctness (Behavior)                                                    |           |
 | ------------------------------------------------------------------------------------ | --------- |
 | Players can control sprites with required keys                                       | 2 points  |
-| Random-sprite begins from a fixed location and after certain event(s)                | 3 points  |
+| Random-sprite begins from a fixed location and returns there after certain event(s)           | 3 points  |
 | Random-sprite bounces correctly and moves within the window space                    | 4 points  |
-| Random-sprite move changes after certain event(s)                                    | 3 points  |
+| Random-sprite's movement changes after certain event(s)                              | 3 points  |
 | Score is changed when some interaction happens between sprites                       | 3 points  |
 | Animation ends when some score is achieved                                           | 2 points  |
 | Winner or conclusion is announced when animation ends                                | 1 point   |

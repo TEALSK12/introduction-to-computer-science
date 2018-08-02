@@ -27,9 +27,9 @@ Your challenge is to create a project of your own that contains similar elements
     -  **Penny Catcher** <br/>
        The Canadian penny, also called a one-cent piece, is a coin worth one one-hundreth of a dollar.  The production of the penny ceased in May 2012, and the Royal Canadian Mint ceased distribution of them February 2013.   However, as with all discontinued currency in the Canadian monetary system, the coin is still legal tender.   You might still see them now and again.  Learn more about this precious little coin here:  https://www.mint.ca/store/mint/about-the-mint/phasing-out-the-penny-6900002#.W2KisRL0lBw  https://en.wikipedia.org/wiki/Penny_(Canadian_coin) 
        
-       Imagine that decades have passed, and hardly any young person has seen a Canadian penny.  You go to your grandfather's attick to clean-up, and by accident, spill several basket of coins.  Coins are flying around randomly.  Your job is to catch the pennies with your basket as fast as possible.  Some coins are falling into cracks in the wood.  Some coins are not pennies (and you don't care about them).  To complicate matters, a window washer pops by and he happens to be a numismatist (pronounced "noo-miz-ma-ticks") someone who collects coins.  He is also trying to catch the pennies, and competing with you...
+       Imagine that decades have passed, and hardly any young person has seen a Canadian penny.  You go to your grandfather's attic to look for something, and by accident, spill several basket of coins.  Coins are flying around randomly.  Your job is to catch the pennies with your basket as fast as possible.  Some coins are falling into cracks in the wood.  Some coins are not pennies (and you don't care about them).  To complicate matters, a window washer pops by and he happens to be a numismatist (pronounced "noo-miz-ma-ticks") someone who collects coins.  He is also trying to catch the pennies, thus competing with you...
        
-    -  **Your Own** <br/>
+    -  **On Your Own** <br/>
         Come up with your own creative idea!  
 
 2.  **Required Checkpoints**

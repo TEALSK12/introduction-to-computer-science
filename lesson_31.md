@@ -55,7 +55,7 @@ Students will be able to...
     -   Discuss advantages to writing algorithms using abstraction
         -   More concise code, more structure, easier to follow, ability to ignore details until relevant
 4.  Activity, part 2
-    -   Have students return to their groups and develop an algorithm for constructing and cooking a food that invloves layers (ex. [lasagna ](https://en.wikipedia.org/wiki/Lasagne).  
+    -   Have students return to their groups and develop an algorithm for constructing and cooking a food that invloves layers (ex. [lasagna](https://en.wikipedia.org/wiki/Lasagne)).  
         -   Encourage students to be aware of opportunities for abstraction and/or procedural decomposition when writing their algorithms
         -   As much as possible, students should abstract while writing the algorithm rather than writing a complete algorithm and then making edits
     -   Emphasize the balance between conciseness and readability

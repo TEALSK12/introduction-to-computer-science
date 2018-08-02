@@ -6,6 +6,22 @@
 
 Platform games are among the most widely recognized types of video games.  Composing about one third of all console games at the peak of their popularity, platform games are characterized by their relative simplicity and by the common gameplay element of jumping across suspended platforms (hence the name) to avoid falling into a hazard.  Platform games also typically include enemy characters, items that grant the hero special abilities ("power-ups"), and a "checkpoint" system that allows the player to restart from partway through a game or level when he or she dies.
 
+
+---
+#### Emphasize with students...
+
+#### Big Ideas - Personal design interests require the evaluation and refinement of skills;  Tools and technologies can be adapted for specific purposes
+
+Consider using the familiar platform game concept to not only entertain, but also educate or bring awareness to social concerns, an environmental issue, or some other context.  
+
+Example1: In British Columbia, many efforts exist to promote and guide the sustainable future of wild Pacific salmon and their habitat.  http://www.pac.dfo-mpo.gc.ca/sep-pmvs/index-eng.html   Students can create a game where the player can help salmon swim back to the stream whree they were born, jumping upstream through ladders and fishways,  battling hazards and enemies (predators, fishermen).  Game play can introduce elements of education and awareness.  Read about the amazing salmon here:  https://blog.wwf.ca/blog/2015/03/19/did-you-know-10-amazing-things-about-salmon/ 
+
+Example2:  The summer of 2017 was one of the worst wildfire seasons in British Columbia's history.  https://www2.gov.bc.ca/gov/content/safety/wildfire-status/about-bcws/wildfire-history/wildfire-season-summary  Students can create a game where a traveller drives through different town, parks, and highways in your area,  extinguishing hazards (cigarette butts, campfires), battling enemies (fires out of control), enforcing fire bans, reporting fires, being a good neighbour (fire-smart), home prevention (https://www2.gov.bc.ca/gov/content/safety/wildfire-status/prevention/for-your-home-community), rescuing animals, and so on.   Game play can introduce elements of geography (parks and forests, lakes and waters) and climate (temperature and dryness).  Read more about wildfires in BC here:  https://www2.gov.bc.ca/gov/content/safety/wildfire-status
+
+How can the classic platform game be adapted to a specific purpose, cause or context that interests you? 
+
+---
+
 ## Details
 
 1.  **Behavior**

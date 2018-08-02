@@ -32,30 +32,31 @@ As students get to know people in their community, they may even discover indivi
 
 ## Instructor's Notes
 1.  **Looking at local industry**
-   Before students start thinking about who to interview, find out how much your students know about technology companies in your city or town.  Spend some time to search online.  Write on the board some examples of technology companies, or companies that have technology departments.  
+
+Before students start thinking about who to interview, find out how much your students know about technology companies in your city or town.  Spend some time to search online.  Write on the board some examples of technology companies, or companies that have technology departments.  
 
 2.  **Conducting the interview**
-  * Introduce students to the project, giving them a timeline 
-  * Encourage students to think about the different people around them:
-      * those who work in technology organizations
-      * those who have technical positions in other types of organizations
-      * could be friend, relative, or even someone that you can approach 
-  * Encourage students to create a variety of questions, for example:
-      * what does your work day look like?
-      * what do you like, or not like, about your job?
-      * what inspires you?  
-      * what are some challenges?
-      * what educational background is needed to do your job?
-      * what kind of technical skills are needed in your job?
-      * any advice for students?
-  * Remind students to be professional and respectful when interviewing.  Avoid questions that may be awkward or too personal (like salary), and always thank the person for their time.  
+     * Introduce students to the project, giving them a timeline 
+     * Encourage students to think about the different people around them:
+        * those who work in technology organizations
+        * those who have technical positions in other types of organizations
+        * could be friend, relative, or even someone that you can approach 
+     * Encourage students to create a variety of questions, for example:
+       * what does your work day look like?
+       * what do you like, or not like, about your job?
+       * what inspires you?  
+       * what are some challenges?
+         * what educational background is needed to do your job?
+        * what kind of technical skills are needed in your job?
+        * any advice for students?
+    * Remind students to be professional and respectful when interviewing.  Avoid questions that may be awkward or too personal (like salary), and always thank the person for their time.  
   
 3. **Summarize and reflect**
-  * Summarize key points, and personal take-aways
-      * What surprised you?
-      * What was interesting?
-      * Did you feel inspired or get ideas about possibilities jobs you could do in the future?
-  * Write 1-2 paragraphs of reflection
+     * Summarize key points, and personal take-aways
+         * What surprised you?
+         * What was interesting?
+        * Did you feel inspired or get ideas about possibilities jobs you could do in the future?
+     * Write 1-2 paragraphs of reflection
  
  4.  **Share with peers**
 Ask each students to share a few key points with the class. 

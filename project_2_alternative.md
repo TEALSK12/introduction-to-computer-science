@@ -2,25 +2,37 @@
 
 Students will implement a well-written and engineered alternative to the Pong Project.
 
+## Learning Objectives
+Students will be able to ...
+ 
+* Research, ideate, and apply personal interests to an application that includes:
+    *   1 or more moving sprites
+    *   2 or more user keyboard controlled sprites 
+    *   The sprites should interact in a way that allows the users to accumlate a score or value. 
+    
+* Practice good style and conventions to create readable and maintainable code                                                                                                                                                       
 ## Overview
 
-In 1972, when video games were still very new and relatively unknown, a new game took the world by storm.  A simple simulation of tennis using two-dimensional graphics, minimal sounds, and extremely basic controls, Pong became the first arcade game to achieve widespread popularity and is credited as the genesis of the modern video game industry.  Today, the game has been played, remade, spun-off, and referenced innumerable times and it remains, to many, the single most identifiable and recognizable game in the history of video games.
+Read over Lesson 2.7 and the Pong Project (project_2.md) file. 
+Your challenge is to create a project of your own that contains similar elements. 
 
 ## Details
 
-1.  **Behavior**
-    1.  **Gameplay** <br/>
-        Pong is played by two players each controlling a paddle with the goal of defending their end of the "field."  A ball begins play in the middle of the screen and, at the start of each round, moves in a random direction.  The ball bounces off the upper and lower edges of the field and the players' paddles.  Each time the ball bounces off a paddle, its speed increases by a small amount.  When the ball bounces off a paddle, its direction is reversed with a small random variation to add unpredictability to the game.
-    2.  **Scoring** <br/>
-        If the ball touches the left or right edge of the field, a point is scored for the opponent of the player who was defending that edge and the ball resets to the middle of the field.  When one player reaches 5 points, the game is over and that player is the winner.  The winner is announced on the screen and the players are given the opportunity to start a new game.
-    3.  **Player Control** <br/>
-        Paddles are positioned a short distance away from the side they are defending, and can only move up and down, not side to side.  Each player should have two keys to control the movement of their paddle: one for up, and one for down.  Paddles move at a set speed that is the same for both players can cannot be controlled.  The player on the left will control his/her paddle with the 'w' and 's' keys.  The player on the right will use the up arrow and down arrow keys.
-         
+1.  **Possible Ideas**
+    1.  **Cretaceous World** <br/>
+        The Elasmosaurus was a kind of water reptile that lived about 80 million years ago, in the Cretaceious period.  They has super long necks (body up to 14 meters), and their fossils have been found in British Columbia.  The speedy Albertosaurus (an early relative of the famous Tyrannosaurux rex) lived about 70 million years ago.  It was first discovered in Alberta, and fed on another dinosaur discovered in found in Canada called the Edmontosaurus. 
+        
+        Imagine that a few Canadian dinosaurs living on an imaginary northern frontier is being endangered by melting glaciers and sharp icebergs.  They roam around randomly.  Your goal is to move your truck (user-controlled-sprite1) to catch a dinosaur, so the it can be safely transported to another habitat where they can be safe to roam and survive.  Meanwhile a moving iceberg (user-controlled-sprite2) is endangering the animals.  When the dinosaur comes in contact with the iceberg, it is injured, and it's movement is affected. 
+        
+    2.  **Penny Catcher** <br/>
+        
+    3.  **Your Own** <br/>
+        Come up with your own creative idea!
 
 2.  **Required Checkpoints**
-    1.  Players can control paddles; the ball starts in the middle, moves in a random direction, and bounces
-    2.  The ball speeds up when it hits a paddle, and resets to the middle when it hits the left or right edge
-    3.  Final due date: A point is scored when the ball hits the edge on the opponent's side of the field; the game ends when one player reaches five points; players can start a new game after the game ends
+    1.  Create 2 or more user controlled sprites; Create 1 or more randomly moving sprite. 
+    2.  When the random-sprite touches a wall it changes movement and/or direction.
+    3.  Final due date: When the user-controlled sprite and random-sprite touch, something happens to the score or counter.   When the score or counter reaches are certain value, or condition, the animation is over.  
 
 ## Planning Worksheet
 Part of the design process is planning.  The "Pong Planning Worksheet" is an example of how to plan.  Fill out the planning worksheet first before writing any code.

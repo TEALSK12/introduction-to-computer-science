@@ -2,12 +2,27 @@
 
 ## Learning Objectives
 Students will be able to...
-  * Define key scenarios for a project and the features required to implement each scenario
+  * Define key **user-scenarios** for a project and the features required to implement each scenario
   * Explain the importance of wireframing when designing an application
+  * Capture key scenarios using **sketches** (hand drawn, or with drawing tool)
+  * Refine design based on user-centred research
+  
+---
+
+#### Emphasize with students ...
+
+#### Curriculum Competencies - Prototype, Test, and Make
+
+The term "Agile Development" is used in software development to describe an iterative and incremental project management process, involving short cycles called "sprints".   Each sprint involves defining a list of tasks, doing a set of tasks, testing, going back to review the tasks list, and refining the design as needed.  
+
+From Lessons 6.3 to 6.5 you will be doing this type of iterative and incremental work.  Lesson 6.3 does not involve any "coding" yet. You will start with sketching things down with pencil-and-paper, or with a drawing tool.  Use the handouts to help you.  You may revise some sketches later on, after you have started implementation (ie, "coding") and testing. 
+
+---
 
 
 ## Materials/Preparation
 * [Final Project Plan Organizer](Final Project Plan Organizer.docx) handout
+* Optionally, students can keep a daily journal notebook
 
 ## Pacing Guide
 | Duration  | Description                                   |

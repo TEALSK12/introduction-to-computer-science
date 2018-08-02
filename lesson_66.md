@@ -18,7 +18,9 @@ Students will be able to...
 At the end of the day, software must connect with people.  Now it's time to share your project with others!  
 It's also fun, and helpful, to see what others have been doing.  
 
-Furthermore, it's time to reflect on the whole development process, and share what you have learnt from this experience.  Invite questions and feedback from peers and guests.  Celebrate your achievement, and consider ideas for improvement and future work. Think about how you could do things differently using other tools/strategies. Think about how this project might be apapted for, or influenced by, another culture, social situation, or target user group. 
+Furthermore, it's time to reflect on the whole development process, and share what you have learnt from this experience.  
+
+Invite questions and feedback from peers and guests.  Celebrate your achievement.  Consider ideas for improvement and future work. Think about how you could do things differently using other tools/strategies. Think about how this project might be apapted for, or influenced by, another culture, social situation, or target user group. 
 
 ---
 
@@ -31,7 +33,7 @@ Furthermore, it's time to reflect on the whole development process, and share wh
 | ------------- | --------------------------------------------- |
 | _Sharing Day_   |                                               |
 | 5 minutes     | Welcome, introduction |
-| 45 minutes    | Project Sharing (Format defined by teacher)                           |
+| 40 minutes    | Project Sharing (Format defined by teacher)                           |
 | 10 minutes    | Concluding thoughts                                   |
 
 
@@ -40,12 +42,20 @@ Furthermore, it's time to reflect on the whole development process, and share wh
 1.  Preparation
     - Choose a date for Project Sharing ahead of time, and inform students of the format.
     - Check that each student's planning documents, and or daily journal notes, are up to date
-    - Some possible formats:   
-        * 30 minutes for individual presentations, followed by 20 minutes of "open-floor" time where students can roam around the classroom and look at each other's work like a traditional science-fair;   
-        * prepare a Project Walk-through video ahead of time, showcasing their project; 
-        * share in pairs, and then shift to the next table/chair round-robin or jigsaw style;  
-        * conduct an interview of a few projects at the beginning of class over a period of time. 
+    - Some possible formats (depends on the size of your class):   
+        * 40 minutes for individual presentations, followed by 10 minutes of "open-floor" time where students can roam around the classroom and look at each other's work science-fair style, and answer questions;   
+        * Prepare a Project Walk-through video ahead of time, showcasing their project; 
+        * Share in pairs, and then shift to the next table/chair round-robin, or jigsaw style;  
+        * Conduct an interview of a few projects at the beginning of class over a period of time. 
     - This may be a good opportunity to invite guests or visitors to your classroom. 
+---
+### Emphasize with students...
+
+### Curricular Competencies - Applied SKills
+
+Peer feedback is valuable.  It helps us grow.  This can be done by having a few minutes for Q&A after the presentation.  Or, peers can be invited to complete a short survey.  Remember to put any emotions or hard feelings aside. 
+
+---
 
 2.  Sharing Content
     -   Inform students that their sharing should include:  pitch or poster (highlight key features); demo (how it works); reflections on their development process (what went well? what didn't go well);  lessons learnt;  ideas for future work.

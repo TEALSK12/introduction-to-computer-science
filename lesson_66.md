@@ -43,7 +43,7 @@ Furthermore, it's time to reflect on the whole development process, and share wh
     - Some possible formats:   
         * 30 minutes for individual presentations, followed by 20 minutes of "open-floor" time where students can roam around the classroom and look at each other's work like a traditional science-fair;   
         * prepare a Project Walk-through video ahead of time, showcasing their project; 
-        * share in pairs, and then shift to the next table/chair round-robin style;  
+        * share in pairs, and then shift to the next table/chair round-robin or jigsaw style;  
         * conduct an interview of a few projects at the beginning of class over a period of time. 
     - This may be a good opportunity to invite guests or visitors to your classroom. 
 

@@ -105,7 +105,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 ## Accommodations/Differentiation
 
 -   For students that finish the lab early, encourage them to add more advanced features to their Kaleidoscope program, exploring parts of SNAP not covered in the lab.
--   Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity.  You can also use [Helping Trios.]((https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf) 
+-   Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity.  You can also use [Helping Trios.](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf) 
     -   No parts of this lab can be easily skipped without impacting learning objectives, so provide as much support or scaffolding as you can to ensure all students are able to complete the lab.  Add days to the lesson if needed.
 
 ## Forum discussion

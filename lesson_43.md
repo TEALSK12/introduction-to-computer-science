@@ -27,7 +27,7 @@ Students will be able to...
 
 1.  Lecture
 
-    1.  In small groups, ask students to consider how to count the number of students with July birthdays in the room
+    1.  In small diverse groups, ask students to consider how to count the number of students with July birthdays in the room
         -   Provide only a few minutes to work through this-- students need not write full, formal algorithms, but simply desribe an approach
         -   Have groups share with each other and work together to come up with a single approach, hopefully settling on asking each student if s/he has a July birthday and counting the number of yeses (or something similar).
     2.  Define "traversal" as _the process of accessing each element of a list in order and performing some operation_

@@ -13,7 +13,7 @@ Students will be able to...
 
 -   [Do Now 1.2: Tracing and Debugging](do_now_12.md) If you like you can place a picture of [Admiral Grace Hopper](https://upload.wikimedia.org/wikipedia/commons/2/21/Grace_Murray_Hopper%2C_in_her_office_in_Washington_DC%2C_1978%2C_%C2%A9Lynn_Gilbert.jpg) or her Mark II [notes](https://upload.wikimedia.org/wikipedia/commons/8/8a/H96566k.jpg) that show the bug she found in the computer.
 -   [Lab 1.2](lab_12.md) handout (SNAP Scavenger Hunt) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%201%20Word/Lab%201.2%20SNAP%20Scavenger%20Hunt.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%201%20PDF/Lab%201.2%20SNAP%20Scavenger%20Hunt.pdf))
--   Helping Trios handout [Download in Word][Link to PDF]
+-   Helping Trios handout [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%201%20PDF/Helping%20Trios.pdf)
 -   Read through the handout so that you are familiar with the requirements and can assist students
 -   Index cards with each students name on them. One name per index card.
 
@@ -63,7 +63,7 @@ At that point you have lots of options:  You can ask a follow-up to the same stu
 ## Accommodations/Differentiation
 
 -   Colorblind students may not be able to identify the block colors, but can still recognize the organization of categories. Be sensitive to this, but no modifications are likely required.
--   Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity. Use you could also use ["Helping Trios"]
+-   Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity. Use you could also use ["Helping Trios."](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%201%20PDF/Helping%20Trios.pdf)
 -   The bonus assignment (3.4) should be used for students who finish quickly, and can be a setup for the [Animation Project](project_1.md).
 
 ## Forum discussion

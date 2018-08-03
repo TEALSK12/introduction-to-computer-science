@@ -12,6 +12,7 @@ Students will be able to...
 
 -   [Do Now 4.2: Letters of a Word](do_now_42.md)
 -   [Lab 4.2 handout (You Talkin' to Me?)](lab_42.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%204%20Word/Lab%204.2%20You%20Talkin%20To%20Me.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%204%20PDF/Lab%204.2%20You%20Talkin%20To%20Me.pdf))
+-   [SNAP List Components]([Download in Word]()) ([Link to PDF]())
 
 ## Pacing Guide
 
@@ -38,6 +39,7 @@ Students will be able to...
     -   Point out and explain basic list operations blocks
         -   The "item," "add," and "delete" blocks will be most important.  The "length" block will be useful as well.
         -   Point out that these blocks all take a list as an argument.
+        -   Share this visual representation of SNAP! Lists [] with your students. Consider posting it in your classroom so students can refer to throughout the unit.
 -   Activity
     -   Students should complete the "You Talkin' to Me?" activity individually or in pairs
         -   Encourage students to be creative with their word lists

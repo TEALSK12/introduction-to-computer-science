@@ -5,7 +5,7 @@ In this lab, you will create a list of names and then look through the list pull
 
 ## 1 - Role Call
 
-1.  Create a list of names with at least six different names (e.g. the names of favorite music artists, family members,  authors, celebrities, etc.).  Try to vary the names as much as you can. 
+1.  Create a list of names with at least six different names (e.g. the names of your favorite music artists, family members, authors, celebrities, etc.).  Try to vary the names as much as you can. 
 
 2.  Write a SNAP script to welcome each person to the program by name, one at a time.  (For example, "Welcome, John."  "Welcome, Kayla."  "Welcome, Michael.")  Make sure not to modify the list of names when you run the script—you'll want the list again later.  Also make sure your script still works even if the list of names changes.
 

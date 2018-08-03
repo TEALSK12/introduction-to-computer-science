@@ -1,6 +1,6 @@
 # You Talkin' to Me?
 
-In this lab, you will create a simple sentence generator using lists.  (Adapted from BJC: <http://bjc.berkeley.edu/bjc-r/cur/programming/lists/hof/what-good-are-lists.html?topic=berkeley_bjc%2Flists%2Flists-I.topic>)
+In this lab, you will create a simple sentence generator using lists.  
 
 ## 1 - Let's Talk
 

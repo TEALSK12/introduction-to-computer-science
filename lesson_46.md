@@ -17,7 +17,7 @@ Students will be able to...
 -   Guess My Word planning worksheet: ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project_4_Guessmyword_Planning_Worksheet.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project_4_Guessmyword_Planning_Worksheet.pdf))
 
 -   [Optional] Printouts of the specification
--   Link to an online version of Hangman, such as <http://www.playhangman.com/>
+-   Link to an online version of a guessing game, such as <http://www.searchamateur.com/Play-Free-Online-Games/Bubbletoonia-Cake-Deal.htm>
 -   A word list from which words can be selected for the game, such as <http://www.mieliestronk.com/corncob_lowercase.txt>
 
 ## Pacing Guide
@@ -31,7 +31,7 @@ Students will be able to...
 ## Instructor's Notes
 
 -   Review/Introduction
-    -   Review the various skills and concepts have been learned so far in the unit.
+    -   Review the various skills and concepts have been learned so far in the unit. Consider making it a Kahoot! game.
         -   Put particular emphasis on the maintenance of lists and traversals
     -   Remind students that their solutions to previous assignments are an excellent resource when trying to accomplish similar tasks.
     -   Walk students through the project specification, pointing out important details, potential pitfalls, and requirements.

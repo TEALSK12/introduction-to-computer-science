@@ -11,7 +11,7 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 4.2: Letters of a Word](do_now_42.md)
--   [Lab 4.2 handout (You Talkin' to Me?)](lab_42.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%204%20Word/Lab%204.2%20You%20Talkin%20To%20Me.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%204%20PDF/Lab%204.2%20You%20Talkin%20To%20Me.pdf))
+-   [Lab 4.2 handout (You Talkin' to Me?)](lab_42.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.2%20You%20Talkin%20To%20Me.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.2%20You%20Talkin%20To%20Me.pdf))
 
 ## Pacing Guide
 

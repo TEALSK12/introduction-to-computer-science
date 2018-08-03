@@ -12,7 +12,7 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 3.2: Drawing Squares](do_now_32.md)
--   Lab 3.2 handout - [Drawing Shapes Again](lab_32.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%203%20Word/Lab%203.2%20Drawing%20Shapes%20Again.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%203%20PDF/Lab%203.2%20Drawing%20Shapes%20Again.pdf))
+-   Lab 3.2 handout - [Drawing Shapes Again](lab_32.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.2%20Drawing%20Shapes%20Again.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.2%20Drawing%20Shapes%20Again.pdf))
 
 
 ## Pacing Guide
@@ -30,8 +30,8 @@ Students will be able to...
 1.	Lecture and Demonstration
 	-	Review with students the concepts of abstraction, generalization, and detail removal
 		- 	Provide an example of a poorly written algorithm that doesn't demonstrate the concepts of abstraction, generalization, and detail removal and a well written algorithm that does demonstrate them.  
-		-	Ask students to point out the differences and ask what concepts they demonstrate that were previously learned 
-		-	Ask students to provide definitions of abstraction, generaralization, and detail removal refering to the sample algorithm provided 
+		-	Ask students to point out the differences and ask what concepts they demonstrate that were previously learned
+		-	Ask students to provide definitions of abstraction, generaralization, and detail removal refering to the sample algorithm provided
 	-	Discuss when abstraction can be used to help simplify code
 		-	Guide students to realization that much code is used in many similar circumstances and shouldn’t be rewritten
 		-	Emphasize potential for errors when changes are made in addition to inconvenience when code is redundant

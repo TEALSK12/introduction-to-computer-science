@@ -13,7 +13,7 @@ Students will be able to...
 -   [Do Now 1.5: Day 1, Knock Knock](do_now_15.md)  
 -   [Do Now 1.52: Day 2, Click Event Interaction](do_now_152.md)  
 -   [Do Now 1.53: Day 3, Movement Interaction](do_now_153.md)  
--   Reference to Storytelling project: [Project 1 - Storytelling](project_1.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%201%20Storytelling.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%201%20Storytelling.pdf))
+-   Reference to Storytelling project: [Project 1 - Storytelling](project_1.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%201%20Storytelling.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%201%20Storytelling.pdf))
 -   _Optional_: Printouts of the project specification
 -   A list of possible plays to find a scene to animate: http://www.npr.org/sections/ed/2015/07/30/427138970/the-most-popular-high-school-plays-and-musicals
 -   A list of possible nursery rhymes

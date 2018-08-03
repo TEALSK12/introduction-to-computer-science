@@ -12,7 +12,7 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 1.2: Tracing and Debugging](do_now_12.md) If you like you can place a picture of [Admiral Grace Hopper](https://upload.wikimedia.org/wikipedia/commons/2/21/Grace_Murray_Hopper%2C_in_her_office_in_Washington_DC%2C_1978%2C_%C2%A9Lynn_Gilbert.jpg) or her Mark II [notes](https://upload.wikimedia.org/wikipedia/commons/8/8a/H96566k.jpg) that show the bug she found in the computer.
--   [Lab 1.2](lab_12.md) handout (SNAP Scavenger Hunt) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%201%20Word/Lab%201.2%20SNAP%20Scavenger%20Hunt.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%201%20PDF/Lab%201.2%20SNAP%20Scavenger%20Hunt.pdf))
+-   [Lab 1.2](lab_12.md) handout (SNAP Scavenger Hunt) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.2%20SNAP%20Scavenger%20Hunt.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.2%20SNAP%20Scavenger%20Hunt.pdf))
 -   Helping Trios handout [Download in Word][Link to PDF]
 -   Read through the handout so that you are familiar with the requirements and can assist students
 -   Index cards with each students name on them. One name per index card.

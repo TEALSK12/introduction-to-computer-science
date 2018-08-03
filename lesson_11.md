@@ -12,7 +12,7 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Lab 1.1 handout](lab_11.md) (Welcome to SNAP!) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
--   Helping Trios handout Helping Trios handout [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%201%20PDF/Helping%20Trios.pdf)
+-   Helping Trios handout Helping Trios handout [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
 -   Ensure that all classroom computers can access <http://snap.berkeley.edu/run>.
 -   Read through the lab so that you are familiar with the requirements and can assist students as needed
 
@@ -105,7 +105,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 ## Accommodations/Differentiation
 
 -   For students that finish the lab early, encourage them to add more advanced features to their Kaleidoscope program, exploring parts of SNAP not covered in the lab.
--   Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity.  You can also use [Helping Trios.]((https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%201%20PDF/Helping%20Trios.pdf) 
+-   Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity.  You can also use [Helping Trios.]((https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf) 
     -   No parts of this lab can be easily skipped without impacting learning objectives, so provide as much support or scaffolding as you can to ensure all students are able to complete the lab.  Add days to the lesson if needed.
 
 ## Forum discussion

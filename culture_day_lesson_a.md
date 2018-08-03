@@ -102,8 +102,7 @@ Students will be able to...
  * CS Problem: Higher Demand for Retrieval and Organization of Data 12:07-13:05
  * Manual Tagging & Geo Tagging 13:05-17:30
  * Issue of Tracking & Dangers of Oversharing 17:30-18:31
- * Berkeley Multimedia Location Estomation Project [http:\/\/multimedia.icsi.berkeley.edu\/multimodal-location-estimation\/](http://multimedia.icsi.berkeley.edu/multimodal-location-estimation/)
- 18:31---
+ * Berkeley Multimedia Location Estomation Project 18:31---
  * ICSI’s Evaluation Results 19:49
  * YouTube Cybercasing 20:47
  * Privacy Implication of Internet and Data 22: 30-25:40

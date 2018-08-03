@@ -6,7 +6,7 @@ In this lab, you will use conditional statements and variables to build a simple
 
 You will write a SNAP program to choose a random number between 1 and 10 and then ask the user to guess a number.  If the user's guess matches the random number, the user wins.  If not, the user loses.  In either case, the user should be shown a message indicating whether he won or lost and the secret random number should be revealed.
 
-1.  Fill out a [Planning Worksheet](<SNAP Program Design and Planning Worksheet.docx>) for the above program.
+1.  Fill out a [Planning Worksheet](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx) for the above program.
 
 2.  Write the simple version of the guessing game program described above.
 

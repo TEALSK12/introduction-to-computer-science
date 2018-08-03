@@ -10,7 +10,7 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 3.3: Jumping](do_now_33.md)
--   [Lab 3.3 handout](lab_33.md) (Let Me Check My Calendar) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%203%20Word/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%203%20PDF/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.pdf))
+-   [Lab 3.3 handout](lab_33.md) (Let Me Check My Calendar) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.pdf))
 
 
 ## Pacing Guide

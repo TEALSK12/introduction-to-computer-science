@@ -4,7 +4,7 @@ Students will implement a Snap! "Guess my Word" word game.
 
 ## Overview
 
-In Guess My Word, one player (the "chooser") chooses a secret word and another player (the "guesser") attempts to guess the word one letter at a time.  If a guessed letter appears in the word, all instances of it are revealed.  If not, the guesser loses a chance.  If the guesser figures out the secret word before he or she runs out of chances, he or she wins.  If not, the player who chose the word wins.  Chances are tracked using a figure drawing of your choice.  You can build a bear or build an ice cream cone, be creative.  The figure is drawn one part at a time, and the guesser loses when the entire figure has been drawn. This game is also the basis for the TV game show Wheel of Fortune.
+In Guess My Word, one player (the "chooser") chooses a secret word and another player (the "guesser") attempts to guess the word one letter at a time.  If a guessed letter appears in the word, all instances of it are revealed.  If not, the guesser loses a chance.  If the guesser figures out the secret word before he or she runs out of chances, he or she wins.  If not, the player who chose the word wins.  Chances are tracked using a figure drawing of your choice. You can build a bear or build an ice cream cone, or disassemble a snowman, be creative.  The figure is drawn one part at a time, and the guesser loses when the entire figure has been drawn or disappears. This game is also the basis for the TV game show Wheel of Fortune.
 
 ## Details
 

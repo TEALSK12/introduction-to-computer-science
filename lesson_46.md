@@ -47,13 +47,12 @@ Students will be able to...
 
 ## Accommodations/Differentiation
 
--   The Guess My Word project is similar to the "hangman" game and may be troubling to some students, especially in parts of the country with a history of lynching or other similar types of violence.  If you believe that to be the case, feel free to rename the game (e.g. "Wheel of Fortune") and choose a different image or theme for tracking incorrect guesses (such as popping balloons).
 -   If any students do not have the ability to work at home, ensure enough in-class time is provided to complete the assignment, offering extensions if necessary.
 -   Advanced students can be encouraged to add extensions such as:
     -   Enabling guessing of the entire word
     -   Allowing the user to specify the length of the word to be guessed
     -   Keeping statistics (win-loss record, fewest guesses, etc.) across games
--   _Very_ advanced students can attempt Evil Hangman: <http://inst.eecs.berkeley.edu/~cs10/sp13/hw/hw3.html>
+-   _Very_ advanced students can attempt Evil Hangman: <http://inst.eecs.berkeley.edu/~cs10/sp13/hw/hw3.html>. The "hangman" game may be troubling to some students, especially in parts of the country with a history of lynching or other similar types of violence.  If you believe that to be the case, feel free to chooses a different word guessing game (e.g. "Wheel of Fortune").
 -   Struggling students can be given starter code or exempted from certain features
     -   Though it is the most difficult part of the assignment, tracking the "blanks" is the best practice working with lists and should be preserved.  
     -   The requirements to display a graphical figure, track repeated guesses, and specifically recognize a win can be removed for students in need of significant simplification.

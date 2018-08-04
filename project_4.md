@@ -26,7 +26,7 @@ In Guess My Word, one player (the "chooser") chooses a secret word and another p
         The game can end in one of two ways:
 
         * If the player has guessed the complete secret word, he or she wins.
-        * Otherwise, if the player has run out of chances and the complete figure has been drawn, the player loses.
+        * Otherwise, if the player has run out of chances and the complete figure has been drawn, or disassembled as in the Snowman sample solution the player loses.
 
         In either case, when the game ends the host should stop asking for guesses.  The host should inform the player whether he or she won or lost, and the assistant should reveal the entire secret word.
 

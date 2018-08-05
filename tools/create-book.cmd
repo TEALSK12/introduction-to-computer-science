@@ -29,3 +29,6 @@ REM -- Normalize line endings to newlines.
 move /y >nul %targetBook% %targetBook%.tmp
 tools\eol "\n" <%targetBook%.tmp >%targetBook%
 del %targetBook%.tmp
+
+echo.
+echo Finished. You can find the resulting unified book in `build\intro-book-complete.md`.

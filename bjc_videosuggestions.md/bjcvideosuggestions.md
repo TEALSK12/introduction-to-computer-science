@@ -171,8 +171,7 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
  - CS Problem: Higher Demand for Retrieval and Organization of Data 12:07-13:05
  - Manual Tagging & Geo Tagging 13:05-17:30
  - Issue of Tracking & Dangers of Oversharing 17:30-18:31
- - [Berkeley Multimedia Location Estimation Project]( http://multimedia.icsi.berkeley.edu/multimodal-location-estimation)
-18:31-28:14
+ - Berkeley Multimedia Location Estimation Project 18:31-28:14
      - ICSI’s Evaluation Results 19:49
      - YouTube Cybercasing 20:47
      - Privacy Implication of Internet and Data 22: 30

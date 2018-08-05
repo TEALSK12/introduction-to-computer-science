@@ -1,6 +1,6 @@
 # You Talkin' to Me?
 
-In this lab, you will create a simple sentence generator using lists.  
+In this lab, you will create a simple sentence generator using lists.
 
 ## 1 - Let's Talk
 

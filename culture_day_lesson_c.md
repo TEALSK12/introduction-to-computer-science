@@ -4,7 +4,6 @@
 Students will be able to...
 * Document their technology learning journey
 * Self-reflect on the joys and challenges of technology learning
-* Explore future jobs and careers that involve technology skills
 
 ---
 #### Emphasize with students...
@@ -34,7 +33,7 @@ One suggestion is to omit bell work, and provide students with 10 minutes to do 
 | 5 minutes | Debrief and wrap-up |
 
 ## Materials/Preparation
-* Students should have ndividual notebooks, a regisgtered blog space, or worksheet handout (see possible questions below) for students to use
+* Students should have individual notebooks, a registered blog space, or worksheet handout to journal with.
 * Teachers can provide a list of guidance questions (see below), or a survey that contains these questions. 
 
 ## Instructor's Notes
@@ -43,7 +42,7 @@ One suggestion is to omit bell work, and provide students with 10 minutes to do 
   * Create a schedule of when students are expected to write in their Journal
   
 2. Self-evaluation and reflection questions
-  * Beginning of course entry
+  * Beginning of the course entry
       * What tools and technologies have you used before?
       * On a scale of 1-5, how confident are you with them (5 being super-confident)
       * What are your worries and concerns about this course?
@@ -57,18 +56,30 @@ One suggestion is to omit bell work, and provide students with 10 minutes to do 
       * What did you like best about the course so far?
       * What do you not like the most about the course so far?
       * other thoughts
-  * Final entry
+   
+ ---
+#### Emphasize with students...
+
+#### Curriculum Competencies - Applied Design is a process
+
+If something doesn't work, don't be discouraged!   It's part of the learning and development process.   In fact, even experienced programmers spend alot of time "debugging" (finding logic errors) in their design and code.  This is when you can practice crictial thinking steps of breaking down the problem, isolating the problem, and analyzing the values of variables, step by step.  It can be frustrating.  But it's also really fun and rewarding, when something "works"!   Savour those moments.  Stay calm, and keep going on.
+
+Another tip:  Don't be afraid to ask for help - from peers and teachers.  In fact, professional developers frequently consult different focus groups online to ask questions, and share solutions.   One popular developer community is Stack Overflow https://stackoverflow.com/
+
+---
+      
+  * End of the course entry
       * If you were to give advice to a new student who will start the course, what would it be?
-      * What learning new skills easier, or harder than you thought?  Explain.
+      * Was learning new skills easier, or harder than you thought?  Explain.
       * What are your project or design interests?
       * Would kind of skills would you like to learn next?
-      * What kind of future jobs would you be interested in?
-      * other thoughts
+      * What kind of future jobs might use these skills?
+      * Other thoughts
  
  3.  Share learning journey with peers
  At the end of the course, ask each students to share a few key points with the class.
  This could be done during a end-of-term fun or party day. 
- They can refer to their Final Entry page in their Journal.
+ They can refer to their final Entry page in their Journal.
  
  ---
  #### Emphasize with students...

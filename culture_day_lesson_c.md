@@ -72,9 +72,9 @@ Like learning any new skill, or language, it takes time to get the hang of thing
 
 Here are a few tips to help you enjoy the journey: 
 
-Tip #1:  If something doesn't work, don't be discouraged!   It's part of the process.   In fact, even experienced programmers spend alot of time "debugging" (finding logic errors) in their design and code.  It's detective work.  This is when you can practice crictial thinking steps of breaking down the problem, isolating the error, analyzing the values of variables, step by step.  It can be frustrating.  But it's also really fun and rewarding, when something "works"!   Savour those moments.  Stay calm, and carry on. 
+  * Tip #1:    If something doesn't work, don't be discouraged!   It's part of the process.   In fact, even experienced programmers spend alot of time "debugging" (finding logic errors) in their design and code.  It's detective work.  This is when you can practice crictial thinking steps of breaking down the problem, isolating the error, analyzing the values of variables, step by step.  It can be frustrating.  But it's also really fun and rewarding, when something "works"!   Savour those moments.  Stay calm, and carry on. 
 
-Tip #2:  Don't be afraid to ask for help - from peers and teachers.  In fact, professional developers frequently consult different focus groups online to ask questions, and share solutions.   One popular developer community is Stack Overflow https://stackoverflow.com/
+  * Tip #2:    Don't be afraid to ask for help - from peers and teachers.  In fact, professional developers frequently consult different focus groups online to ask questions, and share solutions.   One popular developer community is Stack Overflow https://stackoverflow.com/
 
 ---
 
@@ -95,4 +95,4 @@ Let's celebrate your learning journey!  Don't let stereotypes, myths, or negativ
 
 ## Accommodation/Differentiation
 * This exercise could also be conducted in the form of a series of online surveys.  The survey should allow for written responses, so that students are free to enter their own thoughts.
-* 
+

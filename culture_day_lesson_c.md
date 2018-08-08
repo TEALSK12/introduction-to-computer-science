@@ -70,7 +70,9 @@ On Journal Writing days, teachers can omit bell work, and provide students with 
 
 Like learning any new skill, or language, it takes time to get the hang of things.  In computer programming, it's very normal, for a section of code to not work the first time. 
 
-Tip #1:  If something doesn't work, don't be discouraged!   It's part of the learning and development process.   In fact, even experienced programmers spend alot of time "debugging" (finding logic errors) in their design and code.  It's detective work.  This is when you can practice crictial thinking steps of breaking down the problem, isolating the error, analyzing the values of variables, step by step.  It can be frustrating.  But it's also really fun and rewarding, when something "works"!   Savour those moments.  Stay calm, and carry on. 
+Here are a few tips to help you enjoy the journey: 
+
+Tip #1:  If something doesn't work, don't be discouraged!   It's part of the process.   In fact, even experienced programmers spend alot of time "debugging" (finding logic errors) in their design and code.  It's detective work.  This is when you can practice crictial thinking steps of breaking down the problem, isolating the error, analyzing the values of variables, step by step.  It can be frustrating.  But it's also really fun and rewarding, when something "works"!   Savour those moments.  Stay calm, and carry on. 
 
 Tip #2:  Don't be afraid to ask for help - from peers and teachers.  In fact, professional developers frequently consult different focus groups online to ask questions, and share solutions.   One popular developer community is Stack Overflow https://stackoverflow.com/
 

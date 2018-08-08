@@ -19,10 +19,7 @@ It's ok not to know everything.  There is always something new to learn.  Just t
 
 ## Pacing Guide
 Have students do self-evaluation journalling at different stages during the course, such as:
-  * first week of course
-  * after unit 2
-  * after unit 4
-  * last week of course
+  * first week of course, after unit 2, after unit 4, and last week of course
   
 One suggestion is to omit bell work, and provide students with 10 minutes to do their Journal Writing. 
 
@@ -81,9 +78,9 @@ Tip #2:  Don't be afraid to ask for help - from peers and teachers.  In fact, pr
 
  
  3.  **Share learning journey with peers**
- At the end of the course, ask each students to share a few key points with the class.
- This could be done during a end-of-term fun or party day. 
- They can refer to their final Entry page in their Journal.
+ 
+   * At the end of the course, ask each students to share a few key points with the class. This could be done during a end-of-term fun or party day.  They can refer to their final Entry page in their Journal.
+   * Celebrate each student's progress in their learning journey!
  
  ---
  #### Emphasize with students...

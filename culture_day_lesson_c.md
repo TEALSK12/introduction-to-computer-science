@@ -4,11 +4,12 @@
 Students will be able to...
 * Document their technology learning journey
 * Self-reflect on the joys and challenges of technology learning
+* Appreciate software development as a process
 
 ---
 #### Emphasize with students...
 
-#### Curriculum Competencies - Applied Skills
+#### Curriculum Competencies - Applied Skills require self-evaluation
 
 Students may come to the course with many stereotypes/myths, about what they can do, or can't do.  Minority groups may experience greater hesitations and apprehension about technology.  By keeping a learning journal, for self-evalaution and self-reflection,  students develop confidence.   They will notice what skills they already have, what they have gained over time, what they are capable of learning, what their personal interests might be, and what they would like to learn in the future. 
 
@@ -37,17 +38,17 @@ One suggestion is to omit bell work, and provide students with 10 minutes to do 
 * Teachers can provide a list of guidance questions (see below), or a survey that contains these questions. 
 
 ## Instructor's Notes
-1.  **Start of Class**
-  * Introduce students to the idea of Learning Journal
-  * Create a schedule of when students are expected to write in their Journal
+1.  **Start of Class** 
+    * Introduce students to the idea of Learning Journal
+    * Create a schedule of when students are expected to write in their Journal
   
 2. Self-evaluation and reflection questions
-  * Beginning of the course entry
+   * Beginning of the course entry
       * What tools and technologies have you used before?
       * On a scale of 1-5, how confident are you with them (5 being super-confident)
       * What are your worries and concerns about this course?
       * other thoughts
-  * Intermediate entries
+   * Intermediate entries
       * What new technical skills have you gained since last time?  (list them out)
       * What other skills have you gained?  (creating a plan, drawing a graphic design, giving a presentation, etc.)
       * What did you feel you could do better with, or spend more time mastering?
@@ -62,19 +63,19 @@ One suggestion is to omit bell work, and provide students with 10 minutes to do 
 
 #### Curriculum Competencies - Applied Design is a process
 
-If something doesn't work, don't be discouraged!   It's part of the learning and development process.   In fact, even experienced programmers spend alot of time "debugging" (finding logic errors) in their design and code.  This is when you can practice crictial thinking steps of breaking down the problem, isolating the problem, and analyzing the values of variables, step by step.  It can be frustrating.  But it's also really fun and rewarding, when something "works"!   Savour those moments.  Stay calm, and keep going on.
+Tip #1:  If something doesn't work, don't be discouraged!   It's part of the learning and development process.   In fact, even experienced programmers spend alot of time "debugging" (finding logic errors) in their design and code.  It's detective work.  This is when you can practice crictial thinking steps of breaking down the problem, isolating the error, analyzing the values of variables, step by step.  It can be frustrating.  But it's also really fun and rewarding, when something "works"!   Savour those moments.  Stay calm, and carry on. 
 
-Another tip:  Don't be afraid to ask for help - from peers and teachers.  In fact, professional developers frequently consult different focus groups online to ask questions, and share solutions.   One popular developer community is Stack Overflow https://stackoverflow.com/
+Tip #2:  Don't be afraid to ask for help - from peers and teachers.  In fact, professional developers frequently consult different focus groups online to ask questions, and share solutions.   One popular developer community is Stack Overflow https://stackoverflow.com/
 
 ---
-      
-  * End of the course entry
-      * If you were to give advice to a new student who will start the course, what would it be?
-      * Was learning new skills easier, or harder than you thought?  Explain.
-      * What are your project or design interests?
-      * Would kind of skills would you like to learn next?
-      * What kind of future jobs might use these skills?
-      * Other thoughts
+
+    * End of the course entry
+       * If you were to give advice to a new student who will start the course, what would it be?
+       * Was learning new skills easier, or harder than you thought?  Explain.
+       * What are your project or design interests?
+       * Would kind of skills would you like to learn next?
+       * What kind of future jobs might use these skills?
+       * Other thoughts
  
  3.  Share learning journey with peers
  At the end of the course, ask each students to share a few key points with the class.

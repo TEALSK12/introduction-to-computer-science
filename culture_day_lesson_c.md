@@ -21,7 +21,7 @@ It's ok not to know everything.  There is always something new to learn.  Just t
 Have students do self-evaluation journalling at different stages during the course, such as:
   * first week of course, after unit 2, after unit 4, and last week of course
   
-One suggestion is to omit bell work, and provide students with 10 minutes to do their Journal Writing. 
+On Journal Writing days, teachers can omit bell work, and provide students with 10 minutes to do their writing.
 
   | Duration | Description |
 | :--- | :--- |
@@ -37,8 +37,8 @@ One suggestion is to omit bell work, and provide students with 10 minutes to do 
 ## Instructor's Notes
 
 1.  **Beginning of the course** 
-    * Introduce students to the idea of Learning Journal
-    * Create a schedule of when students are expected to write in their Journal
+    * Introduce students to the idea of a Learning Journal
+    * Create a schedule of when, or how frequently, students are to write in their Journal
   
 2. **Self-evaluation and reflection questions**
    * Beginning of the course entry
@@ -87,10 +87,10 @@ Tip #2:  Don't be afraid to ask for help - from peers and teachers.  In fact, pr
  
  #### Curricular Competencies - Sharing - Debunking stereotypes and myths
  
-Celebrate you have come in your learning journey!  Don't let stereotypes, myths, or negative messages affect your motivation to learn technology, whether it's coding, creative user-centred design, or project management, and everything else in between.  Don't just be technology "consumers".  Be equipped to create and build your own uses for technology.  The essentials skills you learn in this course will empower you to use technology in meaningful, ethical ways. 
+Let's celebrate your learning journey!  Don't let stereotypes, myths, or negative messages affect your motivation to learn technology, whether it's coding, creative user-centred design, or project management, and everything else in between.  Don't just be technology "consumers".  Be equipped to create and build your own uses for technology.  The essentials skills you learn in this course will empower you to use technology in meaningful, ethical ways, for a better future. 
  
  ---
 
 ## Accommodation/Differentiation
-* This exercise could also be conducted in the form of a series of online surveys.  The survey should allow for written responses, so students are free to enter their own thoughts.
+* This exercise could also be conducted in the form of a series of online surveys.  The survey should allow for written responses, so that students are free to enter their own thoughts.
 * 

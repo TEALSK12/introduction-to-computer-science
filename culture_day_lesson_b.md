@@ -24,12 +24,16 @@ Coding is simply a technical skill.   Yet the process of software development, p
 * Impact of technology on society (social media, health and lifestyle, screen time, etc.)
 * Ethics (privacy, cyberbullying, security, etc.) 
 
-This list should be expanded and updated for currency.
+This list should be expanded and updated, from time to time, for currency.
 
 
 ## Materials/Preparation
 * A list of possible topics for research projects
+   * Encourage students to research from online and other resources, and keep track of sources
+   * Citation generator http://www.easybib.com/k this is a handy way to generate citations (even for websites) that can be included as a Bibliography or References for the project
 * Guidelines for projects and/or presentations
+   * Presentation Tips   https://www.thinkoutsidetheslide.com/top-5-powerpoint-tips-for-student-presentations-in-school/
+   * Presentation Ideas  https://www.powtoon.com/blog/17-killer-presentations-tips-students-stand/
 
 ## Pacing Guide
 |Duration | Description|

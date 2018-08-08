@@ -33,7 +33,7 @@ This list should be expanded and updated, from time to time, for currency.
    * Citation generator http://www.easybib.com/k this is a handy way to generate citations (even for websites) that can be included as a Bibliography or References for the project
 * Guidelines for projects and/or presentations
    * Presentation Tips   https://www.thinkoutsidetheslide.com/top-5-powerpoint-tips-for-student-presentations-in-school/
-   * Presentation Ideas  https://www.powtoon.com/blog/17-killer-presentations-tips-students-stand/
+   * Ideas for giving interesting presentations  https://www.powtoon.com/blog/17-killer-presentations-tips-students-stand/
 
 ## Pacing Guide
 |Duration | Description|
@@ -50,6 +50,7 @@ This list should be expanded and updated, from time to time, for currency.
         * Topics can be assigned, chosen by students from a pre-defined list, or suggested by students and approved by instructors
 
     * Create a schedule of when culture days will occur and which students will present on each day
+    * Depending on how many students are in the class, and how many days you wish to allot for presentations, your pacing guide can be adjusted. 
 
 2. Student presentations
     * Each student should give a 5-7 minute presentation on their assigned topic, followed by 8-10 minutes for Q&A

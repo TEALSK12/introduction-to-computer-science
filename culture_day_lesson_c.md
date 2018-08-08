@@ -38,11 +38,12 @@ One suggestion is to omit bell work, and provide students with 10 minutes to do 
 * Teachers can provide a list of guidance questions (see below), or a survey that contains these questions. 
 
 ## Instructor's Notes
-1.  **Start of Class** 
+
+1.  **Beginning of the course** 
     * Introduce students to the idea of Learning Journal
     * Create a schedule of when students are expected to write in their Journal
   
-2. Self-evaluation and reflection questions
+2. **Self-evaluation and reflection questions**
    * Beginning of the course entry
       * What tools and technologies have you used before?
       * On a scale of 1-5, how confident are you with them (5 being super-confident)
@@ -58,7 +59,7 @@ One suggestion is to omit bell work, and provide students with 10 minutes to do 
       * What do you not like the most about the course so far?
       * other thoughts
    
- ---
+---
 #### Emphasize with students...
 
 #### Curriculum Competencies - Applied Design is a process
@@ -69,15 +70,15 @@ Tip #2:  Don't be afraid to ask for help - from peers and teachers.  In fact, pr
 
 ---
 
-    * End of the course entry
-       * If you were to give advice to a new student who will start the course, what would it be?
-       * Was learning new skills easier, or harder than you thought?  Explain.
-       * What are your project or design interests?
-       * Would kind of skills would you like to learn next?
-       * What kind of future jobs might use these skills?
-       * Other thoughts
+  * End of the course entry
+     * If you were to give advice to a new student who will start the course, what would it be?
+     * Was learning new skills easier, or harder than you thought?  Explain.
+     * What are your project or design interests?
+     * Would kind of skills would you like to learn next?
+     * What kind of future jobs might use these skills?
+     * Other thoughts
  
- 3.  Share learning journey with peers
+ 3.  **Share learning journey with peers**
  At the end of the course, ask each students to share a few key points with the class.
  This could be done during a end-of-term fun or party day. 
  They can refer to their final Entry page in their Journal.

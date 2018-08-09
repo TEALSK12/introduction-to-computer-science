@@ -49,7 +49,7 @@ In the second class students share and report on the interviews.
 | 5 minutes | Debrief and wrap-up |
 
 ## Instructor's Notes
-1.  **Introduction to the lesson, and Warmup Activity**
+1.  **Introduction to the lesson, and warmup activity**
 
     * Introduce the lesson to students
 

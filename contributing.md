@@ -2,7 +2,7 @@
 # Contributing
 
 ## Repository Location
-The curriculum's source code is hosted on Github at: https://github.com/TEALSK12/introduction-to-computer-science-principles
+The curriculum's source code is hosted on Github at: https://github.com/TEALSK12/introduction-to-computer-science
 
 You can open issues, fork the curriculum, or submit pull requests to suggest changes.
 

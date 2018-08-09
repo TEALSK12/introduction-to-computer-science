@@ -6,7 +6,7 @@ Students will be able to...
 * Create interview questions to find out about their jobs
 * Identify the different types of roles and skills needed in the technology industry
 * Identify technology skills needed in non-technology organizations
-* Reflect on how technology could be part of their future career
+* Reflect on how technology could be part of their future careers
 
 ---
 #### Emphasize with students...
@@ -15,42 +15,35 @@ Students will be able to...
 
 Students may come with stereotypes and myths about technology jobs.  
 
-There are many different types of roles and skills needed in the technology industry.  Not everyone is a coder;  and not everyone is coding all day long.  There are artistic designers, music creators, script writers, project managers, marketing specialists, quality assurance testers, front-end designer,  etc.  
+There are many different types of roles and skills needed in the technology industry.  Not everyone is a coder;  diffand not everyone is coding all day long.  There are artistic designers, music creators, script writers, project managers, marketing specialists, quality assurance testers, front-end designer,  etc.  
 
 As students get to know people in their community, they may even discover individuals who are willing to be mentors for your classroom in the days ahead.
 
 ---
 
-## Lesson Format
-* Have students identify 2-3 people who have technology-related (but somewhat different) jobs.
-* Prepare interview questions for them.
-* Conduct the interview, record answers
-* Summarize key points and personal take-aways
-* Share with the class.
-
 ## Materials/Preparation
-* 
+* High Tech in British Columbia https://www2.gov.bc.ca/gov/content/data/statistics/business-industry-trade/industry/high-technology  http://www.bctechnology.com/
 
 ## Pacing Guide
 
 This lesson can be done over a period of 2 classes.
 
-In the first class students prepare for the interviews.  This class could be combined with a Journal Writing day nicely.
+In the first class students prepare for the interviews.  This class could be combined with a Journal Writing day nicely.  Or, it could be combined with a regular project day, where students focus on working on a specific project. 
 
 | Duration | Description |
 | :--- | :--- |
 | 5 minutes | Welcome, attendance, bell work, announcements |
 | 15 minutes | Introduce lesson and warmup activity|
 | 15 minutes | Prepare interview questions |
-| 10 minutes | Other regular lesson activity (suggestion: Journal Writing, could be done at the beginning of class also)|
+| 10 minutes | Other activity (suggestion: Journal Writing)|
 | 5 minutes | Debrief and wrap-up |
 
-In the second class students share and report on the interviews
+In the second class students share and report on the interviews.
 
 | Duration | Description |
 | :--- | :--- |
 | 5 minutes | Welcome, attendance, bell work, announcements |
-| 45 minutes | Each pair presents their interview highlights and key reflections|
+| 45 minutes | Each group presents their interview highlights and key reflections|
 | 5 minutes | Debrief and wrap-up |
 
 ## Instructor's Notes
@@ -100,6 +93,7 @@ In the second class students share and report on the interviews
          * What was interesting?
         * Did you feel inspired or get ideas about possibilities jobs you could do in the future?
     * Together, write 1-2 paragraphs of reflection
+    * Each group can prepare a few powerpoint slides (or photos, brochures, or grab bag items) to capture findings and reflections, which can be used to share with peers.
  
  4.  **Share with peers**
 Ask each pair to share highlights, and key reflections,  with the class. 

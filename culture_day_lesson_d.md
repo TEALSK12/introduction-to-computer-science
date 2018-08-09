@@ -89,8 +89,8 @@ In the second class students share and report on the interviews.
     * This should be done outside of class time. 
      * Remind students to be professional and respectful when interviewing
          *  Contact the person first to arrange a time and place to meet
-         *  Be punctual;  if working with a partner, remember to introduce everyone. 
-         *  Tell them the purpose of the interview is for you (students) to learn more about technology related careers
+         *  Be punctual;  if working with a partner, remember to introduce all parties involved.
+         *  Tell interviewee the purpose of the interview is for you (students) to learn more about technology related careers
          *  Ask politely for permission to share some of their answers (within the classroom)
          *  Avoid questions that may be awkward or too personal (like salary), and always thank the person for their time. 
          *  Take some notes, while still listening and being attentive

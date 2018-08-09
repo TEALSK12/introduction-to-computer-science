@@ -44,15 +44,16 @@ On Journal Writing days, teachers can omit bell work, and provide students with 
    * Beginning of the course entry
       * What tools and technologies have you used before?
       * On a scale of 1-5, how confident are you with them (5 being super-confident)
+      * What do you look forward to learning in this course?
       * What are your worries and concerns about this course?
       * other thoughts
    * Intermediate entries
       * What new technical skills have you gained since last time?  (list them out)
       * What other skills have you gained?  (creating a plan, drawing a graphic design, giving a presentation, etc.)
       * What did you feel you could do better with, or spend more time mastering?
-      * What new skills would you really like to learn?
       * Looking at the new skills you have gained, or practiced, how do you feel about it?
       * What did you like best about the course so far?
+      * What other skills would you really like to learn?
       * What do you not like the most about the course so far?
       * other thoughts
    

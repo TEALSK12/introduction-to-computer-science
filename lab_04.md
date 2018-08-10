@@ -21,7 +21,7 @@ In this lab, you will explore SNAP and create a simple "self-portrait" program t
  | 3.  | .   |
 
 ## Part 2 - Who Are You?
-4. Using what you've learned and other things you might discover, create a SNAP program that describes yourself.  This can take whatever form and use whatever SNAP tools and blocks you want.  Make sure that somehow, at some point in your program you show the information from the Student Experiences Survey. [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab%200.4.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab%200.4.pdf)
+4. Using what you've learned and other things you might discover, create a SNAP program that describes yourself.  This can take whatever form and use whatever SNAP tools and blocks you want.  Make sure that somehow, at some point in your program you show the information from the Student Experiences Survey. [(Download in Word)](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Student%20Experiences%20Survey.docx) [(Link to PDF)](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Student%20Experiences%20Survey.pdf)
 
 ## Grading Scheme/Rubric
 

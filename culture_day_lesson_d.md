@@ -103,12 +103,15 @@ In the second class students share and report on the interviews.
     * Together, prepare a few powerpoint slides (or photos, brochures, or grab bag items) to capture your interview findings and reflections, which to use for sharing with peers.
  
  4.  **Share with peers**
-Ask each pair to share highlights, and key reflections,  with the class. 
+   * Ask each pair to share highlights, and key reflections,  with the class. 
+   * This can be done in one class period.  The presentation time per group should be adjusted so to accomodate all students, so that no one feels left out.
+   * As a guideline for a 5-6 minute presentation, they can prepare 2-3 slides for each person interviewed.
+   * Students can also play short video clips from their interview as well.
 
 ## Accommodation/Differentiation
 * Students who have little experience with interviews may practice interviewing one another in the class with a few simple questions.  
 * Some students for a variety of possible reasons, may struggle to think of others to interview.  They may be encouraged to consider teacher or staff in the school as potential inteviewees.   Be sensitive to assist students who are new to the community, those not living with family, those who don't speak English at home, or have other situations that they may feel embarassed about. 
 * Working with a partner may alleviate some awkwardness for students who really can't think of anyone to interview. 
 * Working with a partner may alleviate some possible anxiety related to a face-to-face interview. 
-* Motivated students could video the interview as well, and show clips during peer sharing time, with permission from the interviewee.
+* Motivated students could video the interview as well, and show clips during peer sharing time, with permission from the interviewee.  The final sharing could be done in the format of a prepared video.
 

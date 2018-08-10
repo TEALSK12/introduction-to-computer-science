@@ -2,14 +2,38 @@
 
 ## Learning Objectives
 Students will be able to...
-* Describe in detail the topic of their assigned/chosen project
+* Describe in detail the topic of their assigned/chosen computer science related topic
 * Answer questions about their topic
-* Connect the project and topic to computer science
+* Explore and analyze the impact on, and impact of, technology in the context of their topic
+
+---
+#### Emphasize with students...
+
+#### Curriculum Competencies - Applied Technologies
+
+Coding is simply a technical skill.   Yet the process of software development, product creation, and deployment, involves the intersection of diverse technical innovations, global community of peoples, cultural beliefs, values, and ethical positions.   There is impact from, and impact on, our life and society at many levels (personal, community, global, and environmental), including the unintended negative consequences of the technology choices we make.  These connections and discussions, help us appreciate the past, be wiser in the present, and more ready to embrace the future.
+
+---
+
+
+## Possible Topics
+* Famous figures in computer science (Donald Knuth, Alan Turing, Kernighan & Ritchie, Mark Zuckerburg, Bill Gates, Elon Musk, Steve Jobs, etc.)
+* Famous women figures in computer science (Grace Hopper, Bletchley code breakers, Ada Lovelace, Dorothy Vaughan, Anita Borg, etc)
+* Important technologies or algorithms (RSA, Dijstra's Algorithm, RAID, integrated circuits, etc.)
+* New and emerging technologies (AI, Machine Learning, robotics, cryptocurrencies, etc.)
+* Impact of technology on society (social media, health and lifestyle, screen time, etc.)
+* Ethics (privacy, cyberbullying, security, etc.) 
+
+This list should be expanded and updated, from time to time, for currency.
+
 
 ## Materials/Preparation
 * A list of possible topics for research projects
+   * Encourage students to research from online and other resources, and keep track of sources
+   * Citation generator http://www.easybib.com/k this is a handy way to generate citations (even for websites) that can be included as a Bibliography or References for the project
 * Guidelines for projects and/or presentations
-
+   * Presentation Tips   https://www.thinkoutsidetheslide.com/top-5-powerpoint-tips-for-student-presentations-in-school/
+   * Ideas for giving interesting presentations  https://www.powtoon.com/blog/17-killer-presentations-tips-students-stand/
 
 ## Pacing Guide
 |Duration | Description|
@@ -24,11 +48,9 @@ Students will be able to...
 1. _**Prior to Culture Day**_
     * Assign each student one or more topics to research and present to the class on a future day
         * Topics can be assigned, chosen by students from a pre-defined list, or suggested by students and approved by instructors
-        * Possible options include:
-            * Famous figures in computer science (Grace Hopper, Alan Turing, Kernighan & Ritchie, etc.)
-            * Important technologies or algorithms (RSA, Dijstra's Algorithm, RAID, etc.)
-            * Societal or cultural topics (social media, cyberbullying, computer security, etc.)
+
     * Create a schedule of when culture days will occur and which students will present on each day
+    * Depending on how many students are in the class, and how many days you wish to allot for presentations, your pacing guide can be adjusted. 
 
 2. Student presentations
     * Each student should give a 5-7 minute presentation on their assigned topic, followed by 8-10 minutes for Q&A

@@ -6,6 +6,22 @@
 
 Platform games are among the most widely recognized types of video games.  Composing about one third of all console games at the peak of their popularity, platform games are characterized by their relative simplicity and by the common gameplay element of jumping across suspended platforms (hence the name) to avoid falling into a hazard.  Platform games also typically include enemy characters, items that grant the hero special abilities ("power-ups"), and a "checkpoint" system that allows the player to restart from partway through a game or level when he or she dies.
 
+
+---
+#### Emphasize with students...
+
+#### Big Ideas - Personal design interests require the evaluation and refinement of skills;  Tools and technologies can be adapted for specific purposes
+
+Consider using the familiar platform game concept to not only entertain, but also educate or bring awareness to social concerns, an environmental issue, or some other context.  
+
+*Example 1:* In British Columbia, many efforts exist to promote and guide the sustainable future of wild Pacific salmon and their habitat.  http://www.pac.dfo-mpo.gc.ca/sep-pmvs/index-eng.html   Students can create a game where the player can help salmon swim back to the stream where they were born, jumping upstream through ladders and fishways,  battling hazards and enemies (predators, fishermen).  Game play can introduce elements of education and awareness.  Read about the amazing salmon here:  https://blog.wwf.ca/blog/2015/03/19/did-you-know-10-amazing-things-about-salmon/ 
+
+*Example 2:*  The summer of 2017 was one of the worst wildfire seasons in British Columbia's history.  https://www2.gov.bc.ca/gov/content/safety/wildfire-status/about-bcws/wildfire-history/wildfire-season-summary  Students can create a game where a traveller drives through different townsa, parks, and highways in your area,  extinguishing hazards (cigarette butts, campfires), battling enemies (fires out of control, irresponsible tourist), enforcing fire bans, reporting fires, being a good neighbour, implementing home prevention (https://www2.gov.bc.ca/gov/content/safety/wildfire-status/prevention/for-your-home-community), rescuing animals, and so on.   Game play can introduce elements of geography (parks and forests, lakes and waters) and climate and terrain (temperature, animal habitats).  Read more about wildfires in BC here:  https://www2.gov.bc.ca/gov/content/safety/wildfire-status
+
+How can the classic platform game be adapted to a specific purpose, cause, or context that interests you, or impacts your community? 
+
+---
+
 ## Details
 
 1.  **Behavior**
@@ -64,6 +80,16 @@ Platform games are among the most widely recognized types of video games.  Compo
      <br/>
     As part of the software development experience on this project, you will participate in a peer review with one or more of your classmates.  Near the end of the project, you will play another student's game and provide him or her with notes and comments.  Your partner(s) will also play your game and offer the same feedback.  Describe to your partner what parts of the game you liked.  You should offer suggestions for features that could be improved or changed as well as look for bugs in the program you are reviewing.  Keep your comments constructive and professional!  Don't just point out things you don't like—explain your thinking and propose solutions.  Also, restrict your comments to things that can be reasonably addressed.  Do not tell your partner that he or she made a poor choice of theme and should start over, for example.
     After receiving your peer feedback, you should consider the comments carefully and respond.  You will be expected to turn in the feedback provided to you and identify ways in which you modified your game in response to the feedback you received.
+   
+---
+#### Emphasize with students ...
+#### Curriculum Competencies - Design Sharing
+
+As you create software, you will need to put yourself in the end-user's position, and imagine yourself using the software.  At the same time, providing objective, critical analysis and feedback of other people's work will not only benefit others, but also help you in your own design work.  Being able to welcome, and provide, feedback are essential skills for a software developer. 
+
+---
+    
+    
 6.  **Required Checkpoints**
     1.  Monday, October 27: Screens should be designed; the hero should be able to move and jump; gravity should work; reset button should be functional
     2.  Monday, November 3: Hazards and enemies should be present; death should work properly.

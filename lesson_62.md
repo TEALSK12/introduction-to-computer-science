@@ -1,9 +1,28 @@
-# Lesson 6.2 - Brainstorming and Evaluating
+# Lesson 6.2 - Research and Ideate
 
-## Learning Objectives
+## Learning Objectives 
 Students will be able to...
-  * Identify factors to use when choosing between project ideas
-  * Rank a group of proposed project ideas using the identified factors
+  * Identify potential users, intended impact, and possible unintended negative consequences
+  * Generate ideas to create range of possibilities using a brainstorm technique
+  * Conduct user-centred research to understand design opportunities and barriers
+  * Critically analyze factors when choosing between project ideas
+  * Prioritize proposed project ideas using the identified factors
+          
+---
+#### Emphasize with students ...
+#### Big Ideas - personal design interests and project goals
+
+When coming up with ideas, personal interests are considered.  The final product often reflect the "heart and soul" of the designers behind the product.  If you are working in a group, each person should be willing to see the project through to completion. 
+
+#### Big Ideas - product life cycle
+
+The design of a new software product progresses through a sequence of stages called the "life cycle", and is often associated with changes in the marketing situation.  The first step of introducing a product involves getting to know the market, or in other words, the users or potential customers out there.  
+
+#### Curricular Competencies - understanding context, defining, ideating
+
+When coming up with a great product idea, it is important to conduct user-centred research to understand the needs of the client/customer/end-user.  This research helps us understand design opportunities and barriers.  This research could be done as a survey or interview, given to random people, to people in your friends or family circle, or to a specific population of people (like customers of a supermarket, or members of a soccer club, for example). 
+
+---
 
 ## Materials/Preparation
 
@@ -15,7 +34,8 @@ Students will be able to...
 | 10 minutes | Review process and identify first steps |
 | 5 minutes | Brainstorming |
 | 10 minutes | Pitch writing |
-| 20 minutes | Peer review  |
+| 15 minutes | Peer review  |
+| 5 minutes | Prepare interview or survey questions
 | 5 minutes | Debrief and wrap-up|
 
 ## Instructor's Notes
@@ -37,9 +57,18 @@ Students will be able to...
         * Remind students to keep all feedback constructive, respectful, and professional.  Students should not criticize each other's ideas, but can point out potential concerns.
         * Students should take notes during their conversations and refine their pitches based on their partner's feedback and their own realizations.
     * If time allows (or over the course of multiple days), repeat this process with new partners.
-5. Debrief
-    * At this points, students should have between one and three pitches that are well-defined and reasonably well fleshed-out.  Overnight, students should consider their pitches and rank them in order or which they would most like to pursue as their final project.
+5. Prepare interview questions, and evaluate
+    * At this points, students should have between one and three pitches that are well-defined and reasonably well fleshed-out.  Overnight, students should do some research, re-consider their pitches and rank them in order or which they would most like to pursue as their final project.
         * Make sure students don't just pick the "coolest" sounding idea, but also consider the technical challenges, amount of time available, and their own interest in and willingness to see the project through to completion.
+        * As homework, students may create a simple survey or a list of questions to ask friends or relatives to help refine ideas, and subsequently, decide on the final project.  Make changes to the project pitch based on these recommendations.
+
+---
+#### Emphasize with students ...
+#### Curricular Competencies - understanding context
+
+Software design is a process that takes time.   Conducting user-centred research helps narrow down and refine ideas.  What do potential users think?  For example, what components are necessary?  What components are nice to have?  Is it easy to use? 
+
+---
 
 
 ## Accommodation/Differentiation

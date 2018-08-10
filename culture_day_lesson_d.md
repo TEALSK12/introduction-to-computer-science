@@ -30,7 +30,7 @@ As students get to know people in their community, they may even discover indivi
 
 This lesson can be done over a period of 2 classes.
 
-In the first class students prepare for the interviews.  This class could be combined with a Journal Writing day nicely (see Culture Day C).  Or, it could be combined with a regular project day, where students focus on working on a specific project. 
+In the first class, students prepare for the interviews.  This class could be combined with a Journal Writing day nicely (see Culture Day C).  Or, it could be combined with a regular project day, where students focus on working on a specific project. 
 
 | Duration | Description |
 | :--- | :--- |
@@ -40,7 +40,7 @@ In the first class students prepare for the interviews.  This class could be com
 | 10 minutes | Other activity (suggestion: Journal Writing)|
 | 5 minutes | Debrief and wrap-up |
 
-In the second class students share and report on the interviews.
+In the second class, students share and report on the interviews.
 
 | Duration | Description |
 | :--- | :--- |

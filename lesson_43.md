@@ -12,7 +12,7 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 4.3: Quote of the Day](do_now_43.md)
--   [Lab 4.3 handout (Guess Who)](lab_43.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%204%20Word/Lab%204.3%20Guess%20Who.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%204%20PDF/Lab%204.3%20Guess%20Who.pdf))
+-   [Lab 4.3 handout (Guess Who)](lab_43.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.3%20Guess%20Who.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.3%20Guess%20Who.pdf))
 
 ## Pacing Guide
 

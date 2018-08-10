@@ -7,8 +7,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now: I am ____](do_now_04.md)
-* [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Lab%200.4.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Lab%200.4.pdf))
-* Student Experience Survey [(Download in Word)](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Student%20Experiences%20Survey.docx) [(Link to PDF)](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Student%20Experiences%20Survey.pdf)
+* [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab%200.4.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab%200.4.pdf))
+* Student Experience Survey [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.pdf)
 * Optional: digital camera
 
 ## Pacing Guide

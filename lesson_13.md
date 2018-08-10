@@ -11,8 +11,8 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 1.3: Drawing a Triangle](do_now_13.md) You can ask students to give instructions in plain language, pseudo code or with images.
--   [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%201%20Word/Lab%201.3%20Squares%20Triangles.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%201%20PDF/Lab%201.3%20Squares%20Triangles.pdf))
--   [Geometry Cheat Sheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif) 
+-   [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.3%20Squares%20Triangles.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.3%20Squares%20Triangles.pdf))
+-   [Geometry Cheat Sheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif)
 
 ## Pacing Guide
 

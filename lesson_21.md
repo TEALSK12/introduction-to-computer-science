@@ -13,8 +13,8 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 2.1: Intro Loops](do_now_21.md)
--   Lab 2.1 handout - [Squares and Triangles Redux](lab_21.md) ([Download in MS Word](Unit 2 Word/Lab 2.1 Triangles and Squares Redux.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%202%20PDF/Lab%202.1%20Triangles%20and%20Squares%20Redux.pdf))
--   [Geometry Cheat Sheet]
+-   Lab 2.1 handout - [Squares and Triangles Redux](lab_21.md) ([Download in MS Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.1%20Triangles%20and%20Squares%20Redux.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.1%20Triangles%20and%20Squares%20Redux.pdf))
+-   [Geometry Cheat Sheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif)
 
 ## Pacing Guide
 
@@ -54,7 +54,7 @@ Students will be able to...
     -   Direct students to complete ["Squares and Triangles Redux"](lab_21.md) individually.  
         -   If available, students should use their solutions to Lab 1.3 ("Squares and Triangles and Stars, Oh My!") as a starting point.  Ensure students "Save as..." before starting on the new lab to not overwrite their original project (part 1.1).
             -   If student solutions for Lab 1.3 are not available, or are not correct, provide a correct implementation (the solution to Lab 1.3 can be found on the TEALS Dashboard under Additional Curriculum Materials).
-        -   Encourage students to try to use as few blocks and have as little code duplication as possible to draw each shape while still creating understandable scripts. Asa reminder you may want to make the [Geometry Cheat Sheet] showing various shapes and their respective angles as a reference for students throught unit 2. 
+        -   Encourage students to try to use as few blocks and have as little code duplication as possible to draw each shape while still creating understandable scripts. Asa reminder you may want to make the [Geometry Cheat Sheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif) showing various shapes and their respective angles as a reference for students throught unit 2.
         -   Once students complete part 2.1, the remaining parts should go much more quickly as they all follow the same basic pattern.
 3.  Debrief
     -   Discuss one or two student solutions to part 2.2

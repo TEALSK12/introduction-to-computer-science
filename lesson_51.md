@@ -28,7 +28,7 @@ Students will be able to...
     * Emphasize that students must follow all instructions in the lab carefully
     * Throughout the activity, ask students to think about other ways they could accomplish the same goals and the advantages and disadvantages of each approach.
 2. Activity
-    * Split students into groups of at least six.  If the number of students is not an exact multiple of six, create a few groups of seven and have students take turns being "active."
+    * Split students into diverse groups of at least six.  If the number of students is not an exact multiple of six, create a few groups of seven and have students take turns being "active."
     * Students should follow the steps in the lab, being careful to act as a group.
         * In each part, the group will draw the letter 'C' six times, using slightly different instructions.
     * Students should, hopefully, notice that in part 3, they are able to achieve similar but not exactly the same results by all following the same instructions.  (Though each student draws a 'C', they are not all in the same location.)  In each part, they were able to improve the efficiency and clarity of the instructions.

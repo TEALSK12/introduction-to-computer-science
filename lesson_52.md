@@ -27,7 +27,7 @@ Students will be able to...
 ## Instructor's Notes
 
 1.   Introductory discussion
-    -   Show students a brief video demonstrating space invaders (YouTube <https://youtu.be/kR2fjwr-TzA>
+    -   Show students a brief video demonstrating space invaders (YouTube: <https://youtu.be/kR2fjwr-TzA>;
 Vimeo Link: <https://vimeo.com/54796819>)
         -   Ask students to think about how we create all the “invaders”?
             -   Answer with current knowledge: make one invader sprite, and copy it many times while adjusting the copies as necessary

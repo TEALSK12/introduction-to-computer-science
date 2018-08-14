@@ -9,7 +9,7 @@ Storytelling is a great way to convey culture.  Some examples of storytelling ar
 
 ## Details
 
-###Behavior
+### Behavior
 You will create a short animation in SNAP depicting a story of your choice. You may choose part of a play or nursery rhyme (See <http://www.npr.org/sections/ed/2015/07/30/427138970/the-most-popular-high-school-plays-and-musicals> and <http://en.wikipedia.org/wiki/Nursery_rhymes> for a list of possibilities.)
 
 -   Whenever the green flag is clicked, your SNAP animation should display your chosen story line by line somewhere on the stage. (This should work correctly even if the last run was interrupted and restart.)
@@ -24,8 +24,10 @@ You will create a short animation in SNAP depicting a story of your choice. You 
     <br />
     If you choose a particularly long story, you may not need to animate the whole thing. Please check with your teacher if you think your rhyme is long enough for this.
 
-###Implementation Details
-As mentioned above, your animation must display the text and animate each line. Action must be performed by sprites and must consist of more than simply changing costumes. You must include the following components in your animation:
+### Implementation Details
+1.  Fill out a [Planning Worksheet](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx) for the above program.  Make sure you consider all aspects of the program carefully.
+
+2. As mentioned above, your animation must display the text and animate each line. Action must be performed by sprites and must consist of more than simply changing costumes. You must include the following components in your animation:
 
 -   At least two sprites that act in some way to contribute to the depiction of the story
 -   At least one sprite that moves

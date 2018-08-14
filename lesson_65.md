@@ -8,7 +8,7 @@ Students will be able to...
 
 
 ## Materials/Preparation
-* Students should each have their [Final Project Plan Organizer](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Final%20Project%20Plan%20Organizer.docx) and [Final Project Development Plan](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Final%20Project%20Development%20Plan.docx)
+* Students should each have their [Final Project Plan Organizer] and [Final Project Development Plan]
 
 ## Pacing Guide
 
@@ -55,3 +55,6 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-6/lesson-6-5-project-implementation" target="_blank">
 Lesson 6.5 - Project Implementation (TEALS Discourse account required).</a>
+
+[Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Final%20Project%20Plan%20Organizer.docx?raw=true
+[Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Final%20Project%20Development%20Plan.docx?raw=true

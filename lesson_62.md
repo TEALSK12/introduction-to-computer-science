@@ -7,7 +7,7 @@ Students will be able to
 
 ## Materials/Preparation
 - Project Feedback Form [(Download .docx)]() [Download .pdf]()
-- ["Computer Science is Changing Everythin" Code.org Video (5:34 minutes)](https://youtu.be/QvyTEx1wyOY)
+- ["Computer Science is Changing Everything" Code.org Video](https://youtu.be/QvyTEx1wyOY) (5:34 minutes)
 
 
 ## Pacing Guide

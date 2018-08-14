@@ -81,17 +81,13 @@ Students will be able to...
 | false | true  |
 
 
-## BJC Lecture Suggestions
-#### Good for Classroom Instruction
- * BJC Video Suggestion: [BJC Lecture 2: 3D Graphics](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=5m50s)
-  - [Modelling](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=5m50s) 5:50-10:57
-
 ## Accommodations/Differentiation
 
 -   Students that have not taken Geometry made be intimidated by some of the concepts in the lab.  Deep understanding of the theorems is not necessary; encourage the students to simply focus on the equations and inequalities presented.
     -   If the students continue to struggle, help them build the necessary expressions, but encourage them to assemble them into the full condition on their own.
 -   Advanced students, especially those who have taken higher levels of math, can be encouraged to add additional functionality, such as using [Heron's formula](https://en.wikipedia.org/wiki/Heron%27s_formula) to calculate the triangles area or using trigonometry to attempt to draw the triangle.
     -   Drawing the triangle is very challenging.
+
 
 ## Forum discussion
 

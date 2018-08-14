@@ -45,7 +45,7 @@ Students will be able to
 
 
 ## Accommodation/Differentiation
-* If students are having difficulty coming up with project ideas, encourage them to think about existing software.  While simply recreating an existing app should be a last resort, thinking about apps they already know can help students come up with functionality they might like to include.
+* If students are having difficulty coming up with project ideas, encourage them to think about existing software.  Here is an inspirational video by Code.org that can be shown to all students about how software is changing a variety of industries, ["Computer Science is Changing Everything"](https://youtu.be/QvyTEx1wyOY). While simply recreating an existing app should be a last resort, thinking about apps they already know can help students come up with functionality they might like to include.
 * If your class is fairly self-sufficient and mature, you can consider allowing students to "borrow" an idea from a classmate if they find one they like better than any of their own.  Make sure the person who had the idea is OK with it being borrowed, and emphasize that the students must each build their own version.
     * This can be a bit dangerous, as it puts the student somewhat behind in the process right from the start, since they won't have as much context having not written the pitch themself.  Consider carefully whether this is a good idea.
 * Encourage each student to pick a project that fits his or her level of technical skill.  Make sure students are not overcommitting and choosing projects they do not have the skills to complete.  Also try to discourage stronger students from choosing simpler projects in an effort to do less work.

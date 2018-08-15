@@ -8,7 +8,7 @@ Students will be able to...
 
 
 ## Materials/Preparation
-* Students should each have their [Final Project Plan Organizer](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Final%20Project%20Plan%20Organizer.docx) and [Final Project Development Plan](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Final%20Project%20Development%20Plan.docx)
+* Students should each have their [Final Project Plan Organizer] and [Final Project Development Plan]
 
 ## Pacing Guide
 
@@ -35,7 +35,15 @@ Students will be able to...
     -   Provide a mechanism for students to ask questions of course staff as needed
         -   Simply having students raise hands often does not work well, as it can be hard to keep track of in what order hands were raised; consider a queue of some kind where students write their names when they have a question
     -   When there are no current questions, circulate and observe progress, stepping in if students appear stuck but are not asking for help
-    -   Be sure to meerkat and not spend more than a minute or two with any single student at a time
+    -   Be sure to meerkat and not spend more than a minute or two with any single student at a time and pratice wise feedback. As a reminder to *Meerkat* is to  Spend no more than ~30 sec – 1 minute in each interaction, Triage, provide actionable feedback and move on. In meerkatting you should see every student twice in 1 period even if they don’t ask for help.  By the end of class, your team should know each student’s progress on the lab.  In meerkatting you can provide students with *Wise Feedback,* which has three components:
+        - An explicit holding if **high standards**. This helps the students understand that his or her mistakes are not necessarily a sign of (perceived) low capability but rather a sign of the high demands of the education program or academic task.
+          - EXAMPLE: “You will see in this course that I give challenging examples.  This course sets the expectation that you will understand coding like a professional.”
+        - A **personal assurance** to the student that he or she is capable and can improve with effort. In addition to words, remember to use nonverbal body language such as smiling, head nodding, and facing the student that is speaking.
+          - EXAMPLE: "I know this might seem very hard or even impossible right now, but you will get better at this by working at it."
+        - Specific **actionable steps** to work on.
+          - EXAMPLE: “It looks like you did the steps out of order. Why don’t you try the exercise again?”
+
+
 
 3.  Exit ticket
     -   Before students leave, have them answer the following questions on a small piece of paper:
@@ -55,3 +63,6 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-6/lesson-6-5-project-implementation" target="_blank">
 Lesson 6.5 - Project Implementation (TEALS Discourse account required).</a>
+
+[Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Final%20Project%20Plan%20Organizer.docx?raw=true
+[Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Final%20Project%20Development%20Plan.docx?raw=true

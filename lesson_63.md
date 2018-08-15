@@ -7,7 +7,8 @@ Students will be able to...
 
 
 ## Materials/Preparation
-* [Final Project Plan Organizer](Final Project Plan Organizer.docx) handout
+ - [Final Project Plan Organizer](.docx) handout
+
 
 ## Pacing Guide
 | Duration  | Description                                   |
@@ -22,7 +23,7 @@ Students will be able to...
 1. Review pitches
     * Have students look at their revised pitches from yesterday.  Tell them that they will be choosing **one** to pursue as their final project.
     * If desired, give students a few minutes to rework their pitches or get more feedback from a classmate or instructor.
-    * Ask students to choose which idea they want to pursue, and write it down on the top of their [Final Project Plan Organizer](Final Project Plan Organizer.docx).
+    * Ask students to choose which idea they want to pursue, and write it down on the top of their [Final Project Plan Organizer].
 2. Defining Scenarios
     * Defining the term "scenario" for students:
         * _scenario: a description of a set of interactions and/or tasks that describe a start-to-finish example of how a user might want to use the application_
@@ -49,3 +50,5 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-6/lesson-6-3-defining-requirements" target="_blank">
 Lesson 6.3 - Defining Requirements (TEALS Discourse account required).</a>
+
+[Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Final%20Project%20Plan%20Organizer.docx?raw=true

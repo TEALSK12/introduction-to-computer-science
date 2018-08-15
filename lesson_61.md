@@ -8,6 +8,10 @@ Students will be able to...
 
 
 ## Materials/Preparation
+ - [Final Project Plan Organizer] 
+ - [Final Project Development Plan] 
+ - [Examples of TEALS Final Projects](https://youtu.be/aV6LFVXxd34)
+ - TEALS Final Project Design Steps [(Download .docx)]() [(Download .pdf)](), [(Download .png)]()
 
 
 ## Pacing Guide
@@ -38,14 +42,14 @@ Students will be able to...
     1. Tell students that, as a class, they will now practice some of the design and planning tasks for the project on a well-known app
         * Pick an app that both you and most of your students have a deep familiarity with, but that is not too complex.  Twitter, Instagram, Pinterest, or other relatively small-scope social media apps work well here.
         * If necessary, scope down the app by focusing on only the core features (e.g. only consider public, text-only Tweets to start)
-    2. Walk through each of the design steps in the project rubric for the chosen app:
+    2. Walk through each of the design steps [(picture of the design steps)]() in the project rubric for the chosen app :
         1. Pitch - describe the basic functionality of the app in one paragraph of less
         2. Define - List the features/scenarios the app will support
         3. Sketch - Draw a very basic wireframe sketch of the main "screens" of the app
             * In this step, try to keep students from fixating on making their app look _exactly_ like the existing app
-        4. Expand - Build a spec using the [Final Project Plan Organizer](Final Project Plan Organizer.docx).
+        4. Expand - Build a spec using the [Final Project Plan Organizer].
             * In this step, emphasize completeness and detail.  Leaving out steps or requirements will make it difficult to plan effectively and will likely force major changes or cuts later.
-        5. Plan - Based on the feature list and spec, create a full development plan using the [Final Project Development Plan](Final Project Development Plan.docx).
+        5. Plan - Based on the feature list and spec, create a full development plan using the [Final Project Development Plan].
             * As tasks and costs are listed, remind students to keep an eye on the total amount of time required and to include buffer for things going wrong.  Be sure to prioritize tasks so that cuts can be made if necessary.
 3. Debrief
     * Once all documents have been created, ask students what the next steps should be.
@@ -63,3 +67,8 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-6/lesson-6-1-design-basics" target="_blank">
 Lesson 6.1 - Design Basics (TEALS Discourse account required).</a>
+
+[Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Final%20Project%20Plan%20Organizer.docx?raw=true
+[Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Final%20Project%20Development%20Plan.docx?raw=true
+
+

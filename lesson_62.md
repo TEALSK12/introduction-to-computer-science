@@ -1,11 +1,13 @@
 # Lesson 6.2 - Brainstorming and Evaluating
 
 ## Learning Objectives
-Students will be able to...
+Students will be able to
   * Identify factors to use when choosing between project ideas
   * Rank a group of proposed project ideas using the identified factors
 
 ## Materials/Preparation
+- Project Feedback Form [(Download .docx)]() [Download .pdf]()
+- ["Computer Science is Changing Everything" Code.org Video](https://youtu.be/QvyTEx1wyOY) (5:34 minutes)
 
 
 ## Pacing Guide
@@ -33,7 +35,7 @@ Students will be able to...
         * If a student is having difficulty developing a pitch for an idea, that might be a sign that the idea is not fully-formed enough to be a final project.
         * If a student is having trouble keeping the pitch short, the project may be too complex to complete in the available time.
 4. Peer review
-    * Pair students up and have students take turns reading one of their pitches to their partner and asking for feedback.  Partners should ask questions to help identify both the best and worst parts of each pitch.
+    * Pair students up in diverse groups and have students take turns reading one of their pitches to their partner and asking for feedback.  Partners should ask questions to help identify both the best and worst parts of each pitch. Students can use this [Project Feedback Form]
         * Remind students to keep all feedback constructive, respectful, and professional.  Students should not criticize each other's ideas, but can point out potential concerns.
         * Students should take notes during their conversations and refine their pitches based on their partner's feedback and their own realizations.
     * If time allows (or over the course of multiple days), repeat this process with new partners.
@@ -43,7 +45,7 @@ Students will be able to...
 
 
 ## Accommodation/Differentiation
-* If students are having difficulty coming up with project ideas, encourage them to think about existing software.  While simply recreating an existing app should be a last resort, thinking about apps they already know can help students come up with functionality they might like to include.
+* If students are having difficulty coming up with project ideas, encourage them to think about existing software.  Here is an inspirational video by Code.org that can be shown to all students about how software is changing a variety of industries, ["Computer Science is Changing Everything"](https://youtu.be/QvyTEx1wyOY). While simply recreating an existing app should be a last resort, thinking about apps they already know can help students come up with functionality they might like to include.
 * If your class is fairly self-sufficient and mature, you can consider allowing students to "borrow" an idea from a classmate if they find one they like better than any of their own.  Make sure the person who had the idea is OK with it being borrowed, and emphasize that the students must each build their own version.
     * This can be a bit dangerous, as it puts the student somewhat behind in the process right from the start, since they won't have as much context having not written the pitch themself.  Consider carefully whether this is a good idea.
 * Encourage each student to pick a project that fits his or her level of technical skill.  Make sure students are not overcommitting and choosing projects they do not have the skills to complete.  Also try to discourage stronger students from choosing simpler projects in an effort to do less work.

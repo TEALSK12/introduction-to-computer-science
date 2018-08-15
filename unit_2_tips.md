@@ -1,12 +1,17 @@
 # TEALS Unit 2 Tips
 
 ## SNAP Tips
-*[Tip Numbers from *SNAP Tips* Document:]() 
+*[Tip Numbers from *SNAP Tips* Document:](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true) 3, 7, 9, 10, 14, 15, 16, 17
 
 ## Word Wall
+Terms introduced in the unit that you may consider adding to a classroom Word Wall.
 
 | Word     | Definition                                 |
 | ------------- | --------------------------------------------- |
-| Cloning     |  A feature that allows a sprite to create a clone, or semi-duplicate, of itself, while the project is running. Clones of a sprite will be the same as the original or parent sprite but as a separate instance. Clones inherit the parent's scripts, costumes, sounds, and properties, yet they can then be modified. 
-| GLobal Variable     | A variable  that can be used by all of your sprites. |
-
+| Loop     |  A type of block that causes other code to run multiple times in succession.|
+| Nested Loop     | A loop used inside the body of another loop. |
+| Conditional     | A block used to make a choice between executing two different chunks of code.|
+| Variable     | A placeholder for some value. |
+| Boolean Expression     | Expressions that evaluate to true or false. |
+| Boolean Operators     | Boolean expressions that can be nested. |
+| Modeling     |Building a system to simulate the behavior of a real-life phenomenon by simplifying or ignoring certain details. |

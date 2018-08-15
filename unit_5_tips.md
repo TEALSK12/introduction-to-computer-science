@@ -1,4 +1,4 @@
-# TEALS Unit 5
+# TEALS Unit 5 Tips
 
 ## SNAP Tips
 *[Tip Numbers from *SNAP Tips* Document:]() 3, 5, 9, 12, 17

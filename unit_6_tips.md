@@ -1,7 +1,7 @@
-#TEALS Unit 6 
+# TEALS Unit 6 
 
-##SNAP Tips
-*[Tip Numbers from *SNAP Tips* Document:]() 21, 23 
+## SNAP Tips
+*[Tip numbers from *SNAP Tips* document:]() 21, 23 
 
 ## Word Wall
 

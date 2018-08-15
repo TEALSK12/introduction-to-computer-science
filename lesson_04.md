@@ -32,6 +32,8 @@ Students will be able to...
         * Point out the places to write answers to the written questions in parts 1.2 and 1.3.
         * Draw special attention to the list of requirements for the self-portrait program in part 1.4.
         * This is an excellent opportunity to tell students that all labs in this course will look similar to this, and that they should get used to reading instructions carefully.
+   * The [lab handout](lab_04.md) incoprates the *Student Experience Survey* questions avaialble in the Classroom Plan appendix.  It is a great starting point to learning about the cultural references of your students, but you can and should go beyond that and integrate opportunities to share and learn about your students in class activities and assignments.  In this lab students write a short program that shares an aspect of their cultural background or interests; teachers can create a model to show the class as a demo.  There is also a question asking students to share stories or sayings from their family.  You could use sayings provided (with student permission) to decorate the classroom and reinforce classroom learning values. 
+        
 2. Activity
     * Instruct students to complete the ["Getting to Know You"](lab_04.md) lab.
         * For part 1.3, you can either assign pairs or allow students to pair up on their own.  If students are allowed to choose their own partners, take care to ensure that no one is excluded.  If you choose to assign pairs, try to partner students into groups that are heterogenous by ability or background. Try to pair students who do not normally interact.

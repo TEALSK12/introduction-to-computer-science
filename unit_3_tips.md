@@ -15,5 +15,5 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Custom Blocks      | Allow for one to make their own programming blocks. |
 | Reporter Block     | Report a value, usually for use in another block's input slot. |
 | Predicate Block     | A predicate is a special kind of reporter that always reports true or false. |
-| Argument      | Contains values that you can change. |
+| Argument      | Any area in a block that accepts user input, or another block. It could be a Boolean Block or a value placed inside of a variable or block. |
 | Say Block     | The block gives its sprite a speech bubble with the specified text — the speech bubble stays until an another speech or thought block is activated, or the stop sign is pressed. |

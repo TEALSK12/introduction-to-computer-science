@@ -8,6 +8,7 @@ Students will be able to...
 
 
 ## Materials/Preparation
+ - [Unit 6 Tips]()
  - [Final Project Plan Organizer] 
  - [Final Project Development Plan] 
  - [Examples of TEALS Final Projects](https://youtu.be/aV6LFVXxd34)

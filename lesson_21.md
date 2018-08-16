@@ -44,7 +44,7 @@ Students will be able to...
                 -   Number of iterations can be a value, variable, or reporter
             -   ![](forever.png) runs the body of the loop nonstop until the script is ended
                 -   Can be stopped either by clicking the stop sign or by any version of ![](stop.png)
-            -   ![](<repeat until.png>) runs the body of the loop until the specified condition becomes true
+            -   ![](repeat until.png) runs the body of the loop until the specified condition becomes true
                 -   Save detailed discussion of this loop until conditionals are introduced
     3.  Walk through examples of ![](repeat.png) and ![](forever.png)
 

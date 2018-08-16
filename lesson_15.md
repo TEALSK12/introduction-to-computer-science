@@ -21,6 +21,8 @@ Students will be able to...
 -   A few suggested subjects for students who struggle to come up with their own
     -   Pick a few simple, well-known options from your list
 -  Planning Worksheet ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx))
+-   [Unit 1 Tips]()
+
 ## Pacing Guide
 
 | _Duration_    | _Description_                                 |

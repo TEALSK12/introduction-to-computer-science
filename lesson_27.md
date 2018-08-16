@@ -15,6 +15,7 @@ Students will be able to...
 -   Pong planning worksheet: ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project_2_Pong_Planning_Worksheet.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project_2_Pong_Planning_Worksheet.pdf))
 -   [Optional] Printouts of the specification
 -   Link to an online version of Pong for demonstration: <http://www.ponggame.org/>
+-   [Unit 2 Tips]()
 
 ## Pacing Guide
 

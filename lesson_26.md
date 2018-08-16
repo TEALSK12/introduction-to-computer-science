@@ -35,7 +35,7 @@ Students will be able to...
         -   Encourage discussion about previous activities
         -   Fill in understanding gaps when necessary
     2.  Demonstrate combining loops and conditionals
-        -   Present ![](<repeat until.png>) and ![](foreverIf.png)
+        -   Present ![](repeat%20until.png) and ![](foreverIf.png)
         -   Ask students to suggest when these constructs might be useful
             -   "repeat until" is useful when a loop needs to run not for a set number of iterations, but until some situation occurs
             -   "forever if" is useful when code should execute _any time_ a condition is true, for the duration of the program

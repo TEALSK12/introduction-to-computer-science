@@ -11,6 +11,7 @@ Students will be able to...
 
 -   [Do Now 3.4: Practice using Arguments](do_now_34.md)
 -   [Lab 3.4 handout](lab_34.md) (If My Calculations Are Correct...) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.pdf))
+-   [Unit 3 Tips]()
 
 ## Pacing Guide
 

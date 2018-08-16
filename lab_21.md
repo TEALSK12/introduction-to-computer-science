@@ -5,7 +5,7 @@ In this lab, you will rewrite your SNAP programs from Lab 1.3 to draw shapes usi
 ## Section 1 - Back In Time
 
 1.  Open your solution to the original "Squares and Triangles and Stars, Oh My!" activity.  Go to the "File" menu and select "Save as..." to give your project a new name.
-    ![](<save as.png>)
+    ![](save as.png)
 
 ## Section 2 - Simplifying Code
 

@@ -8,10 +8,10 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 
 | Word     | Definition                                 |
 | ------------- | --------------------------------------------- |
-| Loop     |  A type of block that causes other code to run multiple times in succession.|
+| Loop     |  A type of block that causes other code to run multiple times in succession.<br> A control flow statement that allows code to be executed repeatedly based on a given Boolean condition.
 | Nested Loop     | A loop used inside the body of another loop. |
-| Conditional     | A block used to make a choice between executing two different chunks of code.|
-| Variable     | A placeholder for some value. |
-| Boolean Expression     | Expressions that evaluate to true or false. |
+| Conditional     | A block used to make a choice between executing two different chunks of code."If" statements.|
+| Variable     | A placeholder for some value. Types of variables:<br>Global variables - apply to all sprites <br>Sprite variable - applies to one sprite <br>Script variable - parameter that applies to one script|
+| Boolean Expression     | A value (text, number, picture, etc.) that evaluate to true or false. |
 | Boolean Operators     | Boolean expressions that can be nested. |
 | Modeling     |Building a system to simulate the behavior of a real-life phenomenon by simplifying or ignoring certain details. |

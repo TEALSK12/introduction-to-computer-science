@@ -13,5 +13,8 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Sprites     |  An object in Snap! which performs functions controlled by scripts. | 
 | Stage     |  The background of a project, performs functions through scripting. | 
 | Costume     |  A costume is one out of possibly many "frames" or alternate appearances of a sprite. | 
+| Receive Block  | Code Block in Control that receives a message from another block. | 
+| Watcher Block | reporter blocks you can click the checkbox for; they will appear in the Stage and you can track them. | 
+| X Position     |  The position that a sprite or the mouse is at along the horizontal axis. |
 | X Position     |  The position that a sprite or the mouse is at along the horizontal axis. | 
 | Y Position     | The position that a sprite or the mouse is at along the vertical axis. | 

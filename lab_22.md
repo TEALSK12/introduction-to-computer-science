@@ -12,7 +12,7 @@ In this lab, you will use nested loops to draw a large brick wall using as littl
 
 ## Part 2 - Build a Wall
 
-1.  Now that you can build a row of bricks, add code to build a second row above the first row.  The bricks in the second row should share a long edge with those in the first row, but should be "offset" so that the ends of the second row bricks are at the middle of the first row bricks, like this: ![](offset bricks.png)
+1.  Now that you can build a row of bricks, add code to build a second row above the first row.  The bricks in the second row should share a long edge with those in the first row, but should be "offset" so that the ends of the second row bricks are at the middle of the first row bricks, like this: ![](offset%20bricks.png)
 
 2.  Modify your code to build four total rows, alternating back and forth between the "regular" and "offset" rows.  Use nested loops to keep your code concise.
 

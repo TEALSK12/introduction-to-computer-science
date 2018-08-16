@@ -18,7 +18,7 @@ Students will be able to...
 
 -   [Do Now 2.3: Stairs](do_now_23.md)
 -   Lab 2.3 Handout - [What Shape is That?](lab_23.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.3%20What%20Shape%20Is%20That.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.3%20What%20Shape%20Is%20That.pdf))
--   [Unit 2 Tips]()
+-   [Unit 2 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_2_tips.md)
 
 ## Pacing Guide
 

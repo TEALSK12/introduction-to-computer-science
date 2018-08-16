@@ -14,7 +14,7 @@ Students will be able to...
 -   Class list
 -   [Optional] Seating chart
 -   Bell schedule and classroom location
--   [Unit 0 Tips]()
+-   [Unit 0 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_0_tips.md)
 
 ## Pacing Guide
 

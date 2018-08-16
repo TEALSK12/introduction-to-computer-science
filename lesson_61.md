@@ -11,7 +11,7 @@ Students will be able to...
  - [Final Project Plan Organizer] 
  - [Final Project Development Plan] 
  - [Examples of TEALS Final Projects](https://youtu.be/aV6LFVXxd34)
- - TEALS Final Project Design Steps [(Download .docx)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Project%20Feedback%20Form.docx?raw=true) [(Download .pdf)]()
+ - TEALS Final Project Design Steps [(Download .docx)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/TEALS%20Final%20Project%20Design%20Steps.docx?raw=true) [(Download .pdf)]()
 
 
 ## Pacing Guide
@@ -42,7 +42,7 @@ Students will be able to...
     1. Tell students that, as a class, they will now practice some of the design and planning tasks for the project on a well-known app
         * Pick an app that both you and most of your students have a deep familiarity with, but that is not too complex.  Twitter, Instagram, Pinterest, or other relatively small-scope social media apps work well here.
         * If necessary, scope down the app by focusing on only the core features (e.g. only consider public, text-only Tweets to start)
-    2. Walk through each of the design steps [(TEALS design steps handout)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Project%20Feedback%20Form.docx?raw=true) in the project rubric for the chosen app :
+    2. Walk through each of the design steps [(TEALS design steps handout)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/TEALS%20Final%20Project%20Design%20Steps.docx?raw=true) in the project rubric for the chosen app :
         1. Pitch - describe the basic functionality of the app in one paragraph of less
         2. Define - List the features/scenarios the app will support
         3. Sketch - Draw a very basic wireframe sketch of the main "screens" of the app

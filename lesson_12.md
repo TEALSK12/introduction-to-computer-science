@@ -16,7 +16,7 @@ Students will be able to...
 -   Helping Trios handout [Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
 -   Read through the handout so that you are familiar with the requirements and can assist students
 -   Index cards with each students name on them. One name per index card.
--   [Unit 1 Tips]()
+-   [Unit 1 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_1_tips.md)
 
 ## Pacing Guide
 

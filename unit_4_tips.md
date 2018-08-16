@@ -1,7 +1,7 @@
 # TEALS Unit 4 Tips
 
 ## SNAP Tips
-*[Tip Numbers from *SNAP Tips* Document:](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true) 19
+*[Tip Numbers from *SNAP Tips* Document:](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true) 0, 19
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.

@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Unit 4 Tips]()
+-   [Unit 4 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_4_tips.md)
 -   Paper/writing implements for each group of students
     -   Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine
 

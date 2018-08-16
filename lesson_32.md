@@ -13,7 +13,7 @@ Students will be able to...
 
 -   [Do Now 3.2: Drawing Squares](do_now_32.md)
 -   Lab 3.2 handout - [Drawing Shapes Again](lab_32.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.2%20Drawing%20Shapes%20Again.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.2%20Drawing%20Shapes%20Again.pdf))
--   [Unit 3 Tips]()
+-   [Unit 3 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_3_tips.md)
 
 
 ## Pacing Guide

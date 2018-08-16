@@ -8,11 +8,11 @@ Students will be able to...
 
 
 ## Materials/Preparation
- - [Unit 6 Tips]()
+ - [Unit 6 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_6_tips.md)
  - [Final Project Plan Organizer] 
  - [Final Project Development Plan] 
  - [Examples of TEALS Final Projects](https://youtu.be/aV6LFVXxd34)
- - TEALS Final Project Design Steps [(Download .docx)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/TEALS%20Final%20Project%20Design%20Steps.docx?raw=true) [(Download .pdf)]()
+ - TEALS Final Project Design Steps [(Download Word)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/TEALS%20Final%20Project%20Design%20Steps.docx?raw=true) [(Download .pdf)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%206%20PDF/TEALS%20Final%20Project%20Design%20Steps.pdf)
 
 
 ## Pacing Guide

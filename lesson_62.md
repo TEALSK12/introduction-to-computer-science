@@ -6,9 +6,9 @@ Students will be able to
   * Rank a group of proposed project ideas using the identified factors
 
 ## Materials/Preparation
-- Project Feedback Form [(Download Word)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Project%20Feedback%20Form.docx?raw=true) [Download .pdf]()
+- Project Feedback Form [(Download Word)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Project%20Feedback%20Form.docx?raw=true) [(Download .pdf)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%206%20PDF/Project%20Feedback%20Form.pdf)
 - ["Computer Science is Changing Everything" Code.org Video](https://youtu.be/QvyTEx1wyOY) (5:34 minutes)
-- [Unit 6 Tips]()
+- [Unit 6 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_6_tips.md)
 
 
 ## Pacing Guide

@@ -10,7 +10,7 @@ Students will be able to...
 
 -   [Do Now 2.2: Debugging Loops](do_now_22.md)
 -   Lab 2.2 handout - [Another Brick in the Wall](lab_22.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.2%20Another%20Brick%20in%20the%20Wall.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.2%20Another%20Brick%20in%20the%20Wall.pdf))
--   [Unit 2 Tips]()
+-   [Unit 2 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_2_tips.md)
 
 ## Pacing Guide
 

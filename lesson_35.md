@@ -16,6 +16,7 @@ Students will be able to...
 -   (Optional) Printouts of the specification
 -   A few suggested themes available for students who may struggle to come up with their own.
 -   Suggestions for characters, power-ups, goals, etc.
+-   [Unit 3 Tips]()
 
 ## Pacing Guide
 

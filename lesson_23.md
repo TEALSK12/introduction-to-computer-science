@@ -50,7 +50,7 @@ _Note: This lesson may cover too much material for some classes to handle in one
         -   Emphasize that only one input is stored at a time, and that asking a new question deletes the previous answer
             -   For example, the following script, intended to draw a bunch of squares where the user specifies both the size and the number of squares, will not work as intended:
 
-                ![](draw squares.png)
+                ![](draw%20squares.png)
 
     3.  Introduce conditional statements
         -   Define "conditional" - _a block used to make a choice between executing two different chunks of code_

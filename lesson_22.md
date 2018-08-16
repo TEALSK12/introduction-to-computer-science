@@ -38,7 +38,7 @@ Students will be able to...
 
         -   Work through writing a script to do this.  The likely result will duplicate the code to draw a single square:
 
-        ![](<twosquares.png>)
+        ![](twosquares.png)
 
         -   Remind students to remember what they previously learned and use loops
         -   Once the script is complete, ask students if there are ways they could improve the code
@@ -52,7 +52,7 @@ Students will be able to...
         -   Emphasize that the inner loop will run all its iterations _each time_ the outer loop runs.
     4.  Walk through rewriting the script to draw multiple squares to use nested loops:
 
-        ![](<twosquaresnested.png>)
+        ![](twosquaresnested.png)
 
         * Ask how many total times the sprite will move 50 steps
             * The sprite will move 50 steps 8 times (4 * 2)

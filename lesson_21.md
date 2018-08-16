@@ -12,7 +12,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Unit 2 Tips]()
+-   [Unit 2 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_2_tips.md)
 -   [Do Now 2.1: Intro Loops](do_now_21.md)
 -   Lab 2.1 handout - [Squares and Triangles Redux](lab_21.md) ([Download in MS Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.1%20Triangles%20and%20Squares%20Redux.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.1%20Triangles%20and%20Squares%20Redux.pdf))
 -   [Geometry Cheat Sheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif)

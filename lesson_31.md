@@ -15,6 +15,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+-   [Unit 3 Tips]()
 -   Student algorithms from lesson 0.2
     -   If algorithms are not still available, either provide students with a canonical sample or have them recreate their algorithms as the first part of this lesson
 -   Paper/writing implements for each group of students

@@ -11,6 +11,7 @@ Students will be able to...
 
 -   [Do Now 4.5: List Tracing ](do_now_45.md)
 -   [Lab 4.5 handout (It's Around Here Somewhere)](lab_45.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.5%20Its%20Around%20Here%20Somewhere.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.5%20Its%20Around%20Here%20Somewhere.pdf))
+-   [Unit 4 Tips]()
 
 ## Pacing Guide
 

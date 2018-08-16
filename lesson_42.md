@@ -12,7 +12,8 @@ Students will be able to...
 
 -   [Do Now 4.2: Letters of a Word](do_now_42.md)
 -   [Lab 4.2 handout (You Talkin' to Me?)](lab_42.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.2%20You%20Talkin%20To%20Me.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.2%20You%20Talkin%20To%20Me.pdf))
--   [SNAP List Components]([Download in Word]()) ([Link to PDF]())
+-   [Snap! List Components] [(Download in Word )](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/SNAP%20Lists%20Components.docx?raw=true), [(Download PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/SNAP%20Lists%20Components.pdf)
+-   [Unit 4 Tips]()
 
 ## Pacing Guide
 
@@ -31,7 +32,7 @@ Students will be able to...
             -   To store an unknown number of values (e.g. a bunch of student test scores, shopping list, the songs of your favorite music artist)
             -   To store a collection of related values as one entity (e.g. the number of absent students each day over a week, how often a video on YouTube in a week)
     -   Demonstrate creating lists in SNAP
-    
+        -   Use the [Snap! Lists Components] file to demostrate the Snap! list structure
         -   Use the variadic (taking a variable number of arguments) "list" block to create a simple list
         -   Point out the format in which lists are displayed (gray box with red elements)
         -   Show that lists can be assigned to variables like other values
@@ -64,3 +65,5 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-2-static-lists" target="_blank">
 Lesson 4.2: Static Lists (TEALS Discourse account required).</a>
+
+[Snap! List Components]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/SNAP%20Lists%20Components.docx?raw=true

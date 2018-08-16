@@ -9,6 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 * Students should each have their [Final Project Plan Organizer] and [Final Project Development Plan]
+* [Unit 6 Tips]()
 
 ## Pacing Guide
 

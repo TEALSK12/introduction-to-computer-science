@@ -6,8 +6,9 @@ Students will be able to
   * Rank a group of proposed project ideas using the identified factors
 
 ## Materials/Preparation
-- Project Feedback Form [(Download .docx)]() [Download .pdf]()
+- Project Feedback Form [(Download Word)](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Project%20Feedback%20Form.docx?raw=true) [Download .pdf]()
 - ["Computer Science is Changing Everything" Code.org Video](https://youtu.be/QvyTEx1wyOY) (5:34 minutes)
+- [Unit 6 Tips]()
 
 
 ## Pacing Guide
@@ -35,7 +36,7 @@ Students will be able to
         * If a student is having difficulty developing a pitch for an idea, that might be a sign that the idea is not fully-formed enough to be a final project.
         * If a student is having trouble keeping the pitch short, the project may be too complex to complete in the available time.
 4. Peer review
-    * Pair students up in diverse groups and have students take turns reading one of their pitches to their partner and asking for feedback.  Partners should ask questions to help identify both the best and worst parts of each pitch. Students can use this [Project Feedback Form]
+    * Pair students up in diverse groups and have students take turns reading one of their pitches to their partner and asking for feedback.  Partners should ask questions to help identify both the best and worst parts of each pitch. Students can use this [Project Feedback Form](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Project%20Feedback%20Form.docx?raw=true)
         * Remind students to keep all feedback constructive, respectful, and professional.  Students should not criticize each other's ideas, but can point out potential concerns.
         * Students should take notes during their conversations and refine their pitches based on their partner's feedback and their own realizations.
     * If time allows (or over the course of multiple days), repeat this process with new partners.

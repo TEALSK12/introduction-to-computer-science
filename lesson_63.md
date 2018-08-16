@@ -8,6 +8,7 @@ Students will be able to...
 
 ## Materials/Preparation
  - [Final Project Plan Organizer](.docx) handout
+ - [Unit 6 Tips]()
 
 
 ## Pacing Guide

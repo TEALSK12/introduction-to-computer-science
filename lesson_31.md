@@ -15,7 +15,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Unit 3 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_3_tips.md)
+-   [Unit 3 Tips](unit_3_tips.md)
 -   Student algorithms from lesson 0.2
     -   If algorithms are not still available, either provide students with a canonical sample or have them recreate their algorithms as the first part of this lesson
 -   Paper/writing implements for each group of students

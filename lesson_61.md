@@ -8,7 +8,7 @@ Students will be able to...
 
 
 ## Materials/Preparation
- - [Unit 6 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_6_tips.md)
+ - [Unit 6 Tips](unit_6_tips.md)
  - [Final Project Plan Organizer] 
  - [Final Project Development Plan] 
  - [Examples of TEALS Final Projects](https://youtu.be/aV6LFVXxd34)

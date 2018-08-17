@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 * Students should each have their [Final Project Plan Organizer] and [Final Project Development Plan]
-* [Unit 6 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_6_tips.md)
+* [Unit 6 Tips](unit_6_tips.md)
 
 ## Pacing Guide
 

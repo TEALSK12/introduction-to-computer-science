@@ -10,7 +10,7 @@ Students will be able to...
 -   Describe how complex goals can be accomplished using cloning
 
 ## Materials/Preparation
-- [Unit 5 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_5_tips.md)
+- [Unit 5 Tips](unit_5_tips.md)
 - [Lab 5.1 Handout](lab_51.md) (Connect the Dots) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.1%20Connect%20the%20Dots.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.1%20Connect%20the%20Dots.pdf))
 - If possible, create large poster-sized versions of the dot grids (each grid is 12 x 3).
 

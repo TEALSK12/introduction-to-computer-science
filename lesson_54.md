@@ -12,7 +12,7 @@ Students will be able to...
 -   [Project 5 - Space Invaders](project_5.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%205%20Space%20Invaders.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%205%20Space%20Invaders.pdf))
 -   [Optional] Printouts of the specification
 -   Link to an online version of Space Invaders, such as <http://www.pacxon4u.com/space-invaders/>
--   [Unit 5 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_5_tips.md)
+-   [Unit 5 Tips](unit_5_tips.md)
 ## Pacing Guide
 
 | Duration      | Description                                   |

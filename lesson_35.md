@@ -16,7 +16,7 @@ Students will be able to...
 -   (Optional) Printouts of the specification
 -   A few suggested themes available for students who may struggle to come up with their own.
 -   Suggestions for characters, power-ups, goals, etc.
--   [Unit 3 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_3_tips.md)
+-   [Unit 3 Tips](unit_3_tips.md)
 
 ## Pacing Guide
 

@@ -12,7 +12,7 @@ Students will be able to...
 
 -   [Do Now 4.4: Traversing List ](do_now_44.md)
 -   [Lab 4.4 handout (Number Cruncher)](lab_44.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.4%20Number%20Cruncher.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.4%20Number%20Cruncher.pdf))
--   [Unit 4 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_4_tips.md)
+-   [Unit 4 Tips](unit_4_tips.md)
 
 ## Pacing Guide
 

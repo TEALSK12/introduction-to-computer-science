@@ -13,7 +13,7 @@ Students will be able to...
 -   [Do Now 4.2: Letters of a Word](do_now_42.md)
 -   [Lab 4.2 handout (You Talkin' to Me?)](lab_42.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.2%20You%20Talkin%20To%20Me.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.2%20You%20Talkin%20To%20Me.pdf))
 -   [Snap! List Components] [(Download in Word )](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/SNAP%20Lists%20Components.docx?raw=true), [(Download PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/SNAP%20Lists%20Components.pdf)
--   [Unit 4 Tips](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/unit_4_tips.md)
+-   [Unit 4 Tips](unit_4_tips.md)
 
 ## Pacing Guide
 

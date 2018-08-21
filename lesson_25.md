@@ -36,7 +36,7 @@ Students will be able to...
         -   In SNAP, all Boolean expressions are pointy six-sided blocks
     -   Present the three Boolean operators: and, or and not
         -   Define the operators and describe when each will return true
-        -   Show the truth tables for each operator and explain how to read them (see below for trueth table example)
+        -   Show the truth tables for each operator and explain how to read them (see below for truth table example)
             -   Truth tables are simply one way of expressing how the Boolean operators work; if students are struggling, other depictions (such as an exhaustive list of all possible results) can be substituted
         -   Emphasize that since Boolean operators are themselves Boolean expressions, they can be nested
         -   Practice evaluating Boolean expressions, starting simple and moving to more complex nested operations

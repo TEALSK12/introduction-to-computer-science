@@ -33,7 +33,7 @@
       * [Lab 2.1: Squares and Triangles Redux](lab_21.md)
     * [Lesson 2.2: Nested Loops](lesson_22.md)
       * [Do Now 2.2: Debugging Loops](do_now_22.md)
-      * [Lab 2.2: Another Brick in the Wall](lab_22.md)
+      * [Lab 2.2: Yellow Brick Road](lab_22.md)
     * [Lesson 2.3: Inputs and Conditionals](lesson_23.md)
       * [Do Now 2.3: Stairs](do_now_23.md)
       * [Lab 2.3: What Shape is That?](lab_23.md)

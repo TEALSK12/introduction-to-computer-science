@@ -1,4 +1,12 @@
-## [2.1.0] - 2018-08-22
+## [2.1.1] - 2018-08-21
+| Unit    | Change |
+|---------|--------|
+| lab_22.md | Change theme from brick wall to yellow brick road
+| lesson_22.md |
+| SUMMARY.md |
+| +Lab 2.2 Yellow Brick Road.docx/.pdf |
+
+## [2.1.0] - 2018-08-16
 | Unit    | Change                                                                                                                                                                                                                    |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0.2     | Toothbrush activity option added to Do Now  <br>World Cafe protocol added for Lab                                                                                                                                             |

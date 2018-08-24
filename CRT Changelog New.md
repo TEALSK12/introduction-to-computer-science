@@ -3,322 +3,109 @@ All notable changes to this project will be documented in this file.
 
 ## [Released]
 
- # [2.0.1] - 2018-08-16
+ # [2.1.0] - 2018-08-23
 ### Added
-### Changed
-- Commits on Aug 16, 2018
-- Argument definition changed 
-- Create CRT Changelog
-- Rename CRT Changelog to CRT Changelog.md 
-- Update CRT Changelog.md
-- Update CRT Changelog.md
-- PDF link added for Feedback form added
-- Design Steps PDF link added
-- Update lesson_61.md
-- Update lesson_01.md  
-- Update lesson_32.md
-- unit tips link added to all lessons in units 0-6
-- unit tips link added
-- unit tips link added  
-- unit tips link added
-- unit tips link added
-- Updates Snap Tips document  … 
-- Update unit_0_tips.md
-- Update unit_1_tips.md
-- Update unit_2_tips.md
-- Update unit_3_tips.md
-- Update unit_4_tips.md
-- Update unit_5_tips.md
-- Update unit_6_tips.md
-- Definitions updated  …
-- definitions edited  …
-- definitions added  …
-- Update unit_1_tips.md
-- Definitions added  …
-- Definitions added  …
-- Snap Tips updated  …
-- fix tip link
+Create CRT Changelog New organized chronologically  
 
- # [2.0.1] - 2018-08-15
+ # [2.0.9] - 2018-08-16
 ### Added
+- Create CRT Changelog.md organized by unit
+- Definitions added to unit 2- 4 to reflect teacher vocab list generated at TEALS training  
+- PDF link added for Feedback form to lesson 6.2
+- Design Steps PDF link added to lesson 6.1
+- Added a link to the relevant unit tips document in every lesson in units 0-6
+- Reference to human computers added to lesson 0.2
+
 ### Changed
-- Links added for newly committed files in units 4-6
+- Snap Tips updated to include teaching tips and debugging tips from TEALS teachers
+- Unit tips 0-6 documents refer to SNAP tips number 0
+
+ # [2.0.8] - 2018-08-15
+### Added
+- Word and PDF Links added for newly committed files in units 4-6
 - Placeholder links for the unit tips md files in all lessons
-- Curriculum map hangman reference changed
 - Unit 6 PDF folder created
 - Unit 6 PDF files uploaded into Unit 6 PDF folder
-- Delete Snap Tips.docx
-- Add files via upload  …
-- Update lesson_02.md  …
-- Add files via upload
-- Add files via upload
-- Update unit_0_tips.md
-- Update unit_1_tips.md
-- Update unit_2_tips.md
-- Update unit_3_tips.md
-- Update unit_4_tips.md
-- Update unit_5_tips.md
-- Update unit_6_tips.md
-- SNAP Lists Components Links Added
-- Update lesson_46.md
-- Unit 6 PDF Files added
-- TEALS Design Steps .doc links added
-- Update lesson_61.md
-- Feedback form links added
+- Unit 6 Word files uploaded to unit 6 Doc folder
+- Snap Tips document linked to 0-6 unit tips documents
 
-# [2.0.1] - 2018-08-14
-### Added
 ### Changed
-- Update lesson_61.md
-- Update lesson_62.md
-- Update lesson_62.md
-- Update lesson_62.md
-- Update lesson_63.md
-- Update lesson_64.md
-- Update lesson_65.md
-- Update lesson_65.md  …
-- Update lesson_62.md
+- Curriculum map hangman reference changed to word guessing game
 
-# [2.0.1] - 2018-08-14
+# [2.0.7] - 2018-08-14
 ### Added
-### Changed
 - Created Unit Tips documents for units 0-6
-- Master SNAP Tips Document 
+- "Computer Science is Changing Everything” video added to lesson 6.2
+- Examples of TEALS Final Projects video added to lesson 6.1
+- Master SNAP Tips Document created
 
-# [2.0.1] - 2018-08-13
-### Added
 ### Changed
-- Update lesson_51.md
-- Space Invaders links added
-- Update lesson_52.md
-- Part 1 language adjusted  …
-- Lots of Balls lab updated
-- Lots of Balls lab updated
-- Delete Lab 4.3 Guess Who.pdf
-- Lots of Balls lab updated
-- helping trios added
-- language updated  …
-- Updated Fewer Balls lab
-- Updated Fewer Balls lab
+- Links added to Final Project Organizer and Final Project Organizer in unit 6 lessons
 
-# [2.0.1] - 2018-08-03
+# [2.0.6] - 2018-08-13
 ### Added
-### Changed
-Update lesson_11.md
+- Lots of Balls lab Word and PDF files updated to refer to “Bouncing Sprites”
+- Updated Fewer Balls lab Word and PDF to refer to “Bouncing Sprites”
+- helping trios added to lesson 5.3
 
-# [2.0.1] - 2018-08-03
-### Added
 ### Changed
+- lab language adjusted to bouncing sprites instead of balls
+- Space Invaders new video links added from YouTube links and Vimeo
+
+# [2.0.5] - 2018-08-03
+### Added
 - Added lists examples
 - Added SNAP Lists Visual
-- SNAP Lists Visual
-- SNAP Lists Visual added
-- Removed broken link  …
-- Grammar Cheat Sheet link added to accommodations
-- Updated names & provided example lists
-- Update lab_43.md
-- Updated 4.3 Lab
-- Updated Lab 4.3 PDF
-- Update lesson_43.md
-- Update lesson_46.md
-- Update lesson_46.md
-- Update project_4.md
-- Snowball example added
-- Sample Solution Updated  …
-- Update lesson_46.md
-- Update lesson_46.md
-- Language change  …
-- Update project_4.md
-- Updated file
-- Updated file
-
-# [2.0.1] - 2018-08-01
-### Added
-### Changed
-- student experience link added
-- Student Experience Survey Link added
-- Helping Trios Links Added
-- Helping Trios links added
-- Geometry Cheat Sheet Link
-- Lab file links added
-- Update lesson_31.md
-
-# [2.0.1] - 2018-07-29
-### Added
-### Changed
-- Real Life Loops
-- Geometry Cheatsheet
-- Update lesson_13.md 
-- Update lesson_13.md
-- geometry cheat sheet
-- Update lesson_13.md
-- Update lesson_22.md
-- Update lesson_22.md
-- Update lesson_22.md
-- video added
-- Box Variables activity
-- Update lesson_24.md
-- Booleans Unplugged activity added
-- Update lesson_25.md
-- Update lesson_31.md
-- intro activity added
-- Arguments definition added
-- Bonus activity modified
-- old version  
-- Updated lab 
-- delete old lab
-- Updated lab
-- Update lesson_04.md
-- Update lesson_04.md
-- Update lesson_04.md
-- Update lesson_12.md
-- Update lesson_11.md
-
-## [2.0.1] - 2018-07-16
-### Added
--Toothbrush activity
-- Update lesson_02.md
-- World Cafe protocol
-### Changed
-
-## [2.0.1] - 2018-07-16
-### Added
-- Update lesson_02.md
-- Pairing Advice
-- Student Experiences Survey
-- Update to lab .04  …
-- Volunteer Students asked for presentation
-- Added pairing reminder  
-- Helping Trio Protcol
-- Helping Trios note  
-- Grace Hopper story
-- Cold Calling Alternative
-- Bonus activity update 
-- Gamifying suggestion added 
-- Helping trio added
-- Update lesson_12.md
-- Do Now option added
-- Student Experiences Survey PDF
-- Helping Trio PDF
-
-
-
-
+- Snowball Snap! Program example added
 
 ### Changed
-- Start using "changelog" over "change log" since it's the common usage.
-- Start versioning based on the current English version at 0.3.0 to help
-translation authors keep things up-to-date.
-- Rewrite "What makes unicorns cry?" section.
-- Rewrite "Ignoring Deprecations" sub-section to clarify the ideal
-  scenario.
-- Improve "Commit log diffs" sub-section to further argument against
-  them.
-- Merge "Why can’t people just use a git log diff?" with "Commit log
-  diffs"
-- Fix typos in Simplified Chinese and Traditional Chinese translations.
-- Fix typos in Brazilian Portugese translation.
-- Fix typos in Turkish translation.
-- Fix typos in Czech translation.
-- Fix typos in Swedish translation.
-- Improve phrasing in French translation.
-- Fix phrasing and spelling in German translation.
+- Removed broken link to simple sentence generator by BJC
+- Grammar Cheat Sheet link added to accommodations to unit 4.3 
+- Updated names in lab
+- Language changed in unit 4 project to reflect the option of a figure disappearing (as in melting in the snowman sample project) instead of being built
 
-### Removed
-- Section about "changelog" vs "CHANGELOG".
-
-## [0.3.0] - 2015-12-03
+# [2.0.4] - 2018-08-01
 ### Added
-- RU translation from @aishek.
-- pt-BR translation from @tallesl.
-- es-ES translation from @ZeliosAriex.
-
-## [0.2.0] - 2015-10-06
-### Changed
-- Remove exclusionary mentions of "open source" since this project can
-benefit both "open" and "closed" source projects equally.
-
-## [0.1.0] - 2015-10-06
-### Added
-- Answer "Should you ever rewrite a change log?".
+- Explanation of uses of Student Experience Survey added to lesson 0.4
+- Helping Trios Links Added to lesson 1.1 and 1.2
+- Geometry Cheat Sheet Link to lesson 2.1
+- Updated lab file links added
 
 ### Changed
-- Improve argument against commit logs.
-- Start following [SemVer](http://semver.org) properly.
+- lesson 3.1 language changed to a layered food of the student’s choice
 
-## [0.0.8] - 2015-02-17
-### Changed
-- Update year to match in every README example.
-- Reluctantly stop making fun of Brits only, since most of the world
-  writes dates in a strange way.
-
-### Fixed
-- Fix typos in recent README changes.
-- Update outdated unreleased diff link.
-
-## [0.0.7] - 2015-02-16
+# [2.0.3] - 2018-07-30
 ### Added
-- Link, and make it obvious that date format is ISO 8601.
+- Helping Trios file link placeholder
+- geometry cheat sheet file created
+- Real Life Loops examples added
+-Boolean unplugged activity added to intro activity to lesson 2.5
+-Variable Boxes Unplugged Activity added to Do Now as a intro to Variables added to 2.4
 
 ### Changed
-- Clarified the section on "Is there a standard change log format?".
+-“Let me Check my Calendar” lab option added to challenge for personalization
+- Updated and Uploaded “Let me Check my Calendar” lab PDF and Word files in unit 3
+- Do Now activity change in lesson 3.2 to review algorithms
 
-### Fixed
-- Fix Markdown links to tag comparison URL with footnote-style links.
-
-## [0.0.6] - 2014-12-12
+# [2.0.2] - 2018-07-29
 ### Added
-- README section on "yanked" releases.
+- An intro to conditionals video by Flocabulary added to lesson 2.3
+- Personalization options added for advance students in lesson 2.2
+- Geometry cheat sheet link added to lesson 1.3 and 2.1
+- Real life loops via music and poetry examples added to lesson 2.1
 
-## [0.0.5] - 2014-08-09
+## [2.0.1] - 2018-07-18
 ### Added
-- Markdown links to version tags on release headings.
-- Unreleased section to gather unreleased changes and encourage note
-keeping prior to releases.
+- Toothbrush activity option added to Do Now in lesson 0.2
+- World Cafe protocol added for Lab in lesson 0.2
+- Diverse Grouping guidance added for lab in lesson 1.1
+- Helping Trio handout created in Word and PDF
+- Do Now option added to lesson 1.3
+- Gamifying suggestion added to lesson 1.2
+- Grace Hopper story added to lesson 1.2
 
-## [0.0.4] - 2014-08-09
-### Added
-- Better explanation of the difference between the file ("CHANGELOG")
-and its function "the change log".
-
-### Changed
-- Refer to a "change log" instead of a "CHANGELOG" throughout the site
-to differentiate between the file and the purpose of the file — the
-logging of changes.
-
-### Removed
-- Remove empty sections from CHANGELOG, they occupy too much space and
-create too much noise in the file. People will have to assume that the
-missing sections were intentionally left out because they contained no
-notable changes.
-
-## [0.0.3] - 2014-08-09
-### Added
-- "Why should I care?" section mentioning The Changelog podcast.
-
-## [0.0.2] - 2014-07-10
-### Added
-- Explanation of the recommended reverse chronological release ordering.
-
-## 0.0.1 - 2014-05-31
-### Added
-- This CHANGELOG file to hopefully serve as an evolving example of a
-  standardized open source project CHANGELOG.
-- CNAME file to enable GitHub Pages custom domain
-- README now contains answers to common questions about CHANGELOGs
-- Good examples and basic guidelines, including proper date formatting.
-- Counter-examples: "What makes unicorns cry?"
-
-[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.3.0...v1.0.0
-[0.3.0]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.2.0...v0.3.0
-[0.2.0]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.1.0...v0.2.0
-[0.1.0]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.8...v0.1.0
-[0.0.8]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.7...v0.0.8
-[0.0.7]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.6...v0.0.7
-[0.0.6]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.5...v0.0.6
-[0.0.5]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.4...v0.0.5
-[0.0.4]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.3...v0.0.4
-[0.0.3]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.2...v0.0.3
-[0.0.2]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.1...v0.0.2
-What is a changelog?
+###Changed
+- Updated lab 0.4 to incorporate Student Experiences Survey
+- Updated 0.4 lab files uploaded
+- Personalized bonus activity in lab 1.2
+- Volunteer Students asked for presentation in lesson 0.4

@@ -94,7 +94,7 @@ Create CRT Changelog New organized chronologically
 - Geometry cheat sheet link added to lesson 1.3 and 2.1
 - Real life loops via music and poetry examples added to lesson 2.1
 
-## [2.0.1] - 2018-07-18
+# [2.0.1] - 2018-07-18
 ### Added
 - Toothbrush activity option added to Do Now in lesson 0.2
 - World Cafe protocol added for Lab in lesson 0.2
@@ -104,7 +104,7 @@ Create CRT Changelog New organized chronologically
 - Gamifying suggestion added to lesson 1.2
 - Grace Hopper story added to lesson 1.2
 
-###Changed
+### Changed
 - Updated lab 0.4 to incorporate Student Experiences Survey
 - Updated 0.4 lab files uploaded
 - Personalized bonus activity in lab 1.2

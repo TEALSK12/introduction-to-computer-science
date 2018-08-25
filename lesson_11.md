@@ -37,7 +37,7 @@ Students will be able to...
 
 ![Zoom Blocks](ZoomBlocks.PNG)
 
-Zoom Blocks are a useful tool to increase the readability of code in Snap. To access the Zoom Blocks feature, simply go up to settings in the upper right, and select the second option in the list, Zoom Blocks. Once selected, an interface pops up which allows you to increase the zoom on your code and shows you a preview.
+Zoom Blocks are a useful tool to increase the readability of code in Snap. To access the Zoom Blocks feature, simply go up to settings in the upper left, and select the second option in the list, Zoom Blocks. Once selected, an interface pops up which allows you to increase the zoom on your code and shows you a preview.
 
 ## Instructor's Notes
 

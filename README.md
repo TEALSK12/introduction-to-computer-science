@@ -117,7 +117,7 @@ This curriculum is considered a living document and is intended to be updated re
 
 # Printing GitBook
 The Introduction to Computer Science GitBook can be printed by navigating to 
-https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/apcsa/#. 
+https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/intro-cs/#. 
 However, the "Download" button does not work. There is workaround depending on the browser:
 - click on the document to enable the pdf menu to show and clicking the down arrow or "Save as Copy"
 - right click on the .pdf document and select "Save As"

@@ -3,11 +3,11 @@ Accessing Additional Curriculum Materials
 
 To access the "Additional Curriculum Materials", log into your TEALS Dashboard at <https://tealsk12.org/dashboard>.  
 
-1.	The Additional Curriculum Materials are currently housed on an O365 SharePoint site under the TEALS domain
-2.	If you are someone that is logged in to O365 already because of your school or work domain, then there is an authorization conflict will you run into
-3.	In this situation, you need to use in Incognito/InPrivate browser session to keep the two O365 auth sessions separate
-4.	To open in InPrivate/Incognito browser session, right mouse click on the Additional Curriculum Materials link and copy the URL, paste the URL into the Incognito/InPrivate browser
-5.	You will be prompted for the SharePoint credentials directly
-6.	Use the username and password provided on the TEALS Dashboard
+1. The Additional Curriculum Materials are stored in a Microsoft Office 365 SharePoint site under the TEALS domain. 
+2. You will find the link, username, and password for these materials under the "Resources" heading on the dashboard.
+3. If you are already logged into an Office 365 account (perhaps because you use Office 365 at school or work) you will run into an authentication conflict when you try to access this SharePoint site in step 1. In this case, you need to access the "Additional Curriculum Materials" SharePoint site using an Incognito or InPrivate browser session.
+4. To open an Incognito or InPrivate browser session, right-click on the "Additional Curriculum Materials" link and select "Open link in Incognito/InPrivate window".
+5. The website will ask you to log into Office 365. 
+6. Be sure to use the username and password listed on the TEALS Dashboard, and not the account you usually use to log in at work or school.
 
 - You need to have cookies enabled to use the TEALS Dashboard site in general.

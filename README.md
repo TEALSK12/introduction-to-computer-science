@@ -11,6 +11,12 @@ Note the change in repository and GitBook locations starting the 2017-18 school 
 - GitHub: https://github.com/TEALSK12/introduction-to-computer-science
 - GitBook: https://tealsk12.gitbooks.io/introduction-to-computer-science/content/
 
+## Changelog
+Version: [2.1.1] 
+Last updates: 2018-08-21 
+[Changelog.md](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Changelog.md)
+
+
 ## About this curriculum
 
 ### License

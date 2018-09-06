@@ -104,7 +104,9 @@
       * [Project 6: Final Project](project_6.md)
 * [Additional Curriculum Resources](additional_curriculum_resources.md)
 * [Contributing](contributing.md)
+* [Changelog](Changelog.md)
 * [Appendix: BJC Lecture Videos](bjc_videosuggestions.md/bjcvideosuggestions.md)
 * [Lab Day Lesson](lab_day_lesson.md)
 * [Culture Day Lesson A: Video\/Reading](culture_day_lesson_a.md)
 * [Culture Day Lesson B: Student Research](culture_day_lesson_b.md)
+

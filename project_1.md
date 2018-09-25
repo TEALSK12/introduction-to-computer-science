@@ -1,4 +1,3 @@
-<!--- REVISED -->
 # Project 1: Animated Storytelling
 
 Students will use SNAP basics to implement an animated version of a story.

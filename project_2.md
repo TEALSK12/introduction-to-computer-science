@@ -1,4 +1,4 @@
-<!--- REVISED -->
+
 # Project 2: Pong
 
 Students will implement a well-written and engineered version of the classic arcade game Pong.

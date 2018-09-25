@@ -1,4 +1,4 @@
-<!--- REVISED -->
+
 # Lesson 3.4: Customization II
 
 ## Learning Objectives

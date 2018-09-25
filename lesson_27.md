@@ -1,4 +1,4 @@
-<!--- REVISED -->
+
 # Lesson 2.7: Pong Project
 
 ## Learning Objectives

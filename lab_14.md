@@ -1,4 +1,4 @@
-<!--- REVISED -->
+
 # Lab 1.4: Sprites in Action
 
 In this lab, you will use costumes and movement to create simple SNAP animations.

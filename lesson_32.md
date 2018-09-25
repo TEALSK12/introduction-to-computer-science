@@ -1,4 +1,4 @@
-<!--- REVISED -->
+
 # Lesson 3.2: Procedures
 
 ## Student Objectives

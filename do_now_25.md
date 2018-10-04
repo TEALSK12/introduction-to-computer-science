@@ -1,15 +1,15 @@
 ## Do Now 2.5 Variables Practice
 
-1. Write down an algorithm in English how you would swap the values in two variables.
+1. Write an algorithm, in English, for how you would swap the values in two variables.
 
-   For example two players want to swap two objects:
+   For example, suppose we have two variables that have different values:
 
-   playerOneObject = "Torch"
+      set [playerOneValue] to "Torch"
    
-   playerTwoObject = "Gold"
+      set [playerTwoValue] to "Gold"
 
-   How would you swap the objects so playerOneObject is "Gold" and playerTwoObject is "Torch"?
+   How would you swap the values so [playerOneValue is] set to "Gold" and [playerTwoValue] is set to "Torch"?
 
-   Note, the objects can change over time so you cannot assume the objects will always be a "Torch" and "Gold".
+   Here, "Torch" and "Gold" are just examples -- suppose the algorithm doesn't know what values the variables have before it begins.
 
 2.  Swap your algorithm with a partner and test it to determine if it works or not.

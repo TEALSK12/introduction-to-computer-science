@@ -34,4 +34,4 @@ In this lab, you will write some custom blocks that take arguments and are usefu
 | 2.2 is a valid date             | 0.5 points     |
 | 2.3 day in year                 | 0.5 points     |
 | 2.4 Bonus: day in week          | 0.5 points     |
-| **PROJECT TOTAL**               | **3.5 points** |
+| **PROJECT TOTAL**               | **3.0 points** |

@@ -22,7 +22,7 @@ Coding is simply a technical skill.   Yet the process of software development, p
 * Important technologies or algorithms (RSA, Dijstra's Algorithm, RAID, integrated circuits, etc.)
 * New and emerging technologies (AI, Machine Learning, robotics, cryptocurrencies, etc.)
 * Impact of technology on society (social media, health and lifestyle, screen time, etc.)
-* Ethics (privacy, cyberbullying, security, etc.) 
+* Ethics (privacy, cyberbullying, security, etc.)
 
 This list should be expanded and updated, from time to time, for currency.
 
@@ -50,15 +50,15 @@ This list should be expanded and updated, from time to time, for currency.
         * Topics can be assigned, chosen by students from a pre-defined list, or suggested by students and approved by instructors
 
     * Create a schedule of when culture days will occur and which students will present on each day
-    * Depending on how many students are in the class, and how many days you wish to allot for presentations, your pacing guide can be adjusted. 
+    * Depending on how many students are in the class, and how many days you wish to allot for presentations, your pacing guide can be adjusted.
 
 2. Student presentations
     * Each student should give a 5-7 minute presentation on their assigned topic, followed by 8-10 minutes for Q&A
-        * Students should have a visual aspect to their project (poster, PowerPoint, prop bag, etc.) as well as giving a verbal presentation
-        * Use your judgement regarding the level of technical detail expected in the presentation.  It is probably not realistic to expect students to become experts in advanced technologies such as RSA, but they should be able to explain, at least at a high level, the details of their topic.
-            * Do not allow students to simply read a textbook or online definition of the topic-- ensure they can at least explain the subject in their own words.
-        * Allow classmates to ask questions, but beware of students trying to stump each other.
-        * Have a few questions for each assigned topic prepared ahead of time for instructors to ask in case classmates do not have questions.
+        * Students should have a visual aspect to their project (poster, PowerPoint, prop bag, etc.) as well as giving a verbal      presentation
+    * Use your judgement regarding the level of technical detail expected in the presentation.  It is probably not realistic to expect students to become experts in advanced technologies such as RSA, but they should be able to explain, at least at a high level, the details of their topic.
+       * Do not allow students to simply read a textbook or online definition of the topic-- ensure they can at least explain the subject in their own words.
+    * Allow classmates to ask questions, but beware of students trying to stump each other.
+    * Have a few questions for each assigned topic prepared ahead of time for instructors to ask in case classmates do not have questions.
 
 
 ## Accommodation/Differentiation

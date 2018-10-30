@@ -11,10 +11,10 @@ Students will be able to...
 
 #### Curricular Competencies - understanding context, defining, ideating
 
-In this course, we are not actually typing out any code.  In our case, "coding" would refer to the stage where we actually drag-and-drop in the SNAP design environment.   Later when we learn other languages, "coding" would refer to when we start typing out code in a specific language like Java or Python. 
+In this course, we are not actually typing out any code.  In our case, "coding" would refer to the stage where we actually drag-and-drop in the SNAP design environment.   Later when we learn other languages, "coding" would refer to when we start typing out code in a specific language like Java or Python.
 
-When we first learn computer programming, it may seem fun to dive right into coding.  Resist the urge to do so! 
-Software development is a process.  It begins with carefully thinking about, and planning out, your design.  This includes invisioning what the final product might look like, and planning out the steps needed to implement it.    Remember,  "design then code".  
+When we first learn computer programming, it may seem fun to dive right into coding.  Resist the urge to do so!
+Software development is a process.  It begins with carefully thinking about, and planning out, your design.  This includes envisioning what the final product might look like, and planning out the steps needed to implement it.    Remember,  "design then code".  
 
 ---
 
@@ -34,7 +34,7 @@ Software development is a process.  It begins with carefully thinking about, and
     1. Talk about how far students have come this semester
         * Ask students to think back to the start of the semester and remember how little they knew about programming.
         * Briefly list a bunch of the things they've learned (drawing, animation, variables, loops, conditionals, loops, etc.)
-        * Maybe show a lab or assignment from early on and remind them that, not that long ago, this was challenging, whereas it now seems nearly trival (hopefully).
+        * Maybe show a lab or assignment from early on and remind them that, not that long ago, this was challenging, whereas it now seems nearly trivial (hopefully).
     2. Explain that, for their final project, the students will get to design and build a program of their own choosing.
         * Point out that this will involve more than just writing code-- there will be planning, design, scheduling, and other project management tasks
         * Emphasize that students will be graded on not only the program they produce, but the process they used to design, plan, and implement it
@@ -46,17 +46,17 @@ Software development is a process.  It begins with carefully thinking about, and
         * Point out the steps in the process and that each one is equally important
         * Specifically mention the large number of points for things _not_ related to coding
         * Remind students that, as they are now SNAP experts, there are high expectations for the depth, complexity, and completeness of their projects
-   
-       
+
+
 ---
 #### Emphasize with students ...
 #### Curricular Competencies - understanding context, defining, ideating
 
-There are a gazillion apps out there there to do a gazillion things.  What are the different categories of software applications?  When looking at an application, what type of functionality does it have?  Who are the end users, or target audience?  What do you like, or not like, about it?  What do other users/reviewers say about it?  How does it compare to, or stand apart from, other similar apps? As we study and analyze sample applications, we gain experience that will help us design our own.
+There are a gazillion apps out there to do a gazillion things.  What are the different categories of software applications?  When looking at an application, what type of functionality does it have?  Who are the end users, or target audience?  What do you like, or not like, about it?  What do other users/reviewers say about it?  How does it compare to, or stand apart from, other similar apps? As we study and analyze sample applications, we gain experience that will help us design our own.
 
 ---
 
-        
+
 2. Sample design activity
     1. Tell students that, as a class, they will now practice some of the design and planning tasks for the project on a well-known app
         * Pick an app that both you and most of your students have a deep familiarity with, but that is not too complex.  Twitter, Instagram, Pinterest, or other relatively small-scope social media apps work well here.

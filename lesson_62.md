@@ -1,18 +1,18 @@
 # Lesson 6.2 - Research and Ideate
 
-## Learning Objectives 
+## Learning Objectives
 Students will be able to...
   * Identify potential users, intended impact, and possible unintended negative consequences
   * Generate ideas to create range of possibilities using a brainstorm technique
-  * Conduct user-centred research to understand design opportunities and barriers
+  * Conduct user-centered research to understand design opportunities and barriers
   * Critically analyze factors when choosing between project ideas
   * Prioritize proposed project ideas using the identified factors
-          
+
 ---
 #### Emphasize with students ...
 #### Big Ideas - personal design interests and project goals
 
-When coming up with ideas, personal interests are considered.  The final product often reflect the "heart and soul" of the designers behind the product.  If you are working in a group, each person should be willing to see the project through to completion. 
+When coming up with ideas, personal interests are considered.  The final product often reflect the "heart and soul" of the designers behind the product.  If you are working in a group, each person should be willing to see the project through to completion.
 
 #### Big Ideas - product life cycle
 
@@ -20,7 +20,7 @@ The design of a new software product progresses through a sequence of stages cal
 
 #### Curricular Competencies - understanding context, defining, ideating
 
-When coming up with a great product idea, it is important to conduct user-centred research to understand the needs of the client/customer/end-user.  This research helps us understand design opportunities and barriers.  This research could be done as a survey or interview, given to random people, to people in your friends or family circle, or to a specific population of people (like customers of a supermarket, or members of a soccer club, for example). 
+When coming up with a great product idea, it is important to conduct user-centered research to understand the needs of the client/customer/end-user.  This research helps us understand design opportunities and barriers.  This research could be done as a survey or interview, given to random people, to people in your friends or family circle, or to a specific population of people (like customers of a supermarket, or members of a soccer club, for example).
 
 ---
 
@@ -41,14 +41,14 @@ When coming up with a great product idea, it is important to conduct user-centre
 ## Instructor's Notes
 1. Review
     * Ask students to identify the steps in the design and planning process as discussed in [Lesson 6.1](lesson_61.md).
-        * Remind students that all steps are vital, and that thorough and thoughtful planning and design can make the coding phase much easier.
+        * Remind students that all steps are vital, and that thorough and thoughtful planning and design can make the coding phase    much easier.
     * Inform students that today they will take the first steps in designing their final project.
 2. Brainstorming
     * Give students 3-4 minutes to brainstorm and write down as many project ideas as they can.  This should be done mostly in silence.
         * At this point, there should be minimal detail, no evaluation or rejection of ideas, and no discussion.  In particular, students should not think about the difficulty or "coolness" of the project yet.  Just write down ideas.
         * If desired, have each student share one idea.  Do not allow discussion, criticism, or explanation-- each idea should be summarized in only a few words or a single sentence.
 3. Pitch writing
-    * Have students look at their list of ideas and spend a few minutes thinking about them. Then, each student should pick their **3** favorite ideas and write a "pitch" for the project.  A pitch should be no more than a short paragraph and should describe the basic, high-level features of the project.  The pitch should _not_ include any implementation details (scripts, sprites, etc.).
+    * Have students look at their list of ideas and spend a few minutes thinking about them. Then, each student should pick their favorite ideas and write a "pitch" for the project.  A pitch should be no more than a short paragraph and should describe the basic, high-level features of the project.  The pitch should _not_ include any implementation details (scripts, sprites, etc.).
         * Pitches should include a moderate level of specificity-- enough for someone to imagine how the app will work, but not so much to get bogged down.  Enforce the "one short paragraph" restriction.
         * If a student is having difficulty developing a pitch for an idea, that might be a sign that the idea is not fully-formed enough to be a final project.
         * If a student is having trouble keeping the pitch short, the project may be too complex to complete in the available time.
@@ -66,7 +66,7 @@ When coming up with a great product idea, it is important to conduct user-centre
 #### Emphasize with students ...
 #### Curricular Competencies - understanding context
 
-Software design is a process that takes time.   Conducting user-centred research helps narrow down and refine ideas.  What do potential users think?  For example, what components are necessary?  What components are nice to have?  Is it easy to use? 
+Software design is a process that takes time.   Conducting user-centered research helps narrow down and refine ideas.  What do potential users think?  For example, what components are necessary?  What components are nice to have?  Is it easy to use?
 
 ---
 
@@ -74,7 +74,7 @@ Software design is a process that takes time.   Conducting user-centred research
 ## Accommodation/Differentiation
 * If students are having difficulty coming up with project ideas, encourage them to think about existing software.  While simply recreating an existing app should be a last resort, thinking about apps they already know can help students come up with functionality they might like to include.
 * If your class is fairly self-sufficient and mature, you can consider allowing students to "borrow" an idea from a classmate if they find one they like better than any of their own.  Make sure the person who had the idea is OK with it being borrowed, and emphasize that the students must each build their own version.
-    * This can be a bit dangerous, as it puts the student somewhat behind in the process right from the start, since they won't have as much context having not written the pitch themself.  Consider carefully whether this is a good idea.
+    * This can be a bit dangerous, as it puts the student somewhat behind in the process right from the start, since they won't have as much context having not written the pitch themselves.  Consider carefully whether this is a good idea.
 * Encourage each student to pick a project that fits his or her level of technical skill.  Make sure students are not overcommitting and choosing projects they do not have the skills to complete.  Also try to discourage stronger students from choosing simpler projects in an effort to do less work.
 
 

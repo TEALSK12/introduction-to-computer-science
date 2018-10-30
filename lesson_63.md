@@ -5,8 +5,8 @@ Students will be able to...
   * Define key **user-scenarios** for a project and the features required to implement each scenario
   * Explain the importance of wireframing when designing an application
   * Capture key scenarios using **sketches** (hand drawn, or with drawing tool)
-  * Refine design based on user-centred research
-  
+  * Refine design based on user-centered research
+
 ---
 
 #### Emphasize with students ...
@@ -15,7 +15,7 @@ Students will be able to...
 
 The term "Agile Development" is used in software development to describe an iterative and incremental project management process, involving short cycles called "sprints".   Each sprint involves defining a list of tasks, doing a set of tasks, testing, going back to review the tasks list, and refining the design as needed.  
 
-From Lessons 6.3 to 6.5 you will be doing this type of iterative and incremental work.  Lesson 6.3 does not involve any "coding" yet. You will start with sketching things down with pencil-and-paper, or with a drawing tool.  Use the handouts to help you.  You may revise some sketches later on, after you have started implementation (ie, "coding") and testing. 
+From Lessons 6.3 to 6.5 you will be doing this type of iterative and incremental work.  Lesson 6.3 does not involve any "coding" yet. You will start with sketching things down with pencil-and-paper, or with a drawing tool.  Use the handouts to help you.  You may revise some sketches later on, after you have started implementation (ie, "coding") and testing.
 
 ---
 
@@ -45,7 +45,7 @@ From Lessons 6.3 to 6.5 you will be doing this type of iterative and incremental
     * Instruct students to write down at least **3** scenarios for their project describing, from start to finish, interactions a user might have with their program to accomplish a specific goal
         * The scenarios should have a moderate level of detail in the description of the user interaction (e.g. "push a button," "type in their name," etc.) but should not include any design or implementation details.
     * Once students have written their scenarios, they should review them and develop a list of the necessary features to enable each scenario
-        * Again, there should be minimal technical detail in these descriptions, instead focusing on details of the user experience.  The feature lists should should be more about _requirements_ than implementation.
+        * Again, there should be minimal technical detail in these descriptions, instead focusing on details of the user experience.  The feature lists should be more about _requirements_ than implementation.
 3. Wireframing
     * Define the term "wireframe" for students:
         * _wireframe: a high-level sketch of an application's user interface intended to help visualize layout, interactions, and transitions_

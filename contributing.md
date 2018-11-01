@@ -1,74 +1,84 @@
-<!-- This document is very idealistic by design, feel free to suggest toning down any part -->
 # Contributing
 
-## Repository Location
-The curriculum's source code is hosted on Github at: https://github.com/TEALSK12/introduction-to-computer-science
+## Contributing
+
+### Repository Location
+
+The curriculum's source code is hosted on Github at: [https://github.com/TEALSK12/introduction-to-computer-science](https://github.com/TEALSK12/introduction-to-computer-science)
 
 You can open issues, fork the curriculum, or submit pull requests to suggest changes.
 
-## Markdown style
+### Markdown style
 
 To keep the curriculum's underlying markdown consistent, we use [this markdown style guide](http://www.cirosantilli.com/markdown-style-guide). Since markdown is not a strict specification, there are a few options we choose to take from the style guide
-* [space-sentence:1]( http://www.cirosantilli.com/markdown-style-guide/#option-space-sentence-1)
+
+* [space-sentence:1](http://www.cirosantilli.com/markdown-style-guide/#option-space-sentence-1)
 * [wrap:inner-sentence](http://www.cirosantilli.com/markdown-style-guide/#option-wrap-inner-sentence)
 * [header:atx](http://www.cirosantilli.com/markdown-style-guide/#option-header-atx)
 * [list-space:mixed](http://www.cirosantilli.com/markdown-style-guide/#option-list-space-mixed)
 * [code:fenced](http://www.cirosantilli.com/markdown-style-guide/#option-code-fenced)
 
-### Updating GitBook with changes
+#### Updating GitBook with changes
 
 If you make changes to file names and links, make sure to update the GitBook references in summary.md accordingly.
 
-### Lint tool
+#### Lint tool
 
 We use [mdast-lint](https://github.com/wooorm/mdast-lint) to enforce the above style. All submissions will be run through [mdast-lint](https://github.com/wooorm/mdast-lint) and free of any errors and warnings.
 
-## Curriculum style
+### Curriculum style
 
-### How to write *Snap!*
-```
+#### How to write _Snap!_
+
+```text
 *Snap!*
 ```
 
+#### _Snap!_ Code
 
-### *Snap!* Code
-Blocks and scripts should always be presented as they would be in *Snap!*&mdash;as an image. 
+Blocks and scripts should always be presented as they would be in _Snap!_—as an image.
 
 Good
-> Use the ![move 10 steps](move.png) block to move your sprite.
+
+> Use the ![move 10 steps](.gitbook/assets/move.png) block to move your sprite.
 
 Bad
+
 > Use the move block to move your sprite.
 
-If it is absolutely necessary that a block not have a picture, wrap the name in blockquotes (e.g. ```move 10 steps``` block).
+If it is absolutely necessary that a block not have a picture, wrap the name in blockquotes \(e.g. `move 10 steps` block\).
 
-#### Creating new script images
+**Creating new script images**
+
 Use the "script pic..." feature to create new images. If you need the result of a reporter block, use shift-right-click to get the "script pic with result..." option.
 
 If you are adding a block, the file name should follow the text of the block with lower camel case.
 
 Good
-> ![move 10 steps](move.png) -> ```move10Steps.png```
+
+> ![move 10 steps](.gitbook/assets/move.png) -&gt; `move10Steps.png`
 
 Bad
-> ![move 10 steps](move.png) -> ```move.png```
 
-#### Reusing existing script images
-Before you create new blocks images, check to see of blocks are stored in the curriculum in ```/blocks```.
+> ![move 10 steps](.gitbook/assets/move.png) -&gt; `move.png`
 
-All script images should be stored in ```/scripts```.
+**Reusing existing script images**
 
-### Vocabulary words
+Before you create new blocks images, check to see of blocks are stored in the curriculum in `/blocks`.
 
-### Labs
+All script images should be stored in `/scripts`.
 
-### Lesson plans
+#### Vocabulary words
 
-## Creating a pull request
+#### Labs
+
+#### Lesson plans
+
+### Creating a pull request
 
 Each pull request should have it's own branch. Here are a few examples of a proper pull request workflow
-* http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github/
-* https://github.com/skyscreamer/yoga/wiki/GitHub-Best-Practices
-* https://www.thinkful.com/learn/github-pull-request-tutorial/
 
+* [http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github/](http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github/)
+* [https://github.com/skyscreamer/yoga/wiki/GitHub-Best-Practices](https://github.com/skyscreamer/yoga/wiki/GitHub-Best-Practices)
+* [https://www.thinkful.com/learn/github-pull-request-tutorial/](https://www.thinkful.com/learn/github-pull-request-tutorial/)
 

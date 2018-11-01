@@ -59,8 +59,7 @@ Students will be able to...
         -   The user must be able to restart the animation (in a manner other than pressing the green flag again) after it has concluded
         -   At least two sprites must act during the animation, and the sprites must collectively meet the requirements on page 2
     -   Encourage students to look at the grading rubric on page two repeatedly throughout the project to ensure they are meeting all the requirements
-    -   [Sample project solution](https://github.com/TEALSK12/introduction-to-computer-science-instructor/blob/master/curriculum/Sample%20Project%20Solutions.md)
-
+    -  See Additional Curriculum Materials <https://www.tealsk12.org/dashboard> for Sample Solutions 
 3.  Project
     -   This project is a summative assessment for the unit.  Students should be demonstrating mastery of all the skills covered.
     -   Most students will require roughly 4-8 hours of total work time to complete the project

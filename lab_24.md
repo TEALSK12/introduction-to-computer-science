@@ -4,7 +4,7 @@ In this lab, you will use conditional statements and variables to build a simple
 
 ## Section 1 - I'm Thinking of a Number...
 
-You will write a SNAP program to choose a random number between 1 and 10 and then ask the user to guess a number.  If the user's guess matches the random number, the user wins.  If not, the user loses.  In either case, the user should be shown a message indicating whether he won or lost and the secret random number should be revealed.
+You will write a SNAP program to choose a random number between 1 and 10 and then ask the user to guess a number.  If the user's guess matches the random number, the user wins.  If not, the user loses.  In either case, the user should be shown a message indicating whether they won or lost and the secret random number should be revealed.
 
 1.  Fill out a [Planning Worksheet](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx) for the above program.
 
@@ -16,11 +16,11 @@ You will write a SNAP program to choose a random number between 1 and 10 and the
 
 ## Section 2 - Game Upgrades
 
-1.  Modify your guessing game so that the player can decide the range of possible numbers from which the secret number can be chosen.  After asking the player's name, ask what he or she wants the highest possible number to be.  Then, instead of choosing a random number between 1 and 10, choose a random number between 1 and the number the player requested.
+1.  Modify your guessing game so that the player can decide the range of possible numbers from which the secret number can be chosen.  After asking the player's name, ask what they want the highest possible number to be.  Then, instead of choosing a random number between 1 and 10, choose a random number between 1 and the number the player requested.
 
-2.  Add code to keep track of how many guesses the player has made.  After the player guesses correctly, inform him or her how many tries it took before the correct number was guessed.
+2.  Add code to keep track of how many guesses the player has made.  After the player guesses correctly, inform them how many tries it took before the correct number was guessed.
 
-3.  Increase the player's chances by telling him or her whether the guessed number is too high or too low instead of just that it is incorrect.
+3.  Increase the player's chances by telling them whether the guessed number is too high or too low instead of just that it is incorrect.
 
 ## Grading Scheme/Rubric
 

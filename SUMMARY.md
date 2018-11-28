@@ -51,6 +51,7 @@
     * [Lesson 2.7: Pong Project](lesson_27.md)
       * [Do Now 2.7: Bouncing Ball](do_now_27.md)
       * [Project 2: Pong](project_2.md)
+      * [Project 2 Alternative: Pong](project_2_alternative.md)
 * [Unit 3: Customization](unit_3.md)
     * [Lesson 3.1: Abstraction and Friends](lesson_31.md)
     * [Lesson 3.2: Procedures](lesson_32.md)

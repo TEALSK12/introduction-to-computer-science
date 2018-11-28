@@ -1,4 +1,4 @@
-<!--- REVISED -->
+
 # Lab 2.3 - What Shape is That?
 In this lab, you will use user input and conditional statements to identify shapes based on the number of sides and some other properties as given by the user.
 

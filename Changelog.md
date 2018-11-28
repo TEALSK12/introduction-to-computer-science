@@ -16,7 +16,6 @@
 |Project_3.md| Added and Changed Content on Big Ideas from BC specific to US specific; Added content Curriculum Competencies - Design Sharing|
 |Summary.md|
 |Curriculum Map.md|
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## [2.1.1] - 2018-08-21
 | Unit    | Change |

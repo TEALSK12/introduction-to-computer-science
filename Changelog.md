@@ -1,9 +1,9 @@
 ## [2.1.2] - 2018-11-28
 |Unit     | Change |
 |---------|--------|
-|Culture_day_lesson_b.md| Added and changed content to US specific|
-|Culture_day_lesson_c.md| Added and changed content to US specific|
-|Culture_day_lesson_d.md| Added and changed content to US specific|
+|Culture_day_lesson_b.md| Added Curriculum Competencies and Possible Topics|
+|Culture_day_lesson_c.md| Added "My Skills and Interests Journal" culture day|
+|Culture_day_lesson_d.md| Added "Interview with People in Technology" culture day|
 |lab_11.md| Fixed Alignment|
 |lesson_33.md| Fixed Spelling|
 |lesson_61.md| Added content curriculum Competencies|
@@ -15,8 +15,7 @@
 |Project_1.md| Changed Content from Canadian perspective to US perspective; Added Content Big Ideas; Reference; Behavior; Implementation Details; Sharing, Curriculum Competencies design sharing|
 |Project_2_alternative.md| Added the Whole Content and changed content to US perspective|
 |Project_3.md| Added and Changed Content on Big Ideas from BC specific to US specific; Added content Curriculum Competencies - Design Sharing|
-|Summary.md|
-|Curriculum Map.md|
+|Summary.md| Added Culture day C and D, added Project 2 alternative|
 
 ## [2.1.1] - 2018-08-21
 | Unit    | Change |

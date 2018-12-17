@@ -54,7 +54,7 @@ Students will be able to...
 
 ## BJC Lecture Suggestion
 #### Background Information for Instructors  
-* BJC Video Suggestion :[BJC Lecture 9: Recusion](https://www.youtube.com/watch?v=JKn3nsfzBdA)
+* BJC Video Suggestion :[BJC Lecture 9: Recursion](https://www.youtube.com/watch?v=JKn3nsfzBdA)
  - Movie “Inception” as an example of recursion 0:00-0:50
  - Recursion 0:50-1:40
  - Recursion Demo in Snap 1:40-17:00

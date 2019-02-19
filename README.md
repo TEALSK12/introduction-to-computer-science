@@ -118,6 +118,15 @@ This curriculum does not assign homework as part of its typical lessons.  Becaus
 ### Quizzes
 To gauge student understanding, the addition of Unit quizzes has been added.  These are intended as low stakes formative assessments that allow students to visit topics at the end of the unit to reinforce learning.  They are open book giving students incentive to take good notes.  Ideally the quizzes are non-graded and students would reflect on the answers they got wrong in order to learn from their mistakes.
 
+### Grading
+Student work consists of class participation, daily labs, end of unit projects, and final project. Each classroom teacher is responsible for determining the grading breakdown for their classes.  TEALS recommends the following as a starting point as grading guidelines for the introductory computer science course. 
+
+| Percentage   | Description                         |
+| ---------- | ------------------------------------- |
+| 40 | Daily Labs                                    |
+| 40 | Projects and Large-Scale Labs                 |
+| 20 | Participation, Notebooks, etc.                |
+
 ## Updates and contributions
 This curriculum is considered a living document and is intended to be updated regularly both by the TEALS team and with contributions from the TEALS community.  In particular, feedback on teaching teams' experiences in conducting the lessons in this curriculum is always welcome.  Teaching teams are also encouraged to share ideas for additional activities, lessons, or projects that can be incorporated into the curriculum guide.  Please see the [Contributing](contributing.md) page for more information about how to contribute to the curriculum, or send feedback to IntroSquad@tealsk12.org.  
 

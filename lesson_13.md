@@ -12,7 +12,7 @@ Students will be able to...
 
 -   [Do Now 1.3: Drawing a Triangle](do_now_13.md) You can ask students to give instructions in plain language, pseudo code or with images.
 -   [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.3%20Squares%20Triangles.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.3%20Squares%20Triangles.pdf))
--   [Geometry Cheat Sheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif)
+-   [Lab 1.3 Geometry Cheat Sheet](lab_13_cheat_sheet.pdf)
 -   [Unit 1 Tips](unit_1_tips.md)
 
 ## Pacing Guide
@@ -32,7 +32,7 @@ Students will be able to...
     -   Remind students about the iterative process of programming
         -   Students may get frustrated throughout this activity; remind them that requiring multiple attempts to find the right solution is normal.
 2.  Activity
-    -   Students should complete the ["Triangles, Squares, and Stars, Oh My!"](lab_13.md) activity individually.
+    -   Students should complete the ["Triangles and Squares and Stars, Oh My!"](lab_13.md) activity individually.
         -   Point out that the shapes in part 2.1 are not necessarily listed from easiest to hardest, and that the scripts need not be written in the given order.
         -  Here is a [Geometry Cheat Sheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif) by Math Salamanders showing various shapes and their respective angles. It can be presented to students as a reference during the activity and/or enlarged and placed at the front of the classroom for use throughout unit 2.
     -   When students finish, have them turn in their project using whatever procedures you have set up.
@@ -51,7 +51,7 @@ Students will be able to...
 -   Struggling students can either be paired or allowed to not complete certain shapes.
 -   Students who have not yet taken geometry may have difficulty determining the correct angles. Point out to them that geometric understanding is not necessary—the angles can be determined using trial and error.
     -   If students need more scaffolding, they can be pointed to an online resource such as <http://www.mathsisfun.com/geometry/interior-angles-polygons.html>
-    -   If most students are not equipped to figure out the angles on their own, provide diagrams like the one of a square in part 1.1 to assist.
+    -   If most students are not equipped to figure out the angles on their own, provide diagrams like the one of a triangle in part 1.1 to assist.
 
 ## Forum discussion
 

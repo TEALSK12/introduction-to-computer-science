@@ -18,7 +18,7 @@
       * [Lab 1.2: SNAP Scavenger Hunt](lab_12.md)
     * [Lesson 1.3: Drawing Shapes](lesson_13.md)
       * [Do Now 1.3: Drawing a Triangle](do_now_13.md)
-      * [Lab 1.3: Squares, Triangles, and Stars, Oh My!](lab_13.md)
+      * [Lab 1.3: Triangles and Squares and Stars, Oh My!](lab_13.md)
     * [Lesson 1.4: Animation](lesson_14.md)
       * [Do Now 1.4: Sprite Communication](do_now_14.md)
       * [Lab 1.4: Sprites in Action](lab_14.md)

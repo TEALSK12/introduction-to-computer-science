@@ -24,7 +24,7 @@ Students will be able to...
 | 10 minutes | Course staff introductions                  |
 | 10 minutes | Icebreakers                                 |
 | 10 minutes | Course outline                              |
-| 15 minutes | Course norms, procedures, and administrivia |
+| 15 minutes | Course norms, procedures, and administrative|
 
 ## Instructor's Notes
 

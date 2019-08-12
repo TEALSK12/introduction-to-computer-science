@@ -36,7 +36,7 @@ Needed for this lesson:
 1.  Introductory discussion
 
     -   Invite discussion about what constitutes a computer, what computers do, and what computer science is.
-        -   An excellent protocol for these types of discussions is ["Chalk Talk"](http://www.nsrfharmony.org/system/files/protocols/chalk_talk_0.pdf) or ["World Cafe"](http://www.ctohe.org/arcresources/ARCI2015/Core/Files/Cournoyer/CournoyerWorldCaf%C3%A9DiscussionProtocolHandoutJune9.pdf)
+        -   An excellent protocol for these types of discussions is ["Chalk Talk"](http://www.nsrfharmony.org/system/files/protocols/chalk_talk_0.pdf) or ["World Cafe"](http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/)
     -   Develop definitions for important terms ("computer," "computer science," "algorithm," "program,"  "programming language")
         -   Display each term on the board or projector and ask students to provide key ideas or concepts they know that relate to the term. From this, you can develop a classroom definition. Feel free to have a pre-written definition and guide students to that definition using leading questions.
         -   You can introduce the idea that the first computers were human (a person who makes calculations, especially with a calculating machine) with the story about Katherine Johnson whose calculations were used for manned and unmanned orbital missions (read more [here](https://airandspace.si.edu/stories/editorial/hidden-figures-and-human-computers)).

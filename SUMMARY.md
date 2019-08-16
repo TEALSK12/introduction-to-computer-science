@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README-student.md)
+* [Introduction](README.md)
 * Unit 0: Beginnings
     * Lesson 0.1: The First Day
       * [Student Notes](student_notes_01.md)

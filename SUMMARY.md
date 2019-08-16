@@ -25,7 +25,7 @@
       * [Student Notes](student_notes_13.md)
       * [Lab: Squares, Triangles, and Stars, Oh My!](lab_13.md)
     * Lesson 1.4: Animation
-      * [Do Now: Sprite Communication](do_now_14.md)
+      * [Do Now: Example Animation](do_now_14.md)
       * [Student Notes](student_notes_14.md)
       * [Lab: Sprites in Action](lab_14.md)
     * [Quiz: SNAP Basics](quiz_1.md)

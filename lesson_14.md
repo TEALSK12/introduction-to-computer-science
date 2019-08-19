@@ -10,23 +10,26 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Do Now 1.4: Sprite Communication](do_now_14.md)  
--   [Lab 1.4 handout](lab_14.md) (Sprites in Action) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.4%20Sprites%20in%20Action.pdf))
--    [Unit 1 Tips](unit_1_tips.md)
+-   [Do Now 1.4: Example Animation](do_now_14.md)  
+-   [Lab 1.4 handout](lab_14.md) (Sprites in Action) 
+-   [Unit 1 Tips](unit_1_tips.md)
 
 ## Pacing Guide
 
 | Duration   | Description                                   |
 | ---------- | --------------------------------------------- |
-| 5 minutes  | Welcome, attendance, bell work, announcements |
+| 10 minutes  | Welcome, attendance, bell work, announcements |
 | 10 minutes | Lecture and introduce activity                |
-| 30 minutes | Animation activity                            |
+| 25 minutes | Animation activity                            |
 | 10 minutes | Debrief and wrap-up                           |
 
 ## Instructor's Notes
 
-1.  Lecture
-    -   _Note: The [Lesson 1.4](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%201.4) project has examples of all the concepts covered in this lesson._
+1. Warm-up
+    - Students should complete [Do Now 1.4: Example Animation](do_now_14.md) individually. Check to be sure students save a copy of the Example Animation in their personal Snap accounts so they can refer to it later! 
+
+2. Lecture
+    - Ask stude _Note: The [Lesson 1.4](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%201.4) project has examples of all the concepts covered in this lesson._
     1.  Introduce students to the "Costumes" tab and show them how to import costumes to a sprite.
         -   Point out that, while a sprite's costumes can be anything, most often the different costumes of a single sprite will be somehow related.
     2. Demonstrate how to use the "next costume" and "switch to costume" blocks to change the appearance of a sprite.

@@ -5,7 +5,7 @@ In this lab, you will use costumes and movement to create simple SNAP animations
 
 ## 1. Run, Spot, Run!
 
-1.1) In a SNAP project, click on the file menu, then click costumes.  Import the costumes "dog2-b" and "dog2-c".
+1.1) In a SNAP project, click on the file menu, then click costumes.  Import the costumes "dog2 a" and "dog2 b".
 
 ![Menu->Costumes](menucostumes.png)
 

@@ -91,9 +91,9 @@ As you create software, you will need to put yourself in the end-user's position
 
 
 6.  **Required Checkpoints**
-    1.  Monday, October 27: Screens should be designed; the hero should be able to move and jump; gravity should work; reset button should be functional
-    2.  Monday, November 3: Hazards and enemies should be present; death should work properly.
-    3.  Monday, November 10 (final due date): Lives, power-ups, and victory should be implemented; all other required program components must work
+    1.  Screens should be designed; the hero should be able to move and jump; gravity should work; reset button should be functional
+    2.  Hazards and enemies should be present; death should work properly.
+    3.  Lives, power-ups, and victory should be implemented; all other required program components must work
 
 ## Grading Scheme/Rubric
 

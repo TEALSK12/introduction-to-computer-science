@@ -1,4 +1,4 @@
-# Project 3: Platform Game
+# Project 3: Advanced Platform Game
 
 **Students will implement a side-scrolling platform game (a la Super Mario Bros.) in Snap!.**
 

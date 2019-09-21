@@ -64,7 +64,7 @@ Students will be able to...
 
 ## Sample Solution
 
-[Project 2 Solution](https://github.com/TEALSK12/introduction-to-computer-science-instructor/blob/master/curriculum/Sample%20Project%20Solutions.md)
+[Project 2 Solution](https://www.tealsk12.org/intro-to-computer-science-sample-solutions/)
 
 ## Forum discussion
 

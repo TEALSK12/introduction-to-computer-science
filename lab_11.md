@@ -1,6 +1,5 @@
 <!--- REVISED -->
 # Lab 1.1 - Welcome To SNAP!
-_Adapted from Beauty and Joy of Computing: http://bjc.eecs.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_new/1-introduction.topic_
 
 SNAP is a programming language, which you can use to tell a computer what to do. A program is a particular set of instructions for the computer to follow.
 
@@ -63,7 +62,7 @@ The block that you just dragged and dropped into the scripting area controls som
 > 
 > ## <br />
 
-##Part 3. Scripts
+## Part 3. Scripts
 Now that you have figured out how to make a sprite move, you might be wondering how to make the sprite do other things as well. 
 To make a sprite do more than just move, we need to use different types of blocks and link them together. You can link blocks by SNAPping (hence the name SNAP) them together -- drag a block right underneath the one to which you want to attach it. Blocks will SNAP together when one block's indentation is near the tab of the one above it. You should see a white bar appear like the one in the image below, which just shows you where the block will go after you drop it. 
 
@@ -89,7 +88,7 @@ Remember, a script will tell the sprite what to do. Click on the script and see 
 > 
 > Be sure to note: **blocks in a script run in a specific order, from the top of the script to the bottom**. Generally, SNAP waits until one block has finished its job before continuing on to the block below it. (One common exception is blocks that play sounds: a block's job can be to start the sound, which means the block below it will execute while the sound is still playing. 
 
-##Part 4: Reporters
+## Part 4: Reporters
 At the bottom of Motion palette are three blocks shaped differently from the others. The oval-shaped ![x position](xposition.png) and ![y position](yposition.png) are called _reporters_. (We don't need the third one right now.) Unlike the jigsaw-puzzle-piece-shaped command blocks we've used until now, reporters don't carry out an action (such as moving the sprite or displaying a speech balloon) by themselves. Instead they report a value, usually for use in another block's input slot. 
 
 These particular reporters tell you where the sprite is on the stage. As in algebra class, **x** means left-to-right position, and **y** means bottom-to-top position. 
@@ -137,7 +136,7 @@ The black sprite is at the center of the stage, called the origin, with coordina
 > 
 > * * *
 
-##Part 6: Experiment with Drawing Commands
+## Part 6: Experiment with Drawing Commands
 Try to get comfortable with the blocks under the Motion tab and the Pen tab. Figure out what each one does and try to use these blocks to draw a square or a simple picture. 
 
 > 6.1) What do these blocks do? (write an explanation next to each block)
@@ -172,7 +171,7 @@ Once the pen is down, it stays down even in a different script. Use the pen up b
 
 You also will want to show the direction and x and y position of the sprite. In the Motion tab, you can select for these to be shown on the stage as described in the reporters activity you saw earlier in the lab.
 
-##Part 7: Follow that Mouse!
+## Part 7: Follow that Mouse!
 
 > ![forever go to mouse x-y](forevergotomouse.png)
 > 
@@ -252,7 +251,7 @@ d) a straight line <br />
 
 ## Part 9: Make a Kaleidoscope
 
-Explore this drawing program for a little bit (<https://aka.ms/snapkaleidodraw>). Press the spacebar to run the program, and move your mouse cursor over the stage of the SNAP! window. While over the stage, use the **d** (pen down), **u** (pen up), and **c** (clear) keyboard keys to change what gets drawn on the screen. The script that causes the sprite to follow the pointer is 
+Explore this drawing program for a little bit (<https://aka.ms/kaleidodraw2>). Press the spacebar to run the program, and move your mouse cursor over the stage of the SNAP! window. While over the stage, use the **d** (pen down), **u** (pen up), and **c** (clear) keyboard keys to change what gets drawn on the screen. The script that causes the sprite to follow the pointer is 
 
 ![forever go to mouse x-y](forevergotomouse.png)
  

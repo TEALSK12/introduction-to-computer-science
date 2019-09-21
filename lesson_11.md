@@ -11,8 +11,9 @@ Students will be able to...
 
 ## Materials/Preparation
 
+-   [Unit 1 Tips](unit_1_tips.md)
 -   [Lab 1.1 handout](lab_11.md) (Welcome to SNAP!) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
-
+-   Helping Trios handout Helping Trios handout [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
 -   Ensure that all classroom computers can access <http://snap.berkeley.edu/run>.
 -   Read through the lab so that you are familiar with the requirements and can assist students as needed
 
@@ -36,7 +37,7 @@ Students will be able to...
 
 ![Zoom Blocks](ZoomBlocks.PNG)
 
-Zoom Blocks are a useful tool to increase the readability of code in Snap. To access the Zoom Blocks feature, simply go up to settings in the upper right, and select the second option in the list, Zoom Blocks. Once selected, an interface pops up which allows you to increase the zoom on your code and shows you a preview.
+Zoom Blocks are a useful tool to increase the readability of code in Snap. To access the Zoom Blocks feature, simply go up to settings in the upper left, and select the second option in the list, Zoom Blocks. Once selected, an interface pops up which allows you to increase the zoom on your code and shows you a preview.
 
 ## Instructor's Notes
 
@@ -63,7 +64,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 
     3.  Activity
 
-        -   Individually or in pairs, have students continue working through the ["Welcome to SNAP"](lab_11.md) lab activity. Students should answer all questions and complete all activities and turn them in using your chosen turn-in procedure.
+        -   Individually or in pairs, have students continue working through the ["Welcome to SNAP"](lab_11.md) lab activity.  If you choose to assign pairs, try to partner students into groups that are heterogenous by ability or background. Try to pair students who do not normally interact. Students should answer all questions and complete all activities and turn them in using your chosen turn-in procedure.
             -   For written questions, either have students hand-write answers and turn in the hard copies or set up an electronic submission system of some kind.
             -   For SNAP programs, including the Kaleidoscope program, students should save the program to the cloud and share a link with you
         -   Students should aim to get through at least part 6 by the end of Day 1
@@ -95,7 +96,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
         -   Remind students of the turn-in procedures discussed yesterday and ensure all students are able to turn in their work
 
  ## BJC Lecture Suggestions
-####Good for Classroom Instruction
+#### Good for Classroom Instruction
 
 
 
@@ -105,7 +106,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 ## Accommodations/Differentiation
 
 -   For students that finish the lab early, encourage them to add more advanced features to their Kaleidoscope program, exploring parts of SNAP not covered in the lab.
--   Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity.
+-   Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity.  You can also use [Helping Trios.](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf) 
     -   No parts of this lab can be easily skipped without impacting learning objectives, so provide as much support or scaffolding as you can to ensure all students are able to complete the lab.  Add days to the lesson if needed.
 
 ## Forum discussion

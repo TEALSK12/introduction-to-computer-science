@@ -10,12 +10,13 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   Reference to the Platform Game Project: [Easy Platform Game](project_3_platform_game_easy.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%203%20Platform%20Game%20Easy.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%203%20Platform%20Game%20Easy.pdf))
--   (Optional) Advanced Version of the project: [Platform Game](project_2.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%203%20Platform%20Game.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%203%20Platform%20Game.pdf))
+-   Reference to the Platform Game Project: [Platform Game](project_3_platform_game_easy.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%203%20Platform%20Game%20Easy.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%203%20Platform%20Game%20Easy.pdf))
+-   (Optional) Advanced Version of the project: [Advanced Platform Game](project_3.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%203%20Platform%20Game.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%203%20Platform%20Game.pdf))
 
 -   (Optional) Printouts of the specification
 -   A few suggested themes available for students who may struggle to come up with their own.
 -   Suggestions for characters, power-ups, goals, etc.
+-   [Unit 3 Tips](unit_3_tips.md)
 
 ## Pacing Guide
 
@@ -57,7 +58,7 @@ Students will be able to...
             -   If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
         -   Ensure that students are able to ask questions in class throughout the project
     -   See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
-    -   [Sample project solution](https://www.tealsk12.org/intro-to-computer-science-sample-solutions/)
+
 
 ## Accommodations/Differentiation
 

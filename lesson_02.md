@@ -15,6 +15,7 @@ Needed for this lesson:
 -   Supplies to create a peanut butter & jelly sandwich (ingredients, utensils, plates, napkins, etc.)
 -   Paper/writing implements for each group of students
     -   Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine
+-   [Unit 0 Tips](unit_0_tips.md)
 
 ## Pacing Guide
 
@@ -35,14 +36,15 @@ Needed for this lesson:
 1.  Introductory discussion
 
     -   Invite discussion about what constitutes a computer, what computers do, and what computer science is.
-        -   An excellent protocol for these types of discussions is ["Chalk Talk"](http://www.nsrfharmony.org/system/files/protocols/chalk_talk_0.pdf).
+        -   An excellent protocol for these types of discussions is ["Chalk Talk"](http://www.nsrfharmony.org/system/files/protocols/chalk_talk_0.pdf) or ["World Cafe"](http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/)
     -   Develop definitions for important terms ("computer," "computer science," "algorithm," "program,"  "programming language")
         -   Display each term on the board or projector and ask students to provide key ideas or concepts they know that relate to the term. From this, you can develop a classroom definition. Feel free to have a pre-written definition and guide students to that definition using leading questions.
+        -   You can introduce the idea that the first computers were human (a person who makes calculations, especially with a calculating machine) with the story about Katherine Johnson whose calculations were used for manned and unmanned orbital missions (read more [here](https://airandspace.si.edu/stories/editorial/hidden-figures-and-human-computers)).
 
 2.  Activity
 
     1.  Write algorithms
-        -   In pairs or small groups, students will attempt to develop an algorithm for preparing a peanut butter and jelly sandwich. Specify to students that their algorithm must be complete and detailed enough for a "computer" (the teacher) to unambiguously follow the steps and achieve the desired result.
+        -   In pairs or small groups, students will attempt to develop an algorithm for preparing a peanut butter and jelly sandwich. Specify to students that their algorithm must be complete and detailed enough for a "computer" (the teacher) to unambiguously follow the steps and achieve the desired result. OR ask students to develop a 10 step algorithm to teach a computer to [brush their teeth](https://bam.files.bbci.co.uk/bam/live/content/z9bmxnb/transcript).
         -   Give little guidance at this stage, as the confusion (and the errors that are likely to result) will both reinforce the importance of specificity and detail as well as provide entertainment value later on.
         -   Algorithms should be written on paper to be shared and reviewed.  Students should _not_ be writing any code, nor should they develop algorithms "in their heads."
     2.  Algorithm execution
@@ -75,7 +77,7 @@ Needed for this lesson:
 
 ## BJC Lecture Suggestions
 
-####Good for Classroom Instruction
+#### Good for Classroom Instruction
 
 * BJC Video Suggestion: [BJC Lecture 6: Algorithm](https://www.youtube.com/watch?v=3tvbqdLjjSU) (With Luke Segar
  - [Algorithm Definition](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=3m20s) 3:20-4:20

@@ -10,8 +10,9 @@ Students will be able to...
 ## Materials/Preparation
 
 - [Do Now 5.3: Star Wars Troopers using Cloning](do_now_53.md)
-- [Lab 5.3 Handout](lab_53.md) (Fewer Balls) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%205%20Word/Lab%205.3%20Fewer%20Balls.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%205%20PDF/Lab%205.3%20Fewer%20Balls.pdf))
+- [Lab 5.3 Handout](lab_53.md) (Fewer Balls) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.3%20Fewer%20Balls.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.3%20Fewer%20Balls.pdf))
     * Test out the lab on student machines before class to ensure the machines can handle the number of clones
+- [Unit 5 Tips](unit_5_tips.md)
 
 ## Pacing Guide
 
@@ -42,6 +43,7 @@ Students will be able to...
     -   Currently, the lab is written to use global variable "id" to talk to one sprite at a time. If not used carefully, this design pattern has the potential for race conditions. If you believe students are capable, you can have a discussion about race conditions and concurrency and the problems that can arise.
 3. Debrief
     - Have students pair up and review each other's code.  Encourage students to discuss differences in their approaches and try to understand why each wrote the code as they did.
+    - If students have struggled with the lab, consider implementing [helping trios](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%201%20Word/Helping%20Trios.docx?raw=true)
     - Ask a few students to share difficulties they or their partner had and/or different approaches they took the problems.
 
 ## Accommodations/Differentiation

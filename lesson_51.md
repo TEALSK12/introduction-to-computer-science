@@ -10,7 +10,8 @@ Students will be able to...
 -   Describe how complex goals can be accomplished using cloning
 
 ## Materials/Preparation
-- [Lab 5.1 Handout](lab_51.md) (Connect the Dots) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%205%20Word/Lab%205.1%20Connect%20the%20Dots.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%205%20PDF/Lab%205.1%20Connect%20the%20Dots.pdf))
+- [Unit 5 Tips](unit_5_tips.md)
+- [Lab 5.1 Handout](lab_51.md) (Connect the Dots) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.1%20Connect%20the%20Dots.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.1%20Connect%20the%20Dots.pdf))
 - If possible, create large poster-sized versions of the dot grids (each grid is 12 x 3).
 
 ## Pacing Guide
@@ -28,7 +29,7 @@ Students will be able to...
     * Emphasize that students must follow all instructions in the lab carefully
     * Throughout the activity, ask students to think about other ways they could accomplish the same goals and the advantages and disadvantages of each approach.
 2. Activity
-    * Split students into groups of at least six.  If the number of students is not an exact multiple of six, create a few groups of seven and have students take turns being "active."
+    * Split students into diverse groups of at least six.  If the number of students is not an exact multiple of six, create a few groups of seven and have students take turns being "active."
     * Students should follow the steps in the lab, being careful to act as a group.
         * In each part, the group will draw the letter 'C' six times, using slightly different instructions.
     * Students should, hopefully, notice that in part 3, they are able to achieve similar but not exactly the same results by all following the same instructions.  (Though each student draws a 'C', they are not all in the same location.)  In each part, they were able to improve the efficiency and clarity of the instructions.
@@ -38,11 +39,11 @@ Students will be able to...
     * Introduce the terms "prototyping" and "cloning" as (mostly) synonyms:
         * _prototyping: creating a single "master" entity that defines the behavior for a group of objects, then creating many copies of the prototype to duplicate the behavior_
 
-##BJC Lecture Suggestions
+## BJC Lecture Suggestions
 
 #### Good for Classroom Instruction
  - [Fibonacci and Fibonacci Series Video](http://www.youtube.com/watch?v=w2d_snYBLeY&t=7m45s) 7:45-11:45
-####Background Information for Instructors
+#### Background Information for Instructors
 
 * [BJC Lecture 11:Recursion II Alijia Yan](https://www.youtube.com/watch?v=w2d_snYBLeY&index=11&list=PLA4F0F0CA4A3EE7F4)
  - Mobile World Congress 0:00-2:15

@@ -11,10 +11,11 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 2.7: Bouncing Ball](do_now_27.md)  
--   Reference to the Pong project: [Pong](project_2.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%202%20Pong.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%202%20Pong.pdf))
--   Pong planning worksheet: ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project_2_Pong_Planning_Worksheet.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project_2_Pong_Planning_Worksheet.pdf))
+-   Reference to the Pong project: [Pong](project_2.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%202%20Pong.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%202%20Pong.pdf))
+-   Pong planning worksheet: ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project_2_Pong_Planning_Worksheet.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project_2_Pong_Planning_Worksheet.pdf))
 -   [Optional] Printouts of the specification
 -   Link to an online version of Pong for demonstration: <http://www.ponggame.org/>
+-   [Unit 2 Tips](unit_2_tips.md)
 
 ## Pacing Guide
 
@@ -52,18 +53,6 @@ Students will be able to...
             -   If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
         -   Ensure that students are able to ask questions in class throughout the project
     -   See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
-
-##BJC Lecture Suggestion
-####Background Information for Instructors
-* [BJC Lecture 9: Recusion](https://www.youtube.com/watch?v=JKn3nsfzBdA)
- - Movie “Inception” as an example of recursion 0:00-0:50
- - Recursion 0:50-1:40
- - Recursion Demo in Snap 1:40-17:00
- - Overview 17:00-21:00
- - Definition of Recursion 21:00-24:30
- - Examples of Recursion (You Already Know It!) 24:30-26:20
- - Trust the Recursion 26:22-29:40
- - Summary of Recursion 29:40-End
 
 
 ## Accommodations/Differentiation

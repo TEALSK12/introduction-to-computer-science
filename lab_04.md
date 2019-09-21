@@ -21,14 +21,7 @@ In this lab, you will explore SNAP and create a simple "self-portrait" program t
  | 3.  | .   |
 
 ## Part 2 - Who Are You?
-4. Using what you've learned and other things you might discover, create a SNAP program that describes yourself.  This can take whatever form and use whatever SNAP tools and blocks you want.  Make sure that somehow, at some point in your program you show the following information:
-    * Your name
-    * Your current grade
-    * Your age
-    * Your favorite class in school
-    * One of your hobbies or interests
-    * Any previous programming or computer experience you have
-    * Now that you have had some additional time to think about "I am ____", express who you are using SNAP.
+4. Using what you've learned and other things you might discover, create a SNAP program that describes yourself.  This can take whatever form and use whatever SNAP tools and blocks you want.  Make sure that somehow, at some point in your program you show the information from the Student Experiences Survey. [(Download in Word)](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Student%20Experiences%20Survey.docx) [(Link to PDF)](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Student%20Experiences%20Survey.pdf)
 
 ## Grading Scheme/Rubric
 
@@ -40,7 +33,11 @@ In this lab, you will explore SNAP and create a simple "self-portrait" program t
 | Includes name                                                 | 0.2 points     |
 | Current grade                                                 | 0.2 points     |
 | Age                                                           | 0.2 points     |
-| Favorite class in school                                      | 0.2 points     |
-| Hobby or interest                                             | 0.2 points     |
 | Programming or computer experience                            | 0.0 points     |
-| **PROJECT TOTAL**                                             | **1.6 points** |
+| Learning CS going to be like                                  | 0.2 points     |
+| Favorite uses of technology                                   | 0.2 points     |
+| Favorite subject in school                                    | 0.2 points     |
+| Example of something learned                                  | 0.2 points     |
+| Hobby or interest                                             | 0.2 points     |
+| Family Saying                                                 | 0.2 points     |
+| **PROJECT TOTAL**                                             | **2.4 points** |

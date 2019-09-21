@@ -10,7 +10,8 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 3.3: Jumping](do_now_33.md)
--   [Lab 3.3 handout](lab_33.md) (Let Me Check My Calendar) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%203%20Word/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%203%20PDF/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.pdf))
+-   [Lab 3.3 handout](lab_33.md) (Let Me Check My Calendar) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.pdf))
+-   [Unit 3 Tips](unit_3_tips.md)
 
 
 ## Pacing Guide
@@ -26,6 +27,7 @@ Students will be able to...
 
 1.  Lecture
     1.  Introduce block arguments
+        -   Define arguments: An argument is any area in a block that accepts user input, or another block. It could be a Boolean Block or a value placed inside of a variable or block.
         -   Ask students to speculate on risks of relying on variables instead of arguments
             -   Variables could be changed by code other than the custom block, variable names could be changed causing errors, etc.
         -   Emphasize importance of custom blocks being self-contained

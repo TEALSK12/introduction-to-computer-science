@@ -1,6 +1,6 @@
-## Do Now 4.6 Gentle Hangman
+## Do Now 4.6 Guess My Animal
 
-Go to [this](http://www.uptoten.com/kids/kidsgames-mixedbag-animalshangman.html) site to play a "gentle" version of Hangman.
+Go to [this](http://www.uptoten.com/kids/kidsgames-mixedbag-animalshangman.html) site to play this word guessing game.
 
 1. How could you use lists from this unit to help implement a version of this game in Snap!?
 

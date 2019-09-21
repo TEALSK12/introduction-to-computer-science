@@ -11,7 +11,9 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 4.2: Letters of a Word](do_now_42.md)
--   [Lab 4.2 handout (You Talkin' to Me?)](lab_42.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%204%20Word/Lab%204.2%20You%20Talkin%20To%20Me.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%204%20PDF/Lab%204.2%20You%20Talkin%20To%20Me.pdf))
+-   [Lab 4.2 handout (You Talkin' to Me?)](lab_42.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.2%20You%20Talkin%20To%20Me.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.2%20You%20Talkin%20To%20Me.pdf))
+-   [Snap! List Components] [(Download in Word )](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/SNAP%20Lists%20Components.docx?raw=true), [(Download PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/SNAP%20Lists%20Components.pdf)
+-   [Unit 4 Tips](unit_4_tips.md)
 
 ## Pacing Guide
 
@@ -27,9 +29,10 @@ Students will be able to...
 -   Lecture
     -   Review the concept of a list from the previous lesson
         -   Ask students to brainstorm examples of when lists could be useful
-            -   To store an unknown number of values (e.g. a bunch of student test scores)
-            -   To store a collection of related values as one entity (e.g. the number of absent students each day over a week)
+            -   To store an unknown number of values (e.g. a bunch of student test scores, shopping list, the songs of your favorite music artist)
+            -   To store a collection of related values as one entity (e.g. the number of absent students each day over a week, how often a video on YouTube in a week)
     -   Demonstrate creating lists in SNAP
+        -   Use the [Snap! Lists Components] file to demostrate the Snap! list structure
         -   Use the variadic (taking a variable number of arguments) "list" block to create a simple list
         -   Point out the format in which lists are displayed (gray box with red elements)
         -   Show that lists can be assigned to variables like other values
@@ -37,6 +40,7 @@ Students will be able to...
     -   Point out and explain basic list operations blocks
         -   The "item," "add," and "delete" blocks will be most important.  The "length" block will be useful as well.
         -   Point out that these blocks all take a list as an argument.
+        -   Share this visual representation of SNAP! Lists [] with your students. Consider posting it in your classroom so students can refer to throughout the unit.
 -   Activity
     -   Students should complete the "You Talkin' to Me?" activity individually or in pairs
         -   Encourage students to be creative with their word lists
@@ -54,9 +58,12 @@ Students will be able to...
 -   Struggling students should focus on generating a noun phrase from only a few words.  The other parts of speech and phrase types can be omitted without losing the key learning objectives.
 -   Non-native English speakers or those with low literacy may struggle with the grammatical concepts here.  Since the grammar is not the key objective, feel free to scaffold liberally and/or substitute a different type of grammar.
     -   Other grammar examples, including arithmetic expressions (which are a good simple substitute) can be found here: <https://www.cs.rochester.edu/~nelson/courses/csc_173/grammars/cfg.html>.
+    -   You can also provide a grammar cheat sheet with example sentences (example from ([Woodward English](https://www.woodwardenglish.com/wp-content/uploads/2018/01/parts-of-speech-english.jpg)) 
 
 
 ## Forum discussion
 
 <a href="http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-2-static-lists" target="_blank">
 Lesson 4.2: Static Lists (TEALS Discourse account required).</a>
+
+[Snap! List Components]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/SNAP%20Lists%20Components.docx?raw=true

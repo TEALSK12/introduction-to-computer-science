@@ -14,6 +14,7 @@ Students will be able to...
 -   Class list
 -   [Optional] Seating chart
 -   Bell schedule and classroom location
+-   [Unit 0 Tips](unit_0_tips.md)
 
 ## Pacing Guide
 
@@ -23,7 +24,7 @@ Students will be able to...
 | 10 minutes | Course staff introductions                  |
 | 10 minutes | Icebreakers                                 |
 | 10 minutes | Course outline                              |
-| 15 minutes | Course norms, procedures, and administrivia |
+| 15 minutes | Course norms, procedures, and administrative tasks|
 
 ## Instructor's Notes
 
@@ -40,7 +41,7 @@ Students will be able to...
 
 ## BJC Lecture Suggestions
 
-####Good for Classroom Instruction-Previewing Suggested due to Social Media Examples.  
+#### Good for Classroom Instruction-Previewing Suggested due to Social Media Examples.  
 
 (This could be used for a Social Media Safety/Awareness lesson)
 * [BJC Lecture 11:Social Implications II Dr. Gerald Friedland](https://www.youtube.com/watch?v=RNN19b61oRg)
@@ -52,8 +53,7 @@ Students will be able to...
  - CS Problem: Higher Demand for Retrieval and Organization of Data 12:07-13:05
  - Manual Tagging & Geo Tagging 13:05-17:30
  - Issue of Tracking & Dangers of Oversharing 17:30-18:31
- - [Berkeley Multimedia Location Estomation Project]( http://multimedia.icsi.berkeley.edu/multimodal-location-estimation/ )
-18:31-28:14
+ - Berkeley Multimedia Location Estomation Project 18:31-28:14
  - ICSI’s Evaluation Results 19:49
  - YouTube Cybercasing 20:47
  - Privacy Implication of Internet and Data 22: 30
@@ -61,7 +61,7 @@ Students will be able to...
  - Solutions for Privacy that Don’t Work: Think Before You Post! 26:45-28:14
 
 
-####Background Information for Instructors
+#### Background Information for Instructors
 - BJC Video Suggestion: [BJC Lecture 1: Abstraction](https://www.youtube.com/watch?v=Dxw9cIbzaLk)
  - Basic concepts of the course: 0:00-7:00
  - Introduction of Piazza: 7:00-8:25

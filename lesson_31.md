@@ -15,6 +15,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+-   [Unit 3 Tips](unit_3_tips.md)
 -   Student algorithms from lesson 0.2
     -   If algorithms are not still available, either provide students with a canonical sample or have them recreate their algorithms as the first part of this lesson
 -   Paper/writing implements for each group of students
@@ -47,7 +48,7 @@ Students will be able to...
 2.  Activity, part 1
     -   Instruct students to review their PB&J algorithms looking for opportunities for abstraction and procedural decomposition and rewrite the algorithms to improve readability
         -   Possible opportunities include: abstracting spreading peanut butter and jelly, looping when spreading to get enough of the ingredient, removing details with regard to opening packages, etc.
-    -   Encourage students to make their new algorithms as concise as possible while still being easy to understand
+    -   Break students into groups and encourage students to make their new algorithms as concise as possible while still being easy to understand
 3.  Review
     -   Ask one or two groups to share their rewritten algorithms, pointing out the places where they abstracted or generalized
         -   If possible, choose groups with good approaches while circulating during the activity
@@ -55,7 +56,7 @@ Students will be able to...
     -   Discuss advantages to writing algorithms using abstraction
         -   More concise code, more structure, easier to follow, ability to ignore details until relevant
 4.  Activity, part 2
-    -   Have students return to their groups and develop an algorithm for constructing and cooking a [lasagna ](https://en.wikipedia.org/wiki/Lasagne)
+    -   Have students return to their groups and develop an algorithm for constructing and cooking a food that invloves layers (ex. [lasagna](https://en.wikipedia.org/wiki/Lasagne)).  
         -   Encourage students to be aware of opportunities for abstraction and/or procedural decomposition when writing their algorithms
         -   As much as possible, students should abstract while writing the algorithm rather than writing a complete algorithm and then making edits
     -   Emphasize the balance between conciseness and readability
@@ -67,6 +68,13 @@ Students will be able to...
     -   Ask students how the skills learned in this lesson can be applied to programming
         -   Drive students to realize that code is simply an application of algorithms
         -   Tease the need for custom blocks (procedures)
+
+## BJC Lecture Suggestions
+
+#### Background Information for Instructors
+- BJC Video Suggestion: [BJC Lecture 1: Abstraction](https://www.youtube.com/watch?v=Dxw9cIbzaLk)
+ - Abstraction: 11:40-15:40
+ - Generalization: 15:50-20:00
 
 ## Accommodation/Differentiation
 

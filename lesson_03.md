@@ -14,8 +14,9 @@ Students will be able to...
 -   Classroom computers with internet access
 -   **IMPORTANT: At least a few days prior to class,** ensure that the classroom computers can load the website for both activities.  If not, work with school IT to solve the problem.
     -   If you are not able to load SNAP on your classroom computers, you will not be able to proceed with the course.  Test this well ahead of time and make sure your school's IT staff knows what the requirements are and can help achieve them.
--   Work through both the [LightBot Hour of Code](http://lightbot.com/hour-of-code.html) activity and the [SNAP Hour of Code](http://snap.berkeley.edu/hoc/) activity on your own so you are familiar with the activities and can provide assistance as needed
+-   Work through both the [LightBot Hour of Code](http://lightbot.com/hour-of-code.html) activity and the [SNAP Hour of Code](https://bjc.edc.org/hourofcode/#1) activity on your own so you are familiar with the activities and can provide assistance as needed
     -   Part 3 of the LightBot activity calls itself "Loops" but is really using recursion (specifically tail-recursion). The exercises are still valuable, but be prepared to potentially discuss, or at least point out, the distinction so students are not confused when they encounter normal loops later.
+-   [Unit 0 Tips](unit_0_tips.md)
 
 ## Pacing Guide
 
@@ -55,11 +56,11 @@ Students will be able to...
             -   If students seem interested, this can be an opportunity for a brief conversation about the difference between high-level programming languages and machine languages (assembly code).
 
 ## BJC Lecture Suggestions
-####Good for Classroom Instruction
+#### Good for Classroom Instruction
 - [OOP Ex: Sketch Pad Dr. Ivan Sutherland](http://www.youtube.com/watch?v=_4ScHcLvQnw&t=15m45s) "Father of Computer Graphics  15:45-22:10
 
 
-####Background Information for Instructors
+#### Background Information for Instructors
 * BJC Video Suggestion: [BJC Lecture 5: Programming Paradigms](https://www.youtube.com/watch?v=_4ScHcLvQnw)
  - Dilemma of Being a Cyborg 0:00-2:30
  - Programming Paradigms 2:30-3:50

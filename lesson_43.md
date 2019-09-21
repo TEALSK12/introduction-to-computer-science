@@ -12,7 +12,8 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 4.3: Quote of the Day](do_now_43.md)
--   [Lab 4.3 handout (Guess Who)](lab_43.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%204%20Word/Lab%204.3%20Guess%20Who.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%204%20PDF/Lab%204.3%20Guess%20Who.pdf))
+-   [Lab 4.3 handout (Guess Who)](lab_43.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.3%20Guess%20Who.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.3%20Guess%20Who.pdf))
+-   [Unit 4 Tips](unit_4_tips.md)
 
 ## Pacing Guide
 
@@ -27,7 +28,7 @@ Students will be able to...
 
 1.  Lecture
 
-    1.  In small groups, ask students to consider how to count the number of students with July birthdays in the room
+    1.  In small diverse groups, ask students to consider how to count the number of students with July birthdays in the room
         -   Provide only a few minutes to work through this-- students need not write full, formal algorithms, but simply desribe an approach
         -   Have groups share with each other and work together to come up with a single approach, hopefully settling on asking each student if s/he has a July birthday and counting the number of yeses (or something similar).
     2.  Define "traversal" as _the process of accessing each element of a list in order and performing some operation_
@@ -51,9 +52,9 @@ Students will be able to...
     -   Ask students to describe something they found challenging about the lab
     -   You will go over the correct solutions to the lab in the next lesson
 
-##BJC Lecture Suggestion
-####Background Information for Instructors  
-* BJC Video Suggestion :[BJC Lecture 9: Recusion](https://www.youtube.com/watch?v=JKn3nsfzBdA)
+## BJC Lecture Suggestion
+#### Background Information for Instructors  
+* BJC Video Suggestion :[BJC Lecture 9: Recursion](https://www.youtube.com/watch?v=JKn3nsfzBdA)
  - Movie “Inception” as an example of recursion 0:00-0:50
  - Recursion 0:50-1:40
  - Recursion Demo in Snap 1:40-17:00

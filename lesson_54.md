@@ -9,10 +9,10 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Project 5 - Space Invaders](project_5.md) ([Download in Word](Projects/Projects Word/Project 5 Space Invaders.docx)) ([Link to PDF](https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=%2fWvUoinE6f6mYjTSnt9Dt9HD%2bmiwwHs9M0LBJf0%2fo5w%3d&docid=04b51971fcc9e4368970c042ca39d8e2e))
+-   [Project 5 - Space Invaders](project_5.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%205%20Space%20Invaders.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%205%20Space%20Invaders.pdf))
 -   [Optional] Printouts of the specification
 -   Link to an online version of Space Invaders, such as <http://www.pacxon4u.com/space-invaders/>
-
+-   [Unit 5 Tips](unit_5_tips.md)
 ## Pacing Guide
 
 | Duration      | Description                                   |

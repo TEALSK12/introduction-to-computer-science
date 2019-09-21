@@ -1,8 +1,8 @@
-# 1 - Number Cruncher
+# Number Cruncher
 
 In this lab, you will continue practicing processing lists, this time using lists of numbers instead of words.
 
-## Summarizing Numbers
+## 1 - Summarizing Numbers
 
 1.  Write a custom SNAP reporter block called "sum" that takes a list as an argument and reports the sum of all the numbers in the list.  You can assume that all items in the list passed as the argument will be numbers, though you should not assume anything else.
 

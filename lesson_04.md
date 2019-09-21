@@ -7,8 +7,10 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now: I am ____](do_now_04.md)
-* [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Lab%200.4.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Lab%200.4.pdf))
+* [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab%200.4.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab%200.4.pdf))
+* Student Experience Survey [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.pdf)
 * Optional: digital camera
+* [Unit 0 Tips](unit_0_tips.md)
 
 ## Pacing Guide
 
@@ -31,9 +33,11 @@ Students will be able to...
         * Point out the places to write answers to the written questions in parts 1.2 and 1.3.
         * Draw special attention to the list of requirements for the self-portrait program in part 1.4.
         * This is an excellent opportunity to tell students that all labs in this course will look similar to this, and that they should get used to reading instructions carefully.
+   * The [lab handout](lab_04.md) incoprates the *Student Experience Survey* questions avaialble in the Classroom Plan appendix.  It is a great starting point to learning about the cultural references of your students, but you can and should go beyond that and integrate opportunities to share and learn about your students in class activities and assignments.  In this lab students write a short program that shares an aspect of their cultural background or interests; teachers can create a model to show the class as a demo.  There is also a question asking students to share stories or sayings from their family.  You could use sayings provided (with student permission) to decorate the classroom and reinforce classroom learning values. 
+        
 2. Activity
     * Instruct students to complete the ["Getting to Know You"](lab_04.md) lab.
-        * For part 1.3, you can either assign pairs or allow students to pair up on their own.  If students are allowed to choose their own partners, take care to ensure that no one is excluded.
+        * For part 1.3, you can either assign pairs or allow students to pair up on their own.  If students are allowed to choose their own partners, take care to ensure that no one is excluded.  If you choose to assign pairs, try to partner students into groups that are heterogenous by ability or background. Try to pair students who do not normally interact.
         * If the class has an odd number, form a single group of three.
     * Optional
         * If you have a digital camera available, you can take photos of the students and have them use their picture as the costume to the sprite.  Doing so will give a level of personalization to each student's project.  You will need to provide students with a location to download their photo.  In addition you need to walk students through the process of importing a costume from the file menu.
@@ -44,7 +48,7 @@ Students will be able to...
     * Ask students what they enjoyed about working with SNAP and what they disliked.
 
 ## BJC Lecture Suggestions
-####Good for Classroom Instruction
+#### Good for Classroom Instruction
 
 
 
@@ -54,8 +58,8 @@ Students will be able to...
 ## Accommodation/Differentiation
 * Allow students to use whatever resources they need, including instructors, peers, and web searches if necessary, to create their programs.  The goal of this lesson is exploration and exposure, not mastery.
 * For students that are hesitant or unwilling to engage, point out some simple, useful features (like basic drawing and the ![](say.png) block) to get them started.  Remind them that complexity or "coolness" are not important for this lab.
-* If you wish, you can add a second day to this lesson for students to share out their programs.  Work with your classroom teacher and/or school IT staff to determine the best way for students to be able to present.
-    * One simple option is to have all students share their projects with you, and then show each one in turn on the teacher computer/projector.
+* If you wish, you can add a second day to this lesson for students to share out their programs on a volunteer basis.  Work with your classroom teacher and/or school IT staff to determine the best way for students to be able to present.
+    * One simple option is to have volunteering students share their projects with you, and then show each one in turn on the teacher computer/projector.
 * Have a plan for collecting or accumulating the students' programs, which you can then use to get to know your class!
 
 ## Forum discussion

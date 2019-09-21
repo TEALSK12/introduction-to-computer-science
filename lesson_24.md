@@ -9,7 +9,9 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 2.4: Debugging](do_now_24.md)
--   Lab 2.4 handout - [Guessing Game](lab_24.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%202%20Word/Lab%202.4%20Guessing%20Game.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%202%20PDF/Lab%202.4%20Guessing%20Game.pdf))
+-   Lab 2.4 handout - [Guessing Game](lab_24.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.4%20Guessing%20Game.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.4%20Guessing%20Game.pdf))
+- ["The Box Variable Activity"](https://teachinglondoncomputing.org/resources/inspiring-unplugged-classroom-activities/the-box-variable-activity/) materials (Optional)
+-   [Unit 2 Tips](unit_2_tips.md)
 
 ## Pacing Guide
 
@@ -31,6 +33,7 @@ Students will be able to...
     2.  Introduce variables
         -   Define and explain the concept of a variable
             -   _a "place" to store a value for retrieval and use later_
+        -   Consider introducing variables with an interactive physical demonstration by modifying the ["The Box Variable Activity"](https://teachinglondoncomputing.org/resources/inspiring-unplugged-classroom-activities/the-box-variable-activity/) for your students.   
         -   Demonstrate creating, assigning, and accessing a variable in SNAP
             -   Ignore global vs. this sprite only for now
             -   Point out that a variable can only hold one value at a time

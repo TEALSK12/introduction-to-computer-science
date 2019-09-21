@@ -74,17 +74,17 @@
 | 4.3: List Practice I | Traverse a list, accessing each element one at a time. Perform operations combining all elements in a list. Select defined subsets of elements in a list. | Guess Who |
 | 4.4: List Practice II | Traverse a list, accessing each element one at a time. Perform operations combining all elements in a list. Select defined subsets of elements in a list. | Number Cruncher |
 | 4.5: Sequential Search | Explain the sequential search algorithm. Implement several variations of sequential search. | It's Around Here Somewhere |
-| 4.6: Hangman Project | Use lists to implement a complete version of "Hangman." Exercise good programming practices to produce code that is not only functional but also elegant and well-written. | Project 4: Hangman |
-| 4.7: Project Day 1 | Project Work  | Project 4: Hangman |
-| 4.8: Project Day 2 | Project Work  | Project 4: Hangman |
-| 4.9: Project Day 3 | Project Work  | Project 4: Hangman |
-| 4.10: Project Day 4 | Project Work  | Project 4: Hangman |
-| 4.11: Project Day 5 | Project Work  | Project 4: Hangman |
-| 4.12: Project Day 6 | Project Work  | Project 4: Hangman |
-| 4.13: Project Day 7 | Project Work  | Project 4: Hangman |
-| 4.14: Project Day 8 | Project Work  | Project 4: Hangman |
-| 4.15: Project Day 9 | Project Work  | Project 4: Hangman |
-| 4.16: Project Day 10 | Project Work  | Project 4: Hangman |
+| 4.6: Word Guessing Game Project | Use lists to implement a complete version of a word guessing game. Exercise good programming practices to produce code that is not only functional but also elegant and well-written. | Project 4: Hangman |
+| 4.7: Project Day 1 | Project Work  | Project 4: Word Guessing Game  |
+| 4.8: Project Day 2 | Project Work  | Project 4: Word Guessing Game  |
+| 4.9: Project Day 3 | Project Work  | Project 4: Word Guessing Game  |
+| 4.10: Project Day 4 | Project Work  | Project 4: Word Guessing Game  |
+| 4.11: Project Day 5 | Project Work  | Project 4: Word Guessing Game  |
+| 4.12: Project Day 6 | Project Work  | Project 4: Word Guessing Game  |
+| 4.13: Project Day 7 | Project Work  | Project 4: Word Guessing Game  |
+| 4.14: Project Day 8 | Project Work  | Project 4: Word Guessing Game  |
+| 4.15: Project Day 9 | Project Work  | Project 4: Word Guessing Game  |
+| 4.16: Project Day 10 | Project Work  | Project 4: Word Guessing Game  |
 | 4.17: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 | 4.18: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 

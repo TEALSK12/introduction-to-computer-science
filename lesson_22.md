@@ -9,7 +9,8 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 2.2: Debugging Loops](do_now_22.md)
--   Lab 2.2 handout - [Another Brick in the Wall](lab_22.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%202%20Word/Lab%202.2%20Another%20Brick%20in%20the%20Wall.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%202%20PDF/Lab%202.2%20Another%20Brick%20in%20the%20Wall.pdf))
+-   Lab 2.2 handout - [Yellow Brick Road](lab_22.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.2%20Yellow%20Brick%20Road.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.2%20Yellow%20Brick%20Road.pdf))
+-   [Unit 2 Tips](unit_2_tips.md)
 
 ## Pacing Guide
 
@@ -17,7 +18,7 @@ Students will be able to...
 | ---------- | --------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 15 minutes | Review, lecture, and examples                 |
-| 25 minutes | Activity - Another Brick in the Wall          |
+| 25 minutes | Activity - Yellow Brick Road          |
 | 10 minutes | Debrief and wrap-up                           |
 
 ## Instructor's Notes
@@ -38,7 +39,7 @@ Students will be able to...
 
         -   Work through writing a script to do this.  The likely result will duplicate the code to draw a single square:
 
-        ![](<twosquares.png>)
+        ![](twosquares.png)
 
         -   Remind students to remember what they previously learned and use loops
         -   Once the script is complete, ask students if there are ways they could improve the code
@@ -52,7 +53,7 @@ Students will be able to...
         -   Emphasize that the inner loop will run all its iterations _each time_ the outer loop runs.
     4.  Walk through rewriting the script to draw multiple squares to use nested loops:
 
-        ![](<twosquaresnested.png>)
+        ![](twosquaresnested.png)
 
         * Ask how many total times the sprite will move 50 steps
             * The sprite will move 50 steps 8 times (4 * 2)
@@ -60,25 +61,25 @@ Students will be able to...
 
 3.  Activity
 
-    -   Direct students to complete the ["Another Brick in the Wall"](lab_22.md) activity individually or in pairs
+    -   Direct students to complete the ["Yellow Brick Road"](lab_22.md) activity individually or in pairs. Try to pair students that have not previously interacted.  
         -   Remind students to continue using the principles learned with basic loops
         -   Encourage students to write scripts that are as short and succinct as possible while still being functional and readable
 
 4.  Debrief
     -   Show a student's solution
-        -   Either request a volunteer or cold call
+        -   Either request a volunteer or cold call alternative
         -   Point out uses of nested loops
     -   Ask students to describe how loops, specifically nested loops, made the assignment easier
         -   Each brick, or at least each row, would have needed to be coded separately creating much longer scripts
-    -   Ask students to think about what code would need to change to alter the size of each brick or the size of the wall and how that was made easier with loops
-        -   Size of wall: number of iterations in one or both loops
+    -   Ask students to think about what code would need to change to alter the size of each brick or the size of the road and how that was made easier with loops
+        -   Size of road: number of iterations in one or both loops
         -   Size of brick: one or both move blocks **and** number of iterations in one or both loops
         -   Without loops, the change would have been needed in many different places
 
 ## Accommodation/Differentiation
 
 -   Not all students will recognize all the possible places to use nested loops in the final program.  Encourage students to find as many places to use a nested loop as possible, but allow struggling students to focus on just one or two uses.
--   Advanced students can be encouraged to change the size of the bricks, which will require not only altering the number of steps moved but also the number if iterations in the loops
+-   Advanced students can be encouraged to change the size of the bricks, which will require not only altering the number of steps moved but also the number if iterations in the loops.  You can also ask students to draw a building/house using only squares.  For example, they can be instructed to draw where they live, favorite building, or school.  
 
 ## Sample Solution
 

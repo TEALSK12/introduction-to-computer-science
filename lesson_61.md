@@ -6,10 +6,24 @@ Students will be able to...
   * Describe methods for prioritizing features, use cases, and/or scenarios
   * Explain why design and planning are necessary steps in the software engineering process
 
+---
+#### Emphasize with students ...
+
+#### Curricular Competencies - understanding context, defining, ideating
+
+In this course, we are not actually typing out any code.  In our case, "coding" would refer to the stage where we actually drag-and-drop in the SNAP design environment.   Later when we learn other languages, "coding" would refer to when we start typing out code in a specific language like Java or Python.
+
+When we first learn computer programming, it may seem fun to dive right into coding.  Resist the urge to do so!
+Software development is a process.  It begins with carefully thinking about, and planning out, your design.  This includes envisioning what the final product might look like, and planning out the steps needed to implement it.    Remember,  "design then code".  
+
+---
 
 ## Materials/Preparation
-
-
+- [Unit 6 Tips](unit_6_tips.md)
+- [Final Project Plan Organizer] 
+- [Final Project Development Plan] 
+- [Examples of TEALS Final Projects](https://youtu.be/aV6LFVXxd34)
+ 
 ## Pacing Guide
 | Duration  | Description                                   |
 | --------- | --------------------------------------------- |
@@ -23,17 +37,29 @@ Students will be able to...
     1. Talk about how far students have come this semester
         * Ask students to think back to the start of the semester and remember how little they knew about programming.
         * Briefly list a bunch of the things they've learned (drawing, animation, variables, loops, conditionals, loops, etc.)
-        * Maybe show a lab or assignment from early on and remind them that, not that long ago, this was challenging, whereas it now seems nearly trival (hopefully).
+        * Maybe show a lab or assignment from early on and remind them that, not that long ago, this was challenging, whereas it now seems nearly trivial (hopefully).
     2. Explain that, for their final project, the students will get to design and build a program of their own choosing.
         * Point out that this will involve more than just writing code-- there will be planning, design, scheduling, and other project management tasks
         * Emphasize that students will be graded on not only the program they produce, but the process they used to design, plan, and implement it
     3. Demonstrate a few example projects (with as much variety as possible).
         * Try to hit a bunch of different types of programs.  Many students will gravitate towards games, but other options include simulations, productivity tools, musical projects, animations, and more.
         * TEALS can provide a few samples if needed.
+
     4. Distribute the project rubric and point out key aspects of the requirements
         * Point out the steps in the process and that each one is equally important
         * Specifically mention the large number of points for things _not_ related to coding
         * Remind students that, as they are now SNAP experts, there are high expectations for the depth, complexity, and completeness of their projects
+
+
+---
+#### Emphasize with students ...
+#### Curricular Competencies - understanding context, defining, ideating
+
+There are a gazillion apps out there to do a gazillion things.  What are the different categories of software applications?  When looking at an application, what type of functionality does it have?  Who are the end users, or target audience?  What do you like, or not like, about it?  What do other users/reviewers say about it?  How does it compare to, or stand apart from, other similar apps? As we study and analyze sample applications, we gain experience that will help us design our own.
+
+---
+
+
 2. Sample design activity
     1. Tell students that, as a class, they will now practice some of the design and planning tasks for the project on a well-known app
         * Pick an app that both you and most of your students have a deep familiarity with, but that is not too complex.  Twitter, Instagram, Pinterest, or other relatively small-scope social media apps work well here.
@@ -43,9 +69,9 @@ Students will be able to...
         2. Define - List the features/scenarios the app will support
         3. Sketch - Draw a very basic wireframe sketch of the main "screens" of the app
             * In this step, try to keep students from fixating on making their app look _exactly_ like the existing app
-        4. Expand - Build a spec using the [Final Project Plan Organizer](Final Project Plan Organizer.docx).
+        4. Expand - Build a spec using the [Final Project Plan Organizer].
             * In this step, emphasize completeness and detail.  Leaving out steps or requirements will make it difficult to plan effectively and will likely force major changes or cuts later.
-        5. Plan - Based on the feature list and spec, create a full development plan using the [Final Project Development Plan](Final Project Development Plan.docx).
+        5. Plan - Based on the feature list and spec, create a full development plan using the [Final Project Development Plan].
             * As tasks and costs are listed, remind students to keep an eye on the total amount of time required and to include buffer for things going wrong.  Be sure to prioritize tasks so that cuts can be made if necessary.
 3. Debrief
     * Once all documents have been created, ask students what the next steps should be.
@@ -63,3 +89,6 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-6/lesson-6-1-design-basics" target="_blank">
 Lesson 6.1 - Design Basics (TEALS Discourse account required).</a>
+
+[Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Final%20Project%20Plan%20Organizer.docx?raw=true
+[Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Final%20Project%20Development%20Plan.docx?raw=true

@@ -17,7 +17,8 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 2.3: Stairs](do_now_23.md)
--   Lab 2.3 Handout - [What Shape is That?](lab_23.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%202%20Word/Lab%202.3%20What%20Shape%20Is%20That.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%202%20PDF/Lab%202.3%20What%20Shape%20Is%20That.pdf))
+-   Lab 2.3 Handout - [What Shape is That?](lab_23.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.3%20What%20Shape%20Is%20That.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.3%20What%20Shape%20Is%20That.pdf))
+-   [Unit 2 Tips](unit_2_tips.md)
 
 ## Pacing Guide
 
@@ -50,10 +51,11 @@ _Note: This lesson may cover too much material for some classes to handle in one
         -   Emphasize that only one input is stored at a time, and that asking a new question deletes the previous answer
             -   For example, the following script, intended to draw a bunch of squares where the user specifies both the size and the number of squares, will not work as intended:
 
-                ![](<draw squares.png>)
+                ![](draw%20squares.png)
 
     3.  Introduce conditional statements
         -   Define "conditional" - _a block used to make a choice between executing two different chunks of code_
+        -   You can also use this [video on conditionals](https://www.flocabulary.com/unit/coding-conditionals/) by Flocabulary.
         -   Point out the differences between ![](if.png) and ![](if-else.png)
             -   Namely, if-else provides a choice between two code paths, whereas if simply chooses between executing code or not
         -   Emphasize that **only one** of the bodies, either the if or the else, will ever be executed
@@ -73,7 +75,7 @@ _Note: This lesson may cover too much material for some classes to handle in one
             -   When the conditions are not mutually exclusive (as in part 2.2), the choice matters more
 
 ## BJC Lecture Suggestions
-####Good for Classroom Instruction
+#### Good for Classroom Instruction
 * [BJC Lecture 13: Mislababled as 14) Human-Computer Interaction Bjorn Hartman ](https://www.youtube.com/watch?v=3VZ7D01T2Yc)
 
  - [Why Study User Interfaces](http://www.youtube.com/watch?v=3VZ7D01T2Yc&t=15m0s)
@@ -84,7 +86,7 @@ _Note: This lesson may cover too much material for some classes to handle in one
 
 
 
-####Background Information for Instructors
+#### Background Information for Instructors
 
 * [BJC Lecture 13: Mislababled as 14) Human-Computer Interaction Bjorn Hartman ](https://www.youtube.com/watch?v=3VZ7D01T2Yc)
  - Bjorn Hartman Background 0:00-3:30

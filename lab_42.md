@@ -1,6 +1,6 @@
 # You Talkin' to Me?
 
-In this lab, you will create a simple sentence generator using lists.  (Adapted from BJC: <http://bjc.berkeley.edu/bjc-r/cur/programming/lists/hof/what-good-are-lists.html?topic=berkeley_bjc%2Flists%2Flists-I.topic>)
+In this lab, you will create a simple sentence generator using lists.
 
 ## 1 - Let's Talk
 
@@ -39,7 +39,7 @@ In this lab, you will create a simple sentence generator using lists.  (Adapted 
 
 1.  Write a script so that when the 'n' key is pressed, the user is prompted for a new noun and that noun is added to list of nouns.  After that point, the new noun entered by the user should be able to appear in sentences.
 
-2.  Write scripts like the one you wrote in part 2.1 to add words to the other lists.  Use the keys listed below.
+2.  Write scripts like the one you wrote in part 4.2 to add words to the other lists.  Use the keys listed below.
 
 | Key | Part of speech |
 | --- | -------------- |

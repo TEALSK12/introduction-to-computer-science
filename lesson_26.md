@@ -10,7 +10,8 @@ Students will be able to...
 ## Materials/Preparation
 
 -   [Do Now 2.6: Boolean Practice](do_now_26.md)
--   [Lab 2.6 handout (What Goes Up...)](lab_26.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%202%20Word/Lab%202.6%20What%20Goes%20Up.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%202%20PDF/Lab%202.6%20What%20Goes%20Up.pdf))
+-   [Lab 2.6 handout (What Goes Up...)](lab_26.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.6%20What%20Goes%20Up.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.6%20What%20Goes%20Up.pdf))
+-   [Unit 2 Tips](unit_2_tips.md)
 
 ## Pacing Guide
 
@@ -34,7 +35,7 @@ Students will be able to...
         -   Encourage discussion about previous activities
         -   Fill in understanding gaps when necessary
     2.  Demonstrate combining loops and conditionals
-        -   Present ![](<repeat until.png>) and ![](foreverIf.png)
+        -   Present ![](repeat%20until.png) and ![](foreverIf.png)
         -   Ask students to suggest when these constructs might be useful
             -   "repeat until" is useful when a loop needs to run not for a set number of iterations, but until some situation occurs
             -   "forever if" is useful when code should execute _any time_ a condition is true, for the duration of the program
@@ -48,26 +49,6 @@ Students will be able to...
     -   Students should complete "What Goes Up..." lab individually
         -   Mention that the code written in this lab will be helpful for the Platform Game project
 3.  Debrief
-
-## BJC Lecture Suggestions
-####Good for Classroom Instruction
-
-
- * [ BJC Lecture 3: Video Games](https://www.youtube.com/watch?v=hdSFuhyGTIg)
-  - [History of Video Games Overview] (http://www.youtube.com/watch?v=hdSFuhyGTIg&t=2m30s) (Platform Game Prep) 2:30-7:55
-  - [Casual Video Game World ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=8m0s)(light weight) 8:00-10:40
-- [Core Video Game](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=10m45s) (heavy weight) 10:45-13:05   
-   - [Motion Capture ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=15m25s)(Hero Movement for Platform Game Lab 2.6) 15:25-17:30
-   - Artificial Intelligence (Enemy Logic for Lab 2.6) 17:30-19:40
-  - [Video Games w/purpose](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=19m40s) (social benefits) 19:40-24:36
-  - [Negative Aspects of Video Games ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=19m40s)(RSI, addition, violence) 24:40-28:00
-  - [Glenn Sugden-Game Developer ](http://www.youtube.com/watch?v=hdSFuhyGTIg&t=28m03s)(History of VG Development & Industry) 28:03-40:53 *Good for Classroom Instruction
-
-####Background Information for Instructors
-
-
- * [ BJC Lecture 3: Video Games](https://www.youtube.com/watch?v=hdSFuhyGTIg)
-  - Demystification Lecture-Novel Interaction techniques(emotive systems) 00:00-2:30
 
 
 ## Accommodations/Differentiation

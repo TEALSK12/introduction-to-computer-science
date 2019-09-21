@@ -10,8 +10,10 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Do Now 1.3: Drawing a Triangle](do_now_13.md)  
--   [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%201%20Word/Lab%201.3%20Squares%20Triangles.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%201%20PDF/Lab%201.3%20Squares%20Triangles.pdf))
+-   [Do Now 1.3: Drawing a Triangle](do_now_13.md) You can ask students to give instructions in plain language, pseudo code or with images.
+-   [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.3%20Squares%20Triangles.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.3%20Squares%20Triangles.pdf))
+-   [Geometry Cheat Sheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif)
+-   [Unit 1 Tips](unit_1_tips.md)
 
 ## Pacing Guide
 
@@ -32,6 +34,7 @@ Students will be able to...
 2.  Activity
     -   Students should complete the ["Triangles, Squares, and Stars, Oh My!"](lab_13.md) activity individually.
         -   Point out that the shapes in part 2.1 are not necessarily listed from easiest to hardest, and that the scripts need not be written in the given order.
+        -  Here is a [Geometry Cheat Sheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif) by Math Salamanders showing various shapes and their respective angles. It can be presented to students as a reference during the activity and/or enlarged and placed at the front of the classroom for use throughout unit 2.
     -   When students finish, have them turn in their project using whatever procedures you have set up.
 3.  Debrief
     -   Have students switch seats with a nearby classmate and review each other's work

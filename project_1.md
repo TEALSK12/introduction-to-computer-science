@@ -18,7 +18,6 @@ For this project, student may be encouraged to portray an animation that depicts
     - animation of how a State/city/town name in USA came to be
     - animated map of an immigration journey
     - a personal family story
-
 ---
 
 ## Reference

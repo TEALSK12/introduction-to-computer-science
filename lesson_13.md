@@ -1,4 +1,4 @@
-<!--- REVISED -->
+<!-- REVISED -->
 # Lesson 1.3: Drawing Shapes
 
 ## Learning Objectives

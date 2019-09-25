@@ -1,4 +1,4 @@
-
+<!-- REVISED -->
 # Lesson 1.2: Building Blocks
 
 ## Learning Objectives

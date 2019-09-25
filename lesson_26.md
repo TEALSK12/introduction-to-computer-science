@@ -1,4 +1,4 @@
-
+<!-- REVISED -->
 # Lesson 2.6: Combining Variables  
 
 ## Learning Objectives

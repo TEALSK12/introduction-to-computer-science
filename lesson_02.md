@@ -1,4 +1,4 @@
-<!--- REVISED -->
+<!-- REVISED -->
 # Lesson 0.2: Algorithms
 
 ## Learning Objectives

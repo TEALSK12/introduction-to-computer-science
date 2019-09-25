@@ -1,4 +1,4 @@
-<!--- REVISED -->
+<!-- REVISED -->
 # Lesson 1.1: Welcome to SNAP
 
 ## Learning Objectives

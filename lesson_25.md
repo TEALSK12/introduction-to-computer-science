@@ -1,4 +1,4 @@
-<!--- REVISED -->
+<!-- REVISED -->
 # Lesson 2.5: Boole in the House
 
 ## Learning Objectives

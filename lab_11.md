@@ -1,4 +1,4 @@
-<!--- REVISED -->
+<!-- REVISED -->
 # Lab 1.1 - Welcome To SNAP!
 
 SNAP is a programming language, which you can use to tell a computer what to do. A program is a particular set of instructions for the computer to follow.

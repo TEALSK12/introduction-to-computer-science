@@ -1,4 +1,4 @@
-
+<!--- REVISED -->
 # Lab 1.2: Snap! Scavenger Hunt
 
 In this lab, you will explore the functionality of some common blocks and where they are located in the palette.

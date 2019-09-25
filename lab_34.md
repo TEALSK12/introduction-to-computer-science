@@ -1,4 +1,4 @@
-<!--- REVISED -->
+<!-- REVISED -->
 # Lab 3.4 - If My Calculations Are Correct...
 
 In this lab, you will write custom reporter blocks to perform a number of useful calculations and computations.

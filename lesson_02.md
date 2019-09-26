@@ -141,5 +141,4 @@ Needed for this lesson:
 Lesson 0.2 Algorithms (TEALS Discourse account required).</a>
 
 
-
 [Unit 0 Tips]: unit_0_tips.md

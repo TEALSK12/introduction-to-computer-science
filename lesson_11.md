@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Unit 0 Tips][]
+-   [Unit 1 Tips][]
 -   [Lab 1.1 handout](lab_11.md) (Welcome to SNAP!) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
 -   Helping Trios handout Helping Trios handout [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
 -   Ensure that all classroom computers can access <http://snap.berkeley.edu/run>.
@@ -116,4 +116,4 @@ Lesson 1.1 Welcome to SNAP (TEALS Discourse account required).</a>
 
 
 
-[Unit 0 Tips]: unit_0_tips.md
+[Unit 1 Tips]: unit_1_tips.md

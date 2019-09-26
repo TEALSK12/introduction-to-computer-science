@@ -91,5 +91,4 @@ Students will be able to...
 Lesson 0.3 Programming Languages (TEALS Discourse account required).</a>
 
 
-
 [Unit 0 Tips]: unit_0_tips.md

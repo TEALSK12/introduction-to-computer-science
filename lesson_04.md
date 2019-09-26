@@ -10,7 +10,7 @@ Students will be able to...
 * [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab%200.4.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab%200.4.pdf))
 * Student Experience Survey [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.pdf)
 * Optional: digital camera
-* [Unit 0 Tips](unit_0_tips.md)
+-   [Unit 0 Tips][]
 
 ## Pacing Guide
 
@@ -66,3 +66,5 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/unit-0-beginnings/lesson-0-4-snap-self-portrait" target="_blank">
 Lesson 0.4 SNAP Self Portrait (TEALS Discourse account required).</a>
+
+[Unit 0 Tips]: unit_0_tips.md

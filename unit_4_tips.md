@@ -1,7 +1,7 @@
 # TEALS Unit 4 Tips
 
 ## SNAP Tips
-*[Tip Numbers from *SNAP Tips* Document:](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true) 0, 19
+[Tip Numbers from SNAP Tips Document][]: 0, 19
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -18,3 +18,6 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Index Variable      | Keeps track of where you currently are in a list. |
 | Join Block     | Links two values together and reports the result. |
 | Contains Block     | Checks an operator block for a particular variable. |
+
+
+[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

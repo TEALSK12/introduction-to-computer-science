@@ -18,4 +18,6 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Predicate Block     | A hexagonal block that always returns a Boolean value (true or false). |
 | Argument      | Any area in a block that accepts user input, or another block. It could be a Boolean Block or a value placed inside of a variable or block. The value that is "passed into" a parameter of a custom block |
 | Say Block     | The block gives its sprite a speech bubble with the specified text — the speech bubble stays until an another speech or thought block is activated, or the stop sign is pressed. |
+
+
 [Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

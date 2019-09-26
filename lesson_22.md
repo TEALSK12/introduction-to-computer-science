@@ -90,4 +90,5 @@ Students will be able to...
 <a href="http://forums.tealsk12.org/c/intro-unit-2-loops/lesson-2-2-nested-loops" target="_blank">
 Lesson 2.2 Nested Loops (TEALS Discourse account required).</a>
 
-[Unit 1 Tips]: unit_2_tips.md
+
+[Unit 2 Tips]: unit_2_tips.md

@@ -1,7 +1,7 @@
 # TEALS Unit 1 Tips
 
 ## SNAP Tips
-*[Tip Numbers from *SNAP Tips* Document:](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true) 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
+[Tip Numbers from SNAP Tips Document][](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true) 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -17,3 +17,6 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Watcher Block | reporter blocks you can click the checkbox for; they will appear in the Stage and you can track them. | 
 | X Position     |  The position that a sprite or the mouse is at along the horizontal axis. | 
 | Y Position     | The position that a sprite or the mouse is at along the vertical axis. | 
+
+
+[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

@@ -35,7 +35,9 @@ Following an Agile project management flow helps ensure that the development pro
 ## Materials/Preparation
  - [Final Project Plan Organizer] handout
  - [Final Project Development Plan] handout
- - [Unit 6 Tips](unit_6_tips.md)
+ - [Unit 6 Tips][]
+
+
 
 
 ## Pacing Guide
@@ -75,3 +77,5 @@ Lesson 6.4 - Building a Plan (TEALS Discourse account required).</a>
 
 [Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Final%20Project%20Plan%20Organizer.docx?raw=true
 [Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Final%20Project%20Development%20Plan.docx?raw=true
+
+[Unit 6 Tips]: unit_6_tips.md

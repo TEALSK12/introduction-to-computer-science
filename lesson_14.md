@@ -12,7 +12,7 @@ Students will be able to...
 
 -   [Do Now 1.4: Sprite Communication](do_now_14.md)  
 -   [Lab 1.4 handout](lab_14.md) (Sprites in Action) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.4%20Sprites%20in%20Action.pdf))
--   [Unit 1 Tips][]
+-    [Unit 1 Tips](unit_1_tips.md)
 
 ## Pacing Guide
 
@@ -58,5 +58,3 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/unit-1-snap-basics/lesson-1-4-animation" target="_blank">
 Lesson 1.4 Animation (TEALS Discourse account required).</a>
-
-[Unit 1 Tips]: unit_1_tips.md

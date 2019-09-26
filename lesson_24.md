@@ -1,4 +1,4 @@
-# Lesson 2.4: Variables
+# Lesson 2.4: Variables <---- Formerly 3.1 ---->
 
 ## Learning Objectives
 
@@ -11,7 +11,7 @@ Students will be able to...
 -   [Do Now 2.4: Debugging](do_now_24.md)
 -   Lab 2.4 handout - [Guessing Game](lab_24.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.4%20Guessing%20Game.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.4%20Guessing%20Game.pdf))
 - ["The Box Variable Activity"](https://teachinglondoncomputing.org/resources/inspiring-unplugged-classroom-activities/the-box-variable-activity/) materials (Optional)
--   [Unit 2 Tips][]
+-   [Unit 2 Tips](unit_2_tips.md)
 
 ## Pacing Guide
 
@@ -62,5 +62,3 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-2-loops/lesson-2-4-variables" target="_blank">
 Lesson 2.4 Variables (TEALS Discourse account required).</a>
-
-[Unit 2 Tips]: unit_2_tips.md

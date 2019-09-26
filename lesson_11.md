@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Unit 1 Tips][]
+-   [Unit 1 Tips](unit_1_tips.md)
 -   [Lab 1.1 handout](lab_11.md) (Welcome to SNAP!) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
 -   Helping Trios handout Helping Trios handout [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
 -   Ensure that all classroom computers can access <http://snap.berkeley.edu/run>.
@@ -113,7 +113,3 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 
 <a href="http://forums.tealsk12.org/c/unit-1-snap-basics/lesson-1-1-welcome-to-snap" target="_blank">
 Lesson 1.1 Welcome to SNAP (TEALS Discourse account required).</a>
-
-
-
-[Unit 1 Tips]: unit_1_tips.md

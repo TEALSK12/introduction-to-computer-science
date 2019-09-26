@@ -11,7 +11,7 @@ Students will be able to...
 
 -   [Do Now 4.5: List Tracing ](do_now_45.md)
 -   [Lab 4.5 handout (It's Around Here Somewhere)](lab_45.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.5%20Its%20Around%20Here%20Somewhere.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.5%20Its%20Around%20Here%20Somewhere.pdf))
--   [Unit 4 Tips][]
+-   [Unit 4 Tips](unit_4_tips.md)
 
 ## Pacing Guide
 
@@ -55,6 +55,3 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-5-sequential-search" target="_blank">
 Lesson 4.5: Sequential Search (TEALS Discourse account required).</a>
-
-
-[Unit 4 Tips]: unit_4_tips.md

@@ -13,7 +13,8 @@ Students will be able to...
 
 -   [Do Now 3.2: Drawing Squares](do_now_32.md)
 -   Lab 3.2 handout - [Drawing Shapes Again](lab_32.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.2%20Drawing%20Shapes%20Again.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.2%20Drawing%20Shapes%20Again.pdf))
--   [Unit 3 Tips][]
+-   [Unit 3 Tips](unit_3_tips.md)
+
 
 ## Pacing Guide
 
@@ -64,5 +65,3 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-2-procedures" target="_blank">
 Lesson 3.2: Procedures (TEALS Discourse account required).</a>
-
-[Unit 3 Tips]: unit_3_tips.md

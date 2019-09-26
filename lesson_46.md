@@ -14,7 +14,7 @@ Students will be able to...
 -   Guess My Word planning worksheet: ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project_4_Guessmyword_Planning_Worksheet.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project_4_Guessmyword_Planning_Worksheet.pdf))
 -   Link to an online version of a word guessing game, such as <http://www.searchamateur.com/Play-Free-Online-Games/Bubbletoonia-Cake-Deal.htm>
 -   A word list from which words can be selected for the game, such as <http://www.mieliestronk.com/corncob_lowercase.txt>
--   [Unit 4 Tips][]
+-   [Unit 4 Tips](unit_4_tips.md)
 
 ## Pacing Guide
 
@@ -58,5 +58,3 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-6-hangman-project" target="_blank">
 Lesson 4.6: Guess My Word Project (TEALS Discourse account required).</a>
-
-[Unit 4 Tips]: unit_4_tips.md

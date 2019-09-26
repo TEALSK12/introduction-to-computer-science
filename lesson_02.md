@@ -15,7 +15,7 @@ Needed for this lesson:
 -   Supplies to create a peanut butter & jelly sandwich (ingredients, utensils, plates, napkins, etc.)
 -   Paper/writing implements for each group of students
     -   Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine
--   [Unit 0 Tips](unit_0_tips.md)
+-   [Unit 0 Tips][]
 
 ## Pacing Guide
 
@@ -139,3 +139,5 @@ Needed for this lesson:
 
 <a href="http://forums.tealsk12.org/c/unit-0-beginnings/lesson-0-2-algorithms" target="_blank">
 Lesson 0.2 Algorithms (TEALS Discourse account required).</a>
+
+[Unit 2 Tips]: unit_2_tips.md

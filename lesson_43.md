@@ -13,7 +13,7 @@ Students will be able to...
 
 -   [Do Now 4.3: Quote of the Day](do_now_43.md)
 -   [Lab 4.3 handout (Guess Who)](lab_43.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.3%20Guess%20Who.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.3%20Guess%20Who.pdf))
--   [Unit 4 Tips](unit_4_tips.md)
+-   [Unit 4 Tips][]
 
 ## Pacing Guide
 
@@ -76,3 +76,5 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-3-list-practice-i" target="_blank">
 Lesson 4.3: List Practice I (TEALS Discourse account required).</a>
+
+[Unit 4 Tips]: unit_4_tips.md

@@ -1,7 +1,7 @@
 # TEALS Unit 6 Tips
 
 ## SNAP Tips
-[Tip Numbers from sNAP Tips Document][]: 0, 21, 23 
+[Tip Numbers from SNAP Tips Document][]: 0, 21, 23 
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.

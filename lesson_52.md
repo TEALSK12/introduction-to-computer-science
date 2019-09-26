@@ -14,7 +14,7 @@ Students will be able to...
 -   [Do Now 5.2: Star Wars Troopers ](do_now_52.md)
 -   [Lab 5.2 handout](lab_52.md) (Lots of Balls) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.2%20Lots%20of%20Balls.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.2%20Lots%20of%20Balls.pdf))
     -   Test out the lab on student machines before class--  cloning in SNAP! can bring the web browser to a crawl on some machines
-- [Unit 5 Tips](unit_5_tips.md)
+-   [Unit 5 Tips][]
 
 ## Pacing Guide
 
@@ -53,3 +53,6 @@ Vimeo Link: <https://vimeo.com/54796819>)
 
 <a href="http://forums.tealsk12.org/c/intro-unit-5-cloning/lesson-5-2-cloning-sprites" target="_blank">
 Lesson 5.2: Cloning Sprites (TEALS Discourse account required).</a>
+
+
+[Unit 5 Tips]: unit_5_tips.md

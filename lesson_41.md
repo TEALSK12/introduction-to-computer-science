@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Unit 4 Tips](unit_4_tips.md)
+-   [Unit 4 Tips][]
 -   Paper/writing implements for each group of students
     -   Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine
 
@@ -54,3 +54,6 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-1-intro-to-lists" target="_blank">
 Lesson 4.1: Intro to Lists (TEALS Discourse account required).</a>
+
+
+[Unit 4 Tips]: unit_4_tips.md

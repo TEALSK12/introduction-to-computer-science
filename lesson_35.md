@@ -12,11 +12,10 @@ Students will be able to...
 
 -   Reference to the Platform Game Project: [Platform Game](project_3_platform_game_easy.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%203%20Platform%20Game%20Easy.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%203%20Platform%20Game%20Easy.pdf))
 -   (Optional) Advanced Version of the project: [Advanced Platform Game](project_3.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%203%20Platform%20Game.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%203%20Platform%20Game.pdf))
-
 -   (Optional) Printouts of the specification
 -   A few suggested themes available for students who may struggle to come up with their own.
 -   Suggestions for characters, power-ups, goals, etc.
--   [Unit 3 Tips](unit_3_tips.md)
+-   [Unit 3 Tips][]
 
 ## Pacing Guide
 
@@ -72,3 +71,6 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-5-platform-game-project" target="_blank">
 Lesson 3.5: Platform Game Project (TEALS Discourse account required).</a>
+
+
+[Unit 3 Tips]: unit_3_tips.md

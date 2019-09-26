@@ -12,7 +12,7 @@ Students will be able to...
 
 -   [Do Now 4.4: Traversing List ](do_now_44.md)
 -   [Lab 4.4 handout (Number Cruncher)](lab_44.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.4%20Number%20Cruncher.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.4%20Number%20Cruncher.pdf))
--   [Unit 4 Tips](unit_4_tips.md)
+-   [Unit 4 Tips][]
 
 ## Pacing Guide
 
@@ -57,3 +57,5 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-4-list-practice-ii" target="_blank">
 Lesson 4.4: List Practice II (TEALS Discourse account required).</a>
+
+[Unit 4 Tips]: unit_4_tips.md

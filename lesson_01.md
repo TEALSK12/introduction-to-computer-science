@@ -96,4 +96,4 @@ Lesson 0.1 The First Day (TEALS Discourse account required).</a>
 
 
 
-[Unit 0 Tips]: unit_0_tips.md
+[Unit 0 Tips]:unit_0_tips.md

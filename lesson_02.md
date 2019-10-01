@@ -15,7 +15,7 @@ Needed for this lesson:
 -   Supplies to create a peanut butter & jelly sandwich (ingredients, utensils, plates, napkins, etc.)
 -   Paper/writing implements for each group of students
 -   Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine
--   [Unit 0 Tips][]
+-   [Unit 0 Tips]
 
 ## Pacing Guide
 
@@ -141,4 +141,4 @@ Needed for this lesson:
 Lesson 0.2 Algorithms (TEALS Discourse account required).</a>
 
 
-[Unit 0 Tips]: unit_0_tips.md
+[Unit 0 Tips]:unit_0_tips.md

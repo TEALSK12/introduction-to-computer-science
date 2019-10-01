@@ -16,7 +16,7 @@ Students will be able to...
     -   If you are not able to load SNAP on your classroom computers, you will not be able to proceed with the course.  Test this well ahead of time and make sure your school's IT staff knows what the requirements are and can help achieve them.
 -   Work through both the [LightBot Hour of Code](http://lightbot.com/hour-of-code.html) activity and the [SNAP Hour of Code](https://bjc.edc.org/hourofcode/#1) activity on your own so you are familiar with the activities and can provide assistance as needed
     -   Part 3 of the LightBot activity calls itself "Loops" but is really using recursion (specifically tail-recursion). The exercises are still valuable, but be prepared to potentially discuss, or at least point out, the distinction so students are not confused when they encounter normal loops later.
--   [Unit 0 Tips][]
+-   [Unit 0 Tips]
 
 ## Pacing Guide
 
@@ -91,4 +91,4 @@ Students will be able to...
 Lesson 0.3 Programming Languages (TEALS Discourse account required).</a>
 
 
-[Unit 0 Tips]: unit_0_tips.md
+[Unit 0 Tips]:unit_0_tips.md

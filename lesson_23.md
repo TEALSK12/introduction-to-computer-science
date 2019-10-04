@@ -122,4 +122,4 @@ Lesson 2.3 Inputs and Conditionals (TEALS Discourse account required).</a>
 
 
 
-[Unit 0 Tips]:unit_0_tips.md
+[Unit 2 Tips]:unit_2_tips.md

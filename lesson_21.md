@@ -81,4 +81,4 @@ Lesson 2.1 Loops (TEALS Discourse account required).</a>
 [Geometry Cheat Sheet]: https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif
 
 
-[Unit 0 Tips]:unit_0_tips.md
+[Unit 2 Tips]:unit_2_tips.md

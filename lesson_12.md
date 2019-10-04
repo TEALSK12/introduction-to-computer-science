@@ -16,7 +16,7 @@ Students will be able to...
 -   Helping Trios handout [Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
 -   Read through the handout so that you are familiar with the requirements and can assist students
 -   Index cards with each students name on them. One name per index card.
--   [Unit 1 Tips](unit_1_tips.md)
+-   [Unit 1 Tips]
 
 ## Pacing Guide
 
@@ -71,3 +71,6 @@ At that point you have lots of options:  You can ask a follow-up to the same stu
 
 <a href="http://forums.tealsk12.org/c/unit-1-snap-basics/lesson-1-2-building-blocks" target="_blank">
 Lesson 1.2 Building Blocks (TEALS Discourse account required).</a>
+
+
+[Unit 0 Tips]:unit_0_tips.md

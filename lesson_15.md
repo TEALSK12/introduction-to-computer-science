@@ -87,4 +87,4 @@ Students will be able to...
 Lesson 1.5 Storytelling Project (TEALS Discourse account required).</a>
 
 
-[Unit 0 Tips]:unit_0_tips.md
+[Unit 1 Tips]:unit_1_tips.md

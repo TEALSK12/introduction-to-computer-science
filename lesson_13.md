@@ -60,4 +60,4 @@ Lesson 1.3 Drawing Shapes (TEALS Discourse account required).</a>
 
 
 
-[Unit 0 Tips]:unit_0_tips.md
+[Unit 1 Tips]:unit_1_tips.md

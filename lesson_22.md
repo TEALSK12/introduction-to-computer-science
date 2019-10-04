@@ -91,4 +91,4 @@ Students will be able to...
 Lesson 2.2 Nested Loops (TEALS Discourse account required).</a>
 
 
-[Unit 0 Tips]:unit_0_tips.md
+[Unit 2 Tips]:unit_2_tips.md

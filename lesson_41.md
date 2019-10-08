@@ -54,3 +54,6 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-1-intro-to-lists" target="_blank">
 Lesson 4.1: Intro to Lists (TEALS Discourse account required).</a>
+
+
+[Unit 4 Tips]:unit_4_tips.md

@@ -19,7 +19,7 @@ Software development is a process.  It begins with carefully thinking about, and
 ---
 
 ## Materials/Preparation
-- [Unit 6 Tips](unit_6_tips.md)
+- [Unit 6 Tips]
 - [Final Project Plan Organizer] 
 - [Final Project Development Plan] 
 - [Examples of TEALS Final Projects](https://youtu.be/aV6LFVXxd34)
@@ -92,3 +92,6 @@ Lesson 6.1 - Design Basics (TEALS Discourse account required).</a>
 
 [Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Final%20Project%20Plan%20Organizer.docx?raw=true
 [Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Final%20Project%20Development%20Plan.docx?raw=true
+
+
+[Unit 6 Tips]:unit_6_tips.md

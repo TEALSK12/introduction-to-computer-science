@@ -58,3 +58,6 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-4-customization-ii" target="_blank">
 Lesson 3.4: Customization II (TEALS Discourse account required).</a>
+
+
+[Unit 3 Tips]:unit_3_tips.md

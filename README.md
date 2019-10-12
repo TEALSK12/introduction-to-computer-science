@@ -6,7 +6,15 @@ name to attract students! -->
 
 Welcome to the TEALS Intro CS Curriculum!
 
-Note the change in repository and GitBook locations starting the 2017-18 school year.
+The **Introduction to Computer Science curriculum** is a flexible and approachable course adapted from the [UC Berkeley CS 10](https://cs10.org), and is course for a wide range of high school students from diverse backgrounds. The course has been successfully implemented in hundreds of high schools.
+Introduction to Computer Science is an engaging course that explores a variety of basic computational thinking and programming concepts through a project-based learning environment. Every unit culminates in a comprehensive project
+and roughly 75% of student time is spent building projects and practicing the skills
+they are learning.
+
+#### Visual and approachable
+This course uses Snap!, an approachable visual block-based programming language with a robust tool set, perfect for introducing students to coding for the first time.
+#### Flexible implementations
+The Introduction to CS course can be offered as a semester-long course offered twice in a single school year or as a year-long course with an expanded curriculum. The year-long class transitions to text-based programming using the beginner-friendly Python language in the second semester. Teachers can use the TEALS Second Semester Intro Python curriculum or the [CMU CS Academy](https://academy.cs.cmu.edu).
 
 - GitHub: https://github.com/TEALSK12/introduction-to-computer-science
 - GitBook: https://tealsk12.gitbooks.io/introduction-to-computer-science/content/

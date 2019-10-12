@@ -73,4 +73,5 @@ At that point you have lots of options:  You can ask a follow-up to the same stu
 Lesson 1.2 Building Blocks (TEALS Discourse account required).</a>
 
 
+
 [Unit 1 Tips]:unit_1_tips.md

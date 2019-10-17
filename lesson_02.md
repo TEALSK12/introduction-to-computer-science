@@ -60,6 +60,9 @@ Needed for this lesson:
             -   Combining multiple steps into one instruction (e.g. "spread peanut butter on the bread" without specifically opening the jar, putting peanut butter on the knife, using the knife to spread, etc.)
                 -   Response: Ask for more detail
         -   Most algorithms will fail.  If there is time, repeat the process with one or two other groups.
+        -   Here is an example video of this activity.  
+        [![PBJ Example Video](http://img.youtube.com/vi/cDA3_5982h8/0.jpg)](http://www.youtube.com/watch?v=cDA3_5982h8 "PBJ")
+
     3.  Debugging algorithms
         -   Spend a brief moment explaining that programming is an iterative process, and that errors are expected.  Introduce the concept of "debugging."  Then, have students "debug" their algorithms and attempt to fix all errors and ambiguities.
         -   Changes should be made on paper.  Consider introducing a standard notation for edits (strike-through for deletion, carat (^) for insertion, circle for modify, etc.) to make changes easy to spot.

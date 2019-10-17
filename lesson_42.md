@@ -67,3 +67,7 @@ Students will be able to...
 Lesson 4.2: Static Lists (TEALS Discourse account required).</a>
 
 [Snap! List Components]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/SNAP%20Lists%20Components.docx?raw=true
+
+
+
+[Unit 4 Tips]:unit_4_tips.md

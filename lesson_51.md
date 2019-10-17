@@ -62,3 +62,6 @@ Students will be able to...
 
 <a href="http://forums.tealsk12.org/c/intro-unit-5-cloning/lesson-5-1-intro-to-cloning" target="_blank">
 Lesson 5.1: Intro to Cloning (TEALS Discourse account required).</a>
+
+
+[Unit 5 Tips]:unit_5_tips.md

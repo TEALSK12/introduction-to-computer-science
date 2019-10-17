@@ -72,4 +72,6 @@ At that point you have lots of options:  You can ask a follow-up to the same stu
 <a href="http://forums.tealsk12.org/c/unit-1-snap-basics/lesson-1-2-building-blocks" target="_blank">
 Lesson 1.2 Building Blocks (TEALS Discourse account required).</a>
 
+
+
 [Unit 1 Tips]:unit_1_tips.md

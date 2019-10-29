@@ -137,3 +137,6 @@ Curve 12 Begins;
 (-7, 4);
 Shade In Area;
 Curve Ends
+
+# Example Including Curve #1
+![Coordinate Starter Image](Do_Now_11_Starter.png)

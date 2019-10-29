@@ -1,6 +1,6 @@
 ## Do Now 1.1 Cartesian Coordinate Plane Review
 
-Using the graph graph paper provided, draw the Cartesian Coordinate plane. Include the following,
+Using the graph paper provided, draw the Cartesian Coordinate plane. Include the following,
 * x-axis
 * y-axis
 * Origin

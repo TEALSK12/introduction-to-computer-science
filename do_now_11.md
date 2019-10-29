@@ -138,5 +138,5 @@ Curve 12 Begins;
 Shade In Area;
 Curve Ends
 
-# Example Including Curve #1
+## Example Including Curve 1
 ![Coordinate Starter Image](Do_Now_11_Starter.png)

@@ -11,6 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+-   [Unit 1 Do Now](Do_Now_11.md) ([Link to PDF handout](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Do_Now_11_Coordinate_Review.pdf))
 -   [Unit 1 Tips]
 -   [Lab 1.1 handout](lab_11.md) (Welcome to SNAP!) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
 -   Helping Trios handout Helping Trios handout [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
@@ -22,7 +23,7 @@ Students will be able to...
 | Duration   | Description                                   |
 | ---------- | --------------------------------------------- |
 | _Day 1_    |                                               |
-| 5 minutes  | Welcome, attendance, bell work, announcements |
+| 5 minutes  | Welcome, attendance, Do Now, announcements |
 | 10 minutes | Introductory discussion                       |
 | 10 minutes | Lab walkthrough                               |
 | 20 minutes | "Welcome to SNAP!" Lab activity               |

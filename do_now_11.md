@@ -12,16 +12,16 @@ Using the graph paper provided, draw the Cartesian Coordinate plane. Include the
 ## Connect the dots...
 >Using the Coordinates below connect the points to see what they create. Hint: Have you seen Red?
 
-Line 1 Begins;
+Curve 1 Begins;
 (-5, -3);
 (-4, -5);
 (-3, -7);
 (-3, -6);
 (-2, -4);
 (-1, 0);
-Line Ends
+Curve Ends
 
-Line 2 Begins;
+Curve 2 Begins;
 (-7, 1);
 (-8, 4);
 (-9, 7);
@@ -43,23 +43,23 @@ Line 2 Begins;
 (0, 1);
 (-3, 4);
 (-7, 1);
-Line Ends
+Curve Ends
 
-Line 3 Begins;
+Curve 3 Begins;
 (-5, 0);
 (-4, 0);
 (-2, -1);
 (-4, -1);
 (-5, 0);
-Line Ends
+Curve Ends
 
-Line 4 Begins;
+Curve 4 Begins;
 (5, -3);
 (4, -5);
 (3, -7);
-Line Ends
+Curve Ends
 
-Line 5 Begins;
+Curve 5 Begins;
 (7, 1);
 (8, -3);
 (9, -7);
@@ -74,7 +74,7 @@ Line 5 Begins;
 (-9, -6);
 (-8, -2);
 (-7, 1);
-Line Ends
+Curve Ends
 
 Line 6 Begins;
 (5, 0);
@@ -82,24 +82,24 @@ Line 6 Begins;
 (2, -1);
 (4, 0);
 (5, 0);
-Line Ends
+Curve Ends
 
-Line 7 Begins;
+Curve 7 Begins;
 (1, 0);
 (2, -4);
 (3, -6);
 (3, -7);
 (1, -8);
-Line Ends
+Curve Ends
 
-Line 8 Begins;
+Curve 8 Begins;
 (-4, -1);
 (-4, 0);
 (-3, -1);
 Shade In Area;
-Line Ends
+Curve Ends
 
-Line 9 Begins;
+Curve 9 Begins;
 (-3, -7);
 (-1, -8);
 (1, -8);
@@ -109,9 +109,9 @@ Line 9 Begins;
 (-2, -6);
 (-1, -8);
 Shade In Area;
-Line Ends
+Curve Ends
 
-Line 10 Begins;
+Curve 10 Begins;
 (4, 6);
 (7, 9);
 (7, 5);
@@ -119,16 +119,16 @@ Line 10 Begins;
 (4, 5);
 (4, 6);
 Shade In Area;
-Line Ends
+Curve Ends
 
-Line 11 Begins;
+Curve 11 Begins;
 (4, -1);
 (4, 0);
 (3, -1);
 Shade In Area;
-Line Ends
+Curve Ends
 
-Line 12 Begins;
+Curve 12 Begins;
 (-7, 4);
 (-7, 9);
 (-4, 6);
@@ -136,4 +136,4 @@ Line 12 Begins;
 (-6, 3);
 (-7, 4);
 Shade In Area;
-Line Ends
+Curve Ends

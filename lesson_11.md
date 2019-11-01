@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Unit 1 Do Now](Do_Now_11.md) ([Link to Do Now Handout](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Do_Now_11_Geometry_Review.pdf))
+-   [Unit 1 Do Now](do_now_11.md) ([Link to Do Now Handout](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Do_Now_11_Coordinate_Review.pdf))
 -   [Unit 1 Tips](unit_1_tips.md)
 -   [Lab 1.1 handout](lab_11.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
 -   Helping Trios handout Helping Trios handout [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)

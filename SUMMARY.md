@@ -16,6 +16,7 @@
 * [Unit 1: SNAP Basics](unit_1.md)
     * [Lesson 1.1.1: Welcome to SNAP](lesson_11.md)
       * [Unit 1 Tips](unit_1_tips.md)
+      * [Do Now 1.1: Coordinate Review](do_now_11.md)
       * [Lab 1.1: Welcome to SNAP!](lab_11.md)
     * [Lesson 1.1.2: Welcome to SNAP (Continued lab)](lesson_11.md)
       * [Unit 1 Tips](unit_1_tips.md)

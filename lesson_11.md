@@ -11,8 +11,9 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Unit 1 Tips]
--   [Lab 1.1 handout](lab_11.md) (Welcome to SNAP!) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
+-   [Unit 1 Do Now](Do_Now_11.md) ([Link to Do Now Handout](Unit%201%20PDF/Do_Now_11_Geometry_Review.pdf))
+-   [Unit 1 Tips](unit_1_tips.md)
+-   [Lab 1.1 handout](lab_11.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
 -   Helping Trios handout Helping Trios handout [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
 -   Ensure that all classroom computers can access <http://snap.berkeley.edu/run>.
 -   Read through the lab so that you are familiar with the requirements and can assist students as needed
@@ -22,11 +23,11 @@ Students will be able to...
 | Duration   | Description                                   |
 | ---------- | --------------------------------------------- |
 | _Day 1_    |                                               |
-| 5 minutes  | Welcome, attendance, bell work, announcements |
+| 10 minutes  | Welcome, attendance, Do Now, announcements |
 | 10 minutes | Introductory discussion                       |
 | 10 minutes | Lab walkthrough                               |
 | 20 minutes | "Welcome to SNAP!" Lab activity               |
-| 10 minutes | Demonstrate turn-in procedures and wrap-up    |
+| 5 minutes | Demonstrate turn-in procedures and wrap-up    |
 | _Day 2_    |                                               |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 10 minutes | Review from yesterday                         |
@@ -113,8 +114,3 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 
 <a href="http://forums.tealsk12.org/c/unit-1-snap-basics/lesson-1-1-welcome-to-snap" target="_blank">
 Lesson 1.1 Welcome to SNAP (TEALS Discourse account required).</a>
-
-
-
-
-[Unit 1 Tips]:unit_1_tips.md

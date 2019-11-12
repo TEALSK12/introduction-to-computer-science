@@ -43,6 +43,9 @@ Students will be able to...
         -   Clever students may want to simply store the message in a single variable using the "join" block.  This approach can work if they choose an unambiguous delimiter (space won't work if there are multi-word sections of the message), and is effectively the same as using a list.
     -   Point out that, thus far, they have not seen a way to store an arbitrary number of data values—they have needed a separate variable for each value, which must be created ahead of time.
     -   Briefly introduce the concept of a list as a means of storing multiple values in a single location.  Lists in SNAP have the useful property of not having a static size, so any number of values can be added at any time.
+    -   Video Explanation of Lists
+     
+    [![Video Explanation of Lists](https://img.youtube.com/vi/wO6lG82RbhM/0.jpg)](https://youtu.be/wO6lG82RbhM?t=67)
 
 ## Accommodations/Differentiation
 
@@ -55,5 +58,3 @@ Students will be able to...
 <a href="http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-1-intro-to-lists" target="_blank">
 Lesson 4.1: Intro to Lists (TEALS Discourse account required).</a>
 
-
-[Unit 4 Tips]:unit_4_tips.md

@@ -1,4 +1,6 @@
-## Do Now 1.2 Tracing and Debugging
+# Do Now 1.2 Tracing and Debugging
+
+## In your Notebook
 
 Define the following terms.  You may use the internet.
 

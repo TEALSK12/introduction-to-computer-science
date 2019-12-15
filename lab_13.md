@@ -1,5 +1,4 @@
-<!-- REVISED -->
-# Lab 1.3: Squares and Triangles and Stars, Oh, My!
+# Lab 1.3: Squares and Triangles and Stars
 
 In this lab, you will write your first SNAP programs to draw some simple shapes on the stage.
 
@@ -28,11 +27,11 @@ In this lab, you will write your first SNAP programs to draw some simple shapes 
 
 You may want to draw a diagram similar to the one above of a square to figure out the angles in each shape.
 
-2.2) Add code so that as each shape is being drawn, the sprite is saying the name of shape.  The sprite should stop saying the name of the sprite when it is finished drawing.
+**2.2)** Add code so that as each shape is being drawn, the sprite is saying the name of shape.  The sprite should stop saying the name of the sprite when it is finished drawing.
 
-2.3) Modify your code so that each different shape is drawn in a _different_ color and with a _different line thickness_. So, for example, if the square is drawn in blue with a line thickness of 3, each other shape must be drawn in a color that is not blue and with a line thickness that is not 3.
+**2.3)** Modify your code so that each different shape is drawn in a _different_ color and with a _different line thickness_. So, for example, if the square is drawn in blue with a line thickness of 3, each other shape must be drawn in a color that is not blue and with a line thickness that is not 3.
 
-2.4) Add code so that the sprite is hidden when it is not drawing.  This is will make sure that the sprite is not obstructing the view of your beautiful artwork!
+**2.4)** Add code so that the sprite is hidden when it is not drawing.  This is will make sure that the sprite is not obstructing the view of your beautiful artwork!
 
 ## Grading Scheme/Rubric
 

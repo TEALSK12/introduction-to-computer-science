@@ -1,6 +1,7 @@
 # Intro CS Curriculum Map
 
 ## Unit 0: Beginnings
+
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 0.1: The First Day | Identify the class they are taking. List the high-level goals of the course. Describe classroom procedures, rules, and norms. | N/A |
@@ -8,9 +9,8 @@
 | 0.3: Programming Languages | Complete levels in the game LightBot 2.0. Complete small programs in SNAP with guidance. Explain why computer programs are written in specialized languages. | N/A |
 | 0.4: Snap Self Portrait |  Create a simple "program" in SNAP to describe themselves | Getting to Know You |
 
-
-
 ## Unit 1: SNAP Basics
+
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 1.1.1: Welcome to SNAP    | Define and identify "blocks," "scripts," "sprites," and "the stage" in SNAP. Write simple SNAP programs. Describe what simple SNAP programs do without executing the code.  | Welcome to SNAP! |
@@ -25,8 +25,8 @@
 | 1.9: Project Day 4 | Project Work  | Project 1: Animated Nursery Rhyme |
 | 1.10: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 
-
 ## Unit 2: Loop-de-Loop
+
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 2.1: Loops | Define "loop" in a programming context. Explain why loops are useful. Implement simple repeat and forever loops in SNAP. Utilize loops to reduce redundancy in code. | Squares and Triangles Redux |
@@ -48,6 +48,7 @@
 | 2.16: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 
 ## Unit 3: Variables and Customization
+
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 3.1: Abstraction and Friends | Define abstraction, detail removal, generalization, and procedural decomposition in a computer science context. Describe how utilizing procedural decomposition can improve the readability and maintainability of algorithms and/or code. Recognize opportunities to improve algorithms by abstracting or generalizing parts into subprocedures. | N/A |
@@ -67,6 +68,7 @@
 | 3.15: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 
 ## Unit 4: Lists
+
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 4.1: Intro to Lists | Explain the concept of a "list" in a programming context. Identify scenarios in which lists are useful | [none] |
@@ -89,6 +91,7 @@
 | 4.18: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 
 ## Unit 5: Cloning
+
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 5.1: Intro to Cloning | Explain why prototyping and clones can be useful. Describe how complex goals can be accomplished using cloning. | Connect the Dots |
@@ -110,8 +113,8 @@
 | 5.17: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 | 5.18: Culture Day | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 
-
 ## Unit 6: Final Project
+
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 6.1: Design Basics |  Identify the key considerations when designing a piece of software. Describe methods for prioritizing features, use cases, and/or scenarios. Explain why design and planning are necessary steps in the software engineering process | Final Project |

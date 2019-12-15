@@ -1,4 +1,4 @@
-# Do Now 2.2 Zigzag
+## Do Now 2.2 Zigzag
 
 Follow the link to a [DoNow22](http://snap.berkeley.edu/snapsource/snap.html#present:Username=kenneychan&ProjectName=DoNow22) puzzle.
 

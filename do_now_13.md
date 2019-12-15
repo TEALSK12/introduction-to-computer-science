@@ -1,3 +1,4 @@
+<!--- REVISED -->
 # Do Now 1.3: Drawing a Triangle
 
 ## Setup

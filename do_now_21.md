@@ -1,4 +1,4 @@
-# Do Now 2.1 Intro Loops
+## Do Now 2.1 Intro Loops
 
 Go to this [starter project](http://snap.berkeley.edu/snapsource/snap.html#present:Username=whuangpha&ProjectName=160205%20Do%20Now%20User%20Input), run the code and test it, then answer these questions in a discussion comment below.
 

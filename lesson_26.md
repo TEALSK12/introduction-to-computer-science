@@ -1,4 +1,3 @@
-<!-- REVISED -->
 # Lesson 2.6: Combining Variables  
 
 ## Learning Objectives
@@ -24,7 +23,8 @@ Students will be able to...
 
 ## Instructor's Notes
 
-1.  Review and lecture
+### 1.  Review and lecture
+
     1.  Review loops and conditionals
         -   Ask students what loops do, when they are useful, and what loops exist in SNAP
             -   loops cause code to execute multiple times
@@ -45,10 +45,14 @@ Students will be able to...
         -   Ask students to suggest systems or concepts that might need to be modeled
         -   Discuss important considerations when designing and implementing a model
             -   Lead students to realize that most sacrifice some amount of accuracy or realism for simplicity
-2.  Activity
+            
+### 2.  Activity
+
     -   Students should complete "What Goes Up..." lab individually
         -   Mention that the code written in this lab will be helpful for the Platform Game project
-3.  Debrief
+        
+### 3.  Debrief
+
 
 
 ## Accommodations/Differentiation

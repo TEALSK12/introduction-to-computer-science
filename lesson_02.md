@@ -5,17 +5,17 @@
 
 Students will be able to...
 
--   Define "algorithm"
--   Construct algorithms for performing simple tasks
+* Define **algorithm**
+* Construct algorithms for performing simple tasks
 
 ## Materials/Preparation
 
 Needed for this lesson:
 
--   Supplies to create a peanut butter & jelly sandwich (ingredients, utensils, plates, napkins, etc.)
--   Paper/writing implements for each group of students
--   Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine
--   [Unit 0 Tips]
+* Supplies to create a peanut butter & jelly sandwich (ingredients, utensils, plates, napkins, etc.)
+* Paper/writing implements for each group of students
+* Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine
+* [Unit 0 Tips](unit_0_tips.md)
 
 ## Pacing Guide
 

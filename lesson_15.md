@@ -78,7 +78,7 @@ Students will be able to...
 * Instead of a scene from a play or a nursery rhyme, students can recreate a famous scene from a movie, depict lyrics from their favorite song, or develop their own unique animations.  Feel free to modify the specification for whichever version will appeal most to your students.
 * Advanced students can be encouraged to add detail and/or complexity to their project for possible extra credit.
 * For ELL students or students from other cultures, offer the opportunity to choose an animation subject familiar to them rather than requiring a traditional English nursery rhyme or play.
-* If necessary, a non-English language can be used for this assignment without affecting the learning objectives.  Discuss this option with the student's ELL specialist to determine if it is appropriate.
+* If necessary, a non-English language can be ``used for this assignment without affecting the learning objectives.  Discuss this option with the student's ELL specialist to determine if it is appropriate.
 
 ## Forum discussion
 

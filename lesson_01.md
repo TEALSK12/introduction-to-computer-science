@@ -10,10 +10,10 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* Class list
-* [Optional] Seating chart
-* Bell schedule and classroom location
-* [Unit 0 Tips](unit_0_tips.md)
+* [ ] Class list
+* [ ] [Optional] Seating chart
+* [ ] Bell schedule and classroom location
+* [ ] [Unit 0 Tips](unit_0_tips.md)
 
 ## Pacing Guide
 

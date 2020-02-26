@@ -1,4 +1,3 @@
-<!-- REVISED -->
 # Lab 4.3 - Guess Who
 
 In this lab, you will create a list of names and then look through the list pulling out different subsets of the names.

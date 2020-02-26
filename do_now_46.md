@@ -1,4 +1,4 @@
-## Do Now 4.6 Guess My Animal
+# Do Now 4.6 Guess My Animal
 
 Go to [this](http://www.uptoten.com/kids/kidsgames-mixedbag-animalshangman.html) site to play this word guessing game.
 

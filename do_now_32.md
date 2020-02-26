@@ -1,4 +1,4 @@
-## Do Now 3.2 Drawing Squares
+# Do Now 3.2 Drawing Squares
 
 Go to [this starter project](http://snap.berkeley.edu/snapsource/snap.html#present:Username=whuangpha&ProjectName=drawing%20starter2)
 

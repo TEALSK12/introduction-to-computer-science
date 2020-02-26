@@ -1,4 +1,4 @@
-## Do Now 1.2 Tracing and Debugging
+# Do Now 1.2 Tracing and Debugging
 
 Define the following terms.  You may use the internet.
 

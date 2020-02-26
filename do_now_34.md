@@ -1,4 +1,4 @@
-## Do Now 3.4 Practice using Arguments
+# Do Now 3.4 Practice using Arguments
 
 Yesterday you created a "gravity" custom block where a sprite would fall to the ground and stop when it touched a color.
 

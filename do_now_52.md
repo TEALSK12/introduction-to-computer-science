@@ -1,4 +1,4 @@
-## Do Now 5.2 Star Wars Troopers 
+# Do Now 5.2 Star Wars Troopers
 
 1. In Star Wars, what are "clone troopers"? Do an internet search to find out and write a sentence to answer the question.
 

@@ -1,13 +1,15 @@
 # Lab 5.3 - Fewer Balls
+
 In this lab, you will build on what you created in lab 5.2 to enable better management of the number of sprites in the program.
 
 ## Part 1 - Getting Out of Hand
-1. Open up your SNAP program from [Lab 5.2](lab_52.md). Modify your program so that, when the 'd' key is pressed, all bouncing sprites are deleted. DO NOT delete the prototype-- you should be able to create new bouncing sprites .  DO NOT delete the prototype-- you should be able to create new bouncing sprites after you have removed the old clones.  Use the ![](deleteThisClone.png) block and a message.
+
+1. Open up your SNAP program from [Lab 5.2](lab_52.md). Modify your program so that, when the 'd' key is pressed, all bouncing sprites are deleted. DO NOT delete the prototype-- you should be able to create new bouncing sprites .  DO NOT delete the prototype-- you should be able to create new bouncing sprites after you have removed the old clones.  Use the ![delete this clone block](deleteThisClone.png) block and a message.
 
 2. What if you wanted to remove only a few clones?  Or only specific clones?  What would be needed in order to accomplish that?
 
-
 ## Part 2 - Better Control
+
 1. Add a **global** variable to your program called `g_nextID` and give it a value of 1 when the green flag is clicked.
 
 2. In your master bouncing sprite, create a **sprite** variable called `s_ID`.  Modify your program so that each time a new clone is created, the clone's `s_ID` variable gets the value currently in `g_nextID` and `g_nextID` is incremented by 1.

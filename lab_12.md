@@ -1,4 +1,3 @@
-<!-- REVISED -->
 # Lab 1.2: Snap! Scavenger Hunt
 
 In this lab, you will explore the functionality of some common blocks and where they are located in the palette.
@@ -22,8 +21,7 @@ In this lab, you will explore the functionality of some common blocks and where 
 | ![rest for beats](restforbeats.png)         |          |
 | ![point towards](pointtowards.png)          |.         |
 
-
-## 2. What does it do?
+## 2. What does it do
 
 **2.1) Describe the function of each block in the chart below. If the block accepts arguments (contains values that you can change), be sure to test out a few different ones to make sure you fully understand what those values mean. The first one is already filled in for example.**
 
@@ -41,8 +39,6 @@ In this lab, you will explore the functionality of some common blocks and where 
 | ![set size](setsize.png)                                                                            |                                                                                                                                                                                                                  |
 | ![rest for beats](restforbeats.png)                                                                 |                                                                                                                                                                                                                  |
 | ![point towards](pointtowards.png)                                                                  |.                                                                                                                                                                                                                |
-
-
 
 **2.2) At this point, you may be noticing some patterns. Use what you've learned from exploring these blocks to answer the questions below about each block category.**
 
@@ -66,15 +62,14 @@ d. What do the blocks in the **Pen** category do?
 
 You are now going to use some of the blocks you've explored to create, save, and submit a Snap! program.
 
-1.  Create a script that plays 4 different notes with at least 2 rests in between.
-2.  Use the repeat block to play your song on loop
-3.  Create a script that initializes the sprite at position (-20, 10). Then, have the sprite draw a shape that has at least 2 different colors and 2 different line thicknesses. An example would be a square that has 2 thin red sides, and 2 thick blue sides.
-4.  BONUS: Create a SNAP script that draws a picture of your choice (such as draw a picture that represents your favorite music, food or hobby).  Use at least four of the blocks from parts 1 and 2.  Be creative!
-5.  When you've completed all of the scripts above, save your file, share it, and then copy the unique URL below. Be sure to share and publish your file before pasting the URL.
+1. Create a script that plays 4 different notes with at least 2 rests in between.
+2. Use the repeat block to play your song on loop
+3. Create a script that initializes the sprite at position (-20, 10). Then, have the sprite draw a shape that has at least 2 different colors and 2 different line thicknesses. An example would be a square that has 2 thin red sides, and 2 thick blue sides.
+4. BONUS: Create a SNAP script that draws a picture of your choice (such as draw a picture that represents your favorite music, food or hobby).  Use at least four of the blocks from parts 1 and 2.  Be creative!
+5. When you've completed all of the scripts above, save your file, share it, and then copy the unique URL below. Be sure to share and publish your file before pasting the URL.
 
 File URL:
 
-* * *
 ## Grading Scheme/Rubric
 
 | **Lab 1.2 Criteria**                                          |                |

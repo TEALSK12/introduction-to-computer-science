@@ -20,7 +20,7 @@ This course uses Snap!, an approachable visual block-based programming language 
 
 ## Introduction to Computer Science Implementation Options
 
-The Introduction to CS course can be offered as a semester-long course offered twice in a single school year or as a year-long course with an expanded curriculum. The year-long class transitions to text-based programming using the beginner-friendly Python language in the second semester. Teachers participating in the TEALS PRogram can use the following options:
+The Introduction to CS course can be offered as a semester-long course offered twice in a single school year or as a year-long course with an expanded curriculum. The year-long class transitions to text-based programming using the beginner-friendly Python language in the second semester. Teachers participating in the TEALS Program can use the following options:
 
 - [TEALS Second Semester Introduction to Computer Science - Python curriculum](https://tealsk12.gitbook.io/intro-cs-2/)
 - [Carnegie Mellon CS Academy](https://academy.cs.cmu.edu).

@@ -1,6 +1,7 @@
-## Do Now 1.1 Cartesian Coordinate Plane Review
+# Do Now 1.1 Cartesian Coordinate Plane Review
 
 Using the graph paper provided, draw the Cartesian Coordinate plane. Include the following,
+
 * x-axis
 * y-axis
 * Origin
@@ -9,7 +10,8 @@ Using the graph paper provided, draw the Cartesian Coordinate plane. Include the
 * x - Maximum = 15
 * y - Maximum = 15
 
-## Connect the dots...
+## Connect the dots
+
 >Using the Coordinates below connect the points to see what they create. Hint: Have you seen Red?
 
 Curve 1 Begins;
@@ -139,4 +141,5 @@ Shade In Area;
 Curve Ends
 
 ## Example Including Curve 1
+
 ![Coordinate Starter Image](Do_Now_11_Starter.png)

@@ -5,10 +5,10 @@ robocopy /mir .\ .\docs
 cd .\docs
 
 @REM -- Remove unnecessary files that are copied
-del "C:\Users\v-anspi\Documents\GitHub\2nd-semester-introduction-to-computer-science\docs\md-to-markdeep.cmd"
-del "C:\Users\v-anspi\Documents\GitHub\2nd-semester-introduction-to-computer-science\docs\markdeep-footer.txt"
-del "C:\Users\v-anspi\Documents\GitHub\2nd-semester-introduction-to-computer-science\docs\markdeep-header.txt"
-rmdir /Q /S nonemptydir "C:\Users\v-anspi\Documents\GitHub\2nd-semester-introduction-to-computer-science\docs\docs\
+del "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\md-to-markdeep.cmd"
+del "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\markdeep-footer.txt"
+del "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\markdeep-header.txt"
+rmdir /Q /S nonemptydir "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\docs\
 
 set sed="C:\Program Files\Git\usr\bin\sed.exe"
 set chrome="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"

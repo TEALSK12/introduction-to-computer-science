@@ -24,7 +24,7 @@ Students will be able to...
 | ---------- | --------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 5 minutes  | Introductory discussion                       |
-| 35 minutes | Lightbot/SNAP activities                      |
+| 35 minutes | Lightbot - SNAP activities                      |
 | 10 minutes | Debrief and wrap-up                           |
 
 ## Instructor's Notes

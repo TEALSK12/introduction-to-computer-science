@@ -1,7 +1,0 @@
-/* CSS for website */
-.summary .chapter a b{
-    display: none;
-}
-.summary > .chapter > a{
-    font-weight: bold !important;
-}

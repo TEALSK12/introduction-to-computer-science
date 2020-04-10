@@ -4,11 +4,6 @@ echo %time%
 robocopy /mir .\ .\docs
 cd .\docs
 
-@REM -- Remove unnecessary files that are copied
-del "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\md-to-markdeep.cmd"
-del "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\markdeep-footer.txt"
-del "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\markdeep-header.txt"
-rmdir /Q /S nonemptydir "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\docs\
 
 set sed="C:\Program Files\Git\usr\bin\sed.exe"
 set chrome="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
@@ -51,6 +46,11 @@ for %%f in (*.md) do (
     @REM -- pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "%%f" -o "%%~nf.pdf"
     
 )
+@REM -- Remove unnecessary files that are copied
+del "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\md-to-markdeep.cmd"
+del "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\markdeep-footer.txt"
+del "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\markdeep-header.txt"
+rmdir /Q /S nonemptydir "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\docs\
 
 rename curriculum_map.md.html index.html
 @REM pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "summary.md" -o "summary.pdf"

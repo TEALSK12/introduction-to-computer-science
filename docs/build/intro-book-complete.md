@@ -1371,7 +1371,7 @@ Back to the scripting area, if you click on the ![move 10 steps block](move.png)
 Now that you have figured out how to make a sprite move, you might be wondering how to make the sprite do other things as well.
 To make a sprite do more than just move, we need to use different types of blocks and link them together. You can link blocks by Snapping (hence the name SNAP) them together -- drag a block right underneath the one to which you want to attach it. Blocks will SNAP together when one block's indentation is near the tab of the one above it. You should see a white bar appear like the one in the image below, which just shows you where the block will go after you drop it.
 
-![Two blocks about to SNAP together](twoblocksabouttosnaptogether.png)
+![Two blocks about to SNAP together](../twoblocksabouttosnaptogether.png)
 
 If you keep attaching blocks together in this way, you will create a script. A SNAP program consists of one or more of these scripts.
 

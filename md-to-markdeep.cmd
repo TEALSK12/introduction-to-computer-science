@@ -6,6 +6,7 @@ cd .\docs
 
 
 set sed="C:\Program Files\Git\usr\bin\sed.exe"
+set wkhtmltopdf="C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe"
 set chrome="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
 
 
@@ -23,10 +24,11 @@ for %%f in (*.md) do (
     type >%%f.html markdeep-header.txt
     %sed% >>%%f.html "s/\.md/.md.html/g" %%f
     type >>%%f.html markdeep-footer.txt
-    @REM -- Create .pdf version of markdown files
+        
     @REM -- pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "%%f" -o ".\pdf\%%~nf.pdf"    
    
 )
+    
 
 @REM -- Convert files at the Units of the repo.
 @REM --for /r . %%f in (*.md) do (

@@ -15,9 +15,9 @@ Students will be able to...
 
 ## Materials/Preparation
 
-- [ ] [Unit 3 Tips](unit_3_tips.md)
-- [ ] Student algorithms from lesson 0.2
-- [ ] Paper/writing implements for each group of students
+- [Unit 3 Tips](unit_3_tips.md)
+- Student algorithms from lesson 0.2
+- Paper/writing implements for each group of students
 
 ## Pacing Guide
 

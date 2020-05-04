@@ -11,9 +11,9 @@ Students will be able to...
 
 ## Materials/Preparation
 
-- [ ] [Do Now 2.5: Variables Practice](do_now_25.md)
-- [ ] [Lab 2.5 handout (Triangles of All Kinds)](lab_25.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.5%20Triangles%20of%20All%20Kinds.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.5%20Triangles%20of%20All%20Kinds.pdf))
-- [ ] [Unit 2 Tips](unit_1_tips.md)
+- [Do Now 2.5: Variables Practice](do_now_25.md)
+- [Lab 2.5 handout (Triangles of All Kinds)](lab_25.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.5%20Triangles%20of%20All%20Kinds.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.5%20Triangles%20of%20All%20Kinds.pdf))
+- [Unit 2 Tips](unit_1_tips.md)
 
 ## Pacing Guide
 

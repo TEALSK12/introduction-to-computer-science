@@ -11,10 +11,10 @@ Students will be able to...
 
 ## Materials/Preparation
 
-- [ ] [Do Now 5.2: Star Wars Troopers](do_now_52.md)
-- [ ] [Lab 5.2 handout](lab_52.md) (Lots of Balls) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.2%20Lots%20of%20Balls.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.2%20Lots%20of%20Balls.pdf))
-- [ ] Test out the lab on student machines before class (cloning in SNAP! can bring the web browser to a crawl on some machines)
-- [ ] [Unit 5 Tips](unit_5_tips.md)
+- [Do Now 5.2: Star Wars Troopers](do_now_52.md)
+- [Lab 5.2 handout](lab_52.md) (Lots of Balls) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.2%20Lots%20of%20Balls.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.2%20Lots%20of%20Balls.pdf))
+- Test out the lab on student machines before class (cloning in SNAP! can bring the web browser to a crawl on some machines)
+- [Unit 5 Tips](unit_5_tips.md)
 
 ## Pacing Guide
 

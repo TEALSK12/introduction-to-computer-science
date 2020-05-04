@@ -9,12 +9,12 @@ Students will be able to...
 
 ## Materials/Preparation
 
-- [ ] [Do Now 2.7: Bouncing Ball](do_now_27.md)  
-- [ ]  Reference to the Pong project: [Pong](project_2.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%202%20Pong.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%202%20Pong.pdf))
-- [ ] Pong planning worksheet: ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project_2_Pong_Planning_Worksheet.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project_2_Pong_Planning_Worksheet.pdf))
-- [ ] [Optional] Printouts of the specification
-- [ ] Link to an online version of Pong for demonstration: <http://www.ponggame.org/>
-- [ ] [Unit 2 Tips](unit_2_tips.md)
+- [Do Now 2.7: Bouncing Ball](do_now_27.md)  
+- Reference to the Pong project: [Pong](project_2.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%202%20Pong.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%202%20Pong.pdf))
+- Pong planning worksheet: ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project_2_Pong_Planning_Worksheet.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project_2_Pong_Planning_Worksheet.pdf))
+- [Optional] Printouts of the specification
+- Link to an online version of Pong for demonstration: <http://www.ponggame.org/>
+- [Unit 2 Tips](unit_2_tips.md)
 
 ## Pacing Guide
 

@@ -9,17 +9,17 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [ ] [Do Now 1.5: Day 1, Knock Knock](do_now_15.md)  
-* [ ] [Do Now 1.52: Day 2, Click Event Interaction](do_now_152.md)  
-* [ ] [Do Now 1.53: Day 3, Movement Interaction](do_now_153.md)  
-* [ ] Reference to Storytelling project: [Project 1 - Storytelling](project_1.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%201%20Storytelling.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%201%20Storytelling.pdf))
-* [ ] A list of possible plays to find a scene to animate: [Most popular Plays and Musicals](http://www.npr.org/sections/ed/2015/07/30/427138970/the-most-popular-high-school-plays-and-musicals)
-* [ ] A list of possible nursery rhymes
+* [Do Now 1.5: Day 1, Knock Knock](do_now_15.md)  
+* [Do Now 1.52: Day 2, Click Event Interaction](do_now_152.md)  
+* [Do Now 1.53: Day 3, Movement Interaction](do_now_153.md)  
+* Reference to Storytelling project: [Project 1 - Storytelling](project_1.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%201%20Storytelling.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%201%20Storytelling.pdf))
+* A list of possible plays to find a scene to animate: [Most popular Plays and Musicals](http://www.npr.org/sections/ed/2015/07/30/427138970/the-most-popular-high-school-plays-and-musicals)
+* A list of possible nursery rhymes
   * Wikipedia has a fairly comprehensive list: <https://en.wikipedia.org/wiki/List_of_nursery_rhymes>
   * A few suggested subjects for students who struggle to come up with their own
   * Pick a few simple, well-known options from your list
-* [ ] Planning Worksheet ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx))
-* [ ] [Unit 1 Tips](unit_1_tips.md)
+* Planning Worksheet ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx))
+* [Unit 1 Tips](unit_1_tips.md)
 
 ## Pacing Guide
 

@@ -11,15 +11,15 @@ Students will be able to...
 
 Needed for this lesson:
 
-* [ ] Supplies to create a peanut butter & jelly sandwich (ingredients, utensils, plates, napkins, etc.)
-* [ ] Paper/writing implements for each group of students
-* [ ] Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine
-* [ ] [Unit 0 Tips](unit_0_tips.md)
+* Supplies to create a peanut butter & jelly sandwich (ingredients, utensils, plates, napkins, etc.)
+* Paper/writing implements for each group of students
+* Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine
+* [Unit 0 Tips](unit_0_tips.md)
 
 ## Pacing Guide
 
 | Duration   | Description                                   |
-| ---------* | --------------------------------------------* |
+| --------- | -------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 10 minutes | Introductory discussion; present activity     |
 | 10 minutes | Students write first algorithms               |

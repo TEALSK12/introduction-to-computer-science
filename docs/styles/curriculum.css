@@ -87,13 +87,12 @@ body#md {
     top: -14px;
     left:-200px;
     right: 0px;
-    font-weight: 900;
+    font-weight: 400;
     padding-left: 10px;
     padding-top: 20px;
     padding-bottom: 20px;
     text-shadow: 0px 0px 3px #008575;
     background-color: #008575;
-    background-image: url('https://github.com/TEALSK12/introduction-to-computer-science/raw/master/styles/TEALS.png');
     background-repeat: no-repeat;
     background-position: top right;
     background-size: contain;

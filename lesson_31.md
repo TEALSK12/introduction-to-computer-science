@@ -12,8 +12,8 @@ Students will be able to...
 - Build custom command blocks in SNAP
 
 ## Materials/Preparation
-- [Do Now 3.1: Guided Tour](do_now_31.md)
-- [ ]  Lab 3.1 handout - [Drawing Shapes Again](lab_31.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.2%20Drawing%20Shapes%20Again.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.2%20Drawing%20Shapes%20Again.pdf))
+- [ ] [Do Now 3.1: Guided Tour](do_now_31.md)
+- [ ] Lab 3.1 handout - [Drawing Shapes Again](lab_31.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.1%20Drawing%20Shapes%20Again.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%10PDF/Lab%203.2%20Drawing%20Shapes%20Again.pdf))
 - [ ] [Unit 3 Tips](unit_3_tips.md)
 
 ## Pacing Guide
@@ -21,7 +21,7 @@ Students will be able to...
 | Duration   | Description                                     |
 | ---------- | ----------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements   |
-| 15 minutes | Introduce terminology, introduce first activity |                            |
+| 15 minutes | Introduce terminology, demo, introduce activity |                            |
 | 20 minutes | Draw Shapes (Again) activity                    |
 | 10 minutes | Debrief and wrap-up         |
 
@@ -31,9 +31,9 @@ Students will be able to...
 
 - Define and discuss the following terms:
   - **abstraction:** removing the specifics that are not relevant in a given context
-  - e.g. being able to drive a car without understanding how an internal combustion engine works
+    - e.g. being able to drive a car without understanding how an internal combustion engine works
   - **generalization:** combining a group of related concepts or processes into a single category
-  - e.g. spreading any condiment or ingredient onto a slice of bread (butter, jam, peanut butter, mayo, etc.)
+    - e.g. spreading any condiment or ingredient onto a slice of bread (butter, jam, peanut butter, mayo, etc.)
 - Demonstrate constructing a custom command block
 
 ### 2. Lab 3.1: Drawing Shapes (Again)

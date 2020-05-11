@@ -30,7 +30,7 @@ In this lab, you will write code to draw regular polygons.  But this time, you w
 
 ## Grading Scheme/Rubric
 
-| **Lab 3.2 Criteria**                              |                |
+| **Lab 3.1 Criteria**                              |                |
 | ------------------------------------------------- | -------------- |
 | 1 Custom block draws square                       | 0.25 points    |
 | 2 Use variable for number of sides                | 0.5 points     |

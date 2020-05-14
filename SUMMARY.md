@@ -68,7 +68,7 @@
     * [Project 2 Alternative: Pong](project_2_alternative.md)
 * [Unit 3: Customization](unit_3.md)
   * [Lesson 3.1: Combining Loops and Conditionals](lesson_31.md)
-  * [Unit 3 Tips](unit_3_tips.md)
+    * [Unit 3 Tips](unit_3_tips.md)
     * [Do Now 3.1: Boolean Practice](do_now_3.1.md)
     * [Lab 3.1: What Goes Up...](lab_26.md)
   * [Lesson 3.2: Abstraction and Generalization](lesson_32.md)

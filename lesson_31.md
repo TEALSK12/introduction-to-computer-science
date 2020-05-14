@@ -8,8 +8,8 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Do Now 2.6: Boolean Practice](do_now_31.md)
-* [Lab 2.6 handout (What Goes Up...)](lab_31.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.1%20What%20Goes%20Up.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.1%20What%20Goes%20Up.pdf))
+* [Do Now 3.1: Boolean Practice](do_now_31.md)
+* [Lab 3.1 handout (What Goes Up...)](lab_31.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.1%20What%20Goes%20Up.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.1%20What%20Goes%20Up.pdf))
 * [Unit 3 Tips](unit_3_tips.md)
 
 ## Pacing Guide
@@ -67,5 +67,5 @@ Students will be able to...
 
 ## Forum discussion
 
-[Lesson 3.1 Combining Loops and Conditionals](http://forums.tealsk12.org/c/intro-unit-2-loops/lesson-3-1-combining-loops-and-conditionals)
+[Lesson 3.1 Combining Loops and Conditionals](https://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-1-combining-loops-and-conditionals/142)
  (TEALS Discourse account required).

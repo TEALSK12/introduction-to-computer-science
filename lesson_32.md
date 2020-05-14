@@ -65,4 +65,4 @@ Students will be able to...
 
 ## Forum discussion
 
-[Lesson 3.2: Procedures](http://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-2-abstraction-and-generalization) (TEALS Discourse account required).</a>
+[Lesson 3.2: Procedures](https://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-2-abstraction-and-generalization/143) (TEALS Discourse account required)

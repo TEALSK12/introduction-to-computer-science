@@ -34,7 +34,6 @@
 | [2.3: Inputs and Conditionals](lesson_23.md) | Ask for and receive user input in a SNAP program. Use simple conditional (if and if-else) blocks to alter control flow in a SNAP program. | What Shape Is That? | |
 | [2.4: Variables](lesson_24.md) | Use variables to track values throughout a program. | Guessing Game | |
 | [2.5: Boole in the House](lesson_25.md) | Define and identify Boolean expressions and operators. Evaluate Boolean expressions. Utilize Boolean operators (and/or/not) to create compound conditions. | Triangle of All Kinds | |
-| [2.6: Combining Loops and Conditionals](lesson_26.md) | Combine loops with conditionals to create models with repeated but conditional behavior. | What Goes Up... | |
 | [2.7: Pong Project](lesson_27.md) | Implement a well-written version of Pong. Practice good style and conventions to create readable and maintainable code. | Project 2: Pong | |
 | [2.7: Project Day 1](lesson_27.md) | Project Work  | Project 2: Pong | |
 | [2.8: Project Day 2](lesson_27.md) | Project Work  | Project 2: Pong | |
@@ -51,8 +50,8 @@
 
 | Lesson | Objectives | Lab | Slide Decks |
 | ------ | ---------- | --- | --- |
-| [3.1: Abstraction and Friends](lesson_31.md) | Define abstraction, detail removal, generalization, and procedural decomposition in a computer science context. Describe how utilizing procedural decomposition can improve the readability and maintainability of algorithms and/or code. Recognize opportunities to improve algorithms by abstracting or generalizing parts into sub procedures. | N/A | |
-| [3.2: Procedures](lesson_32.md) | Build custom command blocks in Snap. Utilize detail removal and generalization to construct blocks that practice abstraction. | Drawing Shapes (Again) | |
+| [2.6: Combining Loops and Conditionals](lesson_31.md) | Combine loops with conditionals to create models with repeated but conditional behavior. | What Goes Up... | |
+| [3.2: Abstraction and Generalization](lesson_32.md) | Build custom command blocks in Snap. Utilize detail removal and generalization to construct blocks that practice abstraction. | Drawing Shapes (Again) | |
 | [3.3: Customizing I: Arguments](lesson_33.md) | Build custom SNAP blocks that take arguments. | Let Me Check My Calendar | |
 | [3.4: Customizing II: Reporters and Predicates](lesson_34.md) | Build custom reporter and predicate blocks in SNAP. | If My Calculations Are Correct... | |
 | [3.5: Platform Game Project](lesson_35.md) | Use loops, variables, and Boolean expressions to implement a Super Mario Bros. style platform game. Practice good debugging skills to correct issues as they arise while programming. | Project 3: Platform Game | |

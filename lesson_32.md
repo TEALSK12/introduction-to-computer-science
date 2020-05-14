@@ -1,5 +1,5 @@
 <!-- REVISED -->
-# Lesson 3.2: Procedures
+# Lesson 3.2: Abstraction and Generalization
 
 ## Student Objectives
 
@@ -30,7 +30,7 @@ Students will be able to...
 - Review with students the concepts of abstraction, generalization, and detail removal
 - Provide an example of a poorly written algorithm that doesn't demonstrate the concepts of abstraction, generalization, and detail removal and a well written algorithm that does demonstrate them.  
 - Ask students to point out the differences and ask what concepts they demonstrate that were previously learned
-- Ask students to provide definitions of abstraction, generaralization, and detail removal refering to the sample algorithm provided
+- Ask students to provide definitions of abstraction, generalization, and detail removal referring to the sample algorithm provided
 - Discuss when abstraction can be used to help simplify code
 - Guide students to realization that much code is used in many similar circumstances and shouldn’t be rewritten
 - Emphasize potential for errors when changes are made in addition to inconvenience when code is redundant
@@ -65,4 +65,4 @@ Students will be able to...
 
 ## Forum discussion
 
-[Lesson 3.2: Procedures](http://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-2-procedures) (TEALS Discourse account required).</a>
+[Lesson 3.2: Procedures](http://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-2-abstraction-and-generalization) (TEALS Discourse account required).</a>

@@ -1,7 +1,9 @@
-# Do Now 3.1 Guided Tour
+# Do Now 2.6 Boolean Practice
 
-Can you plan a route, starting at the hotel, so that tourists can visit every tourist attraction just once and be back to the hotel?
+Open the following [Startercode](http://snap.berkeley.edu/snapsource/snap.html#present:Username=lordmcfuzz&ProjectName=SonicMultiscreen)
 
-![Guided Tour Map](do_now_31_GuidedTour.png)
+There are three rooms: Start, Checkpoint and End.
 
-Credit: Queen Mary University of London
+Sonic should be able to move to each room by moving left and right. Start <--> Checkpoint <--> End
+
+Find the errors and complete the code!

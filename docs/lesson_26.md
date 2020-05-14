@@ -8,9 +8,9 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [ ] [Do Now 2.6: Boolean Practice](do_now_26.md)
-* [ ] [Lab 2.6 handout (What Goes Up...)](lab_26.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.6%20What%20Goes%20Up.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.6%20What%20Goes%20Up.pdf))
-* [ ] [Unit 2 Tips](unit_2_tips.md)
+* [Do Now 2.6: Boolean Practice](do_now_26.md)
+* [Lab 2.6 handout (What Goes Up...)](lab_26.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.6%20What%20Goes%20Up.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.6%20What%20Goes%20Up.pdf))
+* [Unit 2 Tips](unit_2_tips.md)
 
 ## Pacing Guide
 

@@ -9,11 +9,9 @@ Students will be able to...
 
 ## Materials/Preparation
 
-- [ ] [Unit 4 Tips](unit_4_tips.md)
-- [ ] Paper/writing implements for each group of students
-- [ ] Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine
-- [ ] Video Explanation of Lists
-[![Video Explanation of Lists](https://img.youtube.com/vi/wO6lG82RbhM/0.jpg)](https://youtu.be/wO6lG82RbhM?t=67)
+- [Unit 4 Tips](unit_4_tips.md)
+- Paper/writing implements for each group of students
+- Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine
 
 ## Pacing Guide
 

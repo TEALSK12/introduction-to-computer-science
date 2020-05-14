@@ -93,7 +93,6 @@ body#md {
     padding-bottom: 20px;
     text-shadow: 0px 0px 3px #008575;
     background-color: #008575;
-    background-image: url('https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/styles/MSlogo.png');
     background-repeat: no-repeat;
     background-position: top right;
     background-size: contain;
@@ -104,4 +103,9 @@ body#md {
 
 .md div.afterTitles {
     height: 90px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }

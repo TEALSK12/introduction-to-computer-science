@@ -1,31 +1,42 @@
-# Lab 2.6 - What Goes Up
+# Lab 3.1 - Drawing Shapes (Again)
 
-In this lab, you will use everything you've learned about loops and conditionals to construct a simple model for gravity.
+In this lab, you will write code to draw regular polygons.  But this time, you will write custom blocks and abstraction to write more efficient code.
 
-## Before You Start
+## Simple Shapes
 
-Go to the starter project at [https://aka.ms/intro-lab2-6](https://aka.ms/intro-lab2-6). Log into SNAP and save your own copy of the project by choosing “Save as” from the file menu. Be sure to click the “Share” button in the Save dialog box. Highlight the URL in the address bar and copy it.
+1. Write a SNAP script (or find one you've already written) to draw a square.
 
-## Channeling Newton
+2. Write a SNAP script (or find one you've already written) to draw an equilateral triangle.
 
-Write a script for the Dino sprite so that:
+3. Write a SNAP script (or find one you've already written) to draw a regular pentagon.
 
-1. (1 point) When the green flag is clicked.
-2. (1 point) Dino goes to the top of the stage.
-3. (2 points) Dino falls towards the bottom of the stage in a forever loop.
-4. (3 points) But when Dino hits the ground (in other words, if Dino is touching the ground), it should stop falling.  You can use the fact that the ground is all the same color green, along with the “touching color” block.  You can change the color by clicking on the color, then clicking on anything that has the desired color.
+4. Write a SNAP script (or find one you've already written) to draw a regular octagon.
 
-## ...Must Come Down
+5. Look over the four programs from above.  Do you notice sections that are very similar?  What sections might be able to be abstracted into a separate block?
 
-1. (2 points) Modify your code so that when the green flag is clicked, Dino will not only move to the top of the stage, it will move to a random x-coordinate on the stage (between -240 and 240).  Use the “pick random” block:
-2. (2 points) Modify your code so that the Dino sprite not only stops falling when it touches the ground, but it also stops falling if it is touching the Platform sprite.  In other words, it should always fall unless it is touching the ground OR it is touching the Platform sprite.  
+## If You've Seen One
 
-## Jump Up
+1. Take your script from above that draws a square and turn it into a custom block.
 
-1. (2 points) Modify your code so that when the spacebar is pressed, Dino will jump up.  Have Dino jump by using a repeat loop with a block in it that will move Dino up.  Dino will have to move up faster than you think since it will be fighting the forever loop that causes it to always go down.
+2. Modify your custom block to use a variable for the number of sides instead of the number 4.  Set that variable's value to be 4 so that you still draw a square.
 
-## Challenge
+3. Now, see if you can modify your block so that it will work correctly for any number of sides greater than 2.  Look closely at the angles in your four scripts section 1 and see if you can spot a pattern.
 
-1. (2 points) Dino jumps any time the spacebar is pressed, even if it is in midair.  How do you make it so Dino can only jump while on the ground or the platform?
-2. (2 points) Can you add code so Dino will move right and left with the arrow keys?
-3. (5 points) In reality, gravity pulls down with constant acceleration, not constant speed.  How can you change your code to model gravity as a constant acceleration instead of a constant speed?  
+4. Use your custom block in a program that asks the user for a number and then draws a regular polygon with that many sides.  If the number given is less than 3, give an error message and do not draw anything.
+
+## Bonus: Sizing Things Up
+
+1. Modify your custom block and program from the previous section so that the user can specify both the number of sides and the size of each side.  Be sure to utilize generalization and detail removal to make your program and block as clear and concise as possible.
+
+## Grading Scheme/Rubric
+
+| **Lab 3.1 Criteria**                              |                |
+| ------------------------------------------------- | -------------- |
+| 1 Custom block draws square                       | 0.25 points    |
+| 2 Use variable for number of sides                | 0.5 points     |
+| 3 Works for all sides > 2                         | 0.5 points     |
+| 4a Program asks for sides, calls block            | 0.5 points     |
+| 4b Program handles input <= 2                     | 0.5 points     |
+| Bonus Program and block handle size of sides      | 0.5 points     |
+| Code clear and concise                            | 0.25 points    |
+| **PROJECT TOTAL**                                 | **3.0 points** |

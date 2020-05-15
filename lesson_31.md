@@ -1,4 +1,4 @@
-<!-- REVISED -->
+
 # Lesson 3.1: Abstraction and Generalization
 
 ## Student Objectives
@@ -12,10 +12,10 @@ Students will be able to...
 - Build custom command blocks in SNAP
 
 ## Materials/Preparation
-- [ ] [Do Now 3.1: Guided Tour](do_now_31.md)
-- [ ] Lab 3.1 handout - [Drawing Shapes Again](lab_31.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.1%20Drawing%20Shapes%20Again.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%10PDF/Lab%203.2%20Drawing%20Shapes%20Again.pdf))
-- [ ] [Unit 3 Tips](unit_3_tips.md)
 
+- [Do Now 3.1: Guided Tour](do_now_31.md)
+- Lab 3.1 handout - [Drawing Shapes Again](lab_31.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.1%20Drawing%20Shapes%20Again.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%10PDF/Lab%203.2%20Drawing%20Shapes%20Again.pdf))
+- [Unit 3 Tips](unit_3_tips.md)
 
 ## Pacing Guide
 

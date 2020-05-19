@@ -1,4 +1,4 @@
-# Do Now 2.6 Boolean Practice
+# Do Now 3.2 Boolean Practice
 
 Open the following [Startercode](http://snap.berkeley.edu/snapsource/snap.html#present:Username=lordmcfuzz&ProjectName=SonicMultiscreen)
 

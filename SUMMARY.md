@@ -67,7 +67,7 @@
     * [Project 2: Pong](project_2.md)
     * [Project 2 Alternative: Pong](project_2_alternative.md)
 * [Unit 3: Customization](unit_3.md)
-  * [Lesson 3.1: Abstraction and Friends](lesson_31.md)
+  * [Lesson 3.1: Abstraction and Generalization](lesson_31.md)
     * [Unit 3 Tips](unit_3_tips.md)
   * [Lesson 3.2: Combining Loops and Conditionals](lesson_32.md)
     * [Unit 3 Tips](unit_3_tips.md)

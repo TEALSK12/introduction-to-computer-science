@@ -1,4 +1,4 @@
-# Lesson 2.6: Combining Variables  
+# Lesson 3.2: Combining Variables  
 
 ## Learning Objectives
 
@@ -9,8 +9,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now 3.2: Boolean Practice](do_now_32.md)
-* [Lab 2.6 handout (What Goes Up...)](lab_32.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.2%20What%20Goes%20Up.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.2%20What%20Goes%20Up.pdf))
-* [Unit 2 Tips](unit_3_tips.md)
+* [Lab 3.2 handout (What Goes Up...)](lab_32.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.2%20What%20Goes%20Up.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.2%20What%20Goes%20Up.pdf))
+* [Unit 3 Tips](unit_3_tips.md)
 
 ## Pacing Guide
 

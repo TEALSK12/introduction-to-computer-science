@@ -1,9 +1,17 @@
-# Do Now 2.6 Boolean Practice
+# Do Now 2.6 Bouncing Ball
 
-Open the following [Startercode](http://snap.berkeley.edu/snapsource/snap.html#present:Username=lordmcfuzz&ProjectName=SonicMultiscreen)
+1. Open a new Snap project and change the sprite's costume to a ball.
 
-There are three rooms: Start, Checkpoint and End.
+2. Using the following blocks, write a script that continuously moves the ball across the screen and bounces the ball when it hits the edge of the screen.
 
-Sonic should be able to move to each room by moving left and right. Start <--> Checkpoint <--> End
+    ![if on edge, bounce](ifedgebounce.png)
 
-Find the errors and complete the code!
+    ![when Green Flag clicked ](whenclicked.PNG)
+
+    ![move 3 steps](move3.PNG)
+
+    ![forever](forever.png)
+
+3. Add a second sprite.  Add the same script from step 2 above for the new sprite.
+
+4. What happens when you run?  Explain what you observe.

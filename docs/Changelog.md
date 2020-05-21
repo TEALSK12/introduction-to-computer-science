@@ -1,3 +1,17 @@
+
+## [2.1.2] - 2020-05-20
+
+|Unit     | Change |
+|---------|--------|
+|Unit 0| Added Slide decks|
+|Unit 1| Added Slide decks|
+|Unit 2| Added Slide decks|
+|Unit 3| Added Slide decks|
+|Unit 5| Added Slide decks|
+|Unit 2| removed 2.6|
+|Unit 3| Combined 3.1/3.2 and changed name to 3.1 Abstraction and Generalization |
+|Unit 3| Moved 2.6 to 3.2|
+
 ## [2.1.2] - 2018-11-28
 |Unit     | Change |
 |---------|--------|

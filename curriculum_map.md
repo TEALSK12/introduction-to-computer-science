@@ -54,7 +54,7 @@
 | [3.2: Combining Loops and Conditionals](lesson_32.md) | Build custom command blocks in Snap. Utilize detail removal and generalization to construct blocks that practice abstraction. | | [3.2 Slide Deck] |
 | [3.3: Customizing I: Arguments](lesson_33.md) | Build custom SNAP blocks that take arguments. | Let Me Check My Calendar | [3.3 Slide Deck] |
 | [3.4: Customizing II: Reporters and Predicates](lesson_34.md) | Build custom reporter and predicate blocks in SNAP. | If My Calculations Are Correct... | [3.4 Slide Deck] |
-| [3.5: Platform Game Project](lesson_35.md) | Use loops, variables, and Boolean expressions to implement a Super Mario Bros. style platform game. Practice good debugging skills to correct issues as they arise while programming. | Project 3: Platform Game | [3.5 Slide Deck] |
+| [3.5: Platform Game Project](lesson_35.md) | Use loops, variables, and Boolean expressions to implement a Super Mario Bros. style platform game. Practice good debugging skills to correct issues as they arise while programming. | Project 3: Platform Game | |
 | [3.6: Project Day 1](lesson_35.md) | Project Work  | Project 3: Platform Game |  |
 | [3.7: Project Day 2](lesson_35.md) | Project Work  | Project 3: Platform Game | |
 | [3.8: Project Day 3](lesson_35.md) | Project Work  | Project 3: Platform Game | |

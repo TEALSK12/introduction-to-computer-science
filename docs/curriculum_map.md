@@ -133,25 +133,25 @@
 | [6.15: Project Day 10](lesson_65.md) | Project Work  | Final Project | |
 | [6.16: Culture Day](lesson_65.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) |
 
-[0.1 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.1.pptx
-[0.2 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.2.pptx
-[0.3 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.3.pptx
-[0.4 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.4.pptx
-[1.1 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.1.pptx
-[1.2 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.2.pptx
-[1.3 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.3.pptx
-[1.4 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.4.pptx
-[1.5 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.5.pptx
-[2.1 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%202.1.pptx
-[2.2 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%202.2.pptx
-[2.3 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%202.3.pptx
-[2.4 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%202.4.pptx
-[2.5 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%202.5.pptx
-[2.6 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%202.6.pptx
-[3.1 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.1.pptx
-[3.2 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.2.pptx
-[3.3 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.3.pptx
-[3.4 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.4.pptx
-[5.1 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%205.1.pptx
-[5.2 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%205.2.pptx
-[5.3 Slide Deck]: https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%205.3.pptx
+[0.1 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.1.pptx
+[0.2 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.2.pptx
+[0.3 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.3.pptx
+[0.4 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.4.pptx
+[1.1 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.1.pptx
+[1.2 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.2.pptx
+[1.3 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.3.pptx
+[1.4 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.4.pptx
+[1.5 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.5.pptx
+[2.1 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%202.1.pptx
+[2.2 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%202.2.pptx
+[2.3 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%202.3.pptx
+[2.4 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%202.4.pptx
+[2.5 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%202.5.pptx
+[2.6 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%202.6.pptx
+[3.1 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.1.pptx
+[3.2 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.2.pptx
+[3.3 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.3.pptx
+[3.4 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.4.pptx
+[5.1 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%205.1.pptx
+[5.2 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%205.2.pptx
+[5.3 Slide Deck]:https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%205.3.pptx

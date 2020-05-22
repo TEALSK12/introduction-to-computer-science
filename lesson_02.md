@@ -11,7 +11,7 @@ Students will be able to...
 
 Needed for this lesson:
 
-* Supplies to create a peanut butter & jelly sandwich (ingredients, utensils, plates, napkins, etc.)
+* If you choose to do the peanut butter & jelly sandwich activity, you will need ingredients, utensils, plates, napkins, etc.
 * Paper/writing implements for each group of students
 * Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine
 * [Unit 0 Tips](unit_0_tips.md)
@@ -42,7 +42,7 @@ Needed for this lesson:
 
 1. Write algorithms
 
-    * In pairs or small groups, students will attempt to develop an algorithm for preparing a peanut butter and jelly sandwich. Specify to students that their algorithm must be complete and detailed enough for a "computer" (the teacher) to unambiguously follow the steps and achieve the desired result. OR ask students to develop a 10 step algorithm to teach a computer to [brush their teeth](https://bam.files.bbci.co.uk/bam/live/content/z9bmxnb/transcript).
+    * In pairs or small groups, students will attempt to develop an algorithm to teach a robot to [brush their teeth](https://bam.files.bbci.co.uk/bam/live/content/z9bmxnb/transcript), or to prepare a peanut butter and jelly sandwich (check for food allergies before performing this exercise). Specify to students that their algorithm must be complete and detailed enough for a "computer" (the teacher) to unambiguously follow the steps and achieve the desired result.
     * Give little guidance at this stage, as the confusion (and the errors that are likely to result) will both reinforce the importance of specificity and detail as well as provide entertainment value later on.
     * Algorithms should be written on paper to be shared and reviewed.  Students should _not_ be writing any code, nor should they develop algorithms "in their heads."
 
@@ -50,7 +50,7 @@ Needed for this lesson:
 
     * After groups have finished, choose a group and have them read their instructions.  Act as a computer and follow each step as literally as possible. If there is ambiguity, or if a step is not possible to complete, point out the error.
     * When an instruction is ambiguous or impossible, interpret the algorithm in the most atypical (and hilarious) way possible.  This will reinforce to students that many seemingly clear instructions can be taken many ways.
-    * Common errors will include:
+    * For the PBJ activity, common errors will include:
       * Failing to open a container before using what is inside
       * **Response:** Try (and fail) to access the inside in a humorous fashion (e.g. try to reach through the bag or jar, acting confused as to why you cannot reach the ingredient inside)
       * Failing to specify in which orientation or position to use something (e.g. "grab the knife" but not by the handle, "put down the bread" but not on the plate)
@@ -60,7 +60,7 @@ Needed for this lesson:
       * Combining multiple steps into one instruction (e.g. "spread peanut butter on the bread" without specifically opening the jar, putting peanut butter on the knife, using the knife to spread, etc.)
       * **Response:** Ask for more detail
     * Most algorithms will fail.  If there is time, repeat the process with one or two other groups.
-    * Here is an example video of this activity.  
+    * Here is an example video of the PBJ activity.  
       [![PBJ Example Video](http://img.youtube.com/vi/cDA3_5982h8/0.jpg)](http://www.youtube.com/watch?v=cDA3_5982h8)
 
 3. Debugging algorithms

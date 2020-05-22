@@ -30,7 +30,7 @@ Students will be able to...
 ### 1. Introductory discussion
 
 * Define and discuss the following terms:
-* **abstraction:** removing the specifics that are not relevant in a given context
+* **abstraction:** removing the specifics that are not relevant in each context
   * e.g. being able to drive a car without understanding how an internal combustion engine works
 * **generalization:** combining a group of related concepts or processes into a single category
   * e.g. spreading any condiment or ingredient onto a slice of bread (butter, jam, peanut butter, mayo, etc.)

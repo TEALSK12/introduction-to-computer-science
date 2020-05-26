@@ -10,13 +10,13 @@ Storytelling is a great way to convey culture.  Some examples of storytelling ar
 
 #### Digital tools and technologies can help capture stories in our own heritage, especially ones that might otherwise be lost, or difficult to write down
 
-In USA there are over 500 Native American communities, speaking more than 290 distinct languages, and a multitude of dialects.  Students may be familiar with many states and cities in USA that have been given names adapted from the original Aboriginal language spoken in the area,  such as Alaska ("peninsula"),  or Minnesota ("cloudy water"),  or Seattle ("named after a Native American Chief").  Traditionally Native American  people relied on storytelling instead of the written language to pass down information and history.  
+In North America there are over 1000 indigenous communities, speaking more than 300 distinct languages, and a multitude of dialects.  Students may be familiar with many places in North America that have been given names adapted from the original aboriginal language spoken in the area,  such as Alaska ("peninsula"),  or Ontario ("beautiful lake"), or Minnesota ("cloudy water"),  or Seattle ("named after a Native American Chief").  Traditionally indigenous peoples relied on storytelling instead of the written language to pass down information and history.  
 
 Many other communities have used storytelling as a method to pass down history. And these stories were often shared from generation to generation by word of mouth from a relative or elder.
 
 For this project, student may be encouraged to portray an animation that depicts some aspect of their own heritage, especially stories that have been passed down by word of mouth.  Some ideas:
 
-* animation of how a State/city/town name in USA came to be
+* animation of how a city/town name came to be
 * animated map of an immigration journey
 * a personal family story
 
@@ -25,6 +25,7 @@ For this project, student may be encouraged to portray an animation that depicts
 * [Traditional plays](http://www.npr.org/sections/ed/2015/07/30/427138970/the*most*popular*high*school*plays*and*musicals)
 * [Nursey rhymes](http://en.wikipedia.org/wiki/Nursery_rhymes)
 * [History Of Immigration To The US](https://www.youtube.com/watch?v=Fe79i1mu*mc)
+* [History Of Immigration To The US](https://en.wikipedia.org/wiki/History_of_immigration_to_Canada)
 
 ## Details
 

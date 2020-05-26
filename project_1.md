@@ -24,8 +24,8 @@ For this project, student may be encouraged to portray an animation that depicts
 
 * [Traditional plays](http://www.npr.org/sections/ed/2015/07/30/427138970/the*most*popular*high*school*plays*and*musicals)
 * [Nursey rhymes](http://en.wikipedia.org/wiki/Nursery_rhymes)
-* [History Of Immigration To The US](https://www.youtube.com/watch?v=Fe79i1mu*mc)
-* [History Of Immigration To Canada](https://en.wikipedia.org/wiki/History_of_immigration_to_Canada)
+* [History of Immigration to the US](https://www.youtube.com/watch?v=Fe79i1mu-mc)
+* [Welcome to Canada: 150 years of Immigration](https://www.youtube.com/watch?v=cX02bJ1pyw4)
 
 ## Details
 

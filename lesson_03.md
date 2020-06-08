@@ -5,8 +5,7 @@
 
 Students will be able to...
 
-- Complete levels in the game LightBot 2.0
-- Complete small programs in SNAP with guidance
+- Complete small coding tasks (Hour of Code)
 - Explain why computer programs are written in specialized languages
 
 ## Materials/Preparation
@@ -14,7 +13,10 @@ Students will be able to...
 - Classroom computers with internet access
 - **IMPORTANT: At least a few days prior to class,** ensure that the classroom computers can load the website for both activities.  If not, work with school IT to solve the problem.
   - If you are not able to load SNAP on your classroom computers, you will not be able to proceed with the course.  Test this well ahead of time and make sure your school's IT staff knows what the requirements are and can help achieve them.
-- Work through both the [LightBot Hour of Code](http://lightbot.com/hour-of-code.html) activity and the [SNAP Hour of Code](https://bjc.edc.org/hourofcode/#1) activity on your own so you are familiar with the activities and can provide assistance as needed
+- Work through at least one of the coding activities on your own so you are familiar with the activities and can provide assistance as needed:
+   - [LightBot Hour of Code](http://lightbot.com/hour-of-code.html) (the online version requires flash)
+   - [Minecraft Adventurer (Code.org)](https://studio.code.org/s/mc/stage/1/puzzle/1) 
+   - [SNAP Hour of Code](https://bjc.edc.org/hourofcode/#1)
 - Part 3 of the LightBot activity calls itself "Loops" but is really using recursion (specifically tail-recursion). The exercises are still valuable, but be prepared to potentially discuss, or at least point out, the distinction so students are not confused when they encounter normal loops later.
 - [Unit 0 Tips](unit_0_tips.md)
 
@@ -24,7 +26,7 @@ Students will be able to...
 | ---------- | --------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 5 minutes  | Introductory discussion                       |
-| 35 minutes | Lightbot/SNAP activities                      |
+| 35 minutes | Coding activities                             |
 | 10 minutes | Debrief and wrap-up                           |
 
 ## Instructor's Notes
@@ -45,8 +47,8 @@ Students will be able to...
 
 ### 2. Activity
 
-- Students should work through the LightBot 2.0 Hour of Code activity and/or the SNAP Hour of Code Activity.
-- Choose one activity as the requirement, and leave the other for those who finish quickly.
+- Students should work through one of the Hour of Code activities of your choice.
+- Choose one activity as the requirement, and leave another for those who finish quickly.
 - Allow students to struggle with the activities if needed, stressing the importance of patience and persistence in programming.
 
 ### 3. Debrief

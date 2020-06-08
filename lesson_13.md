@@ -28,7 +28,7 @@ Students will be able to...
 ### 1.  Review
 
 * Review the categories of blocks and what each is for.
-* Put particular emphasis on Motion and Drawing, as those will be used for this assignment
+* Put emphasis on Motion and Drawing, as those will be used for this assignment
 * Remind students about the iterative process of programming
 * Students may get frustrated throughout this activity; remind them that requiring multiple attempts to find the right solution is normal.
 
@@ -53,9 +53,9 @@ Students will be able to...
 * Advanced students can attempt the five-pointed star. If students finish that shape, encourage them to try more advanced shapes.
   * Examples: Kite, smiley face, student's initials
 * Struggling students can either be paired or allowed to not complete certain shapes.
-* Students who have not yet taken geometry may have difficulty determining the correct angles. Point out to them that geometric understanding is not necessary—the angles can be determined using trial and error.
+* Students who have not yet learned angles of triangles may have difficulty determining the correct angles. Point out to them that geometric understanding is not necessary—the angles can be determined using trial and error.
   * If students need more scaffolding, they can be pointed to an online resource such as <http://www.mathsisfun.com/geometry/interior-angles-polygons.html>
-  * If most students are not equipped to figure out the angles on their own, provide diagrams like the one of a square in part 1.1 to assist.
+  * If most students are not equipped to figure out the angles on their own, provide diagrams like the one in part 1.1 to assist.
 
 ## Forum discussion
 

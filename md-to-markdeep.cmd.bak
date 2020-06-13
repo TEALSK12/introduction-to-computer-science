@@ -1,3 +1,6 @@
+@REM -- Do not use the script. It will overwrite changes in the live curriculum. 
+
+
 @echo off & setlocal
 echo %time%
 

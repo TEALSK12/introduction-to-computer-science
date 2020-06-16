@@ -62,7 +62,7 @@ Needed for this lesson:
     * Most algorithms will fail.  If there is time, repeat the process with one or two other groups.
     * Here is an example video of the PBJ activity.  
      
-     [![PBJ Example Video](http://img.youtube.com/vi/cDA3_5982h8/0.jpg)](http://www.youtube.com/watch?v=cDA3_5982h8)
+     [![PBJ Example Video](http://img.youtube.com/vi/cDA3_5982h8/0.jpg)](https://www.youtube.com/watch?v=Ct-lOOUqmyY)
 
 3. Debugging algorithms
 

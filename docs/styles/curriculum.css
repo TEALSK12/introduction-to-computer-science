@@ -105,7 +105,7 @@ body#md {
     height: 90px;
 }
 ul {
-    list-style-type: none;
+    list-style-type: disc;
     margin: 0;
     padding: 0;
 }

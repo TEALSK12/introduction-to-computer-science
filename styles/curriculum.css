@@ -104,9 +104,3 @@ body#md {
 .md div.afterTitles {
     height: 90px;
 }
-
-ul {
-    list-style-type: circle;
-    margin: 10px;
-    padding: 10px;
-}

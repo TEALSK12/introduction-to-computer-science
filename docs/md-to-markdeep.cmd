@@ -1,3 +1,6 @@
+@REM -- Do not use the script. It will overwrite changes in the live curriculum. 
+
+
 @echo off & setlocal
 echo %time%
 
@@ -49,10 +52,10 @@ for %%f in (*.md) do (
     
 )
 @REM -- Remove unnecessary files that are copied
-del "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\md-to-markdeep.cmd"
-del "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\markdeep-footer.txt"
-del "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\markdeep-header.txt"
-rmdir /Q /S nonemptydir "C:\Users\v-anspi\Documents\GitHub\introduction-to-computer-science\docs\docs\
+del "C:\Users\aspie\Documents\introduction-to-computer-science\docs\md-to-markdeep.cmd"
+del "C:\Users\aspie\Documents\introduction-to-computer-science\docs\markdeep-footer.txt"
+del "C:\Users\aspie\Documents\introduction-to-computer-science\docs\markdeep-header.txt"
+rmdir /Q /S nonemptydir "C:\Users\aspie\Documents\introduction-to-computer-science\docs\docs\
 
 rename README.md.html index.html
 @REM pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "summary.md" -o "summary.pdf"

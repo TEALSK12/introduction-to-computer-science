@@ -1,4 +1,13 @@
 
+## [2.1.3] - 2020-05-20
+
+|Unit     | Change |
+|---------|--------|
+| Global Change | Moved away from Gitbook to HTML |
+| GLobal Formatting | Global Formmatted updates for Markdown to parse in HTML |
+
+## [2.1.2] - 2020-05-20
+
 ## [2.1.2] - 2020-05-20
 
 |Unit     | Change |

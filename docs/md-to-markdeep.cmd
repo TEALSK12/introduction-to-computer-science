@@ -1,16 +1,12 @@
-@REM -- Do not use the script. It will overwrite changes in the live curriculum. 
-
-
 @echo off & setlocal
 echo %time%
 
 robocopy /mir .\ .\docs
 cd .\docs
 
-
 set sed="C:\Program Files\Git\usr\bin\sed.exe"
-set wkhtmltopdf="C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe"
-set chrome="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+@REM -- set wkhtmltopdf="C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe"
+@REM -- set chrome="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
 
 
 @REM -- Convert files at the root of the repo.

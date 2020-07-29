@@ -1,7 +1,7 @@
 @echo off & setlocal
 echo %time%
 
-robocopy /mir .\ .\docs
+robocopy /E .\ .\docs /XD %CD%\docs
 cd .\docs
 
 set sed="C:\Program Files\Git\usr\bin\sed.exe"
@@ -53,7 +53,7 @@ del "C:\Users\aspie\Documents\introduction-to-computer-science\docs\markdeep-foo
 del "C:\Users\aspie\Documents\introduction-to-computer-science\docs\markdeep-header.txt"
 rmdir /Q /S nonemptydir "C:\Users\aspie\Documents\introduction-to-computer-science\docs\docs\
 
-rename README.md.html index.html
+MOVE /Y README.md.html index.html
 @REM pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "summary.md" -o "summary.pdf"
 
 echo %time%

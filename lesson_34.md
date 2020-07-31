@@ -1,4 +1,4 @@
-# Lesson 3.4: Customization II
+# Lesson 3.4: Customization II: Reporters and Predicates
 
 ## Learning Objectives
 
@@ -61,4 +61,4 @@ Students will be able to...
 
 ## Forum discussion
 
-[Lesson 3.4: Customization II](http://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-4-customization-ii) (TEALS Discourse account required).
+[Lesson 3.4: Customization II: Reporters and Predicates](http://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-4-customization-ii) (TEALS Discourse account required).

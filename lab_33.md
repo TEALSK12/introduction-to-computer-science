@@ -21,7 +21,7 @@ In this lab, you will write some custom blocks that take arguments and are usefu
 
 3. Write a custom SNAP block called "day in year" that takes a year number and a number between 1 and 366 and says the date that corresponds to that numbered day of the specified year.  For example, in non-leap years day #1 is January 1, day #32 is February 1, day #365 is December 31, and day #185 is July 4.  Give an error message if the number is 366 and a non-leap year is specified.
 
-4. BONUS: Determine the day you were born.  Write a custom SNAP block called "day of week" that takes a month name, date, and year as arguments and says the day of week on which that date falls in that year.  See <http://en.wikipedia.org/wiki/Determination_of_the_day_of_the_week> for information on finding the day of the week from a date.
+4. BONUS: Determine the day you were born.  Write a custom SNAP block called "day of week" that takes a month name, date, and year as arguments and says the day of week on which that date falls in that year.  See  <http://en.wikipedia.org/wiki/Determination_of_the_day_of_the_week> for information on finding the day of the week from a date.
 
 ## Grading Scheme/Rubric
 

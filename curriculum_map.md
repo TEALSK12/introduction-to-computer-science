@@ -23,7 +23,7 @@
 | [1.7: Project Day 2](lesson_15.md) | Project Work  | Project 1: Animated Nursery Rhyme | |
 | [1.8: Project Day 3](lesson_15.md) | Project Work  | Project 1: Animated Nursery Rhyme | |
 | [1.9: Project Day 4](lesson_15.md) | Project Work  | Project 1: Animated Nursery Rhyme | |
-| [1.10: Culture Day](lesson_15.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
+| [1.10: Culture Day](culture_day_lesson_a.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
 
 ## Unit 2: Loop-de-Loop
 
@@ -43,8 +43,7 @@
 | [2.12: Project Day 6](lesson_26.md) | Project Work  | Project 2: Pong | |
 | [2.13: Project Day 7](lesson_26.md) | Project Work  | Project 2: Pong | |
 | [2.14: Project Day 8](lesson_26.md) | Project Work  | Project 2: Pong | |
-| [2.15: Culture Day](lesson_26.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
-| [2.16: Culture Day](lesson_26.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
+| [2.15: Culture Day](culture_day_lesson_b.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
 
 ## Unit 3: Variables and Customization
 
@@ -63,8 +62,8 @@
 | [3.11: Project Day 6](lesson_35.md) | Project Work  | Project 3: Platform Game | |
 | [3.12: Project Day 7](lesson_35.md) | Project Work  | Project 3: Platform Game | |
 | [3.13: Project Day 8](lesson_35.md) | Project Work  | Project 3: Platform Game | |
-| [3.14: Culture Day](lesson_35.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
-| [3.15: Culture Day](lesson_35.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
+| [3.14: Culture Day](culture_day_lesson_c.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
+
 
 ## Unit 4: Lists
 
@@ -86,8 +85,7 @@
 | [4.14: Project Day 8](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
 | [4.15: Project Day 9](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
 | [4.16: Project Day 10](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.17: Culture Day](lesson_46.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
-| [4.18: Culture Day](lesson_46.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
+| [4.17: Culture Day](culture_day_lesson_d.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
 
 ## Unit 5: Cloning
 
@@ -109,8 +107,6 @@
 | [5.14: Project Day 10](lesson_54.md) | Project Work  | Project 5: Space Invaders | |
 | [5.15: Project Day 11](lesson_54.md) | Project Work  | Project 5: Space Invaders | |
 | [5.16: Project Day 12](lesson_54.md) | Project Work  | Project 5: Space Invaders | |
-| [5.17: Culture Day][] | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
-| [5.18: Culture Day][] | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
 
 ## Unit 6: Final Project
 
@@ -131,4 +127,3 @@
 | [6.13: Project Day 8](lesson_65.md) | Project Work  | Final Project | |
 | [6.14: Project Day 9](lesson_65.md) | Project Work  | Final Project | |
 | [6.15: Project Day 10](lesson_65.md) | Project Work  | Final Project | |
-| [6.16: Culture Day](lesson_65.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) |

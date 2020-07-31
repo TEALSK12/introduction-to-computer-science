@@ -48,10 +48,10 @@ for %%f in (*.md) do (
     
 )
 @REM -- Remove unnecessary files that are copied
-del "C:\Users\aspie\Documents\introduction-to-computer-science\docs\md-to-markdeep.cmd"
-del "C:\Users\aspie\Documents\introduction-to-computer-science\docs\markdeep-footer.txt"
-del "C:\Users\aspie\Documents\introduction-to-computer-science\docs\markdeep-header.txt"
-rmdir /Q /S nonemptydir "C:\Users\aspie\Documents\introduction-to-computer-science\docs\docs\
+del "C:\Users\aspie\Documents\introduction-to-computer-science\introduction-to-computer-science\docs\md-to-markdeep.cmd"
+del "C:\Users\aspie\Documents\introduction-to-computer-science\introduction-to-computer-science\docs\markdeep-footer.txt"
+del "C:\Users\aspie\Documents\introduction-to-computer-science\introduction-to-computer-science\docs\markdeep-header.txt"
+rmdir /Q /S nonemptydir "C:\Users\aspie\Documents\introduction-to-computer-science\introduction-to-computer-science\docs\docs\
 
 MOVE /Y README.md.html index.html
 @REM pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "summary.md" -o "summary.pdf"

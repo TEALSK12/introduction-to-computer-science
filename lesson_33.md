@@ -1,4 +1,4 @@
-# Lesson 3.3: Customization I
+# Lesson 3.3: Customization I: Arguments
 
 ## Learning Objectives
 
@@ -69,4 +69,4 @@ Students will be able to...
 
 ## Forum discussion
 
-[Lesson 3.3: Customization I](http://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-3-customization-1) (TEALS Discourse account required).</a>
+[Lesson 3.3: Customization I: Arguments](http://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-3-customization-1) (TEALS Discourse account required).</a>

@@ -1,4 +1,4 @@
-# Lesson 3.2: Combining Variables  
+# Lesson 3.2: Combining Loops and Conditionals
 
 ## Learning Objectives
 
@@ -67,5 +67,5 @@ Students will be able to...
 
 ## Forum discussion
 
-[Lesson 3.2 Combining Loops and Conditionals](http://forums.tealsk12.org/c/intro-unit-3-loops/lesson-3-2-combining-loops-and-conditionals)
+[Lesson 3.2 Combining Loops and Conditionals](https://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-2-abstraction-and-generalization/143)
  (TEALS Discourse account required).

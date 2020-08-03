@@ -42,10 +42,10 @@ Because this curriculum was designed to be used in a wide variety of classrooms,
 
 This curriculum is designed for use with the Snap! programming language designed at the University of California, Berkeley.  Snap! is a visual programming language designed to allow students to focus on concepts and skills rather than syntax when learning to program.  Snap! is an extension and reimplementation of Scratch, designed at MIT, and many Scratch lessons and programs can be easily adapted to Snap!  The following resources are available to support use of Snap! in this curriculum:
 
-- [The Snap! Reference Manual](http://snap.berkeley.edu/SnapManual.pdf)
-- [Snap! examples and extensions](http://snap.berkeley.edu/#help-examples) (including using hardware devices with Snap!):
+- [The Snap! Reference Manual](https://snap.berkeley.edu/snap/help/SnapManual.pdf)
+- [Snap! examples and extensions](https://snap.berkeley.edu/#help-examples) (including using hardware devices with Snap!):
 - [ScratchEd online community for Scratch educators:](https://scratch.mit.edu/educators/)
-- [Beauty and Joy of Computing curriculum:](http://bjc.berkeley.edu/)
+- [Beauty and Joy of Computing curriculum:](https://bjc.berkeley.edu/)
 
 ### Snap Mirrors
 

@@ -38,12 +38,12 @@ Students will be able to...
 - Draw distinctions between proper programming languages and other types of languages (such as markup languages e.g. HTML).
 - Lead the group to develop expectations about what aspects of programming might be most challenging and what skills might be most useful to be successful.
 - Sample guiding questions:
-- What are the steps required to write a computer program:
-- This is essentially developing an algorithm for writing a program!
-- What knowledge might make writing a program easier?
-- What might you need to do when writing a computer program that you have never or rarely done before?
-- What parts of programming are most intimidating or scary?
-- What are you good at that might help you be a good programmer?
+  - What are the steps required to write a computer program?
+    - This is essentially developing an algorithm for writing a program!
+  - What knowledge might make writing a program easier?
+  - What might you need to do when writing a computer program that you have never or rarely done before?
+  - What parts of programming are most intimidating or scary?
+  - What are you good at that might help you be a good programmer?
 
 ### 2. Activity
 

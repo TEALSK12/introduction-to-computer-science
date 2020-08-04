@@ -16,6 +16,7 @@ they are learning.
 This course uses Snap!, an approachable visual block-based programming language with a robust tool set, perfect for introducing students to coding for the first time.
 
   + GitHub: https://github.com/TEALSK12/introduction-to-computer-science/
+  + Github Page: https://tealsk12.github.io/introduction-to-computer-science/
 
 ## Introduction to Computer Science Implementation Options
 

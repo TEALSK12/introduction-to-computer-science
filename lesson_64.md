@@ -32,9 +32,9 @@ Following an Agile project management flow helps ensure that the development pro
 
 ## Materials/Preparation
 
-- [ ] [Final Project Plan Organizer] handout
-- [ ] [Final Project Development Plan] handout
-- [ ] [Unit 6 Tips](unit_6_tips.md)
+- [Final Project Plan Organizer][] handout
+- [Final Project Development Plan][] handout
+- [Unit 6 Tips](unit_6_tips.md)
 
 ## Pacing Guide
 

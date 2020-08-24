@@ -18,12 +18,12 @@
 | [1.2: Building Blocks](lesson_12.md) |  Name the categories of blocks in SNAP and describe what the blocks in each category do. Describe the function of several common SNAP blocks. Be able to use common blocks to build simple SNAP programs. | SNAP Scavenger Hunt | [1.2 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.2.pptx) |
 | [1.3: Drawing Shapes](lesson_13.md)    | Construct simple algorithms to draw shapes. Convert algorithms into SNAP programs. | Squares and Triangles and Stars, Oh My! | [1.3 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.3.pptx) |
 | [1.4: Animation](lesson_14.md)    | Animate SNAP sprites using costume changes and movement. Trigger action in other sprites using broadcasts.  | Sprites in Action | [1.4 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.4.pptx) |
-| [1.5: Nursery Rhyme Project](lesson_15.md)    | Apply basic programming and SNAP skills to create an animated movie, play, nursery rhyme, or other scene. Practice good debugging skills to correct issues as they arise while programming  | Project 1: Animated Nursery Rhyme | [1.5 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.5.pptx) |
-| [1.6: Project Day 1](lesson_15.md) | Project Work  | Project 1: Animated Nursery Rhyme | |
-| [1.7: Project Day 2](lesson_15.md) | Project Work  | Project 1: Animated Nursery Rhyme | |
-| [1.8: Project Day 3](lesson_15.md) | Project Work  | Project 1: Animated Nursery Rhyme | |
-| [1.9: Project Day 4](lesson_15.md) | Project Work  | Project 1: Animated Nursery Rhyme | |
-| [1.10: Culture Day](lesson_15.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
+| [1.5: Storytelling Project](lesson_15.md)    | Apply basic programming and SNAP skills to create an animated movie, play, nursery rhyme, or other scene. Practice good debugging skills to correct issues as they arise while programming  | Project 1: Animated Storytelling | [1.5 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.5.pptx) |
+| [1.6: Project Day 1](lesson_15.md) | Project Work  | Project 1: Animated Storytelling | |
+| [1.7: Project Day 2](lesson_15.md) | Project Work  | Project 1: Animated Storytelling | |
+| [1.8: Project Day 3](lesson_15.md) | Project Work  | Project 1: Animated Storytelling | |
+| [1.9: Project Day 4](lesson_15.md) | Project Work  | Project 1: Animated Storytelling | |
+| [1.10: Culture Day](culture_day_lesson_a.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
 
 ## Unit 2: Loop-de-Loop
 
@@ -43,8 +43,7 @@
 | [2.12: Project Day 6](lesson_26.md) | Project Work  | Project 2: Pong | |
 | [2.13: Project Day 7](lesson_26.md) | Project Work  | Project 2: Pong | |
 | [2.14: Project Day 8](lesson_26.md) | Project Work  | Project 2: Pong | |
-| [2.15: Culture Day](lesson_26.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
-| [2.16: Culture Day](lesson_26.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
+| [2.15: Culture Day](culture_day_lesson_b.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
 
 ## Unit 3: Variables and Customization
 
@@ -52,8 +51,8 @@
 | ------ | ---------- | --- | --- |
 | [3.1: Abstraction and Generalization](lesson_31.md) | Define abstraction, detail removal, generalization, and procedural decomposition in a computer science context. Describe how utilizing procedural decomposition can improve the readability and maintainability of algorithms and/or code. Recognize opportunities to improve algorithms by abstracting or generalizing parts into sub procedures. | N/A | [3.1 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.1.pptx) |
 | [3.2: Combining Loops and Conditionals](lesson_32.md) | Build custom command blocks in Snap. Utilize detail removal and generalization to construct blocks that practice abstraction. | | [3.2 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.2.pptx) |
-| [3.3: Customizing I: Arguments](lesson_33.md) | Build custom SNAP blocks that take arguments. | Let Me Check My Calendar | [3.3 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.3.pptx) |
-| [3.4: Customizing II: Reporters and Predicates](lesson_34.md) | Build custom reporter and predicate blocks in SNAP. | If My Calculations Are Correct... | [3.4 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.4.pptx) |
+| [3.3: Customization I: Arguments](lesson_33.md) | Build custom SNAP blocks that take arguments. | Let Me Check My Calendar | [3.3 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.3.pptx) |
+| [3.4: Customization II: Reporters and Predicates](lesson_34.md) | Build custom reporter and predicate blocks in SNAP. | If My Calculations Are Correct... | [3.4 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.4.pptx) |
 | [3.5: Platform Game Project](lesson_35.md) | Use loops, variables, and Boolean expressions to implement a Super Mario Bros. style platform game. Practice good debugging skills to correct issues as they arise while programming. | Project 3: Platform Game | |
 | [3.6: Project Day 1](lesson_35.md) | Project Work  | Project 3: Platform Game |  |
 | [3.7: Project Day 2](lesson_35.md) | Project Work  | Project 3: Platform Game | |
@@ -63,8 +62,8 @@
 | [3.11: Project Day 6](lesson_35.md) | Project Work  | Project 3: Platform Game | |
 | [3.12: Project Day 7](lesson_35.md) | Project Work  | Project 3: Platform Game | |
 | [3.13: Project Day 8](lesson_35.md) | Project Work  | Project 3: Platform Game | |
-| [3.14: Culture Day](lesson_35.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
-| [3.15: Culture Day](lesson_35.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
+| [3.14: Culture Day](culture_day_lesson_c.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
+
 
 ## Unit 4: Lists
 
@@ -86,8 +85,7 @@
 | [4.14: Project Day 8](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
 | [4.15: Project Day 9](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
 | [4.16: Project Day 10](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.17: Culture Day](lesson_46.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
-| [4.18: Culture Day](lesson_46.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
+| [4.17: Culture Day](culture_day_lesson_d.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
 
 ## Unit 5: Cloning
 
@@ -109,8 +107,6 @@
 | [5.14: Project Day 10](lesson_54.md) | Project Work  | Project 5: Space Invaders | |
 | [5.15: Project Day 11](lesson_54.md) | Project Work  | Project 5: Space Invaders | |
 | [5.16: Project Day 12](lesson_54.md) | Project Work  | Project 5: Space Invaders | |
-| [5.17: Culture Day][] | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
-| [5.18: Culture Day][] | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
 
 ## Unit 6: Final Project
 
@@ -131,4 +127,3 @@
 | [6.13: Project Day 8](lesson_65.md) | Project Work  | Final Project | |
 | [6.14: Project Day 9](lesson_65.md) | Project Work  | Final Project | |
 | [6.15: Project Day 10](lesson_65.md) | Project Work  | Final Project | |
-| [6.16: Culture Day](lesson_65.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) |

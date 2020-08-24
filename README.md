@@ -15,21 +15,15 @@ they are learning.
 
 This course uses Snap!, an approachable visual block-based programming language with a robust tool set, perfect for introducing students to coding for the first time.
 
-- GitHub: https://github.com/TEALSK12/introduction-to-computer-science
-- GitBook: https://tealsk12.gitbooks.io/introduction-to-computer-science/content/
+  + GitHub: https://github.com/TEALSK12/introduction-to-computer-science/
+  + Github Page: https://tealsk12.github.io/introduction-to-computer-science/
 
 ## Introduction to Computer Science Implementation Options
 
 The Introduction to CS course can be offered as a semester-long course offered twice in a single school year or as a year-long course with an expanded curriculum. The year-long class transitions to text-based programming using the beginner-friendly Python language in the second semester. Teachers participating in the TEALS Program can use the following options:
 
-- [TEALS Second Semester Introduction to Computer Science - Python curriculum](https://tealsk12.gitbook.io/intro-cs-2/)
+- [TEALS Second Semester Introduction to Computer Science - Python curriculum](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/)
 - [Carnegie Mellon CS Academy](https://academy.cs.cmu.edu).
-
-### TEALS Curriculum Changelog
-
-Version: [2.1.1]
-Last updates: 2018-08-21
-[Changelog.md](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Changelog.md)
 
 ## About this curriculum
 
@@ -49,10 +43,10 @@ Because this curriculum was designed to be used in a wide variety of classrooms,
 
 This curriculum is designed for use with the Snap! programming language designed at the University of California, Berkeley.  Snap! is a visual programming language designed to allow students to focus on concepts and skills rather than syntax when learning to program.  Snap! is an extension and reimplementation of Scratch, designed at MIT, and many Scratch lessons and programs can be easily adapted to Snap!  The following resources are available to support use of Snap! in this curriculum:
 
-- [The Snap! Reference Manual](http://snap.berkeley.edu/SnapManual.pdf)
-- [Snap! examples and extensions](http://snap.berkeley.edu/#help-examples) (including using hardware devices with Snap!):
+- [The Snap! Reference Manual](https://snap.berkeley.edu/snap/help/SnapManual.pdf)
+- [Snap! examples and extensions](https://snap.berkeley.edu/#help-examples) (including using hardware devices with Snap!):
 - [ScratchEd online community for Scratch educators:](https://scratch.mit.edu/educators/)
-- [Beauty and Joy of Computing curriculum:](http://bjc.berkeley.edu/)
+- [Beauty and Joy of Computing curriculum:](https://bjc.berkeley.edu/)
 
 ### Snap Mirrors
 
@@ -177,10 +171,12 @@ Student work consists of class participation, daily labs, end of unit projects, 
 
 This curriculum is considered a living document and is intended to be updated regularly both by the TEALS team and with contributions from the TEALS community.  In particular, feedback on teaching teams' experiences in conducting the lessons in this curriculum is always welcome.  Teaching teams are also encouraged to share ideas for additional activities, lessons, or projects that can be incorporated into the curriculum guide.  Please see the [Contributing](contributing.md) page for more information about how to contribute to the curriculum.
 
-## Printing GitBook
+## Printing
 
-The Introduction to Computer Science GitBook can be printed by navigating to https://aka.ms/TEALSIntroPDF.
+The Introduction to Computer Science can be printed by navigating to https://aka.ms/TEALSIntroPDF.
 However, the "Download" button does not work. There is workaround depending on the browser:
 
 - click on the document to enable the pdf menu to show and clicking the down arrow or "Save as Copy"
 - right click on the .pdf document and select "Save As"
+
+

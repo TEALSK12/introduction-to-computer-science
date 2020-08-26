@@ -12,6 +12,7 @@ Students will be able to...
 - Platform Game Project: [Platform Game](project_3_platform_game_easy.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%203%20Platform%20Game%20Easy.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%203%20Platform%20Game%20Easy.pdf))
 - (Optional) Advanced Version of the project: [Advanced Platform Game](project_3.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%203%20Platform%20Game.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%203%20Platform%20Game.pdf))
 - (Optional) Printouts of the specification
+- [Platform Game Planning Worksheet](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Platform_Game_Planning_Worksheet.docx)
 - A few suggested themes available for students who may struggle to come up with their own.
 - Suggestions for characters, power-ups, goals, etc.
 - [Unit 3 Tips](unit_3_tips.md)

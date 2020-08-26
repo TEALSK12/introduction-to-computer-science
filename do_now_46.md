@@ -1,6 +1,8 @@
-# Do Now 4.6 Guess My Animal
+# Do Now 4.6 Spaceman
 
-Go to [this](http://www.uptoten.com/kids/kidsgames-mixedbag-animalshangman.html) site to play this word guessing game.
+Participate in a couple of rounds of the game Spaceman with your teacher.
+
+## In your notebook, answer
 
 1. How could you use lists from this unit to help implement a version of this game in Snap!?
 

@@ -33,6 +33,10 @@ The game can end in one of two ways:
 
 In either case, when the game ends the host should stop asking for guesses.  The host should inform the player whether he or she won or lost, and the assistant should reveal the entire secret word.
 
+#### Video Example
+
+Here is a sample of a simple version of the game being played - [https://youtu.be/H3djon837cc](https://youtu.be/H3djon837cc)
+
 ### Implementation Details
 
 #### Word List/Secret Word

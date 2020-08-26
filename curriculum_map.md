@@ -74,17 +74,17 @@
 | [4.3: List Practice](lesson_43.md) I | Traverse a list, accessing each element one at a time. Perform operations combining all elements in a list. Select defined subsets of elements in a list. | Guess Who | [4.3 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%204.3.pptx)  |
 | [4.4: List Practice II](lesson_44.md) | Traverse a list, accessing each element one at a time. Perform operations combining all elements in a list. Select defined subsets of elements in a list. | Number Cruncher | [4.4 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%204.4.pptx) |
 | [4.5: Sequential Search](lesson_45.md) | Explain the sequential search algorithm. Implement several variations of sequential search. | It's Around Here Somewhere | [4.5 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%204.5.pptx)  |
-| [4.6: Word Guessing Game Project](lesson_46.md) | Use lists to implement a complete version of a word guessing game. Exercise good programming practices to produce code that is not only functional but also elegant and well-written. | Project 4: Hangman | |
-| [4.7: Project Day 1](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.8: Project Day 2](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.9: Project Day 3](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.10: Project Day 4](lesson_46.md) | Project Work  | Project 4: Word Guessing Game | |
-| [4.11: Project Day 5](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.12: Project Day 6](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.13: Project Day 7](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.14: Project Day 8](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.15: Project Day 9](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.16: Project Day 10](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
+| [4.6: Word Guessing Game Project](lesson_46.md) | Use lists to implement a complete version of a word guessing game. Exercise good programming practices to produce code that is not only functional but also elegant and well-written. | Project 4: Guess My Word | |
+| [4.7: Project Day 1](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.8: Project Day 2](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.9: Project Day 3](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.10: Project Day 4](lesson_46.md) | Project Work  | Project 4: Guess My Word | |
+| [4.11: Project Day 5](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.12: Project Day 6](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.13: Project Day 7](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.14: Project Day 8](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.15: Project Day 9](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.16: Project Day 10](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
 | [4.17: Culture Day](culture_day_lesson_d.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
 
 ## Unit 5: Cloning

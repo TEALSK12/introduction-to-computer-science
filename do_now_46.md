@@ -1,8 +1,8 @@
-# Do Now 4.6 Guess My Animal
+# Do Now 4.6 Spaceman
 
-Review [this video](https://youtu.be/H3djon837cc) to see an example of the Guess My Word Game. 
+Participate in a couple of rounds of the game Spaceman with your teacher.
 
-## In your notebook, answer the following questions
+## In your notebook, answer
 
 1. How could you use lists from this unit to help implement a version of this game in Snap!?
 

@@ -8,6 +8,7 @@
 | [0.2: Algorithms](lesson_02.md) | Define "algorithm." Construct algorithms for performing simple tasks. | N/A | [0.2 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.2.pptx) |
 | [0.3: Programming Languages](lesson_03.md) | Complete levels in the game LightBot 2.0. Complete small programs in SNAP with guidance. Explain why computer programs are written in specialized languages. | N/A | [0.3 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.3.pptx) |
 | [0.4: Snap Self Portrait](lesson_04.md) |  Create a simple "program" in SNAP to describe themselves | Getting to Know You | [0.4 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.4.pptx) |
+| [0.5: Snap Coordinate System](lesson_05.md) | Create a drawing using the Snap! Coordinate System | Getting to know Coordinates | [0.5 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.5.pptx) |
 
 ## Unit 1: SNAP Basics
 

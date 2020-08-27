@@ -60,9 +60,9 @@ Needed for this lesson:
       * Combining multiple steps into one instruction (e.g. "spread peanut butter on the bread" without specifically opening the jar, putting peanut butter on the knife, using the knife to spread, etc.)
       * **Response:** Ask for more detail
     * Most algorithms will fail.  If there is time, repeat the process with one or two other groups.
-    * Here is an example video of the PBJ activity.  
-     
-     [![PBJ Example Video](http://img.youtube.com/vi/cDA3_5982h8/0.jpg)](https://www.youtube.com/watch?v=Ct-lOOUqmyY)
+#### Here is an example video of the PBJ activity
+ 
+  <p><iframe width="400" height="315" src="https://www.youtube.com/embed/FN2RM-CHkuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 3. Debugging algorithms
 

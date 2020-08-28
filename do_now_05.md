@@ -2,4 +2,4 @@
 
 In your Notebook, Draw this image to the best of your ability
 
-<img src="Coordinates.gif" />
+<img width="300px" src="Coordinates.gif" />

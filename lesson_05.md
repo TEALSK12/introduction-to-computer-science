@@ -50,7 +50,6 @@ Use [this coordinate tool](https://www.desmos.com/calculator/ui4klsjued) to have
 * Have students plot the points on the left side of the tool and the points will appear on the graph.
 * Note that the grid lines are set to 10 unit increments
 * Have them plot the following points
-
   * (0,0)
   * (50,-50)
   * (100,0)
@@ -64,8 +63,8 @@ Explain to students that this is how the Snap! stage is setup but it doesn't hav
 The origin (0,0 is the exact center of the grid)
 Now have students enter the same coordinates using this [Snap! template](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Snap%20Coordinate%20System%20Intro)
 
-* Have them enter the following points into the **Go To Blocks** in the template
-  * (0,0) and add a label "Origin"
+* Have students enter the following points into the **Go To Blocks** in the template
+  * (0,0)
   * (50,-50)
   * (100,0)
   * (50,100)
@@ -74,12 +73,12 @@ Now have students enter the same coordinates using this [Snap! template](https:/
 
 ### Lab Activity
 
-Introduce the Lab Activity to students by explaining the instructions and getting them started with the activity.
+* Introduce the Lab Activity to students by explaining the instructions and getting them started with the activity.
 
 ### 3. Debrief
 
-Can you think of any other technologies that use a coordinate system to display graphic?
-Are there any blocks that you have discovered that have helped you do shapes faster?
+* Can you think of any other technologies that use a coordinate system to display graphic?
+* Are there any blocks that you have discovered that have helped you do shapes faster?
 
 ## Accommodation/Differentiation
 

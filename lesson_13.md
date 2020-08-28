@@ -34,7 +34,7 @@ Students will be able to...
 * Remind students about the iterative process of programming
 * Students may get frustrated throughout this activity; remind them that requiring multiple attempts to find the right solution is normal.
 
-### Optional Scaffolding
+### Scaffolding Accomodation
 *  If your students have not learned the exterior angles of a triangle, it is important to go over [Geometry Exterior Angles Review](Geometry_Exterior_Angles.pdf) with them.
   * Focus on the shapes on this document and the formula used to determine the angle. 
   * This will help them determine find the angles of any shape.

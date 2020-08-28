@@ -2,7 +2,7 @@
 
 ## Part 1: Coordinates
 
-Start this activity using the [Peabody Test](https://snap.berkeley.edu/snap/snap.html#present:Username=georgesb&ProjectName=coordinatesTest&editMode&noRun)
+Start this activity using the [Peabody Test](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=PeabodyTest)
 * Open the link above
 * Click on Peabody to start the test
 * Answer his question in the textbox

@@ -15,6 +15,7 @@ Students will be able to...
 - Helping Trios handout [Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
 - Read through the handout so that you are familiar with the requirements and can assist students
 - Index cards with each students name on them. One name per index card.
+- _Who is Grace Hopper?_ Video: [https://youtu.be/Fg82iV-L8ZY](https://youtu.be/Fg82iV-L8ZY)
 - [Unit 1 Tips](unit_1_tips.md)
 
 ## Pacing Guide
@@ -32,6 +33,7 @@ Students will be able to...
 
 - Do Now Debrief:
 - Tell the story of [Admiral Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) who originated the term "Debugging"
+  - You could also use this _Who is Grace Hopper?_ Video: [https://youtu.be/Fg82iV-L8ZY](https://youtu.be/Fg82iV-L8ZY)
 - Review the basics of SNAP from the previous lesson
 - Ensure that students can:
   - Define "block" and "script"

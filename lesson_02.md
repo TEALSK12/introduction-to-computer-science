@@ -45,6 +45,7 @@ Needed for this lesson:
     * In pairs or small groups, students will attempt to develop an algorithm to teach a robot to [brush their teeth](https://bam.files.bbci.co.uk/bam/live/content/z9bmxnb/transcript), or to prepare a peanut butter and jelly sandwich (check for food allergies before performing this exercise). Specify to students that their algorithm must be complete and detailed enough for a "computer" (the teacher) to unambiguously follow the steps and achieve the desired result.
     * Give little guidance at this stage, as the confusion (and the errors that are likely to result) will both reinforce the importance of specificity and detail as well as provide entertainment value later on.
     * Algorithms should be written on paper to be shared and reviewed.  Students should _not_ be writing any code, nor should they develop algorithms "in their heads."
+    * _Remote Learning Guidance_ - This activity could be done using a shared document and then links could be shared. Consider pairing students in advance or building in a procedure on how students will pair up moving forward in the semester
 
 2. Algorithm execution
 
@@ -60,9 +61,10 @@ Needed for this lesson:
       * Combining multiple steps into one instruction (e.g. "spread peanut butter on the bread" without specifically opening the jar, putting peanut butter on the knife, using the knife to spread, etc.)
       * **Response:** Ask for more detail
     * Most algorithms will fail.  If there is time, repeat the process with one or two other groups.
+
 #### Here is an example video of the PBJ activity
- 
-  <p><iframe width="400" height="315" src="https://www.youtube.com/embed/FN2RM-CHkuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+  <p><iframe class="markdeep" width="400" height="315" src="https://www.youtube.com/embed/FN2RM-CHkuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 3. Debugging algorithms
 

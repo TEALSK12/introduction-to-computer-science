@@ -44,7 +44,7 @@ Here is a sample of a simple version of the game being played - [https://youtu.b
 You will be provided with a list of words from which the secret word should be chosen for each game.  Instructions for importing the word list:
 
 * To import the list, set a variable "imported words" to be a list.
-* [Download and save](http://www.mieliestronk.com/corncob_lowercase.txt)  as a text file on your computer.
+* [Download and save](wordlist.txt) as a text file on your computer.
 * Click the checkbox on the "imported words" variable so that it is visible on the stage.
 * Right click on the stage image to find the 'import...' command. Select the correct file to import.
 * Set another variable to be a list of words by splitting the imported words by line.

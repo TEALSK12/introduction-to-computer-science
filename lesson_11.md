@@ -48,14 +48,14 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 
 #### 1. Introductory discussion
 
+* Play [Introductory video](https://youtu.be/b-EWj7xN90U) of Snap put together by Jens Moenig
+  * This video helps to explain to students the power of Snap! while still being approachable as a Block Based Programming Language.
 * Review the definitions of "algorithm" and "program" developed in lesson 0.2
   * **Algorithm:** a complete, well-defined sequence of steps for completing a task or solving a problem
   * **Program:** a sequence of instructions or steps, written in a language that can be understood by a computer, that will be used by the computer to complete a task or solve a problem
 
 #### 2.  Activity Walkthrough
 
-* Play [Introductory video](https://youtu.be/b-EWj7xN90U) of Snap put together by Jens Moenig
-  * This video helps to explain to students the power of Snap! while still being approachable as a Block Based Programming Language.
 * Work through [Lab 1.1](lab_11.md) up through part 3 (scripts) as a class.
 * Point out key aspects of SNAP in each section, including:
   * the sections of the window in part 1
@@ -81,8 +81,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 
 #### 4.  Turn-in procedures
 
-* Demonstrate the turn-in procedure you will use for student work throughout the semester, and have students follow along to turn in their work from the lab.
-* Ensure that each student is able to turn in their work before the class period ends.
+* Remind students of the turn in procedures introduced in Unit 0
 
 ### Day 2
 

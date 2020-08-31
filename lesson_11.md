@@ -54,6 +54,8 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 
 #### 2.  Activity Walkthrough
 
+* Play [Introductory video](https://youtu.be/b-EWj7xN90U) of Snap put together by Jens Moenig
+  * This video helps to explain to students the power of Snap! while still being approachable as a Block Based Programming Language.
 * Work through [Lab 1.1](lab_11.md) up through part 3 (scripts) as a class.
 * Point out key aspects of SNAP in each section, including:
   * the sections of the window in part 1

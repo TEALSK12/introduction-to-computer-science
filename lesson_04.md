@@ -9,7 +9,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now: I am ____](do_now_04.md)
-* [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab%200.4.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab%200.4.pdf))
+* [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab_04.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab_04.pdf))
 * Student Experience Survey [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.pdf)
 * Optional: digital camera
 * [Unit 0 Tips](unit_0_tips.md)
@@ -28,24 +28,44 @@ Students will be able to...
 ### 1. Introduce Activity
 
 * Tell students that today they will explore SNAP and use it to create a "self-portrait" program.
-* Emphasize that the goal of today's lesson is **_not_** for students to develop a deep understanding of any of the features in SNAP.  Later lessons will teach them everything they need to know.  For now, they should just explore, figure out what they can, and put it to use however they see fit.
+  * Emphasize that the goal of today's lesson is **_not_** for students to develop a deep understanding of any of the features in SNAP.  Later lessons will teach them everything they need to know.  For now, they should just explore, figure out what they can, and put it to use however they see fit.
+  * Tell them they will create SNAP accounts so they can save their self-portraits and share them.
+  * Give them the link to the Student Experience Survey (or the handout if you’re doing it on paper).   Tell them that answering these questions will help them to think about themselves and give them some ideas for their self-portraits.
 * Spend just a couple minutes demonstrating how to open SNAP, create sprites and scripts, and run programs.
-* **DO NOT** go into detail-- the specifics of SNAP will be covered in much more depth in unit 1.  The goal here is simply to give students enough of a starting point to be able to explore and try things out on their own.
+  * DO NOT go into detail-- the specifics of SNAP will be covered in much more depth in unit 1. The goal here is simply to give students enough of a starting point to be able to explore and try things out on their own.
 * Show students the [lab handout](lab_04.md) and read through the instructions.
-* Point out the places to write answers to the written questions in parts 1.2 and 1.3.
-* Draw special attention to the list of requirements for the self-portrait program in part 1.4.
-* This is an excellent opportunity to tell students that all labs in this course will look similar to this, and that they should get used to reading instructions carefully.
-* The [lab handout](lab_04.md) incoprates the *Student Experience Survey* questions avaialble in the Classroom Plan appendix.  It is a great starting point to learning about the cultural references of your students, but you can and should go beyond that and integrate opportunities to share and learn about your students in class activities and assignments.  In this lab students write a short program that shares an aspect of their cultural background or interests; teachers can create a model to show the class as a demo.  There is also a question asking students to share stories or sayings from their family.  You could use sayings provided (with student permission) to decorate the classroom and reinforce classroom learning values.
+  * Point out the places to write answers to the written questions in parts 1.2 and 1.3.
+  * Draw special attention to the list of requirements for the self-portrait pr ogram in part 1.4.
+  * This is an excellent opportunity to tell students that all labs in this course will look like this, and that they should get used to reading instructions carefully.
 
-### 2. Activity
+### 2.	Student Experiences Survey
+* Instruct students to complete the [Student Experiences Survey](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.docx)
+* Students should answer every question and “I don’t know” or “I’m not sure” are okay answers.  
+* **Optional**
+  *	If you have a digital camera available, you can take photos of the students for use in the SNAP self-portraits. 
+  * Doing so will give a level of personalization to each student's project. 
+  * You will need to provide students with a location to download their photo.
+  * In addition you need to walk students through the process of importing a costume from the file menu.  Do that as part of the instruction tomorrow.
+
+
+### 3. Activity
 
 * Instruct students to complete the ["Getting to Know You"](lab_04.md) lab.
+  * Make sure they understand what your expectations are for student SNAP account names.
+  * Verify that every student has an account.
+  
 * For part 1.3, you can either assign pairs or allow students to pair up on their own.  If students are allowed to choose their own partners, take care to ensure that no one is excluded.  If you choose to assign pairs, try to partner students into groups that are heterogenous by ability or background. Try to pair students who do not normally interact.
 * If the class has an odd number, form a single group of three.
 * Optional
 * If you have a digital camera available, you can take photos of the students and have them use their picture as the costume to the sprite.  Doing so will give a level of personalization to each student's project.  You will need to provide students with a location to download their photo.  In addition you need to walk students through the process of importing a costume from the file menu.
 
-### 3. Debrief
+### 4. Save and Share
+  *	Instruct students on how to Save their projects and what they should be named.
+  * Instruct students on how to Share saved projects so that they are able to be viewed by others.
+  * Here is a great video of how to share a Snap! program - [https://youtu.be/VHts_QAp3XU](https://youtu.be/VHts_QAp3XU)
+    * This is how students will submit projects to the teacher.
+
+### 5. Debrief
 
 * Ask each student to identify and describe _one_ feature they discovered in SNAP.  Keep a running list on the whiteboard or projector.
 * If the students build a pretty comprehensive list, you can use this as a chance to go over a brief roadmap for the course.
@@ -68,3 +88,6 @@ BJC Video Suggestion: [BJC Lecture 4: Functions](http://www.youtube.com/watch?v=
 ## Forum discussion
 
 [Lesson 0.4 SNAP Self Portrait](http://forums.tealsk12.org/c/unit-0-beginnings/lesson-0-4-snap-self-portrait) (TEALS Discourse account required).</a>
+
+
+_This Lesson was designed by J-Mag Guthrie, TEALS Volunteer, Texas_

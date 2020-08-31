@@ -1,4 +1,16 @@
 
+## [2.1.4] - 2020-08-28
+
+|Unit     | Change |
+|---------|--------|
+|Unit 0 | Added Resources for Creating an account, saving and sharing in Snap!|
+|Unit 0 | Added Video Resource for saving and sharing in Snap! |
+|Unit 1| Adding Scaffolding Accomodations for finding the Exterior angle of a shape|
+|Unit 1| Replace Do Now 1.3 Snap! Starter Code due to broken link|
+|Unit 1| Added Grace Hopper Summary Video|
+|Unit 1| fixed some formatting of images issue|
+
+
 ## [2.1.4] - 2020-08-27
 
 |Unit     | Change |

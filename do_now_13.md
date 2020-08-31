@@ -2,7 +2,7 @@
 
 ## Setup
 
-Open the [starter *Snap!* project], exit full screen, and save it to your account. You can use this as a starting point for today's lab.
+Open the [starter *Snap!* project](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Equalteral%20Triangle), exit full screen, and save it to your account. You can use this as a starting point for today's lab.
 
 > Try enabling “Visible steps” near the middle of the top toolbar. Adjust the slider so you can see what happens as *Snap!* steps through your program.
 

@@ -38,7 +38,7 @@ In this lab, you will explore the functionality of some common blocks and where 
 | ![go to x-y](gotox-y.png)                                                                           |                                                                                                                                                                                                                  |
 | ![set size](setsize.png)                                                                            |                                                                                                                                                                                                                  |
 | ![rest for beats](restforbeats.png)                                                                 |                                                                                                                                                                                                                  |
-| ![point towards](pointtowards.png)                                                                  |.                                                                                                                                                                                                                |
+| ![point towards](pointtowards.png)                                                                  |                                                                                                                                                                                                                |
 
 **2.2) At this point, you may be noticing some patterns. Use what you've learned from exploring these blocks to answer the questions below about each block category.**
 
@@ -66,9 +66,7 @@ You are now going to use some of the blocks you've explored to create, save, and
 2. Use the repeat block to play your song on loop
 3. Create a script that initializes the sprite at position (-20, 10). Then, have the sprite draw a shape that has at least 2 different colors and 2 different line thicknesses. An example would be a square that has 2 thin red sides, and 2 thick blue sides.
 4. BONUS: Create a SNAP script that draws a picture of your choice (such as draw a picture that represents your favorite music, food or hobby).  Use at least four of the blocks from parts 1 and 2.  Be creative!
-5. When you've completed all of the scripts above, save your file, share it, and then copy the unique URL below. Be sure to share and publish your file before pasting the URL.
-
-File URL:
+5. When you've completed all of the scripts above submit the Snap! URL to your teacher.
 
 ## Grading Scheme/Rubric
 

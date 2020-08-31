@@ -80,7 +80,10 @@ BJC Video Suggestion: [BJC Lecture 4: Functions](http://www.youtube.com/watch?v=
 ## Accommodation/Differentiation
 
 * Allow students to use whatever resources they need, including instructors, peers, and web searches if necessary, to create their programs.  The goal of this lesson is exploration and exposure, not mastery.
-* For students that are hesitant or unwilling to engage, point out some simple, useful features (like basic drawing and the ![Say Block](say.png) block) to get them started.  Remind them that complexity or "coolness" are not important for this lab.
+* For students that are hesitant or unwilling to engage, point out some simple, useful features (like basic drawing and the **Say** block) to get them started.  Remind them that complexity or "coolness" are not important for this lab.
+
+     ![Say Block](say.png)
+
 * If you wish, you can add a second day to this lesson for students to share out their programs on a volunteer basis.  Work with your classroom teacher and/or school IT staff to determine the best way for students to be able to present.
 * One simple option is to have volunteering students share their projects with you, and then show each one in turn on the teacher computer/projector.
 * Have a plan for collecting or accumulating the students' programs, which you can then use to get to know your class!

@@ -87,4 +87,4 @@ The origin (0,0) is the exact center of the grid.
 
 ## Forum discussion
 
-[Lesson 0.5 Snap Coordinate System](http://forums.tealsk12.org/c/unit-0-beginnings/Snap-Coordinate-System) (TEALS Discourse account required).</a>
+[Lesson 0.5 Snap! Coordinate System](http://forums.tealsk12.org/c/unit-0-beginnings/Snap-Coordinate-System) (TEALS Discourse account required).</a>

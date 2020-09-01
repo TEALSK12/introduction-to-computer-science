@@ -1,7 +1,7 @@
 # TEALS Unit 5 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 3, 5, 9, 12, 17
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 3, 5, 9, 12, 17
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -12,4 +12,4 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Global Variable     | A variable  that can be used by all of your sprites. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

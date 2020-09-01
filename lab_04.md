@@ -1,12 +1,12 @@
 # Lab 0.4 - Getting to Know You
 
-In this lab, you will explore SNAP and create a simple "self-portrait" program to introduce yourself to your instructors and classmates.
+In this lab, you will explore Snap! and create a simple "self-portrait" program to introduce yourself to your instructors and classmates.
 
 ## Part 1 - Exploring SNAP
 
-1. Open Snap on your computer.  The URL is http://snap.berkeley.edu/run
+1. Open Snap! on your computer.  The URL is http://snap.berkeley.edu/run
 
-2.	In order to save your programs, the first thing you'll need to do is make an account. In the SNAP browser window, find the cloud-shaped button in the top toolbar on the upper left corner of the window:
+2.	In order to save your programs, the first thing you'll need to do is make an account. In the Snap! browser window, find the cloud-shaped button in the top toolbar on the upper left corner of the window:
 
     <img src="SnapCloud.png"  />
 
@@ -16,9 +16,9 @@ In this lab, you will explore SNAP and create a simple "self-portrait" program t
 
 3. Spend a few minutes looking around, trying things out, and seeing what the language can do. Don't worry about understanding everything completely-- we'll go through things in a lot more detail soon. Just try to get a sense of some of the basic capabilities.
 
-4. Write down three things in your notebook you found that SNAP can do and how to do them. Be as specific as you can!
+4. Write down three things in your notebook you found that Snap! can do and how to do them. Be as specific as you can!
 
-     | SNAP can do this...| If I do this... |
+     | Snap! can do this...| If I do this... |
      | --- | --- |
      | 1.  |     |
      | 2.  |     |
@@ -26,13 +26,13 @@ In this lab, you will explore SNAP and create a simple "self-portrait" program t
 
 5. Find a partner and compare notes.  Share your findings with your partner and ask him or her about what he or she learned.  Write down the three capabilities your partner found below.
 
-     | SNAP can do this... | If I do this... |
+     | Snap! can do this... | If I do this... |
      | --- | --- |
      | 1.  |     |
      | 2.  |     |
      | 3.  | .   |
 
-6. Using what you've learned and other things you might discover, create a SNAP program that describes yourself. This can take whatever form and use whatever SNAP tools and blocks you want. Make sure that somehow, at some point in your program you show the following information:
+6. Using what you've learned and other things you might discover, create a Snap! program that describes yourself. This can take whatever form and use whatever Snap! tools and blocks you want. Make sure that somehow, at some point in your program you show the following information:
     * Your name
     * Your current grade
     * Your age
@@ -46,8 +46,8 @@ In this lab, you will explore SNAP and create a simple "self-portrait" program t
 
 | **Lab 0.4 Criteria**                   |         |
 | -------------------------------------- | -------------- |
-| 1.2 Listed 3 things you found Snap can do                     | 0.3 points     |
-| 1.3 Listed 3 things your partner found Snap can do            | 0.3 points     |
+| 1.2 Listed 3 things you found Snap! can do                     | 0.3 points     |
+| 1.3 Listed 3 things your partner found Snap! can do            | 0.3 points     |
 | Part 2                                                        |                |
 | Includes name                                                 | 0.2 points     |
 | Current grade                                                 | 0.2 points     |

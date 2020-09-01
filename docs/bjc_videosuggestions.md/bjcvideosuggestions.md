@@ -50,7 +50,7 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
   *	More Terminology (Boolean etc) 3:47-6:10
   *	Types of Input (Sentences, words, characters, digits) 6:12-8:00
   *	Functions (Explanations of Use-can be tied in to loops, and inputs) 8:00-9:55
-  *	MIT Scratch --> BYOB SNAP ( Development of SNAP, DEMO) 10:00-11:30
+  *	MIT Scratch --> BYOB Snap! ( Development of SNAP, DEMO) 10:00-11:30
   *	Functions-1 (BYOB-Custom Blocks) & Generalization 11:30-14:50
   *	Functions-2 (Join Block) Domain and Range 14:52-17:50
   *	Types of Blocks 18:15-19:45
@@ -122,7 +122,7 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
 	- 	Speedup Issues: Amdahl’s Law 16:42-19:50
 	- 	Background:Threads (Threads of Execution” is a single stream of instruction) 19:55-21:15
 	- 	Speedup Issues:Overhead 21:15-23:50
-	- 	Parallel Programing Example in SNAP BYOB (Race Condition) 23:53-26:50
+	- 	Parallel Programing Example in Snap! BYOB (Race Condition) 23:53-26:50
 	- 	Another Concurrency Problem (Deadlock and Livelock) 26:55-29:30
 	- 	Summary “Sea Change” of Computing 29:30 to End
 
@@ -131,7 +131,7 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
 *  [BJC Lecture 9: Recusion](https://www.youtube.com/watch?v=JKn3nsfzBdA) 
 	- 	Movie “Inception” as an example of recursion 0:00-0:50
 	- 	Recursion 0:50-1:40
-	- 	Recursion  Demo in Snap 1:40-17:00
+	- 	Recursion  Demo in Snap! 1:40-17:00
 	- 	Overview 17:00-21:00
 	- 	Definition of Recursion 21:00-24:30
 	- 	Examples of Recursion (You Already Know It!) 24:30-26:20
@@ -154,9 +154,9 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
  - Mobile World Congress 0:00-2:15
  - Recursion:Factorials (Factorial (n)+ n! 2:30-7:40
  - [Fibonacci and Fibonacci Series Video 7:45-11:45](http://www.youtube.com/watch?v=w2d_snYBLeY&t=7m45s) **Good for Classroom Instruction**
- - Fibonacci Ex: fin(n) Math and SNAP blocks 11:50-13:15
+ - Fibonacci Ex: fin(n) Math and Snap! blocks 11:50-13:15
  - Example of Recursion: Counting Change 13:20-17:30
- - Call Tree for “Counting Change” with SNAP example 17:35-22:50
+ - Call Tree for “Counting Change” with Snap! example 17:35-22:50
  - Summary of Recursion 25:40-26:21
 
 

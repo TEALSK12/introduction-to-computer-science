@@ -1,4 +1,4 @@
-# Unit 1 Quiz SNAP Basics
+# Unit 1 Quiz Snap! Basics
 
 ## Learning Objectives
 

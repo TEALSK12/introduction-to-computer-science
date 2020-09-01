@@ -1,4 +1,4 @@
-# Snap Lesson Starter Code
+# Snap! Lesson Starter Code
 
 ## Unit 1
 

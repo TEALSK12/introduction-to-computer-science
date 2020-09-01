@@ -6,9 +6,9 @@ In this lab, you will create a list of names and then look through the list pull
 
 1. Create a list of names with at least six different names (e.g. the names of your favorite music artists, family members, authors, celebrities, etc.).  Try to vary the names as much as you can.
 
-2. Write a SNAP script to welcome each person to the program by name, one at a time.  (For example, "Welcome, John."  "Welcome, Kayla."  "Welcome, Michael.")  Make sure not to modify the list of names when you run the script—you'll want the list again later.  Also make sure your script still works even if the list of names changes.
+2. Write a Snap! script to welcome each person to the program by name, one at a time.  (For example, "Welcome, John."  "Welcome, Kayla."  "Welcome, Michael.")  Make sure not to modify the list of names when you run the script—you'll want the list again later.  Also make sure your script still works even if the list of names changes.
 
-3. Write a new SNAP script that welcomes all the players at once.  So, for example instead of saying "Welcome, John," "Welcome, Kayla," and "Welcome, Michael." separately, you're new script should say "Welcome John, Kayla, and Michael."  Start by writing a script that can say all the names on one line, then try to add the commas and "and".  Make sure your script works correctly no matter how many names are in the list.
+3. Write a new Snap! script that welcomes all the players at once.  So, for example instead of saying "Welcome, John," "Welcome, Kayla," and "Welcome, Michael." separately, you're new script should say "Welcome John, Kayla, and Michael."  Start by writing a script that can say all the names on one line, then try to add the commas and "and".  Make sure your script works correctly no matter how many names are in the list.
 
 4. BONUS: Modify your code so that instead of using a pre-determined list of names, the user can enter the names to be included in the list one at a time.  You'll need to decide how to determine when the user has entered all the names.
 

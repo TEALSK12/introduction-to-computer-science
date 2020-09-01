@@ -1,6 +1,6 @@
 # Project 5 - Space Invaders
 
-Students will implement a SNAP version of the classic arcade game _Space Invaders_.
+Students will implement a Snap! version of the classic arcade game _Space Invaders_.
 
 ## Overview
 
@@ -50,9 +50,9 @@ As with all previous projects, your program must be well-written, well-documente
 
 The invaders and the projectiles should be implemented using prototyping.  A single master sprite should be implemented for each type and clones should be created each time a new instance of the sprite is needed.  The master sprites should be hidden throughout the program and should not take part in gameplay.
 
-#### Required SNAP Elements
+#### Required Snap! Elements
 
-Your program must include the following SNAP elements:
+Your program must include the following Snap! elements:
     * At least three variables
     * At least two custom blocks, at least one of which must take an argument
 

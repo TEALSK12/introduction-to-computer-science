@@ -5,7 +5,7 @@
 Students will be able to...
 
 * Construct simple algorithms to draw shapes
-* Convert algorithms into SNAP programs
+* Convert algorithms into Snap! programs
 
 ## Materials/Preparation
 

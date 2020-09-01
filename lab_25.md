@@ -5,7 +5,7 @@ In this lab, you will use Boolean operators to determine what sort of triangle a
 
 ## Is that even possible
 
-1. Write a SNAP program that asks the user for the lengths of all three sides of a triangle.  Store each length in a variable.  Then say the perimeter of the triangle with those three side lengths
+1. Write a Snap! program that asks the user for the lengths of all three sides of a triangle.  Store each length in a variable.  Then say the perimeter of the triangle with those three side lengths
 
 2. Add code to your program to check whether or not the three side lengths can form a real triangle.  Remember that, in any real triangle, the sum of the lengths of any two sides is greater than the length of the third side.  So, if the triangle has side lengths *a*, *b*, and *c*, then all of the following must be true:
 

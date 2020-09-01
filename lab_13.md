@@ -1,10 +1,10 @@
 # Lab 1.3: Squares and Triangles and Stars
 
-In this lab, you will write your first SNAP programs to draw some simple shapes on the stage.
+In this lab, you will write your first Snap! programs to draw some simple shapes on the stage.
 
 ## Drawing a square
 
-1. Write a SNAP script that draws a square when the number 1 is pressed on the keyboard. Remember that each corner of a square is a 90° angle, as shown in the figure below.
+1. Write a Snap! script that draws a square when the number 1 is pressed on the keyboard. Remember that each corner of a square is a 90° angle, as shown in the figure below.
 
     ![square diagram](90degreesquare.PNG)
 
@@ -27,7 +27,7 @@ In this lab, you will write your first SNAP programs to draw some simple shapes 
 
     You may want to draw a diagram similar to the one above of a square to figure out the angles in each shape.
 
-2. Add code so that as each shape is being drawn, the sprite is saying the name of shape.  The sprite should stop saying the name of the sprite when it is finished drawing.
+2. Add code so that as each shape is being drawn, the sprite is saying the name of shape.  The sprite should stop saying the name of the shape when it is finished drawing.
 
 3. Modify your code so that each different shape is drawn in a _different_ color and with a _different line thickness_. So, for example, if the square is drawn in blue with a line thickness of 3, each other shape must be drawn in a color that is not blue and with a line thickness that is not 3.
 

@@ -8,6 +8,7 @@
 | [0.2: Algorithms](lesson_02.md) | Define "algorithm." Construct algorithms for performing simple tasks. | N/A | [0.2 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.2.pptx) |
 | [0.3: Programming Languages](lesson_03.md) | Complete levels in the game LightBot 2.0. Complete small programs in SNAP with guidance. Explain why computer programs are written in specialized languages. | N/A | [0.3 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.3.pptx) |
 | [0.4: Snap Self Portrait](lesson_04.md) |  Create a simple "program" in SNAP to describe themselves | Getting to Know You | [0.4 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.4.pptx) |
+| [0.5: Snap Coordinate System](lesson_05.md) | Create a drawing using the Snap! Coordinate System | Getting to know Coordinates | [0.5 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.5.pptx) |
 
 ## Unit 1: SNAP Basics
 
@@ -74,17 +75,17 @@
 | [4.3: List Practice](lesson_43.md) I | Traverse a list, accessing each element one at a time. Perform operations combining all elements in a list. Select defined subsets of elements in a list. | Guess Who | [4.3 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%204.3.pptx)  |
 | [4.4: List Practice II](lesson_44.md) | Traverse a list, accessing each element one at a time. Perform operations combining all elements in a list. Select defined subsets of elements in a list. | Number Cruncher | [4.4 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%204.4.pptx) |
 | [4.5: Sequential Search](lesson_45.md) | Explain the sequential search algorithm. Implement several variations of sequential search. | It's Around Here Somewhere | [4.5 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%204.5.pptx)  |
-| [4.6: Word Guessing Game Project](lesson_46.md) | Use lists to implement a complete version of a word guessing game. Exercise good programming practices to produce code that is not only functional but also elegant and well-written. | Project 4: Hangman | |
-| [4.7: Project Day 1](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.8: Project Day 2](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.9: Project Day 3](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.10: Project Day 4](lesson_46.md) | Project Work  | Project 4: Word Guessing Game | |
-| [4.11: Project Day 5](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.12: Project Day 6](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.13: Project Day 7](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.14: Project Day 8](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.15: Project Day 9](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
-| [4.16: Project Day 10](lesson_46.md) | Project Work  | Project 4: Word Guessing Game  | |
+| [4.6: Word Guessing Game Project](lesson_46.md) | Use lists to implement a complete version of a word guessing game. Exercise good programming practices to produce code that is not only functional but also elegant and well-written. | Project 4: Guess My Word | |
+| [4.7: Project Day 1](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.8: Project Day 2](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.9: Project Day 3](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.10: Project Day 4](lesson_46.md) | Project Work  | Project 4: Guess My Word | |
+| [4.11: Project Day 5](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.12: Project Day 6](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.13: Project Day 7](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.14: Project Day 8](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.15: Project Day 9](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
+| [4.16: Project Day 10](lesson_46.md) | Project Work  | Project 4: Guess My Word  | |
 | [4.17: Culture Day](culture_day_lesson_d.md) | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
 
 ## Unit 5: Cloning
@@ -92,7 +93,7 @@
 | Lesson | Objectives | Lab | Slide Decks |
 | ------ | ---------- | --- | --- |
 | [5.1: Intro to Cloning](lesson_51.md) | Explain why prototyping and clones can be useful. Describe how complex goals can be accomplished using cloning. | Connect the Dots | [5.1 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%205.1.pptx) |
-| [5.2: Cloning Sprites](lesson_52.md) | Demonstrate the difference between sprite and global variables. Explain how cloning and prototyping simplify working with numerous similar sprites in the same program. Create prototype sprites and clones of the prototype sprite. Explain the difference between a "master" sprite and a "clone" sprite. | Lots of Balls | [5.2 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%25.2.pptx) |
+| [5.2: Cloning Sprites](lesson_52.md) | Demonstrate the difference between sprite and global variables. Explain how cloning and prototyping simplify working with numerous similar sprites in the same program. Create prototype sprites and clones of the prototype sprite. Explain the difference between a "master" sprite and a "clone" sprite. | Lots of Balls | [5.2 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%205.2.pptx) |
 | [5.3: Communicating With Clones](lesson_53.md) | Pass information to individual clones. [Optional] Describe a race condition that might occur due using global variables and clones. Delete clones when they are no longer needed. | Fewer Balls | [5.3 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%205.3.pptx) |
 | [5.4: Space Invaders](lesson_54.md) | Use cloning to implement a complete version of "Space Invaders." Exercise good programming practices to produce code that is not only functional but also elegant and well-written. | Project 5: Space Invaders | |
 | [5.5: Project Day 1](lesson_54.md) | Project Work  | Project 5: Space Invaders | |

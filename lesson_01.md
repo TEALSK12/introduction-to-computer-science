@@ -4,9 +4,9 @@
 
 Students will be able to...
 
-* Identify the class they are taking
-* List the high-level goals of the course
-* Describe classroom procedures, rules, and norms
+* Identify the class they are taking.
+* List the high-level goals of the course.
+* Describe classroom procedures, rules, and norms.
 
 ## Materials/Preparation
 
@@ -31,13 +31,13 @@ Students will be able to...
 * Utilize the plan developed with your teaching team for the first day of school.
 * The pacing guide above is a very broad suggestion.  You should adapt (or ignore) as necessary to fit your team's plan.
 * Suggested topics to cover:
-  * Names and backgrounds of TEALS team members
-  * Brief background on TEALS program (i.e. "Why are there so many adults here?")
+  * Names and backgrounds of TEALS team members.
+  * Brief background on TEALS program (i.e. "Why are there so many adults here?").
   * Go over the Classroom Syllabus with students.
   * Classroom rules, behavior expectations, grading guidelines, late work policies, etc.
-  * Academic Integrity/Cheating policy
-  * Introductions/Icebreakers with students
-  * High-level learning objectives for course
+  * Academic Integrity/Cheating policy.
+  * Introductions/Icebreakers with students.
+  * High-level learning objectives for course.
 
 ## BJC Lecture Suggestions
 

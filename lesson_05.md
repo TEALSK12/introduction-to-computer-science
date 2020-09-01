@@ -11,14 +11,14 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Do Now: Draw the Coordinate System](do_now_05.md)
-* [Lab 0.5 handout](lab_05.md) (Getting to know Coordinates) ([Docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab_05.docx)) ([PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab_05.pdf))
+* [Do Now: Draw the Coordinate System](do_now_05.md).
+* [Lab 0.5 handout](lab_05.md) (Getting to know Coordinates) ([Docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab_05.docx)) ([PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab_05.pdf)).
 * Famaliarize yourself with this [Coordinate System](https://www.desmos.com/calculator/ui4klsjued) tool.
   * Students will be entering coordinates on the left side of the screen
-  * The points will plot on the graph
-* Familarize yourself with this [Snap Template](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Snap%20Coordinate%20System%20Intro)
-* Familiarize yourself with the [Peabody Test](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=PeabodyTest)
-* [Unit 0 Tips](unit_0_tips.md)
+  * The points will plot on the graph.
+* Familarize yourself with this [Snap Template](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Snap%20Coordinate%20System%20Intro).
+* Familiarize yourself with the [Peabody Test](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=PeabodyTest).
+* [Unit 0 Tips](unit_0_tips.md).
 * Here is a place to print [Graph Paper](https://free-printable-paper.com/graph-paper/) in case it is necessary to print graph paper for the class.
 
 ## Pacing Guide
@@ -55,7 +55,7 @@ Use [this coordinate tool](https://www.desmos.com/calculator/ui4klsjued) to have
   * (100, 0)
   * (50, 100)
 
-Ask students if they connect the dots, what shape would the points make? (Answers may vary: Kite, Diamond, Quadralateral, Polygon, etc)
+Ask students if they connect the dots, what shape would the points make? (Answers may vary: Kite, Diamond, Quadralateral, Polygon, etc).
 
 ### 3. Integrate
 

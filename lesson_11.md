@@ -17,8 +17,6 @@ Students will be able to...
 * Ensure that all classroom computers can access <http://snap.berkeley.edu/run>.
 * Read through the lab so that you are familiar with the requirements and can assist students as needed
 * [Unit 1 Tips](unit_1_tips.md)
-* Here is an instruction to Snap! Video
-<iframe class="markdeep" width="560" height="315" src="https://www.youtube.com/embed/b-EWj7xN90U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pacing Guide
 
@@ -48,8 +46,6 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 
 #### 1. Introductory discussion
 
-* Play [Introductory video](https://youtu.be/b-EWj7xN90U) of Snap! put together by Jens Moenig
-  * This video helps to explain to students the power of Snap! while still being approachable as a Block Based Programming Language.
 * Review the definitions of "algorithm" and "program" developed in lesson 0.2
   * **Algorithm:** a complete, well-defined sequence of steps for completing a task or solving a problem
   * **Program:** a sequence of instructions or steps, written in a language that can be understood by a computer, that will be used by the computer to complete a task or solve a problem

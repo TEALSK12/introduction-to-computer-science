@@ -6,7 +6,7 @@ In this lab, you will explore Snap! and create a simple "self-portrait" program 
 
 1. Open Snap! on your computer.  The URL is http://snap.berkeley.edu/run
 
-2.	In order to save your programs, the first thing you'll need to do is make an account. In the Snap! browser window, find the cloud-shaped button in the top toolbar on the upper left corner of the window:
+2. In order to save your programs, the first thing you'll need to do is make an account. In the Snap! browser window, find the cloud-shaped button in the top toolbar on the upper left corner of the window:
 
     <img src="SnapCloud.png"  />
 
@@ -41,7 +41,7 @@ In this lab, you will explore Snap! and create a simple "self-portrait" program 
     * Any previous programming or computer experience you have
 
 7. Submit your Self Portait using the submission instructions of your instructor. If you are having trouble saving, here is a great video:  [https://youtu.be/VHts_QAp3XU](https://youtu.be/VHts_QAp3XU)
-   
+
 ## Grading Scheme/Rubric
 
 | **Lab 0.4 Criteria**                   |         |
@@ -60,4 +60,3 @@ In this lab, you will explore Snap! and create a simple "self-portrait" program 
 | Hobby or interest                                             | 0.2 points     |
 | Family Saying                                                 | 0.2 points     |
 | **PROJECT TOTAL**                                             | **2.4 points** |
-

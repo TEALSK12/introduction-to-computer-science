@@ -4,7 +4,7 @@ In this lab, you will use conditional statements and variables to build a simple
 
 ## Section 1 - I'm Thinking of a Number
 
-You will write a SNAP program to choose a random number between 1 and 10 and then ask the user to guess a number.  If the user's guess matches the random number, the user wins.  If not, the user loses.  In either case, the user should be shown a message indicating whether they won or lost and the secret random number should be revealed.
+You will write a Snap! program to choose a random number between 1 and 10 and then ask the user to guess a number.  If the user's guess matches the random number, the user wins.  If not, the user loses.  In either case, the user should be shown a message indicating whether they won or lost and the secret random number should be revealed.
 
 1. Fill out a [Planning Worksheet](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx) for the above program.
 

@@ -35,7 +35,7 @@ Students will be able to...
 2. Introduce predicate blocks as a special case of reporter blocks
 
     - Emphasize that predicates must return true or false
-    - Be aware, but don't necessarily tell students, that SNAP does not enforce this
+    - Be aware, but don't necessarily tell students, that Snap! does not enforce this
     - Point out examples, such as ![Touching Block](touching.png), ![less than block](lessThan.png), ![and block](and.png)
     - Ask students why it might be useful to differentiate predicates from other reporters
     - Only predicates can be used in a conditional
@@ -56,7 +56,7 @@ Students will be able to...
 
 - Struggling students should focus on just the first 2 or 3 parts of the lab.  Even if they cannot move on to the more difficult problems, getting used to defining custom reporters is helpful and important.
 - Advanced students who finish quickly can be utilized to assist other students.
-- Students who struggle in math may not be familiar with the distance formula used in part 2.1.  Help students to translate the math into SNAP code, but understanding the formula and its applications is not necessary for the activity.
+- Students who struggle in math may not be familiar with the distance formula used in part 2.1.  Help students to translate the math into Snap! code, but understanding the formula and its applications is not necessary for the activity.
 - If most students are not equipped to handle this math, a simpler computation, such as area of a triangle or average of three numbers, can be substituted.
 
 ## Forum discussion

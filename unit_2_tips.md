@@ -1,7 +1,7 @@
 # TEALS Unit 2 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -18,4 +18,4 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Truth Tables     | A tool for evaluating the possible inputs and outputs of a Boolean expression.|
 | Modeling     |Building a system to simulate the behavior of a real-life phenomenon by simplifying or ignoring certain details. |
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

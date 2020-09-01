@@ -35,7 +35,7 @@ Students will be able to...
 - Remind students that their solutions to previous assignments are an excellent resource when trying to accomplish similar tasks.
 - Walk students through the project specification, pointing out important details, potential pitfalls, and requirements.
 - Focus students' attention on the checkpoints to help them avoid becoming overwhelmed.
-- Help students import the word list into a SNAP list, either by right-clicking on the list view and selecting "import" or by parsing the online list directly using the `http://` block.  This is not one of the objectives of the project, so feel free to provide starter code if you prefer.
+- Help students import the word list into a Snap! list, either by right-clicking on the list view and selecting "import" or by parsing the online list directly using the `http://` block.  This is not one of the objectives of the project, so feel free to provide starter code if you prefer.
 - Emphasize that generating the "word pattern" or "blanks" and keeping that sequence up-to-date with each guess is the hardest part of the assignment, and should not be overlooked.
 - Remind students that it will be important to keep straight what each variable and list in the program is used for.  Each variable or list should have a single purpose, and those purposes should never be conflated.
 - Project

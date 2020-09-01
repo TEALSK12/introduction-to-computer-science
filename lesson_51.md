@@ -55,9 +55,9 @@ Students will be able to...
 - Mobile World Congress 0:00-2:15
 - Recursion:Factorials (Factorial (n)+ n! 2:30-7:40
 - [Fibonacci and Fibonacci Series Video](http://www.youtube.com/watch?v=w2d_snYBLeY&t=7m45s)  7:45-11:45
-- Fibonacci Ex: fin(n) Math and SNAP blocks 11:50-13:15
+- Fibonacci Ex: fin(n) Math and Snap! blocks 11:50-13:15
 - Example of Recursion: Counting Change 13:20-17:30
-- Call Tree for “Counting Change” with SNAP example 17:35-22:50
+- Call Tree for “Counting Change” with Snap! example 17:35-22:50
 - Summary of Recursion 25:40-26:21
 
 ## Accommodations/Differentiation

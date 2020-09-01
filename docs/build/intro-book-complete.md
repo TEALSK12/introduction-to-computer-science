@@ -9,21 +9,21 @@
       * [Unit 0 Tips](unit_0_tips.md)
     * [Lesson 0.3: Programming Languages](lesson_03.md)
       * [Unit 0 Tips](unit_0_tips.md)
-    * [Lesson 0.4: SNAP Self-Portrait](lesson_04.md)
+    * [Lesson 0.4: Snap! Self-Portrait](lesson_04.md)
       * [Unit 0 Tips](unit_0_tips.md)
       * [Do Now 0.4: I Am ...](do_now_04.md)
       * [Lab 0.4: Getting to Know You](lab_04.md)
-* [Unit 1: SNAP Basics](unit_1.md)
+* [Unit 1: Snap! Basics](unit_1.md)
     * [Lesson 1.1.1: Welcome to SNAP](lesson_11.md)
       * [Unit 1 Tips](unit_1_tips.md)
       * [Do Now 1.1: Coordinate Review](do_now_11.md)
       * [Lab 1.1: Welcome to SNAP!](lab_11.md)
-    * [Lesson 1.1.2: Welcome to SNAP (Continued lab)](lesson_11.md)
+    * [Lesson 1.1.2: Welcome to Snap! (Continued lab)](lesson_11.md)
       * [Unit 1 Tips](unit_1_tips.md)
     * [Lesson 1.2: Building Blocks](lesson_12.md)
       * [Unit 1 Tips](unit_1_tips.md)
       * [Do Now 1.2: Tracing and Debugging](do_now_12.md)
-      * [Lab 1.2: SNAP Scavenger Hunt](lab_12.md)
+      * [Lab 1.2: Snap! Scavenger Hunt](lab_12.md)
     * [Lesson 1.3: Drawing Shapes](lesson_13.md)
       * [Unit 1 Tips](unit_1_tips.md)
       * [Do Now 1.3: Drawing a Triangle](do_now_13.md)
@@ -32,7 +32,7 @@
       * [Unit 1 Tips](unit_1_tips.md)
       * [Do Now 1.4: Sprite Communication](do_now_14.md)
       * [Lab 1.4: Sprites in Action](lab_14.md)
-    * [Unit 1 Quiz: SNAP Basics](quiz_1.md)
+    * [Unit 1 Quiz: Snap! Basics](quiz_1.md)
     * [Lesson 1.5: Storytelling Project](lesson_15.md)
       * [Unit 1 Tips](unit_1_tips.md)
       * [Do Now 1.5 Day 1: Knock Knock](do_now_15.md)
@@ -206,7 +206,7 @@ This curriculum is designed for use with the Snap! programming language designed
 - [ScratchEd online community for Scratch educators:](https://scratch.mit.edu/educators/)
 - [Beauty and Joy of Computing curriculum:](http://bjc.berkeley.edu/)
 
-### Snap Mirrors
+### Snap! Mirrors
 
 Access to Snap! is necessary for students to complete the labs.  The main Snap! site has been known to be inaccessible due to system updates or network outages.  It is important to have contingency plans in the event the web site is unreachable.  Here is a list of mirror sites that can be used in the event the main site is unreachable.  In addition, Snap! can be downloaded to run locally on a student's computer, however the projects will not be able to be save to the cloud and will need to be exported and then imported to the cloud when Snap! becomes available.
 
@@ -269,7 +269,7 @@ With a few exceptions, each daily lesson plan consists of the following componen
 2. Instruction/Discussion
 
     - Most lessons begin with a brief period of instruction on the topic of the day.  These sections should be kept as brief as possible—the primary means of student learning in most lessons will be the lab activities.  
-    - The goals of the instruction section of the lesson should be to motivate the concepts being exercised in the lab and to provide a short demonstration to help students find the necessary parts of SNAP the first time.  
+    - The goals of the instruction section of the lesson should be to motivate the concepts being exercised in the lab and to provide a short demonstration to help students find the necessary parts of Snap! the first time.  
     - Teaching teams should vary the ways in which the instruction is presented throughout the course, including class discussions, kinesthetic activities, demonstrations, Socratic seminars, occasional lectures, and other approaches.
 
 3. Activity
@@ -345,19 +345,19 @@ However, the "Download" button does not work. There is workaround depending on t
 | ------ | ---------- | --- |
 | 0.1: The First Day | Identify the class they are taking. List the high-level goals of the course. Describe classroom procedures, rules, and norms. | N/A |
 | 0.2: Algorithms | Define "algorithm." Construct algorithms for performing simple tasks. | N/A |
-| 0.3: Programming Languages | Complete levels in the game LightBot 2.0. Complete small programs in SNAP with guidance. Explain why computer programs are written in specialized languages. | N/A |
-| 0.4: Snap Self Portrait |  Create a simple "program" in SNAP to describe themselves | Getting to Know You |
+| 0.3: Programming Languages | Complete levels in the game LightBot 2.0. Complete small programs in Snap! with guidance. Explain why computer programs are written in specialized languages. | N/A |
+| 0.4: Snap! Self Portrait |  Create a simple "program" in Snap! to describe themselves | Getting to Know You |
 
-## Unit 1: SNAP Basics
+## Unit 1: Snap! Basics
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
-| 1.1.1: Welcome to SNAP    | Define and identify "blocks," "scripts," "sprites," and "the stage" in SNAP. Write simple SNAP programs. Describe what simple SNAP programs do without executing the code.  | Welcome to SNAP! |
-| 1.1.2: Welcome to SNAP (Day Two)    | Continued lab  | Welcome to SNAP! |
-| 1.2: Building Blocks    |  Name the categories of blocks in SNAP and describe what the blocks in each category do. Describe the function of several common SNAP blocks. Be able to use common blocks to build simple SNAP programs. | SNAP Scavenger Hunt |
-| 1.3: Drawing Shapes    | Construct simple algorithms to draw shapes. Convert algorithms into SNAP programs. | Squares and Triangles and Stars, Oh My! |
-| 1.4: Animation    | Animate SNAP sprites using costume changes and movement. Trigger action in other sprites using broadcasts.  | Sprites in Action |
-| 1.5: Nursery Rhyme Project    | Apply basic programming and SNAP skills to create an animated movie, play, nursery rhyme, or other scene. Practice good debugging skills to correct issues as they arise while programming  | Project 1: Animated Nursery Rhyme |
+| 1.1.1: Welcome to Snap!    | Define and identify "blocks," "scripts," "sprites," and "the stage" in SNAP. Write simple Snap! programs. Describe what simple Snap! programs do without executing the code.  | Welcome to Snap! |
+| 1.1.2: Welcome to Snap! (Day Two)    | Continued lab  | Welcome to Snap! |
+| 1.2: Building Blocks    |  Name the categories of blocks in Snap! and describe what the blocks in each category do. Describe the function of several common Snap! blocks. Be able to use common blocks to build simple Snap! programs. | Snap! Scavenger Hunt |
+| 1.3: Drawing Shapes    | Construct simple algorithms to draw shapes. Convert algorithms into Snap! programs. | Squares and Triangles and Stars, Oh My! |
+| 1.4: Animation    | Animate Snap! sprites using costume changes and movement. Trigger action in other sprites using broadcasts.  | Sprites in Action |
+| 1.5: Nursery Rhyme Project    | Apply basic programming and Snap! skills to create an animated movie, play, nursery rhyme, or other scene. Practice good debugging skills to correct issues as they arise while programming  | Project 1: Animated Nursery Rhyme |
 | 1.6: Project Day 1 | Project Work  | Project 1: Animated Nursery Rhyme |
 | 1.7: Project Day 2 | Project Work  | Project 1: Animated Nursery Rhyme |
 | 1.8: Project Day 3 | Project Work  | Project 1: Animated Nursery Rhyme |
@@ -370,7 +370,7 @@ However, the "Download" button does not work. There is workaround depending on t
 | ------ | ---------- | --- |
 | 2.1: Loops | Define "loop" in a programming context. Explain why loops are useful. Implement simple repeat and forever loops in SNAP. Utilize loops to reduce redundancy in code. | Squares and Triangles Redux |
 | 2.2: Nested Loops | Use nested loops to solve programming problems. | Another Brick in the Wall |
-| 2.3: Inputs and Conditionals | Ask for and receive user input in a SNAP program. Use simple conditional (if and if-else) blocks to alter control flow in a SNAP program. | What Shape Is That? |
+| 2.3: Inputs and Conditionals | Ask for and receive user input in a Snap! program. Use simple conditional (if and if-else) blocks to alter control flow in a Snap! program. | What Shape Is That? |
 | 2.4: Variables | Use variables to track values throughout a program. | Guessing Game |
 | 2.5: Boole in the House | Define and identify Boolean expressions and operators. Evaluate Boolean expressions. Utilize Boolean operators (and/or/not) to create compound conditions. | Triangle of All Kinds |
 | 2.6: Combining Loops and Conditionals | Combine loops with conditionals to create models with repeated but conditional behavior. | What Goes Up... |
@@ -392,7 +392,7 @@ However, the "Download" button does not work. There is workaround depending on t
 | ------ | ---------- | --- |
 | 3.1: Abstraction and Friends | Define abstraction, detail removal, generalization, and procedural decomposition in a computer science context. Describe how utilizing procedural decomposition can improve the readability and maintainability of algorithms and/or code. Recognize opportunities to improve algorithms by abstracting or generalizing parts into sub procedures. | N/A |
 | 3.2: Procedures | Build custom command blocks in Snap. Utilize detail removal and generalization to construct blocks that practice abstraction. | Drawing Shapes (Again) |
-| 3.3: Customizing I: Arguments | Build custom SNAP blocks that take arguments. | Let Me Check My Calendar |
+| 3.3: Customizing I: Arguments | Build custom Snap! blocks that take arguments. | Let Me Check My Calendar |
 | 3.4: Customizing II: Reporters and Predicates | Build custom reporter and predicate blocks in SNAP. | If My Calculations Are Correct... |
 | 3.5: Platform Game Project | Use loops, variables, and Boolean expressions to implement a Super Mario Bros. style platform game. Practice good debugging skills to correct issues as they arise while programming. | Project 3: Platform Game |
 | 3.6: Project Day 1 | Project Work  | Project 3: Platform Game |
@@ -568,8 +568,8 @@ Students will be able to...
 
 # TEALS Unit 0 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document:](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true) 0, 16, 23
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document:](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true) 0, 16, 23
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -733,8 +733,8 @@ BJC Video Suggestion: [BJC Lecture 7: Algorithm Complexity](https://www.youtube.
 
 # TEALS Unit 0 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document:](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true) 0, 16, 23
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document:](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true) 0, 16, 23
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -756,14 +756,14 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 Students will be able to...
 
 - Complete levels in the game LightBot 2.0
-- Complete small programs in SNAP with guidance
+- Complete small programs in Snap! with guidance
 - Explain why computer programs are written in specialized languages
 
 ## Materials/Preparation
 
 - [ ] Classroom computers with internet access
 - [ ] **IMPORTANT: At least a few days prior to class,** ensure that the classroom computers can load the website for both activities.  If not, work with school IT to solve the problem.
-  - If you are not able to load SNAP on your classroom computers, you will not be able to proceed with the course.  Test this well ahead of time and make sure your school's IT staff knows what the requirements are and can help achieve them.
+  - If you are not able to load Snap! on your classroom computers, you will not be able to proceed with the course.  Test this well ahead of time and make sure your school's IT staff knows what the requirements are and can help achieve them.
 - [ ] Work through both the [LightBot Hour of Code](http://lightbot.com/hour-of-code.html) activity and the [SNAP Hour of Code](https://bjc.edc.org/hourofcode/#1) activity on your own so you are familiar with the activities and can provide assistance as needed
 - [ ] Part 3 of the LightBot activity calls itself "Loops" but is really using recursion (specifically tail-recursion). The exercises are still valuable, but be prepared to potentially discuss, or at least point out, the distinction so students are not confused when they encounter normal loops later.
 - [ ] [Unit 0 Tips](unit_0_tips.md)
@@ -795,7 +795,7 @@ Students will be able to...
 
 ### 2. Activity
 
-- Students should work through the LightBot 2.0 Hour of Code activity and/or the SNAP Hour of Code Activity.
+- Students should work through the LightBot 2.0 Hour of Code activity and/or the Snap! Hour of Code Activity.
 - Choose one activity as the requirement, and leave the other for those who finish quickly.
 - Allow students to struggle with the activities if needed, stressing the importance of patience and persistence in programming.
 
@@ -836,8 +836,8 @@ BJC Video Suggestion: [BJC Lecture 5: Programming Paradigms](https://www.youtube
 - Students who appear frustrated to the point of disengaging can be allowed to skip certain steps or work with a partner, but should NOT be able to opt out of the entire activity.
 - If there is only enough time for one activity, choose based on the following guidance:
 - LightBot is more challenging, but not substantially so, and is more game-like, which often leads to greater engagement.  LightBot is recommended if students seem capable of handling the challenge.
-- The SNAP activity is simpler, and most of the material is covered in the first few lessons of Unit 1, so it can be skipped without losing any experience.  However, in a suspected high-needs classroom, the easier goals and extra time with SNAP may be beneficial.
-- It is unlikely that students will finish _both_ activities in one class period.  On the rare occasion some do, encourage them to explore SNAP on their own or to try the full version of [LightBot 2.0](http://armorgames.com/play/6061/light-bot-20)
+- The Snap! activity is simpler, and most of the material is covered in the first few lessons of Unit 1, so it can be skipped without losing any experience.  However, in a suspected high-needs classroom, the easier goals and extra time with Snap! may be beneficial.
+- It is unlikely that students will finish _both_ activities in one class period.  On the rare occasion some do, encourage them to explore Snap! on their own or to try the full version of [LightBot 2.0](http://armorgames.com/play/6061/light-bot-20)
 
 ## Forum discussion
 
@@ -845,8 +845,8 @@ BJC Video Suggestion: [BJC Lecture 5: Programming Paradigms](https://www.youtube
 
 # TEALS Unit 0 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document:](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true) 0, 16, 23
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document:](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true) 0, 16, 23
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -860,13 +860,13 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Debug   | A process of locating and removing computer program bugs, fixing errors or abnormalities. |
 | Programming Language   | A vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks.  |
 
-# Lesson 0.4: SNAP Self-Portrait
+# Lesson 0.4: Snap! Self-Portrait
 
 ## Learning Objectives
 
 Students will be able to...
 
-* Create a simple "program" in SNAP to describe themselves
+* Create a simple "program" in Snap! to describe themselves
 
 ## Materials/Preparation
 
@@ -889,10 +889,10 @@ Students will be able to...
 
 ### 1. Introduce Activity
 
-* Tell students that today they will explore SNAP and use it to create a "self-portrait" program.
+* Tell students that today they will explore Snap! and use it to create a "self-portrait" program.
 * Emphasize that the goal of today's lesson is **_not_** for students to develop a deep understanding of any of the features in SNAP.  Later lessons will teach them everything they need to know.  For now, they should just explore, figure out what they can, and put it to use however they see fit.
 * Spend just a couple minutes demonstrating how to open SNAP, create sprites and scripts, and run programs.
-* **DO NOT** go into detail-- the specifics of SNAP will be covered in much more depth in unit 1.  The goal here is simply to give students enough of a starting point to be able to explore and try things out on their own.
+* **DO NOT** go into detail-- the specifics of Snap! will be covered in much more depth in unit 1.  The goal here is simply to give students enough of a starting point to be able to explore and try things out on their own.
 * Show students the [lab handout](lab_04.md) and read through the instructions.
 * Point out the places to write answers to the written questions in parts 1.2 and 1.3.
 * Draw special attention to the list of requirements for the self-portrait program in part 1.4.
@@ -911,7 +911,7 @@ Students will be able to...
 
 * Ask each student to identify and describe _one_ feature they discovered in SNAP.  Keep a running list on the whiteboard or projector.
 * If the students build a pretty comprehensive list, you can use this as a chance to go over a brief roadmap for the course.
-* Ask students what they enjoyed about working with SNAP and what they disliked.
+* Ask students what they enjoyed about working with Snap! and what they disliked.
 
 ## BJC Lecture Suggestions
 
@@ -929,12 +929,12 @@ BJC Video Suggestion: [BJC Lecture 4: Functions](http://www.youtube.com/watch?v=
 
 ## Forum discussion
 
-[Lesson 0.4 SNAP Self Portrait](http://forums.tealsk12.org/c/unit-0-beginnings/lesson-0-4-snap-self-portrait) (TEALS Discourse account required).</a>
+[Lesson 0.4 Snap! Self Portrait](http://forums.tealsk12.org/c/unit-0-beginnings/lesson-0-4-snap-self-portrait) (TEALS Discourse account required).</a>
 
 # TEALS Unit 0 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document:](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true) 0, 16, 23
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document:](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true) 0, 16, 23
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -963,19 +963,19 @@ This could be answered in many ways:
 
 And this is just the beginning.  
 
-After taking few minutes to think who you are, write down a few.  We will be using who you are to write a Snap self expression program.
+After taking few minutes to think who you are, write down a few.  We will be using who you are to write a Snap! self expression program.
 
 # Lab 0.4 - Getting to Know You
 
-In this lab, you will explore SNAP and create a simple "self-portrait" program to introduce yourself to your instructors and classmates.
+In this lab, you will explore Snap! and create a simple "self-portrait" program to introduce yourself to your instructors and classmates.
 
 ## Part 1 - Exploring SNAP
 
 1. Open [SNAP](http://snap.berkeley.edu/snapsource/snap.html) on your computer and spend a few minutes looking around, trying things out, and seeing what the language can do.  Don't worry about understanding everything completely-- we'll go through things in a lot more detail soon.  Just try to get a sense of some of the basic capabilities.
 
-2. Write down three things you found that SNAP can do and how to do them.  Be as specific as you can!
+2. Write down three things you found that Snap! can do and how to do them.  Be as specific as you can!
 
-     | SNAP can do this...| If I do this... |
+     | Snap! can do this...| If I do this... |
      | --- | --- |
      | 1.  |     |
      | 2.  |     |
@@ -983,7 +983,7 @@ In this lab, you will explore SNAP and create a simple "self-portrait" program t
 
 3. Find a partner and compare notes.  Share your findings with your partner and ask him or her about what he or she learned.  Write down the three capabilities your partner found below.
 
-     | SNAP can do this... | If I do this... |
+     | Snap! can do this... | If I do this... |
      | --- | --- |
      | 1.  |     |
      | 2.  |     |
@@ -991,14 +991,14 @@ In this lab, you will explore SNAP and create a simple "self-portrait" program t
 
 ## Part 2 - Who Are You
 
-Using what you've learned and other things you might discover, create a SNAP program that describes yourself.  This can take whatever form and use whatever SNAP tools and blocks you want.  Make sure that somehow, at some point in your program you show the information from the Student Experiences Survey. [(Download in Word)](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Student%20Experiences%20Survey.docx) [(Link to PDF)](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Student%20Experiences%20Survey.pdf)
+Using what you've learned and other things you might discover, create a Snap! program that describes yourself.  This can take whatever form and use whatever Snap! tools and blocks you want.  Make sure that somehow, at some point in your program you show the information from the Student Experiences Survey. [(Download in Word)](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Student%20Experiences%20Survey.docx) [(Link to PDF)](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Student%20Experiences%20Survey.pdf)
 
 ## Grading Scheme/Rubric
 
 | **Lab 0.4 Criteria**                                          |                |
 | ------------------------------------------------------------- | -------------- |
-| 1.2 Listed 3 things you found Snap can do                     | 0.3 points     |
-| 1.3 Listed 3 things your partner found Snap can do            | 0.3 points     |
+| 1.2 Listed 3 things you found Snap! can do                     | 0.3 points     |
+| 1.3 Listed 3 things your partner found Snap! can do            | 0.3 points     |
 | Part 2                                                        |                |
 | Includes name                                                 | 0.2 points     |
 | Current grade                                                 | 0.2 points     |
@@ -1021,8 +1021,8 @@ Using what you've learned and other things you might discover, create a SNAP pro
 Students will be able to...
 
 * Define and identify "blocks," "scripts," "sprites," and "the stage" in SNAP.
-* Write simple SNAP programs
-* Describe what simple SNAP programs do without executing the code
+* Write simple Snap! programs
+* Describe what simple Snap! programs do without executing the code
 
 ## Materials/Preparation
 
@@ -1068,7 +1068,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 #### 2.  Activity Walkthrough
 
 * Work through [Lab 1.1](lab_11.md) up through part 3 (scripts) as a class.
-* Point out key aspects of SNAP in each section, including:
+* Point out key aspects of Snap! in each section, including:
   * the sections of the window in part 1
   * block shapes and color-coding of categories in part 2
   * simply draw attention to the different shapes at this point; their meanings will be covered as each block type is introduced
@@ -1084,7 +1084,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
   * Try to pair students who do not normally interact.
   * Students should answer all questions and complete all activities and turn them in using your chosen turn-in procedure.
 * For written questions, either have students hand-write answers and turn in the hard copies or set up an electronic submission system of some kind.
-* For SNAP programs, including the Kaleidoscope program, students should save the program to the cloud and share a link with you
+* For Snap! programs, including the Kaleidoscope program, students should save the program to the cloud and share a link with you
 * Students should aim to get through at least part 6 by the end of Day 1
 * Throughout the period, you can pause class to discuss each numbered part of the lab before moving on
 * Circulate while students are working and try to judge when the majority of the class has finished each part
@@ -1103,7 +1103,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 * Include the parts completed as a class (parts 1-3)
 * Ask questions along the way to assess students' understanding of concepts.  
 * Conisder the following questions:
-  * Naming the parts of the SNAP window
+  * Naming the parts of the Snap! window
   * Defining "block," "reporter," "script," etc.
   * Describing the coordinate system used in SNAP
 
@@ -1130,7 +1130,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 
 ## Accommodations/Differentiation
 
-* For students that finish the lab early, encourage them to add more advanced features to their Kaleidoscope program, exploring parts of SNAP not covered in the lab.
+* For students that finish the lab early, encourage them to add more advanced features to their Kaleidoscope program, exploring parts of Snap! not covered in the lab.
 * Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity.  You can also use [Helping Trios.](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
 * No parts of this lab can be easily skipped without impacting learning objectives, so provide as much support or scaffolding as you can to ensure all students are able to complete the lab.  Add days to the lesson if needed.
 
@@ -1140,8 +1140,8 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 
 # TEALS Unit 1 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -1159,7 +1159,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Y Position     | The position that a sprite or the mouse is at along the vertical axis. | 
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 1.1 Cartesian Coordinate Plane Review
 
@@ -1311,7 +1311,7 @@ Curve Ends
 
 SNAP is a programming language, which you can use to tell a computer what to do. A program is a particular set of instructions for the computer to follow.
 
-Programs in most languages use only letters (and punctuation), but SNAP is different: it's a visual language. Instead of writing a program only using the keyboard, you will drag pictures of blocks and click them together.
+Programs in most languages use only letters (and punctuation), but Snap! is different: it's a visual language. Instead of writing a program only using the keyboard, you will drag pictures of blocks and click them together.
 
 The following is a program in SNAP!:
 
@@ -1319,11 +1319,11 @@ The following is a program in SNAP!:
 
 Can you guess what it might do? (Write your guess below)
 
-SNAP is different than many other languages in another way— you run it in a web browser like Firefox or Chrome. The URL that you can use to always get to SNAP! is
+SNAP is different than many other languages in another way— you run it in a web browser like Firefox or Chrome. The URL that you can use to always get to Snap! is
 
 **<http://snap.berkeley.edu/run>**
 
-In order to save your programs, the first thing you'll need to do is make an account. In the SNAP browser window, Find the cloud-shaped button in the top toolbar on the upper left corner of the window:
+In order to save your programs, the first thing you'll need to do is make an account. In the Snap! browser window, Find the cloud-shaped button in the top toolbar on the upper left corner of the window:
 
 ![Cloud Button](cloudButton.png)
 
@@ -1333,7 +1333,7 @@ Click it, select the "sign up" option in the menu, and follow the instructions t
 
 ## 1. Overview of the Window
 
-You may have noticed that there are a few main sections of the SNAP! window. These regions are named as shown below.
+You may have noticed that there are a few main sections of the Snap! window. These regions are named as shown below.
 
 ![Snap! Overview](snapOverview.png)
 
@@ -1341,7 +1341,7 @@ You may have noticed that there are a few main sections of the SNAP! window. The
 
 The area at the left edge of the window is the palette. As you see in the picture, it contains tabs for eight different-color block categories. In this lab, we will focus on the Motion, Sound, Pen, and Sensing tabs. You will learn about the other tabs in the next few labs.
 
-These tabs are an important organizational structure in SNAP because they are home to the various blocks that you will use to tell the computer what to do. The blocks are categorized under each tab based on what kind of thing each block does.
+These tabs are an important organizational structure in Snap! because they are home to the various blocks that you will use to tell the computer what to do. The blocks are categorized under each tab based on what kind of thing each block does.
 
 **2.1) Below, fill in the name of the category to which each block belongs.**
 
@@ -1369,11 +1369,11 @@ Back to the scripting area, if you click on the ![move 10 steps block](move.png)
 ## Part 3. Scripts
 
 Now that you have figured out how to make a sprite move, you might be wondering how to make the sprite do other things as well.
-To make a sprite do more than just move, we need to use different types of blocks and link them together. You can link blocks by Snapping (hence the name SNAP) them together -- drag a block right underneath the one to which you want to attach it. Blocks will SNAP together when one block's indentation is near the tab of the one above it. You should see a white bar appear like the one in the image below, which just shows you where the block will go after you drop it.
+To make a sprite do more than just move, we need to use different types of blocks and link them together. You can link blocks by Snapping (hence the name SNAP) them together -- drag a block right underneath the one to which you want to attach it. Blocks will Snap! together when one block's indentation is near the tab of the one above it. You should see a white bar appear like the one in the image below, which just shows you where the block will go after you drop it.
 
-![Two blocks about to SNAP together](../twoblocksabouttosnaptogether.png)
+![Two blocks about to Snap! together](../twoblocksabouttosnaptogether.png)
 
-If you keep attaching blocks together in this way, you will create a script. A SNAP program consists of one or more of these scripts.
+If you keep attaching blocks together in this way, you will create a script. A Snap! program consists of one or more of these scripts.
 
 **3.1) Try recreating the following script in the scripting area in SNAP.**
 
@@ -1389,7 +1389,7 @@ Remember, a script will tell the sprite what to do. Click on the script and see 
 
 ![Script with move and say blocks](scriptwithmoveandsayblocks.png)
 
-Be sure to note: **blocks in a script run in a specific order, from the top of the script to the bottom**. Generally, SNAP waits until one block has finished its job before continuing on to the block below it. (One common exception is blocks that play sounds: a block's job can be to start the sound, which means the block below it will execute while the sound is still playing.
+Be sure to note: **blocks in a script run in a specific order, from the top of the script to the bottom**. Generally, Snap! waits until one block has finished its job before continuing on to the block below it. (One common exception is blocks that play sounds: a block's job can be to start the sound, which means the block below it will execute while the sound is still playing.
 
 ## Part 4: Reporters
 
@@ -1481,7 +1481,7 @@ From the previous exercise, you may have figured out what the ![forever](forever
 
 Will a ![forever](forever.png) block ever stop?
 
-Not unless you tell it to: Click on the stop sign icon on the upper right hand corner of the SNAP! window.
+Not unless you tell it to: Click on the stop sign icon on the upper right hand corner of the Snap! window.
 
 ![stop button](stopbutton.png)
 
@@ -1527,7 +1527,7 @@ d) a straight line
 
 ## Part 9: Make a Kaleidoscope
 
-Explore this drawing program for a little bit (<https://aka.ms/kaleidodraw2>). Press the spacebar to run the program, and move your mouse cursor over the stage of the SNAP! window. While over the stage, use the **d** (pen down), **u** (pen up), and **c** (clear) keyboard keys to change what gets drawn on the screen. The script that causes the sprite to follow the pointer is
+Explore this drawing program for a little bit (<https://aka.ms/kaleidodraw2>). Press the spacebar to run the program, and move your mouse cursor over the stage of the Snap! window. While over the stage, use the **d** (pen down), **u** (pen up), and **c** (clear) keyboard keys to change what gets drawn on the screen. The script that causes the sprite to follow the pointer is
 
 ![forever go to mouse x-y](forevergotomouse.png)
 
@@ -1586,8 +1586,8 @@ Some tips:
 Students will be able to...
 
 * Define and identify "blocks," "scripts," "sprites," and "the stage" in SNAP.
-* Write simple SNAP programs
-* Describe what simple SNAP programs do without executing the code
+* Write simple Snap! programs
+* Describe what simple Snap! programs do without executing the code
 
 ## Materials/Preparation
 
@@ -1633,7 +1633,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 #### 2.  Activity Walkthrough
 
 * Work through [Lab 1.1](lab_11.md) up through part 3 (scripts) as a class.
-* Point out key aspects of SNAP in each section, including:
+* Point out key aspects of Snap! in each section, including:
   * the sections of the window in part 1
   * block shapes and color-coding of categories in part 2
   * simply draw attention to the different shapes at this point; their meanings will be covered as each block type is introduced
@@ -1649,7 +1649,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
   * Try to pair students who do not normally interact.
   * Students should answer all questions and complete all activities and turn them in using your chosen turn-in procedure.
 * For written questions, either have students hand-write answers and turn in the hard copies or set up an electronic submission system of some kind.
-* For SNAP programs, including the Kaleidoscope program, students should save the program to the cloud and share a link with you
+* For Snap! programs, including the Kaleidoscope program, students should save the program to the cloud and share a link with you
 * Students should aim to get through at least part 6 by the end of Day 1
 * Throughout the period, you can pause class to discuss each numbered part of the lab before moving on
 * Circulate while students are working and try to judge when the majority of the class has finished each part
@@ -1668,7 +1668,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 * Include the parts completed as a class (parts 1-3)
 * Ask questions along the way to assess students' understanding of concepts.  
 * Conisder the following questions:
-  * Naming the parts of the SNAP window
+  * Naming the parts of the Snap! window
   * Defining "block," "reporter," "script," etc.
   * Describing the coordinate system used in SNAP
 
@@ -1695,7 +1695,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 
 ## Accommodations/Differentiation
 
-* For students that finish the lab early, encourage them to add more advanced features to their Kaleidoscope program, exploring parts of SNAP not covered in the lab.
+* For students that finish the lab early, encourage them to add more advanced features to their Kaleidoscope program, exploring parts of Snap! not covered in the lab.
 * Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity.  You can also use [Helping Trios.](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
 * No parts of this lab can be easily skipped without impacting learning objectives, so provide as much support or scaffolding as you can to ensure all students are able to complete the lab.  Add days to the lesson if needed.
 
@@ -1705,8 +1705,8 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 
 # TEALS Unit 1 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -1724,7 +1724,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Y Position     | The position that a sprite or the mouse is at along the vertical axis. | 
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Lesson 1.2: Building Blocks
 
@@ -1732,9 +1732,9 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 
 Students will be able to...
 
-- Name the categories of blocks in SNAP and describe what the blocks in each category do
-- Describe the function of several common SNAP blocks (see [lab](lab_12.md) for specific blocks)
-- Be able to use common blocks to build simple SNAP programs (see [lab](lab_12.md) for specific blocks)
+- Name the categories of blocks in Snap! and describe what the blocks in each category do
+- Describe the function of several common Snap! blocks (see [lab](lab_12.md) for specific blocks)
+- Be able to use common blocks to build simple Snap! programs (see [lab](lab_12.md) for specific blocks)
 
 ## Materials/Preparation
 
@@ -1760,7 +1760,7 @@ Students will be able to...
 
 - Do Now Debrief:
 - Tell the story of [Admiral Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) who originated the term "Debugging"
-- Review the basics of SNAP from the previous lesson
+- Review the basics of Snap! from the previous lesson
 - Ensure that students can:
   - Define "block" and "script"
   - Describe how to build a script (snapping blocks together)
@@ -1771,7 +1771,7 @@ Students will be able to...
 ### 2.  Activity
 
 - Individually or in heterogeneous pairs as described in previous lessons, have students work through the ["SNAP Scavenger Hunt"](lab_12.md) activity
-- Students should turn in answers to all questions and SNAP programs for the final problems
+- Students should turn in answers to all questions and Snap! programs for the final problems
 - Consider gamifying the worksheet or debrief as an online poll and/or quiz
 
 ### 3.  Debrief
@@ -1787,7 +1787,7 @@ Students will be able to...
 - the ![Go to XY block](gotox-y.png) and ![Glide block](glide.png) blocks require explicit x- and y-coordinates
 - Solicit a few student responses for each category in part 2.2 before commenting yourself
 - Try to guide the students to discuss with each other and settle on a description for each category with minimal instructor intervention
-- Discuss one or two student solutions to each of the SNAP programming problems
+- Discuss one or two student solutions to each of the Snap! programming problems
 - Either solicit volunteers or use cold call alternative
 - Point out differences between student solutions and call attention to the fact that there is more than one way to solve a problem
 
@@ -1803,8 +1803,8 @@ Students will be able to...
 
 # TEALS Unit 1 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -1822,7 +1822,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Y Position     | The position that a sprite or the mouse is at along the vertical axis. | 
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 1.2 Tracing and Debugging
 
@@ -1899,7 +1899,7 @@ You are now going to use some of the blocks you've explored to create, save, and
 1. Create a script that plays 4 different notes with at least 2 rests in between.
 2. Use the repeat block to play your song on loop
 3. Create a script that initializes the sprite at position (-20, 10). Then, have the sprite draw a shape that has at least 2 different colors and 2 different line thicknesses. An example would be a square that has 2 thin red sides, and 2 thick blue sides.
-4. BONUS: Create a SNAP script that draws a picture of your choice (such as draw a picture that represents your favorite music, food or hobby).  Use at least four of the blocks from parts 1 and 2.  Be creative!
+4. BONUS: Create a Snap! script that draws a picture of your choice (such as draw a picture that represents your favorite music, food or hobby).  Use at least four of the blocks from parts 1 and 2.  Be creative!
 5. When you've completed all of the scripts above, save your file, share it, and then copy the unique URL below. Be sure to share and publish your file before pasting the URL.
 
 File URL:
@@ -1924,7 +1924,7 @@ File URL:
 Students will be able to...
 
 * Construct simple algorithms to draw shapes
-* Convert algorithms into SNAP programs
+* Convert algorithms into Snap! programs
 
 ## Materials/Preparation
 
@@ -1982,8 +1982,8 @@ Students will be able to...
 
 # TEALS Unit 1 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -2001,7 +2001,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Y Position     | The position that a sprite or the mouse is at along the vertical axis. | 
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 1.3: Drawing a Triangle
 
@@ -2021,11 +2021,11 @@ Using only the blocks already added on screen (not every block is needed), creat
 
 # Lab 1.3: Squares and Triangles and Stars
 
-In this lab, you will write your first SNAP programs to draw some simple shapes on the stage.
+In this lab, you will write your first Snap! programs to draw some simple shapes on the stage.
 
 ## 1. Drawing a square
 
-1.1) Write a SNAP script that draws a square when the number 1 is pressed on the keyboard. Remember that each corner of a square is a 90° angle, as shown in the figure below.
+1.1) Write a Snap! script that draws a square when the number 1 is pressed on the keyboard. Remember that each corner of a square is a 90° angle, as shown in the figure below.
 
 ![square diagram](90degreesquare.PNG)
 
@@ -2072,7 +2072,7 @@ You may want to draw a diagram similar to the one above of a square to figure ou
 
 Students will be able to...
 
-* Animate SNAP sprites using costume changes and movement
+* Animate Snap! sprites using costume changes and movement
 * Trigger action in other sprites using broadcasts
 
 ## Materials/Preparation
@@ -2110,7 +2110,7 @@ _Note: The [Lesson 1.4](http://snap.berkeley.edu/snapsource/snap.html#present:Us
     * Point out that all sprites "hear" a broadcast and any sprite with a corresponding "when I receive" will react.
     * Discuss the difference between "broadcast" and "broadcast and wait" and ask students to come up with ideas for when each would be useful.
 
-4. It's worthwhile to introduce the rotate buttons located at the top left of the SNAP interface. These buttons allow you to snap (puns!) your rotation, allowing you to lock rotation, allow free rotation, or allow only left/right rotation.
+4. It's worthwhile to introduce the rotate buttons located at the top left of the Snap! interface. These buttons allow you to Snap! (puns!) your rotation, allowing you to lock rotation, allow free rotation, or allow only left/right rotation.
 
     ![rotate buttons](rotateButton.PNG)
 
@@ -2137,8 +2137,8 @@ _Note: The [Lesson 1.4](http://snap.berkeley.edu/snapsource/snap.html#present:Us
 
 # TEALS Unit 1 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -2156,7 +2156,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Y Position     | The position that a sprite or the mouse is at along the vertical axis. | 
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 1.4 Example Animation
 
@@ -2164,7 +2164,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 
 1. Open this [starter project](https://snap.berkeley.edu/snapsource/snap.html#present:Username=instructor_resources&ProjectName=Do%20Now%201.4%20-%20Example%20Animation).
 
-2. Log into your SNAP account and save the starter project so you can refer back to it later. Name the project "Do Now 1.4 - Example Animation".
+2. Log into your Snap! account and save the starter project so you can refer back to it later. Name the project "Do Now 1.4 - Example Animation".
 
 3. Press the space bar on your keyboard several times in a row. Notice what happens to the two bats on the screen.
 
@@ -2172,17 +2172,17 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 
 4. Use your mouse to point the cursor at one of the bats. Then, click the mouse button several times.  Notice what happens to the two bats on the screen.
 
-5. Take a look at all of the parts of the SNAP window. Try to figure out how the project works.  Be sure to explore the tabs at the top of the scripting area and the icons in the Sprite Corral.
+5. Take a look at all of the parts of the Snap! window. Try to figure out how the project works.  Be sure to explore the tabs at the top of the scripting area and the icons in the Sprite Corral.
   
     > Hint: It may be helpful to activate "visual steps" with the footprint icon near the middle of the top toolbar.
 
 # Lab 1.4: Sprites in Action
 
-In this lab, you will use costumes and movement to create simple SNAP animations.
+In this lab, you will use costumes and movement to create simple Snap! animations.
 
 ## 1. Run, Spot, Run
 
-**1.1) In a SNAP project, click on the file menu, then click costumes.  Import the costumes "dog2 a" and "dog2 b".**
+**1.1) In a Snap! project, click on the file menu, then click costumes.  Import the costumes "dog2 a" and "dog2 b".**
 
   ![Menu->Costumes](menucostumes.png)
 
@@ -2230,7 +2230,7 @@ In this lab, you will use costumes and movement to create simple SNAP animations
 | 3.4 Another sprite runs away too                  | 0.25 points    |
 | **PROJECT TOTAL**                                 | **2.0 points** |
 
-# Unit 1 Quiz SNAP Basics
+# Unit 1 Quiz Snap! Basics
 
 ## Learning Objectives
 
@@ -2248,7 +2248,7 @@ Formative assessment on student progress: To gauge student understanding, the ad
 
 Students will be able to...
 
-* Apply basic programming and SNAP skills to create an animated movie, play, nursery rhyme, or other scene
+* Apply basic programming and Snap! skills to create an animated movie, play, nursery rhyme, or other scene
 * Practice good debugging skills to correct issues as they arise while programming
 
 ## Materials/Preparation
@@ -2312,7 +2312,7 @@ Students will be able to...
 * Assess the progress of your students regularly using such techniques as asking them to demonstrate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
 * Adjust the amount of time allowed for the project to fit the needs of your students
 * It is vital that nearly all students complete the project before moving on
-* If most students have the ability to work on SNAP assignments at home, the amount of in-class time provided can be reduced if necessary.
+* If most students have the ability to work on Snap! assignments at home, the amount of in-class time provided can be reduced if necessary.
 * If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
 * Ensure that students are able to ask questions in class throughout the project
 * See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
@@ -2330,8 +2330,8 @@ Students will be able to...
 
 # TEALS Unit 1 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -2349,11 +2349,11 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Y Position     | The position that a sprite or the mouse is at along the vertical axis. | 
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 1.5 Day 1 Knock Knock
 
-Write a SNAP program where 1 sprite is telling another a "knock, knock" joke. Internet search for one if you need ideas. Use these blocks:
+Write a Snap! program where 1 sprite is telling another a "knock, knock" joke. Internet search for one if you need ideas. Use these blocks:
 
 ![Broadcast](broadcast.png)
 
@@ -2361,7 +2361,7 @@ Write a SNAP program where 1 sprite is telling another a "knock, knock" joke. In
 
 # Do Now 1.5 Day 2 Click Event Interaction
 
-Write a SNAP program where 1 sprite acts as a button and when pressed, it increases the size of another sprite. Use these blocks:
+Write a Snap! program where 1 sprite acts as a button and when pressed, it increases the size of another sprite. Use these blocks:
 
 ![Broadcast](broadcast.png)
 
@@ -2384,7 +2384,7 @@ Program the Bat to then turn around and fly away.
 
 # Project 1: Animated Storytelling
 
-Students will use SNAP basics to implement an animated version of a story.
+Students will use Snap! basics to implement an animated version of a story.
 
 ## Overview
 
@@ -2414,9 +2414,9 @@ For this project, student may be encouraged to portray an animation that depicts
 
 ### Behavior
 
-You will create a short animation in SNAP depicting a story of your choice.
+You will create a short animation in Snap! depicting a story of your choice.
 
-* Whenever the green flag is clicked, your SNAP animation should display your chosen story line by line somewhere on the stage. (This should work correctly even if the last run was interrupted and restart.)
+* Whenever the green flag is clicked, your Snap! animation should display your chosen story line by line somewhere on the stage. (This should work correctly even if the last run was interrupted and restart.)
 * As each line is shown, sprites should act out the story.
 * The animation should advance on its own, but should do so at a pace that allows each action to complete and the viewer to read the line before the next line is shown and new action begins.
 * In addition, the sprites must act out the story; you should not simply create a series of static backgrounds or costumes that show a stop*motion version of the story.
@@ -2424,7 +2424,7 @@ You will create a short animation in SNAP depicting a story of your choice.
 * When the story ends, there should be a way for the user to replay the entire animation from the beginning.
 * You are free to be as creative as you like with your choice of sprites and actions.
 
-You may choose from the sprites provided by SNAP or create your own. (You will not be graded on your artistic skills.) You may interpret the story literally or be clever with your depiction (but don't go too far). However, all sprites, behaviors, words, and animations must be school*appropriate.
+You may choose from the sprites provided by Snap! or create your own. (You will not be graded on your artistic skills.) You may interpret the story literally or be clever with your depiction (but don't go too far). However, all sprites, behaviors, words, and animations must be school*appropriate.
 
 If you choose a particularly long story, you may not need to animate the whole thing. Please check with your teacher if you think your idea is long enough for this.
 
@@ -2523,7 +2523,7 @@ _ [Starter Code]
 
 - Begin with general definition: _A type of block that causes other code to run multiple times in succession_
 - Use real life loops to introduce the concept- [water cycle](https://pmm.nasa.gov/education/water-cycle), eating one spoonful at a time,use a poem like ["Still I Rise"](https://m.poets.org/poetsorg/poem/still-i-rise) by Maya Angelou or a song with a repetitive hook like ["Happy"](https://genius.com/Pharrell-williams-happy-lyrics) by Pharrell Williams. If you choose to use a song, you can break students into groups and have each group choose their own song.  Make sure to ask students to identify a song that has a repetitive hook without explicit lyrics.
-- Introduce SNAP specific loops:
+- Introduce Snap! specific loops:
 - ![Repeat Block](repeat.png) runs the body of the loop the specified number of times
 - Number of iterations can be a value, variable, or reporter
 - ![Forever Block](forever.png) runs the body of the loop nonstop until the script is ended
@@ -2568,8 +2568,8 @@ _ [Starter Code]
 
 # TEALS Unit 2 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -2586,7 +2586,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Truth Tables     | A tool for evaluating the possible inputs and outputs of a Boolean expression.|
 | Modeling     |Building a system to simulate the behavior of a real-life phenomenon by simplifying or ignoring certain details. |
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 2.1 Intro Loops
 
@@ -2601,7 +2601,7 @@ Go to this [starter project](http://snap.berkeley.edu/snapsource/snap.html#prese
 <!-- REVISED -->
 # Lab 2.1 - Squares and Triangles Redux
 
-In this lab, you will rewrite your SNAP programs from Lab 1.3 to draw shapes using loops.
+In this lab, you will rewrite your Snap! programs from Lab 1.3 to draw shapes using loops.
 
 ## Section 1 - Back In Time
 
@@ -2736,8 +2736,8 @@ Students will be able to...
 
 # TEALS Unit 2 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -2754,7 +2754,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Truth Tables     | A tool for evaluating the possible inputs and outputs of a Boolean expression.|
 | Modeling     |Building a system to simulate the behavior of a real-life phenomenon by simplifying or ignoring certain details. |
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 2.2 Zigzag
 
@@ -2770,7 +2770,7 @@ In this lab, you will use nested loops to draw a yellow brick road using as litt
 
 ## Part 1 - Brick by Brick
 
-1. Write a SNAP script to draw a single 20x10 "brick" in the lower left corner of the stage when the green flag is clicked.
+1. Write a Snap! script to draw a single 20x10 "brick" in the lower left corner of the stage when the green flag is clicked.
 
 2. Modify your code to draw two bricks side by side.  The bricks should share a short edge, like this: ![Two yellow bricks](two%20bricks%20yellow.png)
 
@@ -2804,8 +2804,8 @@ In this lab, you will use nested loops to draw a yellow brick road using as litt
 
 Students will be able to...
 
-- Ask for and receive user input in a SNAP program
-- Use simple conditional (if and if-else) blocks to alter control flow in a SNAP program
+- Ask for and receive user input in a Snap! program
+- Use simple conditional (if and if-else) blocks to alter control flow in a Snap! program
 
 ## Materials/Preparation
 
@@ -2915,8 +2915,8 @@ http://forums.tealsk12.org/c/intro-unit-2-loops/lesson-2-3-inputs-and-conditiona
 
 # TEALS Unit 2 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -2933,7 +2933,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Truth Tables     | A tool for evaluating the possible inputs and outputs of a Boolean expression.|
 | Modeling     |Building a system to simulate the behavior of a real-life phenomenon by simplifying or ignoring certain details. |
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 2.3 Stairs
 
@@ -2952,7 +2952,7 @@ In this lab, you will use user input and conditional statements to identify shap
 
 ## Part 1 - Triangle...or no triangle
 
-1. Write a SNAP program that asks the user to think of a shape and input how many sides it has.  Then, if the user is thinking of a triangle, tell him or her so.  Regardless of whether or not the shape was a triangle, thank the user for playing.
+1. Write a Snap! program that asks the user to think of a shape and input how many sides it has.  Then, if the user is thinking of a triangle, tell him or her so.  Regardless of whether or not the shape was a triangle, thank the user for playing.
 
 2. Modify your program to give an appropriate message both when the user _is_ thinking of a triangle and when he or she is _not_ thinking of a triangle.  Give the same thank you message afterward in either case.
 
@@ -3067,8 +3067,8 @@ Students will be able to...
 
 # TEALS Unit 2 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -3085,7 +3085,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Truth Tables     | A tool for evaluating the possible inputs and outputs of a Boolean expression.|
 | Modeling     |Building a system to simulate the behavior of a real-life phenomenon by simplifying or ignoring certain details. |
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 2.4 Debugging
 
@@ -3099,7 +3099,7 @@ In this lab, you will use conditional statements and variables to build a simple
 
 ## Section 1 - I'm Thinking of a Number
 
-You will write a SNAP program to choose a random number between 1 and 10 and then ask the user to guess a number.  If the user's guess matches the random number, the user wins.  If not, the user loses.  In either case, the user should be shown a message indicating whether they won or lost and the secret random number should be revealed.
+You will write a Snap! program to choose a random number between 1 and 10 and then ask the user to guess a number.  If the user's guess matches the random number, the user wins.  If not, the user loses.  In either case, the user should be shown a message indicating whether they won or lost and the secret random number should be revealed.
 
 1. Fill out a [Planning Worksheet](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx) for the above program.
 
@@ -3180,7 +3180,7 @@ Students will be able to...
 - Nest operations: e.g. `(x = 4; y = -3; x == y OR (x > 0 AND y < 0))`
 - Discuss short-circuiting in evaluation of Boolean expressions
 - Discuss situations in which the Boolean operators might be needed
-- The lack of <= and >= operators in SNAP makes for a great example
+- The lack of <= and >= operators in Snap! makes for a great example
 
 ### 3.  Activity
 
@@ -3233,8 +3233,8 @@ Students will be able to...
 
 # TEALS Unit 2 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -3251,7 +3251,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Truth Tables     | A tool for evaluating the possible inputs and outputs of a Boolean expression.|
 | Modeling     |Building a system to simulate the behavior of a real-life phenomenon by simplifying or ignoring certain details. |
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 2.5 Variables Practice
 
@@ -3276,7 +3276,7 @@ In this lab, you will use Boolean operators to determine what sort of triangle a
 
 ## Is that even possible
 
-1. Write a SNAP program that asks the user for the lengths of all three sides of a triangle.  Store each length in a variable.  Then say the perimeter of the triangle with those three side lengths
+1. Write a Snap! program that asks the user for the lengths of all three sides of a triangle.  Store each length in a variable.  Then say the perimeter of the triangle with those three side lengths
 
 2. Add code to your program to check whether or not the three side lengths can form a real triangle.  Remember that, in any real triangle, the sum of the lengths of any two sides is greater than the length of the third side.  So, if the triangle has side lengths *a*, *b*, and *c*, then all of the following must be true:
 
@@ -3346,7 +3346,7 @@ Students will be able to...
 * Ask students what loops do, when they are useful, and what loops exist in SNAP
   * loops cause code to execute multiple times
   * loops can help reduce redundancy and increase readability
-  * SNAP contains three loops: repeat, forever, and repeat unti
+  * Snap! contains three loops: repeat, forever, and repeat unti
 * Ask students what conditionals are for and when they are useful
   * conditionals are used to execute a block of code only under certain circumstances
   * Encourage discussion about previous activities
@@ -3388,8 +3388,8 @@ Students will be able to...
 
 # TEALS Unit 2 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -3406,7 +3406,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Truth Tables     | A tool for evaluating the possible inputs and outputs of a Boolean expression.|
 | Modeling     |Building a system to simulate the behavior of a real-life phenomenon by simplifying or ignoring certain details. |
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 2.6 Boolean Practice
 
@@ -3424,7 +3424,7 @@ In this lab, you will use everything you've learned about loops and conditionals
 
 ## Before You Start
 
-Go to the starter project at [https://aka.ms/intro-lab2-6](https://aka.ms/intro-lab2-6). Log into SNAP and save your own copy of the project by choosing “Save as” from the file menu. Be sure to click the “Share” button in the Save dialog box. Highlight the URL in the address bar and copy it.
+Go to the starter project at [https://aka.ms/intro-lab2-6](https://aka.ms/intro-lab2-6). Log into Snap! and save your own copy of the project by choosing “Save as” from the file menu. Be sure to click the “Share” button in the Save dialog box. Highlight the URL in the address bar and copy it.
 
 ## Channeling Newton
 
@@ -3506,7 +3506,7 @@ Students will be able to...
 ### 2. Introduce project
 
 - Walk students through the project specification, pointing out important details, potential pitfalls, and requirements.
-- If students are unfamiliar with the concept of the pong game, spend a couple minutes demonstrating one for the class.  If you have a SNAP or Scratch version, that works best, but an [online game](http://www.ponggame.org/) will work as well.
+- If students are unfamiliar with the concept of the pong game, spend a couple minutes demonstrating one for the class.  If you have a Snap! or Scratch version, that works best, but an [online game](http://www.ponggame.org/) will work as well.
 
 ### 3. Project
 
@@ -3515,7 +3515,7 @@ Students will be able to...
 - Assess the progress of your students regularly using such techniques as asking them to demonstate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
 - Adjust the amount of time allowed for the project to fit the needs of your students
 - It is vital that nearly all students complete the project before moving on
-- If most students have the ability to work on SNAP assignments at home, the amount of in-class time provided can be reduced if necessary.
+- If most students have the ability to work on Snap! assignments at home, the amount of in-class time provided can be reduced if necessary.
 - If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
 - Ensure that students are able to ask questions in class throughout the project
 - See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
@@ -3537,8 +3537,8 @@ Students will be able to...
 
 # TEALS Unit 2 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -3555,11 +3555,11 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Truth Tables     | A tool for evaluating the possible inputs and outputs of a Boolean expression.|
 | Modeling     |Building a system to simulate the behavior of a real-life phenomenon by simplifying or ignoring certain details. |
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 2.7 Bouncing Ball
 
-1. Open a new Snap project and change the sprite's costume to a ball.
+1. Open a new Snap! project and change the sprite's costume to a ball.
 
 2. Using the following blocks, write a script that continuously moves the ball across the screen and bounces the ball when it hits the edge of the screen.
 
@@ -3813,8 +3813,8 @@ BJC Video Suggestion: [BJC Lecture 1: Abstraction](https://www.youtube.com/watch
 
 # TEALS Unit 3 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 4, 8, 16
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 4, 8, 16
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -3833,7 +3833,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Say Block     | The block gives its sprite a speech bubble with the specified text — the speech bubble stays until an another speech or thought block is activated, or the stop sign is pressed. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 <!-- REVISED -->
 # Lesson 3.2: Procedures
@@ -3906,8 +3906,8 @@ Students will be able to...
 
 # TEALS Unit 3 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 4, 8, 16
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 4, 8, 16
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -3926,7 +3926,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Say Block     | The block gives its sprite a speech bubble with the specified text — the speech bubble stays until an another speech or thought block is activated, or the stop sign is pressed. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 3.2 Drawing Squares
 
@@ -3940,13 +3940,13 @@ In this lab, you will write code to draw regular polygons.  But this time, you w
 
 ## Simple Shapes
 
-1. Write a SNAP script (or find one you've already written) to draw a square.
+1. Write a Snap! script (or find one you've already written) to draw a square.
 
-2. Write a SNAP script (or find one you've already written) to draw an equilateral triangle.
+2. Write a Snap! script (or find one you've already written) to draw an equilateral triangle.
 
-3. Write a SNAP script (or find one you've already written) to draw a regular pentagon.
+3. Write a Snap! script (or find one you've already written) to draw a regular pentagon.
 
-4. Write a SNAP script (or find one you've already written) to draw a regular octagon.
+4. Write a Snap! script (or find one you've already written) to draw a regular octagon.
 
 5. Look over the four programs from above.  Do you notice sections that are very similar?  What sections might be able to be abstracted into a separate block?
 
@@ -3983,7 +3983,7 @@ In this lab, you will write code to draw regular polygons.  But this time, you w
 
 Students will be able to...
 
-- Build custom SNAP blocks that take arguments
+- Build custom Snap! blocks that take arguments
 
 ## Materials/Preparation
 
@@ -4052,8 +4052,8 @@ Students will be able to...
 
 # TEALS Unit 3 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 4, 8, 16
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 4, 8, 16
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -4072,7 +4072,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Say Block     | The block gives its sprite a speech bubble with the specified text — the speech bubble stays until an another speech or thought block is activated, or the stop sign is pressed. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 3.3 Jumping
 
@@ -4095,23 +4095,23 @@ In this lab, you will write some custom blocks that take arguments and are usefu
 
 ## Basics
 
-1. Write a custom SNAP block called "month name" that takes a number between 1 and 12 as an argument and says the name of the corresponding month.
+1. Write a custom Snap! block called "month name" that takes a number between 1 and 12 as an argument and says the name of the corresponding month.
 
-2. Write a custom SNAP block called "day name" that takes a number between 1 and 7 as an argument and says the name of the corresponding day.  For our purposes, the week begins on Sunday.
+2. Write a custom Snap! block called "day name" that takes a number between 1 and 7 as an argument and says the name of the corresponding day.  For our purposes, the week begins on Sunday.
 
-3. Write a custom SNAP block called "days in " that takes a month name as an argument and says how many days are in that month.  Assume a non-leap year.
+3. Write a custom Snap! block called "days in " that takes a month name as an argument and says how many days are in that month.  Assume a non-leap year.
 
 ## Going Farther
 
-1. Write a custom SNAP block called "is a leap year" that takes a year number as an argument and says whether or not that year is a leap year.
+1. Write a custom Snap! block called "is a leap year" that takes a year number as an argument and says whether or not that year is a leap year.
 
     - A year is a leap year if the year is a multiple of 4 that is not a multiple of 100 (e.g. 1984), or if it is a multiple of 400 (e.g. 2000). Years that are multiples of 100 but not multiples of 400 are NOT leap years (e.g. 1800).  See [Wikipedia](https://en.wikipedia.org/wiki/Leap_year#Algorithm) for more detail.
 
-2. Write a custom SNAP block called "is a valid date" that takes a month name and a date as arguments and says whether or not that date exists in that month.  For example, the 31st is a valid date in January, but not in June.  The 5th is a valid date in every month, and the 40th is not a valid date in any month.
+2. Write a custom Snap! block called "is a valid date" that takes a month name and a date as arguments and says whether or not that date exists in that month.  For example, the 31st is a valid date in January, but not in June.  The 5th is a valid date in every month, and the 40th is not a valid date in any month.
 
-3. Write a custom SNAP block called "day in year" that takes a year number and a number between 1 and 366 and says the date that corresponds to that numbered day of the specified year.  For example, in non-leap years day #1 is January 1, day #32 is February 1, day #365 is December 31, and day #185 is July 4.  Give an error message if the number is 366 and a non-leap year is specified.
+3. Write a custom Snap! block called "day in year" that takes a year number and a number between 1 and 366 and says the date that corresponds to that numbered day of the specified year.  For example, in non-leap years day #1 is January 1, day #32 is February 1, day #365 is December 31, and day #185 is July 4.  Give an error message if the number is 366 and a non-leap year is specified.
 
-4. BONUS: Determine the day you were born.  Write a custom SNAP block called "day of week" that takes a month name, date, and year as arguments and says the day of week on which that date falls in that year.  See <http://en.wikipedia.org/wiki/Determination_of_the_day_of_the_week> for information on finding the day of the week from a date.
+4. BONUS: Determine the day you were born.  Write a custom Snap! block called "day of week" that takes a month name, date, and year as arguments and says the day of week on which that date falls in that year.  See <http://en.wikipedia.org/wiki/Determination_of_the_day_of_the_week> for information on finding the day of the week from a date.
 
 ## Grading Scheme/Rubric
 
@@ -4163,7 +4163,7 @@ Students will be able to...
 2. Introduce predicate blocks as a special case of reporter blocks
 
     - Emphasize that predicates must return true or false
-    - Be aware, but don't necessarily tell students, that SNAP does not enforce this
+    - Be aware, but don't necessarily tell students, that Snap! does not enforce this
     - Point out examples, such as ![Touching Block](touching.png), ![less than block](lessThan.png), ![and block](and.png)
     - Ask students why it might be useful to differentiate predicates from other reporters
     - Only predicates can be used in a conditional
@@ -4185,7 +4185,7 @@ Students will be able to...
 
 - Struggling students should focus on just the first 2 or 3 parts of the lab.  Even if they cannot move on to the more difficult problems, getting used to defining custom reporters is helpful and important.
 - Advanced students who finish quickly can be utilized to assist other students.
-- Students who struggle in math may not be familiar with the distance formula used in part 2.1.  Help students to translate the math into SNAP code, but understanding the formula and its applications is not necessary for the activity.
+- Students who struggle in math may not be familiar with the distance formula used in part 2.1.  Help students to translate the math into Snap! code, but understanding the formula and its applications is not necessary for the activity.
 - If most students are not equipped to handle this math, a simpler computation, such as area of a triangle or average of three numbers, can be substituted.
 
 ## Forum discussion
@@ -4194,8 +4194,8 @@ Students will be able to...
 
 # TEALS Unit 3 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 4, 8, 16
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 4, 8, 16
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -4214,7 +4214,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Say Block     | The block gives its sprite a speech bubble with the specified text — the speech bubble stays until an another speech or thought block is activated, or the stop sign is pressed. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 3.4 Practice using Arguments
 
@@ -4238,19 +4238,19 @@ In this lab, you will write custom reporter blocks to perform a number of useful
 
 ## Simple Computations
 
-1. Write a custom SNAP reporter block called "min" that determines which of two numbers is smaller and reports that value.  If the two numbers are equal, report either one.
+1. Write a custom Snap! reporter block called "min" that determines which of two numbers is smaller and reports that value.  If the two numbers are equal, report either one.
 
-2. Write a custom SNAP reporter block called "max" that determines which of two numbers is larger and reports that value.  If the two numbers are equal, report either one.
+2. Write a custom Snap! reporter block called "max" that determines which of two numbers is larger and reports that value.  If the two numbers are equal, report either one.
 
-3. Write a custom SNAP predicate block called "between" that determines if a number is between two other numbers.  If the first number is equal to either of the other two numbers or is between them, the block should report "true".
+3. Write a custom Snap! predicate block called "between" that determines if a number is between two other numbers.  If the first number is equal to either of the other two numbers or is between them, the block should report "true".
 
-4. Write a custom SNAP predicate called "at least as long as" that determines whether or not word has at least a specified number of letters.
+4. Write a custom Snap! predicate called "at least as long as" that determines whether or not word has at least a specified number of letters.
 
 ## Stepping Things Up
 
-1. Write a custom SNAP reporter block called "distance to" that computes and reports the distance from a sprite's position to another point.  Use the "x position" and "y position" blocks to determine the sprite's position.  Remember that the formula for the distance between points (x1, y1) and (x2, y2) is sqrt((y2-y1)^2+(x2-x1)^2).
+1. Write a custom Snap! reporter block called "distance to" that computes and reports the distance from a sprite's position to another point.  Use the "x position" and "y position" blocks to determine the sprite's position.  Remember that the formula for the distance between points (x1, y1) and (x2, y2) is sqrt((y2-y1)^2+(x2-x1)^2).
 
-2. Write a custom SNAP predicate block called "contains letter" that determines whether or not a word contains a particular letter.  You can consider upper-case and lower-case letters to be different for the purposes of matching.
+2. Write a custom Snap! predicate block called "contains letter" that determines whether or not a word contains a particular letter.  You can consider upper-case and lower-case letters to be different for the purposes of matching.
 
 ## Grading Scheme/Rubric
 
@@ -4325,7 +4325,7 @@ Students will be able to...
 ### 2. Introduce project
 
 - Walk students through the project specification, pointing out important details, potential pitfalls, and requirements.
-- If students are unfamiliar with the concept of a platform game, spend a couple minutes demonstrating one for the class.  If you have a SNAP or Scratch version, that works best, but an online game (such as [Super Mario Flash](http://www.pouetpu-games.com/index.php?section=2&game_id=1&w=640&h=480)) will work as well.
+- If students are unfamiliar with the concept of a platform game, spend a couple minutes demonstrating one for the class.  If you have a Snap! or Scratch version, that works best, but an online game (such as [Super Mario Flash](http://www.pouetpu-games.com/index.php?section=2&game_id=1&w=640&h=480)) will work as well.
 - Discourage students from simply recreating a game they are already familiar with (and using copyrighted assets) and encourage them to be creative and design their own characters and world instead.
 - Static screens are somewhat easier to implement than smooth scrolling, but scrolling is doable with some scaffolding.
 
@@ -4336,7 +4336,7 @@ Students will be able to...
 - Assess the progress of your students regularly using such techniques as asking them to demonstate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
 - Adjust the amount of time allowed for the project to fit the needs of your students
 - It is vital that nearly all students complete the project before moving on
-- If most students have the ability to work on SNAP assignments at home, the amount of in-class time provided can be reduced if necessary.
+- If most students have the ability to work on Snap! assignments at home, the amount of in-class time provided can be reduced if necessary.
 - If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
 - Ensure that students are able to ask questions in class throughout the project
 - See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
@@ -4354,8 +4354,8 @@ Students will be able to...
 
 # TEALS Unit 3 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 4, 8, 16
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 4, 8, 16
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -4374,7 +4374,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Say Block     | The block gives its sprite a speech bubble with the specified text — the speech bubble stays until an another speech or thought block is activated, or the stop sign is pressed. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Project 3: Advanced Platform Game
 
@@ -4632,7 +4632,7 @@ Students will be able to...
 | 10 minutes | Introductory discussion                       |
 | 10 minutes | Students write Solar System algorithm         |
 | 10 minutes | Debrief                                       |
-| 10 minutes | Translate algorithms into SNAP pseudocode     |
+| 10 minutes | Translate algorithms into Snap! pseudocode     |
 | 10 minutes | Debrief and wrap-up                           |
 
 ## Instructor's Notes
@@ -4648,7 +4648,7 @@ Students will be able to...
 - Ensure that the algorithm would work for any discovery of any name size and does not make assumptions. e.g SUPER MEGA COOL ASTEROID, etc.
 - Pay particular attention to when the various materials are needed.
 - The key here is that the student will need to constantly be referencing this same pool of discoveries e.g. Pool, Pool + 1 discovery, Pool + 1 discovery + another etc. etc.
-- Once discussion of the algorithm is complete, instruct students to think about how they would write a SNAP program to complete this task.  They need not write actual code, but should write pseudocode to attempt to solve the problem.  
+- Once discussion of the algorithm is complete, instruct students to think about how they would write a Snap! program to complete this task.  They need not write actual code, but should write pseudocode to attempt to solve the problem.  
 - After groups have finished, explain to them that usually scientists organize their discoveries alphabetically not by recently discovered. Challenge them to create an algorithm that organizes their new discoveries with their old discoveries alphabetically. After this is done, challenge them to create it in SNAP.
 - The ultimate conclusion should be that they need a way to store the entire collection of discoveries, and operate on individual parts of the collection.
 
@@ -4657,7 +4657,7 @@ Students will be able to...
 - In attempting to write pseudocode, students should realize that they need variables to store the discoveries, but do not know ahead of time how many variables will be necessary.
 - Clever students may want to simply store the message in a single variable using the "join" block.  This approach can work if they choose an unambiguous delimiter (space won't work if there are multi-word sections of the message), and is effectively the same as using a list.
 - Point out that, thus far, they have not seen a way to store an arbitrary number of data values—they have needed a separate variable for each value, which must be created ahead of time.
-- Briefly introduce the concept of a list as a means of storing multiple values in a single location.  Lists in SNAP have the useful property of not having a static size, so any number of values can be added at any time.
+- Briefly introduce the concept of a list as a means of storing multiple values in a single location.  Lists in Snap! have the useful property of not having a static size, so any number of values can be added at any time.
 
 ## Accommodations/Differentiation
 
@@ -4670,8 +4670,8 @@ Students will be able to...
 
 # TEALS Unit 4 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 19
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 19
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -4690,7 +4690,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Contains Block     | Checks an operator block for a particular variable. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Lesson 4.2: Static Lists
 
@@ -4764,8 +4764,8 @@ Students will be able to...
 
 # TEALS Unit 4 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 19
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 19
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -4784,7 +4784,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Contains Block     | Checks an operator block for a particular variable. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 4.2 Letters of a Word
 
@@ -4924,7 +4924,7 @@ BJC Video Suggestion :[BJC Lecture 9: Recursion](https://www.youtube.com/watch?v
 
 - Movie “Inception” as an example of recursion 0:00-0:50
 - Recursion 0:50-1:40
-- Recursion Demo in Snap 1:40-17:00
+- Recursion Demo in Snap! 1:40-17:00
 - Overview 17:00-21:00
 - Definition of Recursion 21:00-24:30
 - Examples of Recursion (You Already Know It!) 24:30-26:20
@@ -4942,8 +4942,8 @@ BJC Video Suggestion :[BJC Lecture 9: Recursion](https://www.youtube.com/watch?v
 
 # TEALS Unit 4 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 19
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 19
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -4962,7 +4962,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Contains Block     | Checks an operator block for a particular variable. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 4.3 Quote of the Day
 
@@ -4980,9 +4980,9 @@ In this lab, you will create a list of names and then look through the list pull
 
 1. Create a list of names with at least six different names (e.g. the names of your favorite music artists, family members, authors, celebrities, etc.).  Try to vary the names as much as you can.
 
-2. Write a SNAP script to welcome each person to the program by name, one at a time.  (For example, "Welcome, John."  "Welcome, Kayla."  "Welcome, Michael.")  Make sure not to modify the list of names when you run the script—you'll want the list again later.  Also make sure your script still works even if the list of names changes.
+2. Write a Snap! script to welcome each person to the program by name, one at a time.  (For example, "Welcome, John."  "Welcome, Kayla."  "Welcome, Michael.")  Make sure not to modify the list of names when you run the script—you'll want the list again later.  Also make sure your script still works even if the list of names changes.
 
-3. Write a new SNAP script that welcomes all the players at once.  So, for example instead of saying "Welcome, John," "Welcome, Kayla," and "Welcome, Michael." separately, you're new script should say "Welcome John, Kayla, and Michael."  Start by writing a script that can say all the names on one line, then try to add the commas and "and".  Make sure your script works correctly no matter how many names are in the list.
+3. Write a new Snap! script that welcomes all the players at once.  So, for example instead of saying "Welcome, John," "Welcome, Kayla," and "Welcome, Michael." separately, you're new script should say "Welcome John, Kayla, and Michael."  Start by writing a script that can say all the names on one line, then try to add the commas and "and".  Make sure your script works correctly no matter how many names are in the list.
 
 4. BONUS: Modify your code so that instead of using a pre-determined list of names, the user can enter the names to be included in the list one at a time.  You'll need to decide how to determine when the user has entered all the names.
 
@@ -5083,8 +5083,8 @@ Students will be able to...
 
 # TEALS Unit 4 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 19
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 19
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -5103,7 +5103,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Contains Block     | Checks an operator block for a particular variable. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 4.4 Traversing List
 
@@ -5117,23 +5117,23 @@ In this lab, you will continue practicing processing lists, this time using list
 
 ## Summarizing Numbers
 
-1. Write a custom SNAP reporter block called "sum" that takes a list as an argument and reports the sum of all the numbers in the list.  You can assume that all items in the list passed as the argument will be numbers, though you should not assume anything else.
+1. Write a custom Snap! reporter block called "sum" that takes a list as an argument and reports the sum of all the numbers in the list.  You can assume that all items in the list passed as the argument will be numbers, though you should not assume anything else.
 
-2. Write a custom SNAP reporter block called "average" that takes a list as an argument and reports the average of all the numbers in the list.  As above, you can assume that all items in the list passed as the argument will be numbers, but you should not assume anything else.
+2. Write a custom Snap! reporter block called "average" that takes a list as an argument and reports the average of all the numbers in the list.  As above, you can assume that all items in the list passed as the argument will be numbers, but you should not assume anything else.
 
-3. Write a custom SNAP predicate block called "includes negative" that takes a list as an argument and reports true if the list contains at least one negative number, and false if all numbers are non-negative.
+3. Write a custom Snap! predicate block called "includes negative" that takes a list as an argument and reports true if the list contains at least one negative number, and false if all numbers are non-negative.
 
-4. Write a custom SNAP predicate block called "increasing?" that takes a list of numbers as an argument and reports true if each value in the list is greater than or equal to the one before it.
+4. Write a custom Snap! predicate block called "increasing?" that takes a list of numbers as an argument and reports true if each value in the list is greater than or equal to the one before it.
 
-5. Write a custom SNAP reporter block called "maximum" that takes a list as an argument and reports the largest number in the list.
+5. Write a custom Snap! reporter block called "maximum" that takes a list as an argument and reports the largest number in the list.
 
 ## Transforming Lists
 
-1. Write a custom SNAP reporter block called "make all positive" that takes a list of numbers as an argument and reports a new list that is the same as the argument, except all negative numbers have been replaced by their absolute value.  
+1. Write a custom Snap! reporter block called "make all positive" that takes a list of numbers as an argument and reports a new list that is the same as the argument, except all negative numbers have been replaced by their absolute value.  
 
-2. Write a custom SNAP reporter block called "only evens" that takes a list of integers as an argument and reports a new list that contains only the even numbers from the argument list.  The result list should have its values in the same order as the original list, but with the odd integers removed.  (Remember that "mod" block can be useful in determining whether or not a number is even.)
+2. Write a custom Snap! reporter block called "only evens" that takes a list of integers as an argument and reports a new list that contains only the even numbers from the argument list.  The result list should have its values in the same order as the original list, but with the odd integers removed.  (Remember that "mod" block can be useful in determining whether or not a number is even.)
 
-3. BONUS: Write a custom SNAP reporter block called "add all" that takes two list of numbers as arguments and returns a new list that contains the sum of the corresponding values in each argument list.  For example, if the arguments to "add all" are (1, 4, 6) and (2, 2, 3), the result should be (3, 6, 9).  You can assume the two lists will be the same size.
+3. BONUS: Write a custom Snap! reporter block called "add all" that takes two list of numbers as arguments and returns a new list that contains the sum of the corresponding values in each argument list.  For example, if the arguments to "add all" are (1, 4, 6) and (2, 2, 3), the result should be (3, 6, 9).  You can assume the two lists will be the same size.
 
 ## Grading Scheme/Rubric
 
@@ -5212,8 +5212,8 @@ Students will be able to...
 
 # TEALS Unit 4 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 19
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 19
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -5232,7 +5232,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Contains Block     | Checks an operator block for a particular variable. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 4.5 List Tracing
 
@@ -5254,7 +5254,7 @@ In this lab, you will implement several custom blocks performing variants of seq
 
 ## You There
 
-1. Write your own version of the SNAP "contains" block, which takes a list and a value as arguments and reports true if the value is anywhere in the list and reports false otherwise.  You should NOT use the existing "contains" block in your implementation.
+1. Write your own version of the Snap! "contains" block, which takes a list and a value as arguments and reports true if the value is anywhere in the list and reports false otherwise.  You should NOT use the existing "contains" block in your implementation.
 
 ## Where
 
@@ -5322,7 +5322,7 @@ Students will be able to...
 - Remind students that their solutions to previous assignments are an excellent resource when trying to accomplish similar tasks.
 - Walk students through the project specification, pointing out important details, potential pitfalls, and requirements.
 - Focus students' attention on the checkpoints to help them avoid becoming overwhelmed.
-- Help students import the word list into a SNAP list, either by right-clicking on the list view and selecting "import" or by parsing the online list directly using the `http://` block.  This is not one of the objectives of the project, so feel free to provide starter code if you prefer.
+- Help students import the word list into a Snap! list, either by right-clicking on the list view and selecting "import" or by parsing the online list directly using the `http://` block.  This is not one of the objectives of the project, so feel free to provide starter code if you prefer.
 - Emphasize that generating the "word pattern" or "blanks" and keeping that sequence up-to-date with each guess is the hardest part of the assignment, and should not be overlooked.
 - Remind students that it will be important to keep straight what each variable and list in the program is used for.  Each variable or list should have a single purpose, and those purposes should never be conflated.
 - Project
@@ -5349,8 +5349,8 @@ Students will be able to...
 
 # TEALS Unit 4 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 19
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 19
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -5369,7 +5369,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Contains Block     | Checks an operator block for a particular variable. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 4.6 Guess My Animal
 
@@ -5535,9 +5535,9 @@ Students will be able to...
 - Mobile World Congress 0:00-2:15
 - Recursion:Factorials (Factorial (n)+ n! 2:30-7:40
 - [Fibonacci and Fibonacci Series Video](http://www.youtube.com/watch?v=w2d_snYBLeY&t=7m45s)  7:45-11:45
-- Fibonacci Ex: fin(n) Math and SNAP blocks 11:50-13:15
+- Fibonacci Ex: fin(n) Math and Snap! blocks 11:50-13:15
 - Example of Recursion: Counting Change 13:20-17:30
-- Call Tree for “Counting Change” with SNAP example 17:35-22:50
+- Call Tree for “Counting Change” with Snap! example 17:35-22:50
 - Summary of Recursion 25:40-26:21
 
 ## Accommodations/Differentiation
@@ -5548,8 +5548,8 @@ Students will be able to...
 
 # TEALS Unit 5 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 3, 5, 9, 12, 17
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 3, 5, 9, 12, 17
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -5560,7 +5560,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Global Variable     | A variable  that can be used by all of your sprites. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Lab 5.1 - Connect the Dots
 
@@ -5687,7 +5687,7 @@ Students will be able to...
 
 - [ ] [Do Now 5.2: Star Wars Troopers](do_now_52.md)
 - [ ] [Lab 5.2 handout](lab_52.md) (Lots of Balls) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.2%20Lots%20of%20Balls.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.2%20Lots%20of%20Balls.pdf))
-- [ ] Test out the lab on student machines before class (cloning in SNAP! can bring the web browser to a crawl on some machines)
+- [ ] Test out the lab on student machines before class (cloning in Snap! can bring the web browser to a crawl on some machines)
 - [ ] [Unit 5 Tips](unit_5_tips.md)
 
 ## Pacing Guide
@@ -5740,8 +5740,8 @@ Show students a brief video demonstrating space invaders
 
 # TEALS Unit 5 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 3, 5, 9, 12, 17
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 3, 5, 9, 12, 17
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -5752,7 +5752,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Global Variable     | A variable  that can be used by all of your sprites. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 5.2 Star Wars Troopers
 
@@ -5774,7 +5774,7 @@ In this lab, you will use cloning to create many identical sprites without havin
 
 ## Part 1 - Follow the bouncing sprites
 
-1. Create a SNAP program that contains a single sprite, choose from available costumes (i.e. basketballs, hearts, stars, balloons, Alonzo, doves). When the green flag is clicked, the sprite should go to the center of the stage, pick a random direction, and start moving in the chosen direction. If the sprite hits a wall, it should bounce off and keep moving.
+1. Create a Snap! program that contains a single sprite, choose from available costumes (i.e. basketballs, hearts, stars, balloons, Alonzo, doves). When the green flag is clicked, the sprite should go to the center of the stage, pick a random direction, and start moving in the chosen direction. If the sprite hits a wall, it should bounce off and keep moving.
 
 2. Modify the program to be controlled by the stage rather than by the sprite itself.  When the spacebar is pressed, the stage should broadcast a message that triggers the sprite's movement.  Pressing the spacebar again should restart the sprite's movement, including a new speed and new direction.
 
@@ -5867,8 +5867,8 @@ Students will be able to...
 
 # TEALS Unit 5 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 3, 5, 9, 12, 17
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 3, 5, 9, 12, 17
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -5879,7 +5879,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Global Variable     | A variable  that can be used by all of your sprites. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Do Now 5.3 Star Wars Troopers using Cloning
 
@@ -5903,7 +5903,7 @@ In this lab, you will build on what you created in lab 5.2 to enable better mana
 
 ## Part 1 - Getting Out of Hand
 
-1. Open up your SNAP program from [Lab 5.2](lab_52.md). Modify your program so that, when the 'd' key is pressed, all bouncing sprites are deleted. DO NOT delete the prototype-- you should be able to create new bouncing sprites .  DO NOT delete the prototype-- you should be able to create new bouncing sprites after you have removed the old clones.  Use the ![delete this clone block](deleteThisClone.png) block and a message.
+1. Open up your Snap! program from [Lab 5.2](lab_52.md). Modify your program so that, when the 'd' key is pressed, all bouncing sprites are deleted. DO NOT delete the prototype-- you should be able to create new bouncing sprites .  DO NOT delete the prototype-- you should be able to create new bouncing sprites after you have removed the old clones.  Use the ![delete this clone block](deleteThisClone.png) block and a message.
 
 2. What if you wanted to remove only a few clones?  Or only specific clones?  What would be needed in order to accomplish that?
 
@@ -5986,7 +5986,7 @@ Students will be able to...
 ### 2.  Introduce project
 
 - Walk students through the project specification, pointing out important details, potential pitfalls, and requirements.
-- If students are unfamiliar with Space Invaders, spend a couple minutes demonstrating one for the class.  If you have a SNAP or Scratch version, that works best, but an [online game](http://www.pacxon4u.com/space-invaders/) will work as well.
+- If students are unfamiliar with Space Invaders, spend a couple minutes demonstrating one for the class.  If you have a Snap! or Scratch version, that works best, but an [online game](http://www.pacxon4u.com/space-invaders/) will work as well.
 - Remind students that their version of the game does not need to exactly mimic the classic version.  In particular, they need not have quite as many invaders, create barriers for the player to hide behind, or duplicate invader movement or firing patterns exactly.
 
 ### 3.  Project
@@ -5996,7 +5996,7 @@ Students will be able to...
 - Assess the progress of your students regularly using such techniques as asking them to demonstrate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
 - Adjust the amount of time allowed for the project to fit the needs of your students
 - It is vital that nearly all students complete the project before moving on
-- If most students have the ability to work on SNAP assignments at home, the amount of in-class time provided can be reduced if necessary.
+- If most students have the ability to work on Snap! assignments at home, the amount of in-class time provided can be reduced if necessary.
 - If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
 - Ensure that students are able to ask questions in class throughout the project
 - See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
@@ -6018,8 +6018,8 @@ Students will be able to...
 
 # TEALS Unit 5 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 3, 5, 9, 12, 17
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 3, 5, 9, 12, 17
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -6030,11 +6030,11 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Global Variable     | A variable  that can be used by all of your sprites. |
 
 
-[Tip Numbers from SNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Project 5 - Space Invaders
 
-Students will implement a SNAP version of the classic arcade game _Space Invaders_.
+Students will implement a Snap! version of the classic arcade game _Space Invaders_.
 
 ## Overview
 
@@ -6084,9 +6084,9 @@ As with all previous projects, your program must be well-written, well-documente
 
 The invaders and the projectiles should be implemented using prototyping.  A single master sprite should be implemented for each type and clones should be created each time a new instance of the sprite is needed.  The master sprites should be hidden throughout the program and should not take part in gameplay.
 
-#### Required SNAP Elements
+#### Required Snap! Elements
 
-Your program must include the following SNAP elements:
+Your program must include the following Snap! elements:
     * At least three variables
     * At least two custom blocks, at least one of which must take an argument
 
@@ -6143,7 +6143,7 @@ Students will be able to...
 
 #### Curricular Competencies - understanding context, defining, ideating
 
-In this course, we are not actually typing out any code.  In our case, "coding" would refer to the stage where we actually drag-and-drop in the SNAP design environment.   Later when we learn other languages, "coding" would refer to when we start typing out code in a specific language like Java or Python.
+In this course, we are not actually typing out any code.  In our case, "coding" would refer to the stage where we actually drag-and-drop in the Snap! design environment.   Later when we learn other languages, "coding" would refer to when we start typing out code in a specific language like Java or Python.
 
 When we first learn computer programming, it may seem fun to dive right into coding.  Resist the urge to do so!
 Software development is a process.  It begins with carefully thinking about, and planning out, your design.  This includes envisioning what the final product might look like, and planning out the steps needed to implement it.    Remember,  "design then code".  
@@ -6187,7 +6187,7 @@ Software development is a process.  It begins with carefully thinking about, and
 
     - Point out the steps in the process and that each one is equally important
     - Specifically mention the large number of points for things _not_ related to coding
-    - Remind students that, as they are now SNAP experts, there are high expectations for the depth, complexity, and completeness of their projects
+    - Remind students that, as they are now Snap! experts, there are high expectations for the depth, complexity, and completeness of their projects
 
 There are a gazillion apps out there to do a gazillion things.  What are the different categories of software applications?  When looking at an application, what type of functionality does it have?  Who are the end users, or target audience?  What do you like, or not like, about it?  What do other users/reviewers say about it?  How does it compare to, or stand apart from, other similar apps? As we study and analyze sample applications, we gain experience that will help us design our own.
 
@@ -6232,8 +6232,8 @@ There are a gazillion apps out there to do a gazillion things.  What are the dif
 
 # TEALS Unit 6 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 21, 23 
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 21, 23 
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -6244,7 +6244,7 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Wireframe     | A high-level sketch of an application's user interface intended to  help visualize layout, interactions, and transitions |
 
 
-[Tip Numbers from sNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
 
 # Lesson 6.2 - Research and Ideate
 
@@ -6570,7 +6570,7 @@ Students will design, plan, and implement a medium- to large-scale final project
 
 ## Overview
 
-During this course, you have learned a huge amount about computer science and programming in general, and SNAP in particular.  In this project, you will put all of that knowledge, along with some new skills you will develop around design, planning, and project management, to build a relatively large and complex application that _you_ choose.  You can create almost anything you want and should ultimately produce a project that is interesting, useful, and challenging.
+During this course, you have learned a huge amount about computer science and programming in general, and Snap! in particular.  In this project, you will put all of that knowledge, along with some new skills you will develop around design, planning, and project management, to build a relatively large and complex application that _you_ choose.  You can create almost anything you want and should ultimately produce a project that is interesting, useful, and challenging.
 
 ## Details
 
@@ -6614,7 +6614,7 @@ As with all previous projects, your program must be well-written, well-documente
 * avoiding redundancy with good use of loops, custom blocks, and/or lists
 * practicing good procedural decomposition and abstraction  
 
-#### Required SNAP Elements
+#### Required Snap! Elements
 
 In order to show that you have fully mastered all the skills from the course, you project must include at least the following:
 
@@ -6643,7 +6643,7 @@ At least three times during the project period, and at least once each week, you
 |**Implementation** | |
 |Project is appropriately complex and creative |8 points|
 |Program is well-documented and shows good style |4 points|
-|Program uses SNAP elements effectively, including all required elements | 8 points |
+|Program uses Snap! elements effectively, including all required elements | 8 points |
 |Final product meets all requirements and goals laid out in spec  |8 points|
 |Checkpoint 1 | 4 points |
 |Checkpoint 2 | 4 points |
@@ -6929,7 +6929,7 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
   *	More Terminology (Boolean etc) 3:47-6:10
   *	Types of Input (Sentences, words, characters, digits) 6:12-8:00
   *	Functions (Explanations of Use-can be tied in to loops, and inputs) 8:00-9:55
-  *	MIT Scratch --> BYOB SNAP ( Development of SNAP, DEMO) 10:00-11:30
+  *	MIT Scratch --> BYOB Snap! ( Development of SNAP, DEMO) 10:00-11:30
   *	Functions-1 (BYOB-Custom Blocks) & Generalization 11:30-14:50
   *	Functions-2 (Join Block) Domain and Range 14:52-17:50
   *	Types of Blocks 18:15-19:45
@@ -7001,7 +7001,7 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
 	- 	Speedup Issues: Amdahl’s Law 16:42-19:50
 	- 	Background:Threads (Threads of Execution” is a single stream of instruction) 19:55-21:15
 	- 	Speedup Issues:Overhead 21:15-23:50
-	- 	Parallel Programing Example in SNAP BYOB (Race Condition) 23:53-26:50
+	- 	Parallel Programing Example in Snap! BYOB (Race Condition) 23:53-26:50
 	- 	Another Concurrency Problem (Deadlock and Livelock) 26:55-29:30
 	- 	Summary “Sea Change” of Computing 29:30 to End
 
@@ -7010,7 +7010,7 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
 *  [BJC Lecture 9: Recusion](https://www.youtube.com/watch?v=JKn3nsfzBdA) 
 	- 	Movie “Inception” as an example of recursion 0:00-0:50
 	- 	Recursion 0:50-1:40
-	- 	Recursion  Demo in Snap 1:40-17:00
+	- 	Recursion  Demo in Snap! 1:40-17:00
 	- 	Overview 17:00-21:00
 	- 	Definition of Recursion 21:00-24:30
 	- 	Examples of Recursion (You Already Know It!) 24:30-26:20
@@ -7033,9 +7033,9 @@ Some of the lectures (or sections of the lectures)  will be useful background fo
  - Mobile World Congress 0:00-2:15
  - Recursion:Factorials (Factorial (n)+ n! 2:30-7:40
  - [Fibonacci and Fibonacci Series Video 7:45-11:45](http://www.youtube.com/watch?v=w2d_snYBLeY&t=7m45s) **Good for Classroom Instruction**
- - Fibonacci Ex: fin(n) Math and SNAP blocks 11:50-13:15
+ - Fibonacci Ex: fin(n) Math and Snap! blocks 11:50-13:15
  - Example of Recursion: Counting Change 13:20-17:30
- - Call Tree for “Counting Change” with SNAP example 17:35-22:50
+ - Call Tree for “Counting Change” with Snap! example 17:35-22:50
  - Summary of Recursion 25:40-26:21
 
 

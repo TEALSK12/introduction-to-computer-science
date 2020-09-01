@@ -4,7 +4,7 @@ In this lab, you will implement several custom blocks performing variants of seq
 
 ## You There
 
-1. Write your own version of the SNAP "contains" block, which takes a list and a value as arguments and reports true if the value is anywhere in the list and reports false otherwise.  You should NOT use the existing "contains" block in your implementation.
+1. Write your own version of the Snap! "contains" block, which takes a list and a value as arguments and reports true if the value is anywhere in the list and reports false otherwise.  You should NOT use the existing "contains" block in your implementation.
 
 ## Where
 

@@ -1,7 +1,7 @@
 # TEALS Unit 6 Tips
 
-## SNAP Tips
-[Tip Numbers from SNAP Tips Document][]: 0, 21, 23 
+## Snap! Tips
+[Tip Numbers from Snap! Tips Document][]: 0, 21, 23 
 
 ## Word Wall
 Terms introduced in the unit that you may consider adding to a classroom Word Wall.
@@ -12,4 +12,4 @@ Terms introduced in the unit that you may consider adding to a classroom Word Wa
 | Wireframe     | A high-level sketch of an application's user interface intended to  help visualize layout, interactions, and transitions |
 
 
-[Tip Numbers from sNAP Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true
+[Tip Numbers from Snap! Tips Document]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

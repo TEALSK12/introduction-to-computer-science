@@ -4,7 +4,7 @@
 
 Students will be able to...
 
-- Build custom SNAP blocks that take arguments
+- Build custom Snap! blocks that take arguments
 
 ## Materials/Preparation
 

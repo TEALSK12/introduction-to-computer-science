@@ -48,7 +48,7 @@ This curriculum is designed for use with the Snap! programming language designed
 - [ScratchEd online community for Scratch educators:](https://scratch.mit.edu/educators/)
 - [Beauty and Joy of Computing curriculum:](https://bjc.berkeley.edu/)
 
-### Snap Mirrors
+### Snap! Mirrors
 
 Access to Snap! is necessary for students to complete the labs.  The main Snap! site has been known to be inaccessible due to system updates or network outages.  It is important to have contingency plans in the event the web site is unreachable.  Here is a list of mirror sites that can be used in the event the main site is unreachable.  In addition, Snap! can be downloaded to run locally on a student's computer, however the projects will not be able to be save to the cloud and will need to be exported and then imported to the cloud when Snap! becomes available.
 
@@ -111,7 +111,7 @@ With a few exceptions, each daily lesson plan consists of the following componen
 2. Instruction/Discussion
 
     - Most lessons begin with a brief period of instruction on the topic of the day.  These sections should be kept as brief as possible—the primary means of student learning in most lessons will be the lab activities.  
-    - The goals of the instruction section of the lesson should be to motivate the concepts being exercised in the lab and to provide a short demonstration to help students find the necessary parts of SNAP the first time.  
+    - The goals of the instruction section of the lesson should be to motivate the concepts being exercised in the lab and to provide a short demonstration to help students find the necessary parts of Snap! the first time.  
     - Teaching teams should vary the ways in which the instruction is presented throughout the course, including class discussions, kinesthetic activities, demonstrations, Socratic seminars, occasional lectures, and other approaches.
 
 3. Activity

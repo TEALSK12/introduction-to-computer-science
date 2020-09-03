@@ -38,6 +38,12 @@ Needed for this lesson:
 * Display each term on the board or projector and ask students to provide key ideas or concepts they know that relate to the term. From this, you can develop a classroom definition. Feel free to have a pre-written definition and guide students to that definition using leading questions.
 * You can introduce the idea that the first computers were human (a person who makes calculations, especially with a calculating machine) with the story about Katherine Johnson whose calculations were used for manned and unmanned orbital missions (read more [here](https://airandspace.si.edu/stories/editorial/hidden-figures-and-human-computers)).
 
+#### _Remote Instruction Guidance_
+
+Here is a great video to introduce Algorithms:
+
+  <iframe class= "markdeep" width="560" height="315" src="https://www.youtube.com/embed/ZnBF2GeAKbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 2. Activity
 
 1. Write algorithms

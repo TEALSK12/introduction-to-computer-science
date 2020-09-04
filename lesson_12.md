@@ -18,6 +18,7 @@ Students will be able to...
 - _Who is Grace Hopper?_ Video: [https://youtu.be/Fg82iV-L8ZY](https://youtu.be/Fg82iV-L8ZY).
 - [Unit 1 Tips](unit_1_tips.md).
 - Video Resource - [https://youtu.be/u80WYSNxRjM](https://youtu.be/u80WYSNxRjM)
+- Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 

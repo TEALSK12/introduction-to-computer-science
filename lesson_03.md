@@ -19,7 +19,8 @@ Students will be able to...
   - [SNAP Hour of Code](https://bjc.edc.org/hourofcode/#1)
 - Part 3 of the LightBot activity calls itself "Loops" but is really using recursion (specifically tail-recursion). The exercises are still valuable, but be prepared to potentially discuss, or at least point out, the distinction so students are not confused when they encounter normal loops later.
 - [Unit 0 Tips](unit_0_tips.md)
-- Video Resource - [https://www.youtube.com/watch?v=6qF3HmRzg8o](https://www.youtube.com/watch?v=6qF3HmRzg8o )
+- Video Resource - [https://www.youtube.com/watch?v=6qF3HmRzg8o](https://www.youtube.com/watch?v=6qF3HmRzg8o)
+- Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 

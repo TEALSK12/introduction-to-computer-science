@@ -15,7 +15,7 @@ Students will be able to...
 * [Unit 0 Tips](unit_0_tips.md)
 * Video Resource - [https://www.youtube.com/watch?v=7fncD7NH7g8](https://www.youtube.com/watch?v=7fncD7NH7g8)
 * Video Resource - [https://youtu.be/_Mwc1gc77dc](https://youtu.be/_Mwc1gc77dc)
-
+* Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 

@@ -12,6 +12,7 @@ Students will be able to...
 * [Lab 3.2 handout (What Goes Up...)](lab_32.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.2%20What%20Goes%20Up.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.2%20What%20Goes%20Up.pdf))
 * [Unit 3 Tips](unit_3_tips.md)
 * Video Resource - [https://youtu.be/MegYWakO1yw](https://youtu.be/MegYWakO1yw)
+* Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 

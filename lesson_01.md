@@ -16,6 +16,7 @@ Students will be able to...
 * [Example Syllabus](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/IntrotoCSSyllabusExample.docx)
 * [Unit 0 Tips](unit_0_tips.md)
 * Video Resource - [https://www.youtube.com/watch?v=cKhVupvyhKk](https://www.youtube.com/watch?v=cKhVupvyhKk)
+* Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 

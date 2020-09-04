@@ -12,6 +12,7 @@ Students will be able to...
 - Lab 2.4 handout - [Guessing Game](lab_24.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.4%20Guessing%20Game.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.4%20Guessing%20Game.pdf))
 - ["The Box Variable Activity"](https://teachinglondoncomputing.org/resources/inspiring-unplugged-classroom-activities/the-box-variable-activity/) materials (Optional)
 - [Unit 2 Tips](unit_2_tips.md)
+- Video Resource - [https://youtu.be/YMVo9Wdpv5s](https://youtu.be/YMVo9Wdpv5s)
 
 ## Pacing Guide
 

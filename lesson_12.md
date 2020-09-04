@@ -17,6 +17,7 @@ Students will be able to...
 - Index cards with each students name on them. One name per index card.
 - _Who is Grace Hopper?_ Video: [https://youtu.be/Fg82iV-L8ZY](https://youtu.be/Fg82iV-L8ZY).
 - [Unit 1 Tips](unit_1_tips.md).
+- Video Resource - [https://youtu.be/u80WYSNxRjM](https://youtu.be/u80WYSNxRjM)
 
 ## Pacing Guide
 

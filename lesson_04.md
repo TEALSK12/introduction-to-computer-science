@@ -9,8 +9,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now: I am ____](do_now_04.md)
-* [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/lab_04.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/lab_04.pdf))
-* Student Experience Survey [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.pdf)
+* [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/lab_04.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/lab_04.pdf))
+* Student Experience Survey [(docx)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.docx) [(pdf)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.pdf)
 * Optional: digital camera
 * Ensure that all classroom computers can access <http://snap.berkeley.edu/run>.
 * [Unit 0 Tips](unit_0_tips.md)

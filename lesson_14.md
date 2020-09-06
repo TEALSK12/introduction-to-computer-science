@@ -10,7 +10,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now 1.4: Sprite Communication](do_now_14.md)  .
-* [Lab 1.4 handout](lab_14.md) (Sprites in Action) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.4%20Sprites%20in%20Action.pdf)).
+* [Lab 1.4 handout](lab_14.md) (Sprites in Action) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([blocks](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20pdf/Lab%201.4%20Sprites%20in%20Action.pdf)).
 * [Unit 1 Tips](unit_1_tips.md).
 
 ## Pacing Guide
@@ -48,7 +48,7 @@ _Note: The [Lesson 1.4](http://snap.berkeley.edu/snapsource/snap.html#present:Us
 
 ### 2.  Activity
 
-* Students should complete the ["Sprites in Action"](lab_14.md) lab individually.
+* Students should complete the [Sprites in Action](lab_14.md) lab individually.
 * Ensure that students create two different sprites for parts 1 and 2 so they do not get the costumes mixed up.
 * Students can submit the assignment using your turn-in procedures or you can check off the work as students complete it.
 
@@ -59,7 +59,7 @@ _Note: The [Lesson 1.4](http://snap.berkeley.edu/snapsource/snap.html#present:Us
 
 ## Accommodations/Differentiation
 
-* Students that finish quickly can be encouraged to add more detail to their animations, such as sounds, "say" blocks, and/or more costumes.
+* Students that finish quickly can be encouraged to add more detail to their animations, such as sounds, `say` blocks, and/or more costumes.
 * Especially advanced students can be encouraged to create their own costumes for a new animation that does not use any built-in sprites.
 * With struggling students, re-emphasize the fact that each sprite can have different costumes and that changing costumes is very much like changing position by moving. Get students to be able to change costumes on a key press before moving on to the animation aspect.
 

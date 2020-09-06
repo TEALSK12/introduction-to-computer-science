@@ -871,8 +871,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [ ] [Do Now: I am ____](do_now_04.md)
-* [ ] [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab%200.4.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab%200.4.pdf))
-* [ ] Student Experience Survey [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.pdf)
+* [ ] [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab%200.4.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab%200.4.pdf))
+* [ ] Student Experience Survey [(docx)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.docx) [(pdf)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.pdf)
 * [ ] Optional: digital camera
 * [ ] [Unit 0 Tips](unit_0_tips.md)
 
@@ -991,7 +991,7 @@ In this lab, you will explore Snap! and create a simple "self-portrait" program 
 
 ## Part 2 - Who Are You
 
-Using what you've learned and other things you might discover, create a Snap! program that describes yourself.  This can take whatever form and use whatever Snap! tools and blocks you want.  Make sure that somehow, at some point in your program you show the information from the Student Experiences Survey. [(Download in Word)](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Student%20Experiences%20Survey.docx) [(Link to PDF)](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Student%20Experiences%20Survey.pdf)
+Using what you've learned and other things you might discover, create a Snap! program that describes yourself.  This can take whatever form and use whatever Snap! tools and blocks you want.  Make sure that somehow, at some point in your program you show the information from the Student Experiences Survey. [(docx)](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Student%20Experiences%20Survey.docx) [(pdf)](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%200/Student%20Experiences%20Survey.pdf)
 
 ## Grading Scheme/Rubric
 
@@ -1027,8 +1027,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [ ] [Unit 1 Do Now](do_now_11.md) ([Link to Do Now Handout](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Do_Now_11_Coordinate_Review.pdf))
-* [ ] [Lab 1.1 handout](lab_11.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
-* [ ] Helping Trios handout Helping Trios handout [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
+* [ ] [Lab 1.1 handout](lab_11.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
+* [ ] Helping Trios handout Helping Trios handout [(docx)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(pdf)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
 * [ ] Ensure that all classroom computers can access <http://snap.berkeley.edu/run>.
 * [ ] Read through the lab so that you are familiar with the requirements and can assist students as needed
 * [ ] [Unit 1 Tips](unit_1_tips.md)
@@ -1592,8 +1592,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [ ] [Unit 1 Do Now](do_now_11.md) ([Link to Do Now Handout](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Do_Now_11_Coordinate_Review.pdf))
-* [ ] [Lab 1.1 handout](lab_11.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
-* [ ] Helping Trios handout Helping Trios handout [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
+* [ ] [Lab 1.1 handout](lab_11.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
+* [ ] Helping Trios handout Helping Trios handout [(docx)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(pdf)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
 * [ ] Ensure that all classroom computers can access <http://snap.berkeley.edu/run>.
 * [ ] Read through the lab so that you are familiar with the requirements and can assist students as needed
 * [ ] [Unit 1 Tips](unit_1_tips.md)
@@ -1739,8 +1739,8 @@ Students will be able to...
 ## Materials/Preparation
 
 - [ ]  [Do Now 1.2: Tracing and Debugging](do_now_12.md) If you like you can place a picture of [Admiral Grace Hopper](https://upload.wikimedia.org/wikipedia/commons/2/21/Grace_Murray_Hopper%2C_in_her_office_in_Washington_DC%2C_1978%2C_%C2%A9Lynn_Gilbert.jpg) or her Mark II [notes](https://upload.wikimedia.org/wikipedia/commons/8/8a/H96566k.jpg) that show the bug she found in the computer.
-- [ ]  [Lab 1.2](lab_12.md) handout (SNAP Scavenger Hunt) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.2%20SNAP%20Scavenger%20Hunt.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.2%20SNAP%20Scavenger%20Hunt.pdf))
-- [ ]  Helping Trios handout [Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
+- [ ]  [Lab 1.2](lab_12.md) handout (SNAP Scavenger Hunt) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.2%20SNAP%20Scavenger%20Hunt.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.2%20SNAP%20Scavenger%20Hunt.pdf))
+- [ ]  Helping Trios handout [docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(pdf)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
 - [ ]  Read through the handout so that you are familiar with the requirements and can assist students
 - [ ]  Index cards with each students name on them. One name per index card.
 - [ ]  [Unit 1 Tips](unit_1_tips.md)
@@ -1929,7 +1929,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [ ] [Do Now 1.3: Drawing a Triangle](do_now_13.md) You can ask students to give instructions in plain language, pseudo code or with images.
-* [ ] [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.3%20Squares%20Triangles.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.3%20Squares%20Triangles.pdf))
+* [ ] [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.3%20Squares%20Triangles.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.3%20Squares%20Triangles.pdf))
 * [ ] [Geometry Exterior Angles Review](Geometry_Exterior_Angles.pdf)
 * [ ] [Unit 1 Tips](unit_1_tips.md)
 
@@ -2078,7 +2078,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [ ] [Do Now 1.4: Sprite Communication](do_now_14.md)  
-* [ ] [Lab 1.4 handout](lab_14.md) (Sprites in Action) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.4%20Sprites%20in%20Action.pdf))
+* [ ] [Lab 1.4 handout](lab_14.md) (Sprites in Action) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.4%20Sprites%20in%20Action.pdf))
 * [ ] [Unit 1 Tips](unit_1_tips.md)
 
 ## Pacing Guide
@@ -2256,13 +2256,13 @@ Students will be able to...
 * [ ] [Do Now 1.5: Day 1, Knock Knock](do_now_15.md)  
 * [ ] [Do Now 1.52: Day 2, Click Event Interaction](do_now_152.md)  
 * [ ] [Do Now 1.53: Day 3, Movement Interaction](do_now_153.md)  
-* [ ] Reference to Storytelling project: [Project 1 - Storytelling](project_1.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%201%20Storytelling.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%201%20Storytelling.pdf))
+* [ ] Reference to Storytelling project: [Project 1 - Storytelling](project_1.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%201%20Storytelling.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%201%20Storytelling.pdf))
 * [ ] A list of possible plays to find a scene to animate: [Most popular Plays and Musicals](http://www.npr.org/sections/ed/2015/07/30/427138970/the-most-popular-high-school-plays-and-musicals)
 * [ ] A list of possible nursery rhymes
   * Wikipedia has a fairly comprehensive list: <https://en.wikipedia.org/wiki/List_of_nursery_rhymes>
   * A few suggested subjects for students who struggle to come up with their own
   * Pick a few simple, well-known options from your list
-* [ ] Planning Worksheet ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx))
+* [ ] Planning Worksheet ([docx](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx))
 * [ ] [Unit 1 Tips](unit_1_tips.md)
 
 ## Pacing Guide
@@ -2493,7 +2493,7 @@ Students will be able to...
 
 - [Unit 2 Tips](unit_2_tips.md)
 - [Do Now 2.1: Intro Loops](do_now_21.md)
-- Lab 2.1 handout - [Squares and Triangles Redux](lab_21.md) ([Download in MS Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.1%20Triangles%20and%20Squares%20Redux.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.1%20Triangles%20and%20Squares%20Redux.pdf))
+- Lab 2.1 handout - [Squares and Triangles Redux](lab_21.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.1%20Triangles%20and%20Squares%20Redux.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.1%20Triangles%20and%20Squares%20Redux.pdf))
 - [Geometry Cheat Sheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif)
 _ [Starter Code]
 
@@ -2647,7 +2647,7 @@ Students will be able to...
 ## Materials/Preparation
 
 - [ ] [Do Now 2.2: Debugging Loops](do_now_22.md)
-- [ ] Lab 2.2 handout - [Yellow Brick Road](lab_22.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.2%20Yellow%20Brick%20Road.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.2%20Yellow%20Brick%20Road.pdf))
+- [ ] Lab 2.2 handout - [Yellow Brick Road](lab_22.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.2%20Yellow%20Brick%20Road.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.2%20Yellow%20Brick%20Road.pdf))
 - [ ] [Unit 2 Tips](unit_2_tips.md)
 
 ## Pacing Guide
@@ -2810,7 +2810,7 @@ Students will be able to...
 ## Materials/Preparation
 
 - [ ] [Do Now 2.3: Stairs](do_now_23.md)
-- [ ] Lab 2.3 Handout - [What Shape is That?](lab_23.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.3%20What%20Shape%20Is%20That.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.3%20What%20Shape%20Is%20That.pdf))
+- [ ] Lab 2.3 Handout - [What Shape is That?](lab_23.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.3%20What%20Shape%20Is%20That.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.3%20What%20Shape%20Is%20That.pdf))
 - [ ] [Unit 2 Tips](unit_2_tips.md)
 
 ## Pacing Guide
@@ -3010,7 +3010,7 @@ Students will be able to...
 ## Materials/Preparation
 
 - [ ] [Do Now 2.4: Debugging](do_now_24.md)
-- [ ] Lab 2.4 handout - [Guessing Game](lab_24.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.4%20Guessing%20Game.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.4%20Guessing%20Game.pdf))
+- [ ] Lab 2.4 handout - [Guessing Game](lab_24.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.4%20Guessing%20Game.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.4%20Guessing%20Game.pdf))
 - [ ] ["The Box Variable Activity"](https://teachinglondoncomputing.org/resources/inspiring-unplugged-classroom-activities/the-box-variable-activity/) materials (Optional)
 - [ ] [Unit 2 Tips](unit_2_tips.md)
 
@@ -3144,7 +3144,7 @@ Students will be able to...
 ## Materials/Preparation
 
 - [ ] [Do Now 2.5: Variables Practice](do_now_25.md)
-- [ ] [Lab 2.5 handout (Triangles of All Kinds)](lab_25.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.5%20Triangles%20of%20All%20Kinds.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.5%20Triangles%20of%20All%20Kinds.pdf))
+- [ ] [Lab 2.5 handout (Triangles of All Kinds)](lab_25.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.5%20Triangles%20of%20All%20Kinds.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.5%20Triangles%20of%20All%20Kinds.pdf))
 - [ ] [Unit 2 Tips](unit_1_tips.md)
 
 ## Pacing Guide
@@ -3325,7 +3325,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [ ] [Do Now 2.6: Boolean Practice](do_now_26.md)
-* [ ] [Lab 2.6 handout (What Goes Up...)](lab_26.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.6%20What%20Goes%20Up.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.6%20What%20Goes%20Up.pdf))
+* [ ] [Lab 2.6 handout (What Goes Up...)](lab_26.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.6%20What%20Goes%20Up.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.6%20What%20Goes%20Up.pdf))
 * [ ] [Unit 2 Tips](unit_2_tips.md)
 
 ## Pacing Guide
@@ -3474,8 +3474,8 @@ Students will be able to...
 ## Materials/Preparation
 
 - [ ] [Do Now 2.7: Bouncing Ball](do_now_27.md)  
-- [ ]  Reference to the Pong project: [Pong](project_2.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%202%20Pong.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%202%20Pong.pdf))
-- [ ] Pong planning worksheet: ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project_2_Pong_Planning_Worksheet.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project_2_Pong_Planning_Worksheet.pdf))
+- [ ]  Reference to the Pong project: [Pong](project_2.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%202%20Pong.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%202%20Pong.pdf))
+- [ ] Pong planning worksheet: ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project_2_Pong_Planning_Worksheet.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project_2_Pong_Planning_Worksheet.pdf))
 - [ ] [Optional] Printouts of the specification
 - [ ] Link to an online version of Pong for demonstration: <http://www.ponggame.org/>
 - [ ] [Unit 2 Tips](unit_2_tips.md)
@@ -3848,7 +3848,7 @@ Students will be able to...
 ## Materials/Preparation
 
 - [ ] [Do Now 3.2: Drawing Squares](do_now_32.md)
-- [ ]  Lab 3.2 handout - [Drawing Shapes Again](lab_32.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.2%20Drawing%20Shapes%20Again.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.2%20Drawing%20Shapes%20Again.pdf))
+- [ ]  Lab 3.2 handout - [Drawing Shapes Again](lab_32.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.2%20Drawing%20Shapes%20Again.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.2%20Drawing%20Shapes%20Again.pdf))
 - [ ]  [Unit 3 Tips](unit_3_tips.md)
 
 ## Pacing Guide
@@ -3988,7 +3988,7 @@ Students will be able to...
 ## Materials/Preparation
 
 - [ ] [Do Now 3.3: Jumping](do_now_33.md)
-- [ ] [Lab 3.3 handout](lab_33.md) (Let Me Check My Calendar) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.pdf))
+- [ ] [Lab 3.3 handout](lab_33.md) (Let Me Check My Calendar) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.3%20Let%20Me%20Check%20My%20Calendar.pdf))
 - [ ] [Unit 3 Tips](unit_3_tips.md)
 
 ## Pacing Guide
@@ -4137,7 +4137,7 @@ Students will be able to...
 ## Materials/Preparation
 
 - [ ] [Do Now 3.4: Practice using Arguments](do_now_34.md)
-- [ ] [Lab 3.4 handout](lab_34.md) (If My Calculations Are Correct...) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.pdf))
+- [ ] [Lab 3.4 handout](lab_34.md) (If My Calculations Are Correct...) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.pdf))
 - [ ] [Unit 3 Tips](unit_3_tips.md)
 
 ## Pacing Guide
@@ -4287,8 +4287,8 @@ Students will be able to...
 
 ## Materials/Preparation
 
-- Reference to the Platform Game Project: [Platform Game](project_3_platform_game_easy.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%203%20Platform%20Game%20Easy.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%203%20Platform%20Game%20Easy.pdf))
-- (Optional) Advanced Version of the project: [Advanced Platform Game](project_3.md) ([Download in Word](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%203%20Platform%20Game.docx)) ([Link to PDF](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%203%20Platform%20Game.pdf))
+- Reference to the Platform Game Project: [Platform Game](project_3_platform_game_easy.md) ([docx](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%203%20Platform%20Game%20Easy.docx)) ([pdf](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%203%20Platform%20Game%20Easy.pdf))
+- (Optional) Advanced Version of the project: [Advanced Platform Game](project_3.md) ([docx](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20Word/Project%203%20Platform%20Game.docx)) ([pdf](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Projects/Projects%20PDF/Project%203%20Platform%20Game.pdf))
 
 - (Optional) Printouts of the specification
 - A few suggested themes available for students who may struggle to come up with their own.
@@ -4705,8 +4705,8 @@ Students will be able to...
 ## Materials/Preparation
 
 - [ ] [Do Now 4.2: Letters of a Word](do_now_42.md)
-- [ ] [Lab 4.2 handout (You Talkin' to Me?)](lab_42.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.2%20You%20Talkin%20To%20Me.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.2%20You%20Talkin%20To%20Me.pdf))
-- [ ] [Snap! List Components] [(Download in Word )](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/SNAP%20Lists%20Components.docx?raw=true), [(Download PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/SNAP%20Lists%20Components.pdf)
+- [ ] [Lab 4.2 handout (You Talkin' to Me?)](lab_42.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.2%20You%20Talkin%20To%20Me.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.2%20You%20Talkin%20To%20Me.pdf))
+- [ ] [Snap! List Components] [(docx )](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/SNAP%20Lists%20Components.docx?raw=true), [(Download PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/SNAP%20Lists%20Components.pdf)
 - [ ]  [Unit 4 Tips](unit_4_tips.md)
 
 ## Pacing Guide
@@ -4871,7 +4871,7 @@ Students will be able to...
 ## Materials/Preparation
 
 - [ ] [Do Now 4.3: Quote of the Day](do_now_43.md)
-- [ ] [Lab 4.3 handout (Guess Who)](lab_43.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.3%20Guess%20Who.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.3%20Guess%20Who.pdf))
+- [ ] [Lab 4.3 handout (Guess Who)](lab_43.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.3%20Guess%20Who.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.3%20Guess%20Who.pdf))
 - [ ] [Unit 4 Tips](unit_4_tips.md)
 
 ## Pacing Guide
@@ -5031,7 +5031,7 @@ Students will be able to...
 ## Materials/Preparation
 
 - [ ] [Do Now 4.4: Traversing List](do_now_44.md)
-- [ ] [Lab 4.4 handout (Number Cruncher)](lab_44.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.4%20Number%20Cruncher.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.4%20Number%20Cruncher.pdf))
+- [ ] [Lab 4.4 handout (Number Cruncher)](lab_44.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.4%20Number%20Cruncher.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.4%20Number%20Cruncher.pdf))
 - [ ] [Unit 4 Tips](unit_4_tips.md)
 
 ## Pacing Guide
@@ -5161,7 +5161,7 @@ Students will be able to...
 ## Materials/Preparation
 
 - [Do Now 4.5: List Tracing](do_now_45.md)
-- [Lab 4.5 handout (It's Around Here Somewhere)](lab_45.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.5%20Its%20Around%20Here%20Somewhere.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.5%20Its%20Around%20Here%20Somewhere.pdf))
+- [Lab 4.5 handout (It's Around Here Somewhere)](lab_45.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.5%20Its%20Around%20Here%20Somewhere.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.5%20Its%20Around%20Here%20Somewhere.pdf))
 - [Unit 4 Tips](unit_4_tips.md)
 
 ## Pacing Guide
@@ -5300,8 +5300,8 @@ Students will be able to...
 ## Materials/Preparation
 
 - [Do Now 4.6: Gentle Guess My Word](do_now_46.md)
-- [Project 4 - Guess My Word](project_4.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/Project%204%20Guessmyword.docx?raw=true)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Project%204%20Guessmyword.pdf))
-- Guess My Word planning worksheet: ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project_4_Guessmyword_Planning_Worksheet.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project_4_Guessmyword_Planning_Worksheet.pdf))
+- [Project 4 - Guess My Word](project_4.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/Project%204%20Guessmyword.docx?raw=true)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Project%204%20Guessmyword.pdf))
+- Guess My Word planning worksheet: ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project_4_Guessmyword_Planning_Worksheet.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project_4_Guessmyword_Planning_Worksheet.pdf))
 - Link to an online version of a word guessing game, such as <http://www.searchamateur.com/Play-Free-Online-Games/Bubbletoonia-Cake-Deal.htm>
 - A word list from which words can be selected for the game, such as [Word List]
 - [Unit 4 Tips](unit_4_tips.md)
@@ -5490,7 +5490,7 @@ Students will be able to...
 ## Materials/Preparation
 
 - [ ] [Unit 5 Tips](unit_5_tips.md)
-- [ ] [Lab 5.1 Handout](lab_51.md) (Connect the Dots) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.1%20Connect%20the%20Dots.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.1%20Connect%20the%20Dots.pdf))
+- [ ] [Lab 5.1 Handout](lab_51.md) (Connect the Dots) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.1%20Connect%20the%20Dots.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.1%20Connect%20the%20Dots.pdf))
 - [ ] If possible, create large poster-sized versions of the dot grids (each grid is 12 x 3).
 
 ## Pacing Guide
@@ -5686,7 +5686,7 @@ Students will be able to...
 ## Materials/Preparation
 
 - [ ] [Do Now 5.2: Star Wars Troopers](do_now_52.md)
-- [ ] [Lab 5.2 handout](lab_52.md) (Lots of Balls) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.2%20Lots%20of%20Balls.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.2%20Lots%20of%20Balls.pdf))
+- [ ] [Lab 5.2 handout](lab_52.md) (Lots of Balls) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.2%20Lots%20of%20Balls.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.2%20Lots%20of%20Balls.pdf))
 - [ ] Test out the lab on student machines before class (cloning in Snap! can bring the web browser to a crawl on some machines)
 - [ ] [Unit 5 Tips](unit_5_tips.md)
 
@@ -5814,7 +5814,7 @@ Students will be able to...
 ## Materials/Preparation
 
 - [ ] [Do Now 5.3: Star Wars Troopers using Cloning](do_now_53.md)
-- [ ] [Lab 5.3 Handout](lab_53.md) (Fewer Balls) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.3%20Fewer%20Balls.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.3%20Fewer%20Balls.pdf))
+- [ ] [Lab 5.3 Handout](lab_53.md) (Fewer Balls) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.3%20Fewer%20Balls.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.3%20Fewer%20Balls.pdf))
 - [ ] Test out the lab on student machines before class to ensure the machines can handle the number of clones
 - [ ] [Unit 5 Tips](unit_5_tips.md)
 
@@ -5951,7 +5951,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-- [Project 5 - Space Invaders](project_5.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%205%20Space%20Invaders.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%205%20Space%20Invaders.pdf))
+- [Project 5 - Space Invaders](project_5.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%205%20Space%20Invaders.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%205%20Space%20Invaders.pdf))
 - [Optional] Printouts of the specification
 - Example of[Space Invaders](http://www.pacxon4u.com/space-invaders/)
 - [Unit 5 Tips](unit_5_tips.md)

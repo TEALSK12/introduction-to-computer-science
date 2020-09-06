@@ -27,20 +27,20 @@ Students will be able to...
 
 ### 1. Lecture
 
-#### In small diverse groups, ask students to consider how to count the number of students with July birthdays in the room.
+#### In small diverse groups, ask students to consider how to count the number of students with July birthdays in the room
 
 - Provide only a few minutes to work through this-- students need not write full, formal algorithms, but simply describe an approach.
 - Have groups share with each other and work together to come up with a single approach, hopefully settling on asking each student if s/he has a July birthday and counting the number of yeses (or something similar).
 
-#### Define **traversal** as the process of accessing each element of a list in order and performing some operation.
+#### Define **traversal** as the process of accessing each element of a list in order and performing some operation
 
 - Call out that the operation can be anything, and may not actually be performed on every element.
 - Provide a few examples of possible operations (say each person's name, count the number of females, add up the total number of siblings, find the average GPA, etc.)
 - Explain that traversing is how many problems involving lists are solved.
 
-#### As a group, develop sample code for a simple list traversal, such as the following:
+#### As a group, develop sample code for a simple list traversal, such as the following
 
-![Simple List Traveral](simpleListTraversal.png)
+![Simple List Traversal](simpleListTraversal.png)
 
 - Ask leading questions to help students write each line of code, one a time, then gradually put the pieces together ("build up" approach).
 - Point out that the `say` block can be replaced by any code (including larger blocks of code for more complex operations), but that the rest of the script will typically be the same.

@@ -1,4 +1,4 @@
-# Lesson 3.5: Platform Game Projec
+# Lesson 3.5: Platform Game Project
 
 ## Learning Objectives
 

@@ -28,7 +28,7 @@ Students will be able to...
 
 ### Introductory discussion
 
-- Shortly describe the Solar System  - Sun, planets, etc, and hook your students in with a way (in programming) to collect and store new information and discoveries.
+- Shortly describe the Solar System and hook your students in with a way (in programming) to collect and store new information and discoveries.
 
 ### Activity
 

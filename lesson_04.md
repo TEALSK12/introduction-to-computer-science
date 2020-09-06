@@ -12,8 +12,9 @@ Students will be able to...
 * [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/lab_04.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/lab_04.pdf))
 * Student Experience Survey [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.pdf)
 * Optional: digital camera
+* Ensure that all classroom computers can access <http://snap.berkeley.edu/run>.
 * [Unit 0 Tips](unit_0_tips.md)
-* Here is an instruction to Snap! Video:  
+* Here is an instruction to Snap! Video:
   <iframe class="markdeep" width="560" height="315" src="https://www.youtube.com/embed/b-EWj7xN90U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pacing Guide
@@ -39,13 +40,14 @@ Students will be able to...
   * DO NOT go into detail-- the specifics of Snap! will be covered in much more depth in unit 1. The goal here is simply to give students enough of a starting point to be able to explore and try things out on their own.
 * Show students the [lab handout](lab_04.md) and read through the instructions.
   * Point out the places to write answers to the written questions in parts 1.2 and 1.3.
-  * Draw special attention to the list of requirements for the self-portrait pr ogram in part 1.4.
+  * Draw special attention to the list of requirements for the self-portrait program in part 1.4.
   * This is an excellent opportunity to tell students that all labs in this course will look like this, and that they should get used to reading instructions carefully.
 
 ### 2. Student Experiences Survey
 
 * Instruct students to complete the [Student Experiences Survey](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.docx)
-* Students should answer every question and “I don’t know” or “I’m not sure” are okay answers.  
+* Students should answer every question and “I don’t know” or “I’m not sure” are okay answers.
+  * _Remote Guidance_: This can accomplished remotely by setting up a digital form or using a quizzing tool in your LMS or Remote Classroom.
 * **Optional**
   * If you have a digital camera available, you can take photos of the students for use in the Snap! self-portraits.
   * Doing so will give a level of personalization to each student's project.

@@ -1,4 +1,3 @@
-<!-- rmarkdown v1 -->
 # Lesson 1.1: Welcome to SNAP
 
 ## Learning Objectives
@@ -6,15 +5,14 @@
 Students will be able to...
 
 * Define and identify **blocks**, **scripts**, **sprites**, and **the stage** in SNAP.
-* Write simple Snap! programs
-* Describe what simple Snap! programs do without executing the code
+* Write simple Snap! programs.
+* Describe what simple Snap! programs do without executing the code.
 
 ## Materials/Preparation
 
-* [Unit 1 Do Now](do_now_11.md) ([Link to Do Now Handout](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Do_Now_11_Coordinate_Review.pdf))
-* [Lab 1.1 handout](lab_11.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
-* Helping Trios handout Helping Trios handout [(Download in Word)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
-* Ensure that all classroom computers can access <http://snap.berkeley.edu/run>.
+* [Unit 1 Do Now](do_now_11.md) ([PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Do_Now_11_Coordinate_Review.pdf))
+* [Lab 1.1 handout](lab_11.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
+* Helping Trios handout Helping Trios handout [(docx)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
 * Read through the lab so that you are familiar with the requirements and can assist students as needed
 * [Unit 1 Tips](unit_1_tips.md)
 

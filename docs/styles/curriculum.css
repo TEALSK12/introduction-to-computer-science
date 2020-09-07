@@ -72,7 +72,7 @@ body#md {
 
 .md h2, .md h3, .md h4 {
     border: none;
-    line-height: 0%;
+    line-height: 0.5;
 }
 
 .md .tocTop {

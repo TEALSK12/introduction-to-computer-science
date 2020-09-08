@@ -16,6 +16,8 @@ Students will be able to...
 * Class Syllabus Here is an [Example](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/IntrotoCSSyllabusExample.docx) one to use as you see fit.
   * _Remote Guidance_: This can be emailed out to parents and students. I picture of the signatures could be submitted digitally or signed digitally as a pdf using the `Fill and sign` tool in Adobe Reader.
 * [Unit 0 Tips](unit_0_tips.md)
+* Video Resource - [https://www.youtube.com/watch?v=cKhVupvyhKk](https://www.youtube.com/watch?v=cKhVupvyhKk)
+* Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 

@@ -15,6 +15,10 @@ Needed for this lesson:
 * Paper/writing implements for each group of students.
 * Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine.
 * [Unit 0 Tips](unit_0_tips.md)
+* Video Resource - [https://youtu.be/ZnBF2GeAKbo](https://youtu.be/ZnBF2GeAKbo)
+* Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
+* [CodeScty Algorithm Music Video](https://youtu.be/LMRSr_y9jPU)
+* [CodeScty Algorithm Dance Challenge](https://youtu.be/LfhZzHrWDQM)
 
 ## Pacing Guide
 

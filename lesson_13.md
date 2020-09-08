@@ -15,6 +15,8 @@ Students will be able to...
   * This gives the angles of a few basic shapes and the formula to determine the exterior angle of the shape they want to draw.
 * Do Now [Starter Code](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Equalteral%20Triangle).
 * [Unit 1 Tips](unit_1_tips.md).
+* Video Resource - [https://www.youtube.com/watch?v=qLU3PtaG3ww](https://www.youtube.com/watch?v=qLU3PtaG3ww)
+* Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 
@@ -58,13 +60,12 @@ Students will be able to...
 
 ## Accommodations/Differentiation
 
-* Students who have not learned the exterior angles of a shape, will need this document as they figure out exterior angles. [Geometry Exterior Angles Review](Geometry_Exterior_Angles.pdf)
-* Advanced students can attempt the five-pointed star. If students finish that shape, encourage them to try more advanced shapes.
-  * Examples: Kite, smiley face, student's initials
-* Struggling students can either be paired or allowed to not complete certain shapes.
-* Students who have not yet learned angles of triangles may have difficulty determining the correct angles. Point out to them that geometric understanding is not necessary—the angles can be determined using trial and error.
-  * If students need more scaffolding, they can be pointed to an online resource such as <http://www.mathsisfun.com/geometry/interior-angles-polygons.html>
-  * If most students are not equipped to figure out the angles on their own, provide diagrams like the one in part 1.1 to assist.
+-   Advanced students can attempt the five-pointed star. If students finish that shape, encourage them to try more advanced shapes.
+    -   Examples: Kite, smiley face, student's initials
+-   Struggling students can either be paired or allowed to not complete certain shapes.
+-   Students who have not yet taken geometry may have difficulty determining the correct angles. Point out to them that geometric understanding is not necessary—the angles can be determined using trial and error.
+    -   If students need more scaffolding, they can be pointed to an online resource such as <http://www.mathsisfun.com/geometry/interior-angles-polygons.html>
+    -   If most students are not equipped to figure out the angles on their own, provide diagrams like the one of a triangle in part 1.1 to assist.
 
 ## Forum discussion
 

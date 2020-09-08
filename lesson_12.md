@@ -20,6 +20,10 @@ Students will be able to...
 
   <iframe class="markdeep" width="560" height="315" src="https://www.youtube.com/embed/Fg82iV-L8ZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- Video Resource - [https://youtu.be/u80WYSNxRjM](https://youtu.be/u80WYSNxRjM)
+- Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
+
+
 ## Pacing Guide
 
 | Duration   | Description                                   |

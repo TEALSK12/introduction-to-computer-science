@@ -9,10 +9,14 @@ Students will be able to...
 
 ## Materials/Preparation
 
--   [Do Now 1.3: Drawing a Triangle](do_now_13.md) You can ask students to give instructions in plain language, pseudo code or with images.
--   [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.3%20Squares%20Triangles.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.3%20Squares%20Triangles.pdf))
--   [Lab 1.3 Geometry Cheat Sheet](lab_13_cheat_sheet.pdf)
--   [Unit 1 Tips](unit_1_tips.md)
+* [Do Now 1.3: Drawing a Triangle](do_now_13.md) You can ask students to give instructions in plain language, pseudo code or with images.
+* [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.3%20Squares%20Triangles.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.3%20Squares%20Triangles.pdf)).
+* [Geometry Exterior Angles Review](Geometry_Exterior_Angles.pdf)
+  * This gives the angles of a few basic shapes and the formula to determine the exterior angle of the shape they want to draw.
+* Do Now [Starter Code](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Equalteral%20Triangle).
+* [Unit 1 Tips](unit_1_tips.md).
+* Video Resource - [https://www.youtube.com/watch?v=qLU3PtaG3ww](https://www.youtube.com/watch?v=qLU3PtaG3ww)
+* Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 

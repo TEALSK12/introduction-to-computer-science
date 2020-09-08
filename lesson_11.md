@@ -17,6 +17,8 @@ Students will be able to...
 * Ensure that all classroom computers can access <http://snap.berkeley.edu/run>.
 * Read through the lab so that you are familiar with the requirements and can assist students as needed
 * [Unit 1 Tips](unit_1_tips.md)
+* Video Resource - [https://www.youtube.com/watch?v=b-EWj7xN90U](https://www.youtube.com/watch?v=b-EWj7xN90U)
+* Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 

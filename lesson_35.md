@@ -1,4 +1,4 @@
-# Lesson 3.5: Platform Game Projec
+# Lesson 3.5: Platform Game Project
 
 ## Learning Objectives
 
@@ -9,13 +9,13 @@ Students will be able to...
 
 ## Materials/Preparation
 
-- Platform Game Project: [Platform Game](project_3_platform_game_easy.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%203%20Platform%20Game%20Easy.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%203%20Platform%20Game%20Easy.pdf))
-- (Optional) Advanced Version of the project: [Advanced Platform Game](project_3.md) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%203%20Platform%20Game.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%203%20Platform%20Game.pdf))
+- Platform Game Project: [Platform Game](project_3_platform_game_easy.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%203%20Platform%20Game%20Easy.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%203%20Platform%20Game%20Easy.pdf)).
+- Advanced Version of the project: [Advanced Platform Game](project_3.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%203%20Platform%20Game.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%203%20Platform%20Game.pdf))
 - (Optional) Printouts of the specification
 - [Platform Game Planning Worksheet](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Platform_Game_Planning_Worksheet.docx)
 - A few suggested themes available for students who may struggle to come up with their own.
 - Suggestions for characters, power-ups, goals, etc.
-- [Unit 3 Tips](unit_3_tips.md)
+- [Unit 3 Tips](unit_3_tips.md).
 
 ## Pacing Guide
 
@@ -55,12 +55,12 @@ Students will be able to...
 
 - This project is a summative assessment for the unit.  Students should be demonstrating mastery of all the skills covered.
 - Most students will require roughly 6-10 hours of total work time to complete the project
-- Assess the progress of your students regularly using such techniques as asking them to demonstate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
+- Assess the progress of your students regularly using such techniques as asking them to demonstrate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
 - Adjust the amount of time allowed for the project to fit the needs of your students
-- It is vital that nearly all students complete the project before moving on
+- It is vital that nearly all students complete the project before moving on.
 - If most students have the ability to work on Snap! assignments at home, the amount of in-class time provided can be reduced if necessary.
-- If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours
-- Ensure that students are able to ask questions in class throughout the project
+- If this approach is taken, be sure to make accommodations for students who are _not_ able to work at home, such as after school lab hours.
+- Ensure that students are able to ask questions in class throughout the project.
 - See the standard [Lab Day Lesson](lab_day_lesson.md) for detailed plans for lab days.
 
 ## Accommodations/Differentiation

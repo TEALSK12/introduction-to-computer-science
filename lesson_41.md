@@ -4,14 +4,14 @@
 
 Students will be able to...
 
-- Explain the concept of a "list" in a programming context
-- Identify scenarios in which lists are useful
+- Explain the concept of a "list" in a programming context.
+- Identify scenarios in which lists are useful.
 
 ## Materials/Preparation
 
-- [Unit 4 Tips](unit_4_tips.md)
-- Paper/writing implements for each group of students
-- Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine
+- [Unit 4 Tips](unit_4_tips.md).
+- Paper/writing implements for each group of students.
+- Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine.
 
 ## Pacing Guide
 
@@ -28,7 +28,7 @@ Students will be able to...
 
 ### Introductory discussion
 
-- Shortly describe the Solar System  - Sun, planets, etc, and hook your students in with a way (in programming) to collect and store new information and discoveries.
+- Shortly describe the Solar System and hook your students in with a way (in programming) to collect and store new information and discoveries.
 
 ### Activity
 

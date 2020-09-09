@@ -11,14 +11,18 @@ Students will be able to...
 ## Materials/Preparation
 
 - [Do Now 1.2: Tracing and Debugging](do_now_12.md) If you like you can place a picture of [Admiral Grace Hopper](https://upload.wikimedia.org/wikipedia/commons/2/21/Grace_Murray_Hopper%2C_in_her_office_in_Washington_DC%2C_1978%2C_%C2%A9Lynn_Gilbert.jpg) or her Mark II [notes](https://upload.wikimedia.org/wikipedia/commons/8/8a/H96566k.jpg) that show the bug she found in the computer.
-- [Lab 1.2](lab_12.md) handout (SNAP Scavenger Hunt) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.2%20SNAP%20Scavenger%20Hunt.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.2%20SNAP%20Scavenger%20Hunt.pdf)).
-- Helping Trios handout [Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(Link to PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf).
+- [Lab 1.2](lab_12.md) handout (SNAP Scavenger Hunt) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.2%20SNAP%20Scavenger%20Hunt.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20pdf/Lab%201.2%20SNAP%20Scavenger%20Hunt.pdf)).
+- Helping Trios handout ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx)) [(pdf)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20pdf/Helping%20Trios.pdf).
 - Read through the handout so that you are familiar with the requirements and can assist students.
 - Index cards with each students name on them. One name per index card.
-- _Who is Grace Hopper?_ Video: [https://youtu.be/Fg82iV-L8ZY](https://youtu.be/Fg82iV-L8ZY).
 - [Unit 1 Tips](unit_1_tips.md).
+- _Who is Grace Hopper?_ Video:
+
+  <iframe class="markdeep" width="560" height="315" src="https://www.youtube.com/embed/Fg82iV-L8ZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - Video Resource - [https://youtu.be/u80WYSNxRjM](https://youtu.be/u80WYSNxRjM)
 - Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
+
 
 ## Pacing Guide
 
@@ -56,6 +60,7 @@ Students will be able to...
 
   > **Cold calling alternative:** Write each student’s name on an index card and shuffle the cards. Next, ask a few “review” questions to set the stage that ask for application (or creativity, or evaluation) and have no single “right answer.” Give students 30 to 60 seconds to formulate an answer. You can have them talk in pairs or groups for a few minutes as well if you prefer. It’s only after students have been thinking that you take the top card to see who answers. Sometimes you can say something like, “If you don’t know, make something up like you would on a mid-term, and then we’ll all help you develop better answers.” The student takes their best shot, knowing that others will help if necessary.
   > At that point you have lots of options:  You can ask a follow-up to the same student, pick another card and have somebody else answer the follow-up, or simply have students volunteer to expand on the first answer.
+- _Remote Guidance_ - Use this [Random Name Generator](Excel-Randomizer.xlsx) to select a student in a remote setting.
 - Point out the color coding for each category.
 - Emphasize important details in some of the blocks listed in part 2, such as:
   - The `Think Block` will leave the bubble on the stage until something else is thought.
@@ -71,7 +76,7 @@ Students will be able to...
 ## Accommodations/Differentiation
 
 - Colorblind students may not be able to identify the block colors, but can still recognize the organization of categories. Be sensitive to this, but no modifications are likely required.
-- Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity. Use you could also use ["Helping Trios."](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf)
+- Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity. Use you could also use [Helping Trios](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20pdf/Helping%20Trios.pdf).
 - The bonus assignment (3.4) should be used for students who finish quickly, and can be a setup for the [Animation Project](project_1.md).
 
 ## Forum discussion

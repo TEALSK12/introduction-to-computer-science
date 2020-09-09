@@ -4,12 +4,12 @@
 
 Students will be able to...
 
-- Build custom reporter and predicate blocks in SNAP
+- Build custom reporter and predicate blocks in SNAP.
 
 ## Materials/Preparation
 
 - [Do Now 3.4: Practice using Arguments](do_now_34.md)
-- [Lab 3.4 handout](lab_34.md) (If My Calculations Are Correct...) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.pdf))
+- [Lab 3.4 handout](lab_34.md) (If My Calculations Are Correct...) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.pdf))
 - [Unit 3 Tips](unit_3_tips.md)
 - Video Resource - [https://youtu.be/6gT91ltwM1Q](https://youtu.be/6gT91ltwM1Q)
 - Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
@@ -27,20 +27,26 @@ Students will be able to...
 
 ### 1.  Lecture
 
-1. Introduce reporter blocks
+#### Introduce reporter blocks
 
-    - Ask students to find blocks with the reporter shape (round) and speculate as to what they do
-    - Point out familiar examples, such as ![x position block](xposition.png), ![answer block](answer.png), ![pickrandom block](pickrandom.png), etc.
-    - Explain the concept of reporting (returning) a value, and how reporter blocks are used to provide values to commands
-    - Emphasize that reporters do not (and should not) perform any action—they are used to compute values which are in turn used by commands
+- Ask students to find blocks with the reporter shape (round) and speculate as to what they do.
+- Point out familiar examples, such as:
+  - ![x position block](xposition.png)
+  - ![answer block](answer.png)
+  - ![pick random block](pickrandom.png).
+- Explain the concept of reporting (returning) a value, and how reporter blocks are used to provide values to commands.
+- Emphasize that reporters do not (and should not) perform any action—they are used to compute values which are in turn used by commands.
 
-2. Introduce predicate blocks as a special case of reporter blocks
+#### Introduce predicate blocks as a special case of reporter blocks
 
-    - Emphasize that predicates must return true or false
-    - Be aware, but don't necessarily tell students, that Snap! does not enforce this
-    - Point out examples, such as ![Touching Block](touching.png), ![less than block](lessThan.png), ![and block](and.png)
-    - Ask students why it might be useful to differentiate predicates from other reporters
-    - Only predicates can be used in a conditional
+- Emphasize that predicates must return true or false.
+- Be aware, but don't necessarily tell students, that Snap! does not enforce this.
+- Point out examples, such as:
+  - ![Touching Block](touching.png)
+  - ![less than block](lessThan.png)
+  - ![and block](and.png)
+- Ask students why it might be useful to differentiate predicates from other reporters.
+- Only predicates can be used in a conditional.
 
 ### 2. Activity
 

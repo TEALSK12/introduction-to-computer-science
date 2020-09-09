@@ -10,7 +10,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now 1.3: Drawing a Triangle](do_now_13.md) You can ask students to give instructions in plain language, pseudo code or with images.
-* [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([Download in Word](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.3%20Squares%20Triangles.docx)) ([Link to PDF](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.3%20Squares%20Triangles.pdf)).
+* [Lab 1.3 handout](lab_13.md) (Squares and Triangles and Stars, Oh My!) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.3%20Squares%20Triangles.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.3%20Squares%20Triangles.pdf)).
 * [Geometry Exterior Angles Review](Geometry_Exterior_Angles.pdf)
   * This gives the angles of a few basic shapes and the formula to determine the exterior angle of the shape they want to draw.
 * Do Now [Starter Code](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Equalteral%20Triangle).
@@ -29,23 +29,34 @@ Students will be able to...
 
 ## Instructor's Notes
 
-1.  Review
-    -   Review the categories of blocks and what each is for.
-        -   Put particular emphasis on Motion and Drawing, as those will be used for this assignment
-    -   Remind students about the iterative process of programming
-        -   Students may get frustrated throughout this activity; remind them that requiring multiple attempts to find the right solution is normal.
-2.  Activity
-    -   Students should complete the ["Triangles and Squares and Stars, Oh My!"](lab_13.md) activity individually.
-        -   Point out that the shapes in part 2.1 are not necessarily listed from easiest to hardest, and that the scripts need not be written in the given order.
-        -  Here is a [Geometry Cheat Sheet](https://www.math-salamanders.com/image-files/geometry-cheat-sheet-2-2d-shapes.gif) by Math Salamanders showing various shapes and their respective angles. It can be presented to students as a reference during the activity and/or enlarged and placed at the front of the classroom for use throughout unit 2.
-    -   When students finish, have them turn in their project using whatever procedures you have set up.
-3.  Debrief
-    -   Have students switch seats with a nearby classmate and review each other's work
-        -   If one in a pair student was able to complete a program and the other was not, have the student who was successful walk his/her partner through
-        -   If neither student in a pair was able to complete a program, encourage them to work together to figure out what they were missing
-            -   Make sure course staff is available to help pairs who cannot figure out a given problem
-    -   Ask students to share what they learned from looking at their partner's programs
-        -   Point out the fact that there is more than one way to solve a problem and two programs that are both correct might not look the same
+### 1.  Review
+
+* Review the categories of blocks and what each is for.
+* Put emphasis on Motion and Drawing, as those will be used for this assignment.
+* Remind students about the iterative process of programming.
+* Students may get frustrated throughout this activity; remind them that requiring multiple attempts to find the right solution is normal.
+
+### Scaffolding and Accommodations
+
+* Review Exterior Angles of Regular Polygons [Geometry Exterior Angles Review](Geometry_Exterior_Angles.pdf) with the class.
+  * Focus on the shapes on this document and the formula used to determine the angle.
+  * This will help them determine find the angles of any regular shape.
+
+### 2.  Activity
+
+* Students should complete the ["Triangles, Squares, and Stars, Oh My!"](lab_13.md) activity individually.
+* Point out that the shapes in part 2.1 are not necessarily listed from easiest to hardest, and that the scripts need not be written in the given order.
+  * This will give them the tools they need to figure out the angles they need for any shape they would like to draw.
+* When students finish, have them turn in their project using whatever procedures you have set up.
+
+### 3.  Debrief
+
+* Have students switch seats with a nearby classmate and review each other's work.
+* If one in a pair student was able to complete a program and the other was not, have the student who was successful walk his/her partner through.
+* If neither student in a pair was able to complete a program, encourage them to work together to figure out what they were missing.
+* Make sure course staff is available to help pairs who cannot figure out a given problem.
+* Ask students to share what they learned from looking at their partner's programs.
+* Point out the fact that there is more than one way to solve a problem and two programs that are both correct might not look the same.
 
 ## Accommodations/Differentiation
 

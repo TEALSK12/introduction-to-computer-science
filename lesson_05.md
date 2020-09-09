@@ -12,7 +12,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now: Draw the Coordinate System](do_now_05.md).
-* [Lab 0.5 handout](lab_05.md) (Getting to know Coordinates) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab_05.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Lab_05.pdf)).
+* [Lab 0.5 handout](lab_05.md) (Getting to know Coordinates) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/lab_05.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/lab_05.pdf)).
 * Familiarize yourself with this [Coordinate System](https://www.desmos.com/calculator/ui4klsjued) tool.
   * Students will be entering coordinates on the left side of the screen
   * The points will plot on the graph.

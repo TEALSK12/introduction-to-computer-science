@@ -8,7 +8,7 @@ body#md {
     padding: 20;
     max-width: none;
     color: #555;
-    font-size: 16px;
+    font-size: 15px;
     padding-right: 20px;
     overflow-x: hidden;
     text-overflow: ellipses;
@@ -72,7 +72,7 @@ body#md {
 
 .md h2, .md h3, .md h4 {
     border: none;
-    line-height: 0.5;
+    line-height: 0%;
 }
 
 .md .tocTop {

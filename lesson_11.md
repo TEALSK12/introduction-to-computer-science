@@ -10,8 +10,9 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Unit 1 Do Now](do_now_11.md) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20pdf/Do_Now_11_Coordinate_Review.pdf))
-* [Lab 1.1 handout](lab_11.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20pdf/Lab%201.1%20Welcome%20To%20SNAP.pdf))
+* [1.1 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.1.pptx)
+* [Unit 1 Do Now](do_now_11.md)
+* [Lab 1.1 handout Welcome to Snap!](lab_11.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20pdf/Lab%201.1%20Welcome%20To%20SNAP.pdf))
 * Helping Trios handout Helping Trios handout [(docx)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx) [(pdf)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20pdf/Helping%20Trios.pdf)
 * Read through the lab so that you are familiar with the requirements and can assist students as needed
 * [Unit 1 Tips](unit_1_tips.md)
@@ -44,13 +45,13 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 
 ### Day 1
 
-#### 1. Introductory discussion
+#### Introductory discussion
 
 * Review the definitions of "algorithm" and "program" developed in lesson 0.2
   * **Algorithm:** a complete, well-defined sequence of steps for completing a task or solving a problem
   * **Program:** a sequence of instructions or steps, written in a language that can be understood by a computer, that will be used by the computer to complete a task or solve a problem
 
-#### 2.  Activity Walkthrough
+#### Activity Walkthrough
 
 * Work through [Lab 1.1](lab_11.md) up through part 3 (scripts) as a class.
 * Point out key aspects of Snap! in each section, including:
@@ -62,7 +63,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 * Ensure that all students can create an account and save their work, as describe in the preamble of the lab
 * Allow students a few minutes to develop their own answers to each of the questions and activities before discussing as a group
 
-#### 3.  Activity
+#### Activity
 
 * Individually or in pairs, have students continue working through the ["Welcome to SNAP"](lab_11.md) lab activity.  
   * If you choose to assign pairs, try to partner students into groups that are heterogenous by ability or background.
@@ -75,13 +76,13 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 * Circulate while students are working and try to judge when most of the class has finished each part
 * Try to check in at least every 10 minutes
 
-#### 4.  Turn-in procedures
+#### Turn-in procedures
 
 * Remind students of the turn in procedures introduced in Unit 0
 
 ### Day 2
 
-#### 1.  Review
+#### Review
 
 * Go over answers to the questions from the parts of the lab completed on day 1 (ideally, at least through part 6)
 * Include the parts completed as a class (parts 1-3)
@@ -91,14 +92,14 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
   * Defining "block," "reporter," "script," etc.
   * Describing the coordinate system used in SNAP
 
-#### 2.  Continue lab
+#### Continue lab
 
 * Students should continue working through the lab, aiming to finish all parts by the end of class
 * As before, students should turn in all answers using your chosen turn-in procedure.
 * Pause class at least once to verify understanding of parts 7 and 8 before students move on to the Kaleidoscope program
 * Judge the appropriate time based on observing student progress, but ensure that you break in with at least 10 minutes remaining so students have enough time to work through the program
 
-#### 3.  Debrief and wrap-up
+#### Debrief and wrap-up
 
 * Discuss the challenges in the Kaleidoscope program
 * If time allows, ask one or two students to demonstrate their programs and describe their code

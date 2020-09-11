@@ -32,7 +32,7 @@ From Lessons 6.3 to 6.5 you will be practicing an "Agile" iterative and incremen
 
 ## Instructor's Notes
 
-### 1.  Check-in
+### Check-in
 
 - Remind students daily to keep their planning documents up-to-date and make edits as necessary.  
 - Point out how many days remain and have students check their implementation plan to ensure they do not have more work than time remaining.
@@ -40,7 +40,7 @@ From Lessons 6.3 to 6.5 you will be practicing an "Agile" iterative and incremen
 - Using previous days exit tickets, questions from students, instructor awareness of trouble points in the project, and/or any other resources to determine what needs covering
 - Use this time as an opportunity to remind students of previous labs or activities that may be applicable to their project, and/or how far along they should be by the end of the day
 
-### 2.  Lab time
+### Lab time
 
 - Allow students to work on their project at their own pace
 - Provide a mechanism for students to ask questions of course staff as needed
@@ -48,7 +48,7 @@ From Lessons 6.3 to 6.5 you will be practicing an "Agile" iterative and incremen
 - When there are no current questions, circulate and observe progress, stepping in if students appear stuck but are not asking for help
 - Be sure to meerkat and not spend more than a minute or two with any single student at a time
 
-### 3.  Exit ticket
+### Exit ticket
 
 - Before students leave, have them answer the following questions on a small piece of paper, or in their daily journal notebook:
 

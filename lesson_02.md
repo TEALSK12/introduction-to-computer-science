@@ -11,9 +11,16 @@ Students will be able to...
 
 Needed for this lesson:
 
+* [0.2 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.2.pptx)
 * If you choose to do the peanut butter & jelly sandwich activity, you will need ingredients, utensils, plates, napkins, etc.
 * Paper/writing implements for each group of students.
 * Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine.
+* ["Chalk Talk"](http://www.nsrfharmony.org/system/files/protocols/chalk_talk_0.pdf)
+* ["World Café"](http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/)
+* Remote Whiteboard Tools
+  * [Microsoft Whiteboard](https://www.microsoft.com/en-us/p/microsoft-whiteboard/9mspc6mp8fm4?activetab=pivot:overviewtab) (Available for PC or Mac)
+  * [Google Jamboard](https://edu.google.com/products/jamboard/?modal_active=none)
+* [Hidden Figures and Human Computers](https://airandspace.si.edu/stories/editorial/hidden-figures-and-human-computers))
 * [Unit 0 Tips](unit_0_tips.md)
 * Video Resource - [https://youtu.be/ZnBF2GeAKbo](https://youtu.be/ZnBF2GeAKbo)
 * Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.

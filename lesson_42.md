@@ -11,8 +11,12 @@ Students will be able to...
 ## Materials/Preparation
 
 - [Do Now 4.2: Letters of a Word](do_now_42.md)
+- [4.2 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%204.2.pptx)
 - [Lab 4.2 handout (You Talkin' to Me?)](lab_42.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.2%20You%20Talkin%20To%20Me.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.2%20You%20Talkin%20To%20Me.pdf))
-- [Snap! Lists Components](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/SNAP%20Lists%20Components.docx?raw=true) [(docx )](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/SNAP%20Lists%20Components.docx?raw=true), [(Download PDF)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/SNAP%20Lists%20Components.pdf)
+- [Snap! Lists Components](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/SNAP%20Lists%20Components.docx?raw=true) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/SNAP%20Lists%20Components.docx?raw=true)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/SNAP%20Lists%20Components.pdf))
+- [Context-Free Grammars for English](http://www.cs.uccs.edu/~jkalita/work/cs589/2013/12Grammars.pdf)
+- [Context-Free Grammars](https://www.cs.rochester.edu/~nelson/courses/csc_173/grammars/cfg.html)
+- [Woodward English](https://www.woodwardenglish.com/wp-content/uploads/2018/01/parts-of-speech-english.jpg)
 - [Unit 4 Tips](unit_4_tips.md)
 
 ## Pacing Guide
@@ -28,7 +32,7 @@ Students will be able to...
 
 ### Lecture
 
-#### Review the concept of a list from the previous lesson.
+#### Review the concept of a list from the previous lesson
 
 - Ask students to brainstorm examples of when lists could be useful.
 - To store an unknown number of values (e.g. a bunch of student test scores, shopping list, the songs of your favorite music artist).

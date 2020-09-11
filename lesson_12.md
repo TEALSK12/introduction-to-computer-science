@@ -12,7 +12,7 @@ Students will be able to...
 
 * [1.2 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.2.pptx)
 * [Do Now 1.2: Tracing and Debugging](do_now_12.md) If you like you can place a picture of [Admiral Grace Hopper](https://upload.wikimedia.org/wikipedia/commons/2/21/Grace_Murray_Hopper%2C_in_her_office_in_Washington_DC%2C_1978%2C_%C2%A9Lynn_Gilbert.jpg) or her Mark II [notes](https://upload.wikimedia.org/wikipedia/commons/8/8a/H96566k.jpg) that show the bug she found in the computer.
-* [Lab 1.2](lab_12.md) handout (SNAP Scavenger Hunt) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.2%20SNAP%20Scavenger%20Hunt.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20pdf/Lab%201.2%20SNAP%20Scavenger%20Hunt.pdf)).
+* [Lab 1.2](lab_12.md) handout (Snap!Scavenger Hunt) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.2%20SNAP%20Scavenger%20Hunt.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20pdf/Lab%201.2%20SNAP%20Scavenger%20Hunt.pdf)).
 * Helping Trios handout ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Helping%20Trios.docx)) [(pdf)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20pdf/Helping%20Trios.pdf).
 * Read through the handout so that you are familiar with the requirements and can assist students.
 * Index cards with each students name on them. One name per index card.
@@ -30,7 +30,7 @@ Students will be able to...
 | --------- | --------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 10 minutes | Introductory discussion                       |
-| 25 minutes | "SNAP Scavenger Hunt" Lab activity            |
+| 25 minutes | "Snap!Scavenger Hunt" Lab activity            |
 | 15 minutes | Debrief and wrap-up                           |
 
 ## Instructor's Notes
@@ -50,7 +50,7 @@ Students will be able to...
 
 ### Activity
 
-* Individually or in heterogeneous pairs as described in previous lessons, have students work through the ["SNAP Scavenger Hunt"](lab_12.md) activity.
+* Individually or in heterogeneous pairs as described in previous lessons, have students work through the ["Snap!Scavenger Hunt"](lab_12.md) activity.
 * Students should turn in answers to all questions and Snap! programs for the final problems.
 * Consider gamifying the worksheet or debrief as an online poll and/or quiz.
 

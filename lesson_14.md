@@ -31,7 +31,7 @@ _Note: The [Lesson 1.4](http://snap.berkeley.edu/snapsource/snap.html#present:Us
 
 ### Warm-up
 
-* Students should complete [Do Now 1.4: Example Animation](do_now_14.md) individually. Check to be sure students save a copy of the Example Animation in their personal Snap accounts so they can refer to it later!
+* Students should complete [Do Now 1.4: Example Animation](do_now_14.md) individually. Check to be sure students save a copy of the Example Animation in their personal Snap!accounts so they can refer to it later!
 
 #### Lecture
 
@@ -51,7 +51,7 @@ _Note: The [Lesson 1.4](http://snap.berkeley.edu/snapsource/snap.html#present:Us
     * Point out that all sprites "hear" a broadcast and any sprite with a corresponding "when I receive" will react.
     * Discuss the difference between "broadcast" and "broadcast and wait" and ask students to come up with ideas for when each would be useful.
 
-4. It's worthwhile to introduce the rotate buttons located at the top left of the SNAP interface. These buttons allow you to snap (puns!) your rotation, allowing you to lock rotation, allow free rotation, or allow only left/right rotation.
+4. It's worthwhile to introduce the rotate buttons located at the top left of the Snap!interface. These buttons allow you to Snap!(puns!) your rotation, allowing you to lock rotation, allow free rotation, or allow only left/right rotation.
 
     ![rotate buttons](rotateButton.PNG)
 

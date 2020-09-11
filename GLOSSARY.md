@@ -20,7 +20,7 @@ Pictures that fill the entire stage area.
 ### Block
 Puzzle-piece shapes that are used to create code in snap!
 
-**Related:** [Unit 1: SNAP Basics](unit_01)
+**Related:** [Unit 1: Snap!Basics](unit_01)
 
 ### Boolean Expression
 A value (text, number, picture, etc.) that evaluate to true or false.
@@ -58,7 +58,7 @@ Checks an operator block for a particular variable.
 ### Costume
 A costume is one out of possibly many "frames" or alternate appearances of a sprite.
 
-**Related:** [Unit 1: SNAP Basics](unit_01)
+**Related:** [Unit 1: Snap!Basics](unit_01)
 
 ### Custom Blocks
 Allow for one to make their own programming blocks.
@@ -181,7 +181,7 @@ Called an 'array' in most programming languages, this holds lots of values.
 ### Receive Block
 Code Block in Control that receives a message from another block.
 
-**Related:** [Unit 1: SNAP Basics](unit_01)
+**Related:** [Unit 1: Snap!Basics](unit_01)
 
 ### Reporter Block
 Report a value, usually for use in another block's input slot.
@@ -203,12 +203,12 @@ A description of a set of interactions and/or tasks that describe a start-to-fin
 ### Snap!
 Snap! is an extended reimplementation of [Scratch](http://scratch.mit.edu) that allows you to Build Your Own Blocks.  It also features ﬁrst class lists, ﬁrst class procedures, first class sprites, first class costumes, first class sounds, and first class continuations.  These added capabilities make it suitable for a serious introduction to computer science for high school or college students.
 
-**Related** [Snap How-to's](/references/how-to/README.md)
+**Related** [Snap!How-to's](/references/how-to/README.md)
 
 ### Scripts
 Different types of blocks linked together
 
-**Related:** [Unit 1: SNAP Basics](unit_01)
+**Related:** [Unit 1: Snap!Basics](unit_01)
 
 ### Sequential Search Algorithm
 A method for finding a target value within a list. It sequentially checks each element of the list for the target value until a match is found or until all the elements have been searched.
@@ -218,12 +218,12 @@ A method for finding a target value within a list. It sequentially checks each e
 ### Sprites
 An object in Snap! Which performs functions controlled by scripts.
 
-**Related:** [Unit 1: SNAP Basics](unit_01)
+**Related:** [Unit 1: Snap!Basics](unit_01)
 
 ### Stage
 The background of a project, performs functions through scripting.
 
-**Related:** [Unit 1: SNAP Basics](unit_01)
+**Related:** [Unit 1: Snap!Basics](unit_01)
 
 ### Super-sprite
 A sprite that is  composed of pieces that can move together but can also be separately articulated.
@@ -264,7 +264,7 @@ A collection of sprite costumes. The wardrobe is located in the Costumes tab, wh
 ### Watcher Block
 reporter blocks you can click the checkbox for; they will appear in the Stage and you can track them.
 
-**Related:** [Unit 1: SNAP Basics](unit_01)
+**Related:** [Unit 1: Snap!Basics](unit_01)
 
 ### Wireframe
 A high-level sketch of an application's user interface intended to help visualize layout, interactions, and transitions
@@ -276,14 +276,14 @@ A high-level sketch of an application's user interface intended to help visualiz
 ### X Position
 The position that a sprite or the mouse is at along the horizontal axis.
 
-**Related:** [Unit 1: SNAP Basics](unit_01)
+**Related:** [Unit 1: Snap!Basics](unit_01)
 
 ## Y
 
 ### Y Position
 The position that a sprite or the mouse is at along the vertical axis.
 
-**Related:** [Unit 1: SNAP Basics](unit_01)
+**Related:** [Unit 1: Snap!Basics](unit_01)
 
 ## Z
 

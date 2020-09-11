@@ -20,7 +20,7 @@ Materials and preparation resources can be found in each of the lesson pages.
 
 | Lesson | Objectives | Lab | Days |
 | ------ | ---------- | --- | --- |
-| [1.1: Welcome to Snap!][] | Define and identify blocks, scripts, sprites, and the stage in SNAP. Write simple Snap! programs. Describe what simple Snap! programs do without executing the code.  | Welcome to Snap! | 2 |
+| [1.1: Welcome to Snap!][] | Define and identify blocks, scripts, sprites, and the stage in Snap!. Write simple Snap! programs. Describe what simple Snap! programs do without executing the code.  | Welcome to Snap! | 2 |
 | [1.2: Building Blocks][] |  Name the categories of blocks in Snap! and describe what the blocks in each category do. Describe the function of several common Snap! blocks. Be able to use common blocks to build simple Snap! programs. | Snap! Scavenger Hunt | 1 |
 | [1.3: Drawing Shapes][]    | Construct simple algorithms to draw shapes. Convert algorithms into Snap! programs. | Squares and Triangles and Stars, Oh My! | 1 |
 | [1.4: Animation][]    | Animate Snap! sprites using costume changes and movement. Trigger action in other sprites using broadcasts.  | Sprites in Action | 1 |
@@ -31,7 +31,7 @@ Materials and preparation resources can be found in each of the lesson pages.
 
 | Lesson | Objectives | Lab | Days |
 | ------ | ---------- | --- | --- |
-| [2.1: Loops][] | Define loop in a programming context. Explain why loops are useful. Implement simple repeat and forever loops in SNAP. Utilize loops to reduce redundancy in code. | Squares and Triangles Redux | 1 |
+| [2.1: Loops][] | Define loop in a programming context. Explain why loops are useful. Implement simple repeat and forever loops in Snap!. Utilize loops to reduce redundancy in code. | Squares and Triangles Redux | 1 |
 | [2.2: Nested Loops][] | Use nested loops to solve programming problems. | Another Brick in the Wall | 1 |
 | [2.3: Inputs and Conditionals][] | Ask for and receive user input in a Snap! program. Use simple conditional (if and if-else) blocks to alter control flow in a Snap! program. | What Shape Is That? | 1 |
 | [2.4: Variables][] | Use variables to track values throughout a program. | Guessing Game | 1 |
@@ -44,9 +44,9 @@ Materials and preparation resources can be found in each of the lesson pages.
 | Lesson | Objectives | Lab | Days |
 | ------ | ---------- | --- | --- |
 | [3.1: Abstraction and Generalization][] | Define abstraction, detail removal, generalization, and procedural decomposition in a computer science context. Describe how utilizing procedural decomposition can improve the readability and maintainability of algorithms and/or code. Recognize opportunities to improve algorithms by abstracting or generalizing parts into sub procedures. | N/A | 1 |
-| [3.2: Combining Loops and Conditionals][] | Build custom command blocks in Snap. Utilize detail removal and generalization to construct blocks that practice abstraction. | | 1 |
+| [3.2: Combining Loops and Conditionals][] | Build custom command blocks in Snap!. Utilize detail removal and generalization to construct blocks that practice abstraction. | | 1 |
 | [3.3: Customization I: Arguments][] | Build custom Snap! blocks that take arguments. | Let Me Check My Calendar | 1 |
-| [3.4: Customization II: Reporters and Predicates][] | Build custom reporter and predicate blocks in SNAP. | If My Calculations Are Correct... | 1 |
+| [3.4: Customization II: Reporters and Predicates][] | Build custom reporter and predicate blocks in Snap!. | If My Calculations Are Correct... | 1 |
 | [3.5: Platform Game Project][] | Use loops, variables, and Boolean expressions to implement a Super Mario Bros. style platform game. Practice good debugging skills to correct issues as they arise while programming. | Project 3: Platform Game | 8 |
 | [Culture Day Lesson C: My Skills and Interests Journal][] | Connect CS Unit topics with current events  | (see Culture Day LPs) | |
 
@@ -55,7 +55,7 @@ Materials and preparation resources can be found in each of the lesson pages.
 | Lesson | Objectives | Lab | Days |
 | ------ | ---------- | --- | --- |
 | [4.1: Intro to Lists][] | Explain the concept of a list in a programming context. Identify scenarios in which lists are useful | | 1  |
-| [4.2: Static Lists][] | Create static lists in SNAP. Access elements of a list. Add and remove elements from a list. | You Talkin' to Me? | 1 |
+| [4.2: Static Lists][] | Create static lists in Snap!. Access elements of a list. Add and remove elements from a list. | You Talkin' to Me? | 1 |
 | [4.3: List Practice I][] | Traverse a list, accessing each element one at a time. Perform operations combining all elements in a list. Select defined subsets of elements in a list. | Guess Who | 1  |
 | [4.4: List Practice II][] | Traverse a list, accessing each element one at a time. Perform operations combining all elements in a list. Select defined subsets of elements in a list. | Number Cruncher | 1 |
 | [4.5: Sequential Search][] | Explain the sequential search algorithm. Implement several variations of sequential search. | It's Around Here Somewhere | 1  |

@@ -42,33 +42,33 @@ When coming up with a great product idea, it is important to conduct user-center
 
 ## Instructor's Notes
 
-### 1. Review
+### Review
 
 - Ask students to identify the steps in the design and planning process as discussed in [Lesson 6.1](lesson_61.md).
 - Remind students that all steps are vital, and that thorough and thoughtful planning and design can make the coding phase    much easier.
 - Inform students that today they will take the first steps in designing their final project.
 
-### 2. Brainstorming
+### Brainstorming
 
 - Give students 3-4 minutes to brainstorm and write down as many project ideas as they can.  This should be done mostly in silence.
 - At this point, there should be minimal detail, no evaluation or rejection of ideas, and no discussion.  In particular, students should not think about the difficulty or "coolness" of the project yet.  Just write down ideas.
 - If desired, have each student share one idea.  Do not allow discussion, criticism, or explanation-- each idea should be summarized in only a few words or a single sentence.
 
-### 3. Pitch writing
+### Pitch writing
 
 - Have students look at their list of ideas and spend a few minutes thinking about them. Then, each student should pick their favorite ideas and write a "pitch" for the project.  A pitch should be no more than a short paragraph and should describe the basic, high-level features of the project.  The pitch should _not_ include any implementation details (scripts, sprites, etc.).
 - Pitches should include a moderate level of specificity-- enough for someone to imagine how the app will work, but not so much to get bogged down.  Enforce the "one short paragraph" restriction.
 - If a student is having difficulty developing a pitch for an idea, that might be a sign that the idea is not fully-formed enough to be a final project.
 - If a student is having trouble keeping the pitch short, the project may be too complex to complete in the available time.
 
-### 4. Peer review
+### Peer review
 
 - Pair students up and have students take turns reading one of their pitches to their partner and asking for feedback.  Partners should ask questions to help identify both the best and worst parts of each pitch.
 - Remind students to keep all feedback constructive, respectful, and professional.  Students should not criticize each other's ideas, but can point out potential concerns.
 - Students should take notes during their conversations and refine their pitches based on their partner's feedback and their own realizations.
 - If time allows (or over the course of multiple days), repeat this process with new partners.
 
-### 5. Prepare interview questions, and evaluate
+### Prepare interview questions, and evaluate
 
 - At this points, students should have between one and three pitches that are well-defined and reasonably well fleshed-out.  Overnight, students should do some research, re-consider their pitches and rank them in order or which they would most like to pursue as their final project.
 - Make sure students don't just pick the "coolest" sounding idea, but also consider the technical challenges, amount of time available, and their own interest in and willingness to see the project through to completion.

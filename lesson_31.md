@@ -5,14 +5,13 @@
 
 Students will be able to...
 
-* Define the following terms in a computer science context:
-  * Abstraction
-  * Generalization
+* Define the terms **Abstraction** and **Generalization**.
 * Recognize opportunities to improve algorithms by abstracting or generalizing parts into sub-procedures.
 
 ## Materials/Preparation
 
 * [Do Now 3.1: Guided Tour](do_now_31.md)
+* [3.1 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.1.pptx)
 * Lab 3.1 handout [Drawing Shapes Again](lab_31.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.1%20Drawing%20Shapes%20Again.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%10PDF/Lab%203.1%20Drawing%20Shapes%20Again.pdf))
 * [Unit 3 Tips](unit_3_tips.md)
 * Video Resource - [https://youtu.be/Dxw9cIbzaLk?t=681](https://youtu.be/Dxw9cIbzaLk?t=681)
@@ -29,7 +28,7 @@ Students will be able to...
 
 ## Instructor's Notes
 
-### 1. Introductory discussion
+### Introductory discussion
 
 * Define and discuss the following terms:
 * **Abstraction:** removing the specifics that are not relevant in each context.
@@ -38,14 +37,14 @@ Students will be able to...
   * e.g. spreading any condiment or ingredient onto a slice of bread (butter, jam, peanut butter, mayo, etc.).
 * Demonstrate constructing a custom command block.
 
-### 2. Lab 3.1: Drawing Shapes (Again)
+### Lab 3.1: Drawing Shapes (Again)
 
 * Students should complete the “Drawing Shapes (Again)” activity individually or in diverse pairs.
 * Work with students to be certain that they are using custom blocks and variables as described by the activity.
 * Point out places where code can be abstracted and generalized
 * Emphasize conciseness and clarity in code.
 
-### 3.  Debrief
+### Debrief
 
 * Discuss one or two student submissions.
 * Point out differences between different students’ solutions.

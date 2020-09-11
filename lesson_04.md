@@ -9,6 +9,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now: I am ____](do_now_04.md)
+* [0.4 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.4.pptx)
 * [Lab 0.4 handout](lab_04.md) (Getting to Know You) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/lab_04.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/lab_04.pdf))
 * Student Experience Survey [(docx)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.docx) [(pdf)](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.pdf)
 * Optional: digital camera
@@ -34,7 +35,7 @@ Students will be able to...
 * Play [Introductory video](https://youtu.be/b-EWj7xN90U) of Snap! put together by Jens Moenig
   * This video helps to explain to students the power of Snap! while still being approachable as a Block Based Programming Language.
 * Tell students that today they will explore Snap! and use it to create a "self-portrait" program.
-  * Emphasize that the goal of today's lesson is **_not_** for students to develop a deep understanding of any of the features in SNAP.  Later lessons will teach them everything they need to know.  For now, they should just explore, figure out what they can, and put it to use however they see fit.
+  * Emphasize that the goal of today's lesson is **_not_** for students to develop a deep understanding of any of the features in Snap!.  Later lessons will teach them everything they need to know.  For now, they should just explore, figure out what they can, and put it to use however they see fit.
   * Tell them they will create Snap! accounts so they can save their self-portraits and share them.
   * Give them the link to the Student Experience Survey (or the handout if you’re doing it on paper).   Tell them that answering these questions will help them to think about themselves and give them some ideas for their self-portraits.
 * Spend just a couple minutes demonstrating how to open SNAP, create sprites and scripts, and run programs.
@@ -75,7 +76,7 @@ Students will be able to...
 
 ### 5. Debrief
 
-* Ask each student to identify and describe _one_ feature they discovered in SNAP.  Keep a running list on the whiteboard or projector.
+* Ask each student to identify and describe _one_ feature they discovered in Snap!.  Keep a running list on the whiteboard or projector.
 * If the students build a pretty comprehensive list, you can use this as a chance to go over a brief roadmap for the course.
 * Ask students what they enjoyed about working with Snap! and what they disliked.
 

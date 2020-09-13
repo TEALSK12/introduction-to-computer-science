@@ -4,7 +4,7 @@
 
 Students will be able to...
 
-* Use variables to track values throughout a program
+* Use variables to track values throughout a program.
 
 ## Materials/Preparation
 
@@ -14,6 +14,7 @@ Students will be able to...
 * ["The Box Variable Activity"](https://teachinglondoncomputing.org/resources/inspiring-unplugged-classroom-activities/the-box-variable-activity/) materials (Optional)
 * [Unit 2 Tips](unit_2_tips.md)
 * Video Resource: [https://youtu.be/YMVo9Wdpv5s](https://youtu.be/YMVo9Wdpv5s)
+* Video Resource: [https://youtu.be/ps8tc0cQsGg](https://youtu.be/ps8tc0cQsGg)
 * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide

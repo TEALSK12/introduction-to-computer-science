@@ -4,6 +4,8 @@ Introduction to Computer Science - 1st Semester
 
 ## A
 
+<hr />
+
 ### Abstraction
 
 Removing the specifics that are not relevant in a given context.
@@ -13,6 +15,8 @@ Removing the specifics that are not relevant in a given context.
 Any area in a block that accepts user input, or another block. It could be a Boolean Block or a value placed inside of a variable or block. The value that is "passed into" a parameter of a custom block.
 
 ## B
+
+<hr />
 
 ### Backgrounds
 
@@ -31,6 +35,8 @@ A value (text, number, picture, etc.) that evaluate to true or false.
 Boolean expressions that can be nested.
 
 ## C
+
+<hr />
 
 ### Command Block
 
@@ -58,21 +64,29 @@ Allow for one to make their own programming blocks.
 
 ## D
 
+<hr />
+
 ### Detail Removal
 
 Reducing the complexity of an algorithm or process by focusing on the important parts.
 
 ## E
 
+<hr />
+
 `No E entries`
 
 ## F
+
+<hr />
 
 ### Functions/Methods
 
 Other programming languages, like Python or Java, use these terms to refer to the same idea as a Custom Block in Snap! a reusable.
 
 ## G
+
+<hr />
 
 ### Generalization
 
@@ -84,15 +98,21 @@ A variable that can be used by all of your sprites.
 
 ## H
 
+<hr />
+
 `No H entries`
 
 ## I
+
+<hr />
 
 ### Index Variable
 
 Keeps track of where you currently are in a list.
 
 ## J
+
+<hr />
 
 ### Join Block
 
@@ -104,9 +124,13 @@ A collection of sounds that can be applied to a sprite costume.
 
 ## K
 
+<hr />
+
 `No K entries`
 
 ## L
+
+<hr />
 
 ### Lists Block
 
@@ -122,11 +146,15 @@ A type of block that causes other code to run multiple times in succession. A c
 
 ## M
 
+<hr />
+
 ### Modeling
 
 Building a system to simulate the behavior of a real-life phenomenon by simplifying or ignoring certain details.
 
 ## N
+
+<hr />
 
 ### Nested Loop
 
@@ -134,11 +162,15 @@ A loop used inside the body of another loop.
 
 ## O
 
+<hr />
+
 ### Operator Block
 
 A block that performs math functions and string handling.
 
 ## P
+
+<hr />
 
 ### Predicate Block
 
@@ -154,9 +186,13 @@ Called an 'array' in most programming languages, this holds lots of values.
 
 ## Q
 
+<hr />
+
 `No Q entries`
 
 ## R
+
+<hr />
 
 ### Receive Block
 
@@ -167,6 +203,8 @@ Code Block in Control that receives a message from another block.
 Report a value, usually for use in another block's input slot.
 
 ## S
+
+<hr />
 
 ### Say Block
 
@@ -202,6 +240,8 @@ A sprite that is  composed of pieces that can move together but can also be sepa
 
 ## T
 
+<hr />
+
 ### Transform
 
 Create a new list based on the values of the old list.
@@ -216,15 +256,21 @@ A tool for evaluating the possible inputs and outputs of a Boolean expression.
 
 ## U
 
+<hr />
+
 `No U entries`
 
 ## V
+
+<hr />
 
 ### Variable
 
 A placeholder for some value. Types of variables:Global variables - apply to all sprites Sprite variable - applies to one sprite Script variable - parameter that applies to one script
 
 ## W
+
+<hr />
 
 ### Wardrobe
 
@@ -240,16 +286,22 @@ A high-level sketch of an application's user interface intended to help visualiz
 
 ## X
 
+<hr />
+
 ### X Position
 
 The position that a sprite or the mouse is at along the horizontal axis.
 
 ## Y
 
+<hr />
+
 ### Y Position
 
 The position that a sprite or the mouse is at along the vertical axis.
 
 ## Z
+
+<hr />
 
 `No Z entries`

@@ -17,7 +17,7 @@ Students will be able to...
 * Do Now [Starter Code](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Equalteral%20Triangle).
 * [Unit 1 Tips](unit_1_tips.md).
 * Video Resource: [https://www.youtube.com/watch?v=qLU3PtaG3ww](https://www.youtube.com/watch?v=qLU3PtaG3ww)
-* Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
+  * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 

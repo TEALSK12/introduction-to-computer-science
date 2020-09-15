@@ -18,7 +18,7 @@ Students will be able to...
 * Index cards with each students name on them. One name per index card.
 * [Unit 1 Tips](unit_1_tips.md).
 * Video Resource: [https://youtu.be/u80WYSNxRjM](https://youtu.be/u80WYSNxRjM)
-* Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
+  * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 **Who is Grace Hopper? Video:**
 

@@ -16,7 +16,7 @@ Students will be able to...
 * [Unit 2 Tips](unit_2_tips.md).
 * [Video on Conditionals](https://www.flocabulary.com/unit/coding-conditionals/)
 * Video Resource: [https://youtu.be/t3k3wOxO1xI](https://youtu.be/t3k3wOxO1xI)
-* Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
+  * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 
@@ -90,7 +90,7 @@ Define **conditional** - a block used to make a choice between executing two dif
 
 ### Good for Classroom Instruction
 
-* [BJC Lecture 13: Mislababled as 14) Human-Computer Interaction Bjorn Hartman](https://www.youtube.com/watch?v=3VZ7D01T2Yc)
+* [BJC Lecture 13: Mislabeled as 14) Human-Computer Interaction Bjorn Hartman](https://www.youtube.com/watch?v=3VZ7D01T2Yc)
 
 * [Why Study User Interfaces](http://www.youtube.com/watch?v=3VZ7D01T2Yc&t=15m0s)
 Ex:Mouse Xy axis, Sketchpad, PC, Tablets 15:00-25:00
@@ -99,7 +99,7 @@ Ex:Mouse Xy axis, Sketchpad, PC, Tablets 15:00-25:00
 
 #### Background Information for Instructors
 
-[BJC Lecture 13: Mislababled as 14) Human-Computer Interaction Bjorn Hartman](https://www.youtube.com/watch?v=3VZ7D01T2Yc)
+[BJC Lecture 13: Mislabeled as 14) Human-Computer Interaction Bjorn Hartman](https://www.youtube.com/watch?v=3VZ7D01T2Yc)
 
 * Bjorn Hartman Background 0:00-3:30
 * Human Computer Interface(HCI) 3:45-6:00

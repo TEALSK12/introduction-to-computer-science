@@ -13,7 +13,7 @@ Students will be able to...
 * [Lab 3.4 handout If My Calculations Are Correct...](lab_34.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.pdf))
 * [Unit 3 Tips](unit_3_tips.md)
 * Video Resource: [https://youtu.be/6gT91ltwM1Q](https://youtu.be/6gT91ltwM1Q)
-* Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
+  * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 

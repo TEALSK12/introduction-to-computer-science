@@ -14,8 +14,8 @@ Students will be able to...
 * [Lab 1.4 handout (Sprites in Action)](lab_14.md)([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([blocks](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20pdf/Lab%201.4%20Sprites%20in%20Action.pdf)).
 * [Unit 1 Tips](unit_1_tips.md).
 * Video Resource: [https://youtu.be/3x5ZI-mKc44](https://youtu.be/3x5ZI-mKc44)
+  * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
 * Changing Costumes Video Resource: [https://youtu.be/kgqi7CQLgJU](https://youtu.be/kgqi7CQLgJU)
-* Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 

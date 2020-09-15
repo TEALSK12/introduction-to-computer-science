@@ -1,0 +1,84 @@
+# Master Vocabulary List
+
+## Unit 0 Beginnings
+
+| Word | Definition |
+| -- | -- |
+| Algorithm | A complete, well-defined sequence of steps for completing a task or solving a problem. |
+| Computer | An electronic machine that can solve different problems, process data, store & retrieve data and perform calculations. |
+| Computer Science | The study of the principles and use of computers. |
+| Computer Program | A sequence of instructions or steps, written in a language that can be understood by a computer, that will be used by the computer to complete a task or solve a problem.|
+| Debug | A process of locating and removing computer program bugs, fixing errors or abnormalities. |
+| Programming Language | A vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks. |
+| Cartesian coordinate system | A system in which the location of a point is given by coordinates that represent its distances from perpendicular lines that intersect at a point called the origin. |
+| x-axis | The axis along which values of x are measured and at which both y equal zero. |
+| y-axis | The axis along which values of y are measured and at which both x equal zero. |
+| Origin | A fixed point from which coordinates are measured, as where axes intersect. |
+
+## Unit 1 Snap! Basics
+
+| Word | Definition |
+| --- | -- |
+| Block | Puzzle-piece shapes that are used to create code in Snap!. |
+| Script | Different types of blocks linked together. |
+| Sprite | An object in Snap! which performs functions controlled by scripts. |
+| Stage |  The background of a project, performs functions through scripting. |
+| Costume | A costume is one out of possibly many "frames" or alternate appearances of a sprite. |
+| X Position |  The position that a sprite or the mouse is at along the horizontal axis. |
+| Y Position | The position that a sprite or the mouse is at along the vertical axis. |
+
+## Unit 2 Loop-de-Loop
+
+| Word | Definition |
+| -- | -- |
+| Loop |  A type of block that causes other code to run multiple times in succession.  A control flow statement that allows code to be executed repeatedly based on a given Boolean condition. |
+| Nested Loop | A loop used inside the body of another loop. |
+| Conditional | A block used to make a choice between executing two different chunks of code."If" statements. |
+| Variable | A placeholder for some value. Types of variables: Global variables - apply to all sprites  Sprite variable - applies to one sprite  Script variable - parameter that applies to one script |
+| Boolean Expression | A value (text, number, picture, etc.) that evaluate to true or false. |
+| Boolean Operators | Boolean expressions that can be nested. |
+| Function/Methods | Other programming languages, like Python or Java, use these terms to refer to the same idea as a Custom Block in Snap! a reusable. |
+| Truth Tables | A tool for evaluating the possible inputs and outputs of a Boolean expression. |
+| Modeling |Building a system to simulate the behavior of a real-life phenomenon by simplifying or ignoring certain details. |
+
+## Unit 3 Variables and Customization
+
+| Word | Definition |
+| ------------- | --------------------------------------------- |
+| Abstraction | Removing the specifics that are not relevant in a given context. |
+| Generalization | Combining a group of related concepts or processes into a single category. |
+| Custom Blocks | Allow for one to make their own programming blocks. |
+| Command Block | Puzzle-piece shaped block that executes a command (it causes an effect). |
+| Reporter Block | Report a value, usually for use in another block's input slot. |
+| Predicate Block | A hexagonal block that always returns a Boolean value (true or false). |
+| Argument | Any area in a block that accepts user input, or another block. It could be a Boolean Block or a value placed inside of a variable or block. The value that is "passed into" a parameter of a custom block. |
+| Say Block | The block gives its sprite a speech bubble with the specified text — the speech bubble stays until an another speech or thought block is activated, or the stop sign is pressed. |
+
+## Unit 4 Lists
+
+| Word | Definition |
+| -- | -- |
+| Programming List |  Called an 'array' in most programming languages, this holds lots of values. |
+| Lists Block | A block which controls a list. |
+| Operator Block | A block that performs math functions and string handling. |
+| List Element | A part of a list. |
+| Traverse | Go through or travel across an item/list. |
+| Transform | Create a new list based on the values of the old list. |
+| Sequential Search Algorithm | A method for finding a target value within a list. It sequentially checks each element of the list for the target value until a match is found or until all the elements have been searched. |
+| Index Variable | Keeps track of where you currently are in a list. |
+| Join Block | Links two values together and reports the result. |
+| Contains Block | Checks an operator block for a particular variable. |
+
+## Unit 5 Cloning
+
+| Word | Definition |
+| -- | -- |
+| Cloning | A feature that allows a sprite to create a clone, or semi-duplicate, of itself, while the project is running. Clones of a sprite will be the same as the original or parent sprite but as a separate instance. Clones inherit the parent's scripts, costumes, sounds, and properties, yet they can then be modified.
+| Global Variable | A variable  that can be used by all of your sprites. |
+
+## Unit 6 Final Project
+
+| Word     | Definition                                 |
+| ------------- | --------------------------------------------- |
+| Scenario     | A description of a set of interactions and/or tasks that describe a start-to-finish example of how a user might want to use the application |
+| Wireframe     | A high-level sketch of an application's user interface intended to  help visualize layout, interactions, and transitions |

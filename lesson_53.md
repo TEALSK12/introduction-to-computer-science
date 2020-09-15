@@ -56,9 +56,9 @@ Students will be able to...
 
 ## Accommodations/Differentiation
 
-* For faster students, explaining and demonstrating race conditions would be valuable. Instructors could also give out project with a "simple race condition" (if such a thing exists) and ask the students to fix it
+* For faster students, explaining and demonstrating race conditions would be valuable. Instructors could also give out project with a "simple race condition" (if such a thing exists) and ask the students to fix it.
 * Advanced students can also try to implement features giving them additional control over clones, such as changing a specific clone's speed or direction.
-* Struggling students can ignore the requirement to be able to create new sprites after some have been deleted and justfocus on deleting clones one at a time.
+* Struggling students can ignore the requirement to be able to create new sprites after some have been deleted and just focus on deleting clones one at a time.
 
 ## Forum discussion
 

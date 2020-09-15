@@ -24,7 +24,7 @@ Students will be able to...
 * [Lab 2.1 Solution](https://www.tealsk12.org/intro-to-computer-science-sample-solutions/)
 * [Unit 2 Tips](unit_2_tips.md).
 * Video Resource: [https://youtu.be/XbZqfRGPom0](https://youtu.be/XbZqfRGPom0)
-* Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
+  * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 

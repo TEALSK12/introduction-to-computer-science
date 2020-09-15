@@ -13,6 +13,7 @@ Each of the six students in your group should follow these instructions.  Each s
 5. Draw a line to the dot above.
 6. Draw a line to the dot to the right.
 7. Lift your pen.
+
    ![Dots](dots.PNG)
 
 What was the result of the group following the instructions?  Were there any difficulties you encountered?  Does it seem like the result was intended?

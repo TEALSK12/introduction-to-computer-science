@@ -2,7 +2,9 @@
 
 Materials and preparation resources can be found in each of the lesson pages.
 
-**Pacing Guidance:** 1 Day is a 55 minute class period,
+**Pacing Guidance:** 1 Day is a 55 minute class period.
+
+[Master Vocabulary List](master_vocab.md)
 
 [Template Syllabus](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/IntrotoCSSyllabusExample.docx)
 

@@ -14,7 +14,7 @@ Students will be able to...
 * [Arguments example](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%203.3)
 * [Unit 3 Tips](unit_3_tips.md)
 * Video Resource: [https://youtu.be/ZLxql1kLvCw](https://youtu.be/ZLxql1kLvCw)
-* Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
+  * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 

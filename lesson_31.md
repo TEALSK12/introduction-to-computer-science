@@ -14,8 +14,10 @@ Students will be able to...
 * [3.1 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.1.pptx)
 * Lab 3.1 handout [Drawing Shapes Again](lab_31.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.1%20Drawing%20Shapes%20Again.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%10PDF/Lab%203.1%20Drawing%20Shapes%20Again.pdf))
 * [Unit 3 Tips](unit_3_tips.md)
-* Video Resource - [https://youtu.be/Dxw9cIbzaLk?t=681](https://youtu.be/Dxw9cIbzaLk?t=681)
-* Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
+* Video Resource: [https://youtu.be/Dxw9cIbzaLk?t=681](https://youtu.be/Dxw9cIbzaLk?t=681)
+  * Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
+* Drawing a Square Video Resource: [https://youtu.be/AighCB14bNw](https://youtu.be/AighCB14bNw)
+* Drawing a Polygon Video Resource: [https://www.youtube.com/watch?v=K0yReJ9T600](https://www.youtube.com/watch?v=K0yReJ9T600)
 
 ## Pacing Guide
 

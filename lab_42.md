@@ -17,9 +17,9 @@ In this lab, you will create a simple sentence generator using lists.
 
 ## Reporting Phrases
 
-1. Write a custom reporter block called "noun phrase" that reports a noun phrase where each word is chosen randomly from the lists you created.  A noun phrase consists of an article, an adjective, and a noun in that order.
+1. Write a custom `reporter` block called "noun phrase" that reports a noun phrase where each word is chosen randomly from the lists you created.  A noun phrase consists of an article, an adjective, and a noun in that order.
 
-2. Write custom reporter blocks like "noun phrase" for each of the phrase types listed below.
+2. Write custom `reporter` blocks like "noun phrase" for each of the phrase types listed below.
 
 | Phrase type          | Construction                     |
 | -------------------- | -------------------------------- |

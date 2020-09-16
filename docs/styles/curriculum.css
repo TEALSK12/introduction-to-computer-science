@@ -12,6 +12,7 @@ body#md {
     padding-right: 20px;
     overflow-x: hidden;
     text-overflow: ellipses;
+    align
 }
 
 
@@ -104,4 +105,21 @@ body#md {
 
 .md div.afterTitles {
     height: 90px;
+}
+/* tables; use fainter colors than regular markdeep style */
+.md table.table {
+    font-size: 90%;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.md table.table th {
+	border: none;
+	background-color: #ccc;
+	color: rgba(0,0,0,.6);
+}
+.md table.table tr, .md table.table td {
+	border-color: #eee;
+}
+.md table.table tr:nth-child(even) {
+	background-color: #f4f4f4;
 }

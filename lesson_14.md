@@ -11,7 +11,7 @@ Students will be able to...
 
 * [Do Now 1.4: Sprite Communication](do_now_14.md).
 * [1.4 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.4.pptx)
-* [Lab 1.4 handout (Sprites in Action)](lab_14.md)([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([blocks](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20pdf/Lab%201.4%20Sprites%20in%20Action.pdf)).
+* [Lab 1.4 handout (Sprites in Action)](lab_14.md)([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([blocks](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.4%20Sprites%20in%20Action.pdf)).
 * [Unit 1 Tips](unit_1_tips.md).
 * Video Resource: [https://youtu.be/3x5ZI-mKc44](https://youtu.be/3x5ZI-mKc44)
   * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.

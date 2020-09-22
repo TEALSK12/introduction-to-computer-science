@@ -14,7 +14,7 @@ In this lab, you will explore Snap! and create a simple "self-portrait" program 
 
     <img src="SnapSignUp.png"  />
 
-3. Spend a few minutes looking around, trying things out, and seeing what the language can do. Don't worry about understanding everything completely-- we'll go through things in a lot more detail soon. Just try to get a sense of some of the basic capabilities.
+3. Spend a few minutes looking around, trying things out, and experience what the language can do. Don't worry about understanding everything completely-- we'll go through things in a lot more detail soon. Just try to get a sense of some of the basic capabilities.
 
 4. Write down three things in your notebook you found that Snap! can do and how to do them. Be as specific as you can!
 
@@ -46,8 +46,9 @@ In this lab, you will explore Snap! and create a simple "self-portrait" program 
 
 | **Lab 0.4 Criteria**                   |         |
 | -------------------------------------- | -------------- |
-| 1.2 Listed 3 things you found Snap! can do                     | 0.3 points     |
-| 1.3 Listed 3 things your partner found Snap! can do            | 0.3 points     |
+| Part 1 | |
+| 1.4 Listed 3 things you found Snap! can do                     | 0.3 points     |
+| 1.5 Listed 3 things your partner found Snap! can do            | 0.3 points     |
 | Part 2                                                        |                |
 | Includes name                                                 | 0.2 points     |
 | Current grade                                                 | 0.2 points     |

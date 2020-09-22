@@ -13,7 +13,7 @@ Students will be able to...
 * [Do Now 5.3: Star Wars Troopers using Cloning](do_now_53.md)
 * [5.3 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%205.3.pptx)
 * [Lab 5.3 Handout](lab_53.md) (Fewer Balls) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.3%20Fewer%20Balls.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.3%20Fewer%20Balls.pdf))
-* [helping trios](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%201%20Word/Helping%20Trios.docx?raw=true)
+* [Helping Trios Activity](helping_trios.md)
 * Test out the lab on student machines before class to ensure the machines can handle the number of clones.
 * [Unit 5 Tips](unit_5_tips.md)
 
@@ -51,7 +51,7 @@ Students will be able to...
 ### Debrief
 
 * Have students pair up and review each other's code.  Encourage students to discuss differences in their approaches and try to understand why each wrote the code as they did.
-* If students have struggled with the lab, consider implementing [helping trios](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%201%20Word/Helping%20Trios.docx?raw=true)
+* If students have struggled with the lab, consider implementing [Helping Trios Activity](helping_trios.md)
 * Ask a few students to share difficulties they or their partner had and/or different approaches they took the problems.
 
 ## Accommodations/Differentiation

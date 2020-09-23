@@ -2,7 +2,7 @@
 
 In this lab, you will create a simple sentence generator using lists.
 
-## Let's Talk
+## Part 1 - Let's Talk
 
 1. Create a variable for each part of speech below, and set each variable to hold a list of words that fit that part of speech.  Some examples are given, but feel free to use your own.
 
@@ -15,7 +15,7 @@ In this lab, you will create a simple sentence generator using lists.
 | article        | a, the                                           |
 | preposition    | under, over, around, near, beside, ...           |
 
-## Reporting Phrases
+## Part 2 - Reporting Phrases
 
 1. Write a custom `reporter` block called "noun phrase" that reports a noun phrase where each word is chosen randomly from the lists you created.  A noun phrase consists of an article, an adjective, and a noun in that order.
 
@@ -27,7 +27,7 @@ In this lab, you will create a simple sentence generator using lists.
 | verb phrase          | adverb, verb, preposition phrase |
 | sentence             | noun phrase, verb phrase         |
 
-## Making Sentences
+## Part 3 - Making Sentences
 
 1. Write code so that when you press the space bar, a random sentence is generated and a sprite says the resulting sentence.
 
@@ -35,7 +35,7 @@ In this lab, you will create a simple sentence generator using lists.
 
 3. BONUS: Modify your code so that a verb phrase can sometimes leave out the prepositional phrase.  Your code should randomly decide to include the prepositional phrase or not.
 
-## Changing Our Vocabulary
+## Part 4 - Changing Our Vocabulary
 
 1. Write a script so that when the 'n' key is pressed, the user is prompted for a new noun and that noun is added to list of nouns.  After that point, the new noun entered by the user should be able to appear in sentences.
 

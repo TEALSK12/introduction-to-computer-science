@@ -2,7 +2,7 @@
 
 In this lab, you will write code to draw regular polygons.  But this time, you will write custom blocks and abstraction to write more efficient code.
 
-## Simple Shapes
+## Part 1 - Simple Shapes
 
 1. Write a Snap! script (or find one you've already written) to draw a square.
 
@@ -14,7 +14,7 @@ In this lab, you will write code to draw regular polygons.  But this time, you w
 
 5. Look over the four programs from above.  Do you notice sections that are very similar?  What sections might be able to be abstracted into a separate block?
 
-## If You've Seen One
+## Part 2 - If You've Seen One
 
 1. Take your script from above that draws a square and turn it into a custom block.
 
@@ -24,7 +24,7 @@ In this lab, you will write code to draw regular polygons.  But this time, you w
 
 4. Use your custom block in a program that asks the user for a number and then draws a regular polygon with that many sides.  If the number given is less than 3, give an error message and do not draw anything.
 
-## Bonus: Sizing Things Up
+## Bonus - Sizing Things Up
 
 1. Modify your custom block and program from the previous section so that the user can specify both the number of sides and the size of each side.  Be sure to utilize generalization and detail removal to make your program and block as clear and concise as possible.
 

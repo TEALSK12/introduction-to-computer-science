@@ -2,7 +2,7 @@
 
 In this lab, you will write custom `reporter` and `predicate` blocks to perform several useful calculations and computations.
 
-## Simple Computations
+## Part 1 - Simple Computations
 
 1. Write a custom Snap! `reporter` block called "min" that determines which of two numbers is smaller and reports that value.  If the two numbers are equal, report either one.
 
@@ -12,7 +12,7 @@ In this lab, you will write custom `reporter` and `predicate` blocks to perform 
 
 4. Write a custom Snap! `predicate` called "at least as long as" that determines whether a word has at least a specified number of letters.
 
-## Stepping Things Up
+## Part 2 - Stepping Things Up
 
 1. Write a custom Snap! `reporter` block called "distance to" that computes and reports the distance from a sprite's position to another point.  Use the `x position` and `y position` blocks to determine the sprite's position.  Remember that the formula for the distance between points `(x1, y1)` and `(x2, y2)` is `sqrt((y2-y1)^2+(x2-x1)^2)`.
 

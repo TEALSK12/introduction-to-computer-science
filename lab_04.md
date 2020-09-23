@@ -33,23 +33,28 @@ In this lab, you will explore Snap! and create a simple "self-portrait" program 
      | 3.  | .   |
 
 6. Using what you've learned and other things you might discover, create a Snap! program that describes yourself. This can take whatever form and use whatever Snap! tools and blocks you want. Make sure that somehow, at some point in your program you show the following information:
+
     * Your name
     * Your current grade
     * Your age
-    * Your favorite class in school
+    * Your favorite subject in school
     * One of your hobbies or interests
     * Any previous programming or computer experience you have
+    * Example of something you learned
+    * What you think learning CS will be like.
+    * What are some of your favorite uses of technology
+    * Family saying
 
-7. Submit your Self Portait using the submission instructions of your instructor. If you are having trouble saving, here is a great video:  [https://youtu.be/VHts_QAp3XU](https://youtu.be/VHts_QAp3XU)
+7. Submit your Self Portrait using the submission instructions of your instructor. If you are having trouble saving, here is a great video:  [https://youtu.be/VHts_QAp3XU](https://youtu.be/VHts_QAp3XU)
 
 ## Grading Scheme/Rubric
 
-| **Lab 0.4 Criteria**                   |         |
+| **Lab 0.4 Criteria**                   |  Point Values       |
 | -------------------------------------- | -------------- |
-| Part 1 | |
+| **Part 1** | |
 | 1.4 Listed 3 things you found Snap! can do                     | 0.3 points     |
 | 1.5 Listed 3 things your partner found Snap! can do            | 0.3 points     |
-| Part 2                                                        |                |
+| **Part 2**                                                        |                |
 | Includes name                                                 | 0.2 points     |
 | Current grade                                                 | 0.2 points     |
 | Age                                                           | 0.2 points     |

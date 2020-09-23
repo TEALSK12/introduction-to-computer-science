@@ -1,6 +1,6 @@
 # Lab 0.5 - Getting to know Coordinates
 
-## Part 1: Coordinates
+## Part 1 - Coordinates
 
 Start this activity using the [Peabody Test](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=PeabodyTest)
 
@@ -9,7 +9,7 @@ Start this activity using the [Peabody Test](https://snap.berkeley.edu/snap/snap
 * Answer his question in the textbox.
 * You should answer at least 10 of his questions.
 
-## Part 2: Plot a drawing using Template
+## Part 2 - Plot a drawing using Template
 
 Using the [template](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Snap%20Coordinate%20System%20Intro) from the classroom activity, create a drawing that has at least 10 coordinates. Save the drawing in Snap! and submit the URL to your teacher.
 
@@ -21,9 +21,9 @@ Here is an example with 8 coordinates:
 
 ## Grading Scheme/Rubric
 
-| **Lab 0.5 Criteria**                                          |                |
+| **Lab 0.5 Criteria**                                          |   Points             |
 | ------------------------------------------------------------- | -------------- |
-| **Part 1**                                                        | Points  |
+| **Part 1**                                                        |   |
 | Participated in the Peabody Test                            | 0.5 points     |
 | **Part 2**                                                        |                |
 | Saves project                                                 | 0.25 points    |

@@ -4,7 +4,7 @@
 
 Students will be able to...
 
-* Define and identify **blocks**, **scripts**, **sprites**, and **the stage** in SNAP.
+* Define and identify **blocks**, **scripts**, **sprites**, and **the stage** in Snap!.
 * Write simple Snap! programs.
 * Describe what simple Snap! programs do without executing the code.
 

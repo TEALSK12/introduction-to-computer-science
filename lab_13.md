@@ -3,7 +3,7 @@
 
 In this lab, you will write your first Snap! programs to draw some simple shapes on the stage.
 
-## Drawing a triangle
+## Part 1 - Drawing a triangle
 
 1. Modify your *Snap!* program so that a triangle is drawn when the number 1 is pressed on the keyboard.
 
@@ -13,7 +13,7 @@ In this lab, you will write your first Snap! programs to draw some simple shapes
 
 3. Add code so that pressing the space bar clears the pen marks from the stage.
 
-## Adding more shapes
+## Part 2 - Adding more shapes
 
 1. Now that you've drawn a triangle, add code to draw the shapes in the following table. Each shape should be drawn when the number next to it is pressed on the keyboard. (For example, pressing 3 on the keyboard should draw a diamond.)
 
@@ -26,7 +26,7 @@ In this lab, you will write your first Snap! programs to draw some simple shapes
     | 5                           | Parallelogram ("leaning rectangle") |
     | 6 (optional)                | 5-pointed star                      |
 
-You may want to draw a diagram similar to the one above of a triangle to figure out the angles in each shape, and refer to the [reference sheet](lab_13_cheat_sheet.pdf) if you're stuck.
+    You may want to draw a diagram similar to the one above of a triangle to figure out the angles in each shape, and refer to the [reference sheet](lab_13_cheat_sheet.pdf) if you're stuck.
 
 2. Add code so that as each shape is being drawn, the sprite is saying the name of shape.  The sprite should stop saying the name of the shape when it is finished drawing.
 
@@ -36,7 +36,7 @@ You may want to draw a diagram similar to the one above of a triangle to figure 
 
 ## Grading Scheme/Rubric
 
-| **Lab 1.3 Criteria**                |                |
+| **Lab 1.3 Criteria**                | Points               |
 | ----------------------------------- | -------------- |
 | 1 - Equilateral Triangle            | 0.25 points    |
 | 2 - Square                          | 0.25 points    |

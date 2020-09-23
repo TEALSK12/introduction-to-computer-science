@@ -2,7 +2,7 @@
 
 In this lab, you will continue practicing processing lists, this time using lists of numbers instead of words.
 
-## Summarizing Numbers
+## Part 1 - Numbers
 
 1. Write a custom Snap! `reporter` block called "sum" that takes a list as an argument and reports the sum of all the numbers in the list.  You can assume that all items in the list passed as the argument will be numbers, though you should not assume anything else.
 
@@ -14,7 +14,7 @@ In this lab, you will continue practicing processing lists, this time using list
 
 5. Write a custom Snap! `reporter` block called "maximum" that takes a list as an argument and reports the largest number in the list.
 
-## Transforming Lists
+## Part 2 - Transforming Lists
 
 1. Write a custom Snap! `reporter` block called "make all positive" that takes a list of numbers as an argument and reports a new list that is the same as the argument, except all negative numbers have been replaced by their absolute value.  
 

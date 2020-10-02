@@ -1,4 +1,4 @@
-# Lesson 1.1: Welcome to SNAP
+# Lesson 1.1: Welcome to Snap!
 
 ## Learning Objectives
 
@@ -26,8 +26,8 @@ Students will be able to...
 | _Day 1_    |                                               |
 | 10 minutes  | Welcome, attendance, Do Now, announcements |
 | 10 minutes | Introductory discussion                       |
-| 10 minutes | Lab walkthrough                               |
-| 20 minutes | "Welcome to SNAP!" Lab activity               |
+| 10 minutes | Lab walk through                               |
+| 20 minutes | "Welcome to Snap!" Lab activity               |
 | 5 minutes | Demonstrate turn-in procedures and wrap-up    |
 | _Day 2_    |                                               |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
@@ -51,7 +51,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap!. To a
   * **Algorithm:** a complete, well-defined sequence of steps for completing a task or solving a problem
   * **Program:** a sequence of instructions or steps, written in a language that can be understood by a computer, that will be used by the computer to complete a task or solve a problem
 
-#### Activity Walkthrough
+#### Activity Walk through
 
 * Work through [Lab 1.1](lab_11.md) up through part 3 (scripts) as a class.
 * Point out key aspects of Snap! in each section, including:
@@ -65,8 +65,8 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap!. To a
 
 #### Activity
 
-* Individually or in pairs, have students continue working through the ["Welcome to SNAP"](lab_11.md) lab activity.  
-  * If you choose to assign pairs, try to partner students into groups that are heterogenous by ability or background.
+* Individually or in pairs, have students continue working through the ["Welcome to Snap!"](lab_11.md) lab activity.  
+  * If you choose to assign pairs, try to partner students into groups that are heterogeneous by ability or background.
   * Try to pair students who do not normally interact.
   * Students should answer all questions and complete all activities and turn them in using your chosen turn-in procedure.
 * For written questions, either have students hand-write answers and turn in the hard copies or set up an electronic submission system of some kind.

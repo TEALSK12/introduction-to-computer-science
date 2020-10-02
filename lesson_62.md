@@ -20,7 +20,7 @@ When coming up with ideas, personal interests are considered.  The final product
 
 The design of a new software product progresses through a sequence of stages called the "life cycle", and is often associated with changes in the marketing situation.  The first step of introducing a product involves getting to know the market, or in other words, the users or potential customers out there.  
 
-#### Curricular Competencies * understanding context, defining, ideating
+#### Curricular Competencies * understanding context, defining, Ideation
 
 When coming up with a great product idea, it is important to conduct user-centered research to understand the needs of the client/customer/end-user.  This research helps us understand design opportunities and barriers.  This research could be done as a survey or interview, given to random people, to people in your friends or family circle, or to a specific population of people (like customers of a supermarket, or members of a soccer club, for example).
 
@@ -79,7 +79,7 @@ Software design is a process that takes time.   Conducting user-centered researc
 
 ## Accommodation/Differentiation
 
-* If students are having difficulty coming up with project ideas, encourage them to think about existing software.  While simply recreating an existing app should be a last resort, thinking about apps they already know can help students come up with functionality they might like to include.
+* If students are having difficulty coming up with project ideas, encourage them to think about existing software.  While simply recreating an existing app should be a last resort, thinking about applications they already know can help students come up with functionality they might like to include.
 * If your class is fairly self-sufficient and mature, you can consider allowing students to "borrow" an idea from a classmate if they find one they like better than any of their own.  Make sure the person who had the idea is OK with it being borrowed, and emphasize that the students must each build their own version.
 * This can be a bit dangerous, as it puts the student somewhat behind in the process right from the start, since they won't have as much context having not written the pitch themselves.  Consider carefully whether this is a good idea.
 * Encourage each student to pick a project that fits his or her level of technical skill.  Make sure students are not overcommitting and choosing projects they do not have the skills to complete.  Also try to discourage stronger students from choosing simpler projects in an effort to do less work.

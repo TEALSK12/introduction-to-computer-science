@@ -83,7 +83,7 @@ Students will be able to...
 * Direct students to complete ["Squares and Triangles Redux"](lab_21.md) individually.  
 * If available, students should use their solutions to Lab 1.3 ("Squares and Triangles and Stars, Oh My!") as a starting point.  Ensure students "Save as..." before starting on the new lab to not overwrite their original project (part 1.1).
 * If student solutions for Lab 1.3 are not available, or are not correct, provide a correct implementation (the solution to Lab 1.3 can be found on the TEALS Dashboard under Additional Curriculum Materials).
-* Encourage students to try to use as few blocks and have as little code duplication as possible to draw each shape while still creating understandable scripts. Asa reminder you may want to make the [Geometry Exterior Angles Review](Geometry_Exterior_Angles.pdf) showing various shapes and their respective angles as a reference for students throught unit 2.
+* Encourage students to try to use as few blocks and have as little code duplication as possible to draw each shape while still creating understandable scripts. Asa reminder you may want to make the [Geometry Exterior Angles Review](Geometry_Exterior_Angles.pdf) showing various shapes and their respective angles as a reference for students through unit 2.
 * Once students complete part 2.1, the remaining parts should go much more quickly as they all follow the same basic pattern.
 
 ### Debrief

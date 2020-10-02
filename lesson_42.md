@@ -4,7 +4,7 @@
 
 Students will be able to...
 
-- Create static lists in SNAP.
+- Create static lists in Snap!.
 - Access elements of a list.
 - Add and remove elements from a list.
 
@@ -37,7 +37,7 @@ Students will be able to...
 - Ask students to brainstorm examples of when lists could be useful.
 - To store an unknown number of values (e.g. a bunch of student test scores, shopping list, the songs of your favorite music artist).
 - To store a collection of related values as one entity (e.g. the number of absent students each day over a week, how often a video on YouTube in a week).
-- Demonstrate creating lists in SNAP.
+- Demonstrate creating lists in Snap!.
   - Use the [Snap! Lists Components](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/SNAP%20Lists%20Components.docx?raw=true) file to demonstrate the Snap! list structure.
   - Use the variadic (taking a variable number of arguments) `list` block to create a simple list.
   - Point out the format in which lists are displayed (gray box with red elements).

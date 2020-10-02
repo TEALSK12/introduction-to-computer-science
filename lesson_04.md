@@ -38,7 +38,7 @@ Students will be able to...
   * Emphasize that the goal of today's lesson is **_not_** for students to develop a deep understanding of any of the features in Snap!.  Later lessons will teach them everything they need to know.  For now, they should just explore, figure out what they can, and put it to use however they see fit.
   * Tell them they will create Snap! accounts so they can save their self-portraits and share them.
   * Give them the link to the Student Experience Survey (or the handout if you’re doing it on paper).   Tell them that answering these questions will help them to think about themselves and give them some ideas for their self-portraits.
-* Spend just a couple minutes demonstrating how to open SNAP, create sprites and scripts, and run programs.
+* Spend just a couple minutes demonstrating how to open Snap!, create sprites and scripts, and run programs.
   * DO NOT go into detail-- the specifics of Snap! will be covered in much more depth in unit 1. The goal here is simply to give students enough of a starting point to be able to explore and try things out on their own.
 * Show students the [lab handout](lab_04.md) and read through the instructions.
   * Point out the places to write answers to the written questions in parts 1.2 and 1.3.
@@ -76,8 +76,8 @@ Students will be able to...
 
 ### 5. Debrief
 
-* Ask each student to identify and describe _one_ feature they discovered in Snap!.  Keep a running list on the whiteboard or projector.
-* If the students build a pretty comprehensive list, you can use this as a chance to go over a brief roadmap for the course.
+* Ask each student to identify and describe _one_ feature they discovered in Snap!.  Keep a running list on the white board or projector.
+* If the students build a pretty comprehensive list, you can use this as a chance to go over a brief road map for the course.
 * Ask students what they enjoyed about working with Snap! and what they disliked.
 
 ## BJC Lecture Suggestions

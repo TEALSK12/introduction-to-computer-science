@@ -35,7 +35,7 @@ Students will be able to...
 
 ### 1.  Review/Introduction
 
-- Play a review game (such as [GrudgeBall](http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html)) to remind students of the skills and concepts have been learned in this unit.
+- Play a review game (such as [Grudge Ball](http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html)) to remind students of the skills and concepts have been learned in this unit.
   - Basic loops
   - Nested loops
   - User input
@@ -53,7 +53,7 @@ Students will be able to...
 
 ### 3. Project
 
-- This project is a summative assessment for the unit.  Students should be demonstrating mastery of all the skills covered.
+- This project is a summation of the unit.  Students should be demonstrating mastery of all the skills covered.
 - Most students will require roughly 6-10 hours of total work time to complete the project
 - Assess the progress of your students regularly using such techniques as asking them to demonstrate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
 - Adjust the amount of time allowed for the project to fit the needs of your students

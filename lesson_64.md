@@ -14,7 +14,7 @@ Students will be able to...
 
 #### Curriculum Competencies - Prototype, Test, and Make
 
-From Lessons 6.3 to 6.5 you will be practicing an "Agile" iterative and incremental project management workflow.  In Lesson 6.3 you identified user scenarios.  Now in Lesson 6.4 you identify what technical components are needed for each scenario,  and define all the tasks that need to be done.  You are not "coding" yet.
+From Lessons 6.3 to 6.5 you will be practicing an "Agile" iterative and incremental project management work flow.  In Lesson 6.3 you identified user scenarios.  Now in Lesson 6.4 you identify what technical components are needed for each scenario,  and define all the tasks that need to be done.  You are not "coding" yet.
 
 Each defined task, or step, should be bite-sized, and specific enough to do.  
 This plan should include testing done by you, as the developer, and by other users.
@@ -41,7 +41,7 @@ Following an Agile project management flow helps ensure that the development pro
 | Duration  | Description                                   |
 | --------- | --------------------------------------------- |
 | 5 minutes | Welcome, attendance, bell work, announcements |
-| 10 minutes | Review feature lists and wireframes |
+| 10 minutes | Review feature lists and wire frames |
 | 20 minutes | Spec writing |
 | 15 minutes | Building implementation plan|
 | 5 minutes | Debrief and wrap-up|
@@ -50,13 +50,13 @@ Following an Agile project management flow helps ensure that the development pro
 
 ### Review
 
-* Ask students to take out their feature lists and wireframes from [Lesson 6.3](lesson_63.md). They will be using these to develop a more detailed specification and plan for their project today.
-* If time allows, ask one or two students to share their feature list and/or wireframe and discuss with the class.
+* Ask students to take out their feature lists and wire frames from [Lesson 6.3](lesson_63.md). They will be using these to develop a more detailed specification and plan for their project today.
+* If time allows, ask one or two students to share their feature list and/or wire frame and discuss with the class.
 * Ensure that students have an understanding of the proper level of detail at this point.
 
 ### Spec writing
 
-* Using the details from their pitch, their feature lists, their wireframes, and the feedback they've received, students should fill out the rest of the [plan organizer].
+* Using the details from their pitch, their feature lists, their wire frames, and the feedback they've received, students should fill out the rest of the [plan organizer].
 * It is **VITAL** at this stage that students be as detailed and thorough as they can.  Any missing information will complicate the process later when they realize what was left out.  Encourage students to take their time and make sure they hit everything.
 * While this process is happening, instructors should circulate through the class and check-in with student.  Verify that they have a complete, well-thought out idea that is feasible to complete in the available time.  
 * If you have concerns about a student's ability to complete the proposed project, help them scope down by removing or simplifying features.

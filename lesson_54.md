@@ -52,7 +52,7 @@ Students will be able to...
 
 ### Project
 
-* This project is a summative assessment for the unit.  Students should be demonstrating mastery of all the skills covered.
+* This project is a summation of the unit.  Students should be demonstrating mastery of all the skills covered.
 * Most students will require roughly 10-15 hours of total work time to complete the project.
 * Assess the progress of your students regularly using such techniques as asking them to demonstrate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
 * Adjust the amount of time allowed for the project to fit the needs of your students.

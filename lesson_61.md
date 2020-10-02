@@ -10,7 +10,7 @@ Students will be able to...
 
 ### Emphasize with students
 
-#### Curricular Competencies - understanding context, defining, ideating
+#### Curricular Competencies - understanding context, defining, and ideation
 
 In this course, we are not actually typing out any code.  In our case, "coding" would refer to the stage where we actually drag-and-drop in the Snap! design environment.   Later when we learn other languages, "coding" would refer to when we start typing out code in a specific language like Java or Python.
 

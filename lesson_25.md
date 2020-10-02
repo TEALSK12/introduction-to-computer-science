@@ -42,7 +42,7 @@ Students will be able to...
 * Introduce Booleans with the ["Stand Up, Sit Down:"](https://curriculum.code.org/csd-1718/unit3/10/) Warm Up activity of the Code.org "Booleans Unplugged" lesson.
 * Define **Boolean expressions** as expressions that evaluate to true or false.
   * If desired, explain that the term "Boolean" is derived from [George Boole](https://en.wikipedia.org/wiki/George_Boole).
-* In SNAP, all Boolean expressions are pointy six-sided blocks.
+* In Snap!, all Boolean expressions are pointy six-sided blocks.
 * Present the three Boolean operators: and, or and not.
 * Define the operators and describe when each will return true
 * Show the truth tables for each operator and explain how to read them (see below for truth table example).

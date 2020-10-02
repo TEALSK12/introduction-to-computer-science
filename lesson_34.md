@@ -38,7 +38,7 @@ Students will be able to...
   * ![answer block](answer.png)
   * ![pick random block](pickrandom.png).
 * Explain the concept of reporting (returning) a value, and how reporter blocks are used to provide values to commands.
-* Emphasize that reporters do not (and should not) perform any action. They are used to compute values which are in turn used by commands.
+* Emphasize that reporters do not (and should not) perform any action—they are used to compute values which are in turn used by commands.
 
 #### Introduce predicate blocks as a special case of reporter blocks
 

@@ -30,7 +30,7 @@ Students will be able to...
 | --------- | --------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 10 minutes | Introductory discussion                       |
-| 25 minutes | "Snap! Scavenger Hunt" Lab activity            |
+| 25 minutes | "Snap!Scavenger Hunt" Lab activity            |
 | 15 minutes | Debrief and wrap-up                           |
 
 ## Instructor's Notes

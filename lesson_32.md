@@ -30,7 +30,7 @@ Students will be able to...
 
 #### Review loops and conditionals
 
-* Ask students what loops do, when they are useful, and what loops exist in Snap!.
+* Ask students what loops do, when they are useful, and what loops exist in SNAP.
   * Loops cause code to execute multiple times.
   * Loops can help reduce redundancy and increase readability.
   * Snap! contains three loops: repeat, forever, and repeat until.

@@ -19,7 +19,7 @@ Students will be able to...
 At the end of the day, software must connect with people.  Now it's time to share your project with others!  
 It's also fun, and helpful, to see what others have been doing.  
 
-Furthermore, it's time to reflect on the whole development process, and share what you have learned from this experience.  
+Furthermore, it's time to reflect on the whole development process, and share what you have learnt from this experience.  
 
 Invite questions and feedback from peers and guests.  Celebrate your achievement.  Consider ideas for improvement and future work. Think about how you could do things differently using other tools/strategies. Think about how this project might be adapted for, or influenced by, another culture, social situation, or target user group.
 
@@ -51,7 +51,7 @@ Peer feedback is valuable.  It helps us grow.  This can be done by having a few 
 
 ### Sharing Content
 
-- Inform students that their sharing should include:  pitch or poster (highlight key features); demo (how it works); reflections on their development process (what went well? what didn't go well);  lessons learned;  ideas for future work.
+- Inform students that their sharing should include:  pitch or poster (highlight key features); demo (how it works); reflections on their development process (what went well? what didn't go well);  lessons learnt;  ideas for future work.
 - Other questions to consider:
   - What skills did you use to complete this project?
   - What other skills do you wish you had?

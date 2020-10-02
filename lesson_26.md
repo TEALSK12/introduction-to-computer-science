@@ -33,7 +33,7 @@ Students will be able to...
 
 ### Review/Introduction
 
-* Play a review game (such as [Grudge Ball](http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html)) to remind students of the skills and concepts have been learned in this unit.
+* Play a review game (such as [GrudgeBall](http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html)) to remind students of the skills and concepts have been learned in this unit.
   * Variables
   * Operators
 * Remind students that their solutions to previous assignments are an excellent resource when trying to accomplish similar tasks.
@@ -41,13 +41,13 @@ Students will be able to...
 ### Introduce project
 
 * Walk students through the project specification, pointing out important details, potential pitfalls, and requirements.
-* If students are unfamiliar with the concept of the Pong game, spend a couple minutes demonstrating one for the class.  If you have a Snap! or Scratch version, that works best, but an [online game](http://www.ponggame.org/) will work as well.
+* If students are unfamiliar with the concept of the pong game, spend a couple minutes demonstrating one for the class.  If you have a Snap! or Scratch version, that works best, but an [online game](http://www.ponggame.org/) will work as well.
 
 ### Project
 
-* This project is a summation of the unit.  Students should be demonstrating mastery of all the skills covered.
+* This project is a summative assessment for the unit.  Students should be demonstrating mastery of all the skills covered.
 * Most students will require roughly 6-10 hours of total work time to complete the project
-* Assess the progress of your students regularly using such techniques as asking them to demonstrate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
+* Assess the progress of your students regularly using such techniques as asking them to demonstate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
 * Adjust the amount of time allowed for the project to fit the needs of your students
 * It is vital that nearly all students complete the project before moving on
 * If most students have the ability to work on Snap! assignments at home, the amount of in-class time provided can be reduced if necessary.

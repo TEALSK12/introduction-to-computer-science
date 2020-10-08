@@ -30,7 +30,7 @@ Students will be able to...
 
 #### Review loops and conditionals
 
-* Ask students what loops do, when they are useful, and what loops exist in SNAP.
+* Ask students what loops do, when they are useful, and what loops exist in Snap!.
   * Loops cause code to execute multiple times.
   * Loops can help reduce redundancy and increase readability.
   * Snap! contains three loops: repeat, forever, and repeat until.
@@ -41,7 +41,7 @@ Students will be able to...
 
 #### Demonstrate combining loops and conditionals
 
-* Present `repear until` and `forever if` blocks.
+* Present `repeat until` and `forever if` blocks.
 
   ![Repeat Until Block](repeat%20until.png)
   
@@ -62,7 +62,7 @@ Students will be able to...
 ### Activity
 
 * Students should complete "What Goes Up..." lab individually.
-* Mention that the code written in this lab will be helpful for the Platform Game project.
+* Mention that the code written in this lab will be helpful for the end of unit project.
 
 ### Debrief
 
@@ -70,7 +70,7 @@ Students will be able to...
 
 * Take care to ensure that all students have functional code by the end of the lab to avoid putting some students at a disadvantage starting the project.
 * If many students struggle, consider releasing your own solution after the lab has been completed in class.
-* Utilize TAs and advanced students to assist struggling students—it is vital that all students complete this lab in advance of starting the project.
+* Ask the more advanced students to assist struggling students. It is vital that all students complete this lab in advance of starting the project.
 * Advanced students can consider increasing the realism of their gravity model by adding acceleration and/or beginning to implement jumping.
 
 ## Forum discussion

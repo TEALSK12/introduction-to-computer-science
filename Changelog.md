@@ -1,5 +1,15 @@
 # Change Log
 
+## [2.1.7] - 2020-10-7
+
+|Unit     | Change |
+|---------|--------|
+|Curriculum Map | Added Guidance on where to find answer keys|
+|All Units| Snap! Spelling Consistent across HTML files|
+|Unit 1 | Labs 1.1, 1.2, 3.2 Answer Keys added to additional curriculum Materials |
+|Helping Trios Activity | Restructured and Remote Guidance Added |
+|Lab 3.2 | Added Scoring rubric and updated wording to be more concise |
+
 ## [2.1.6] - 2020-9-16
 
 |Unit     | Change |

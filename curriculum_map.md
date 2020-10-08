@@ -4,9 +4,11 @@ Materials and preparation resources can be found in each of the lesson pages.
 
 **Pacing Guidance:** 1 Day is a 55 minute class period.
 
-[Master Vocabulary List](master_vocab.md)
+**Protected content** such as unit quizzes, quiz answer keys, project sample solutions can be accessed from the TEALS Dashboard in Additional Curriculum Materials.
 
-[Template Syllabus](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/IntrotoCSSyllabusExample.docx)
+[Template Syllabus](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/IntrotoCSSyllabusExample.docx): Feel free to use this template to build a syllabus for your class.
+
+[Master Vocabulary List](master_vocab.md)
 
 ## Unit 0: Beginnings
 

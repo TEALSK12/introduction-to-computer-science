@@ -5,7 +5,7 @@
 Students will be able to...
 
 * Demonstrate the difference between sprite and global variables.
-* Explain how cloning and prototyping simplify working with numerous similar sprites in the same program.
+* Explain how cloning and prototyping simplify similar sprites in the same program.
 * Create prototype sprites and clones of the prototype sprite
 * Explain the difference between a "master" sprite and a "clone" sprite.
 

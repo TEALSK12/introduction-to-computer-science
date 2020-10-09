@@ -6,7 +6,7 @@ Students will be able to...
 
 * Animate Snap! sprites using costume changes and movement.
 * Trigger action in other sprites using broadcasts.
-* Create additional Sprites.
+* Implement scripts for multiple sprites.
 
 ## Materials/Preparation
 

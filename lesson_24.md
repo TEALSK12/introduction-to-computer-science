@@ -4,7 +4,7 @@
 
 Students will be able to...
 
-* Use variables to track values throughout a program.
+* Apply variables to track values throughout a program.
 
 ## Materials/Preparation
 
@@ -30,15 +30,19 @@ Students will be able to...
 
 ### Do Now Review
 
-* Review the debugging exercise with the students.
-* Did they find the bugs in the program? (There are at least five.)
+#### Do_Now Debrief
+
+Go over all of the bugs in the Do Now program with students? (There are at least six.)
+
   1. In order to control Alonzo's movement with the arrow keys, the if statements need to be in a forever loop; otherwise, the code block will run once and complete. Alonzo never moves!
   2. Likewise, the code blocks checking for the `W-A-S-D keys` to move the Blue Dog need to be in a loop or they will also only check for a key press one time and complete. The Blue Dog never moves, either.
   3. In Alonzo's code, the conditional checking for the left arrow key is inside of the conditional checking for the right arrow key, so Alonzo can never move to the left.
   4. The `if on edge, bounce` block in Alonzo's code is inside of the conditional checking for the left arrow key, so Alonzo will run off every edge of the screen, except the left.
   5. The fifth bug is more subtle. After the bugs preventing the movement of Alonzo and the Blue Dog have been fixed, the Blue Dog says "I got you!" when touched by Alonzo. Since the Blue Dog is supposed to be running away from Alonzo, it doesn't make sense for the Blue Dog to say that when caught.
   6. The sixth bug is just good coding style. The Blue Dog has an unused `say` block in the scripting area that should be deleted.
+
 * Did the students have any suggestions about ways to improve the game? Here are some possible improvements they might have thought of:
+
   * Have a score counter that increments when the _reset_ message is sent. (After Alonzo catches the Blue Dog.)
   * Since Alonzo starts on the left of the screen and the Blue Dog starts on the right, have Alonzo be controlled by the `W-A-S-D` keys and the Blue Dog by the `arrow` keys. That way, the `control` keys are on the same side of the keyboard as the sprites they are controlling.
   * Have the computer control the Blue Dog using random movements.
@@ -60,7 +64,6 @@ Students will be able to...
 * Define and explain the concept of a **variable:** _a location in memory to store a value for retrieval and use later_.
 * Consider introducing variables with an interactive physical demonstration by modifying the [The Box Variable Activity](https://teachinglondoncomputing.org/resources/inspiring-unplugged-classroom-activities/the-box-variable-activity/) for your students.
   * Demonstrate creating, assigning, and accessing a variable in SNAP.
-   **Ignore global vs. this sprite only for now**
   * Point out that a variable can only hold one value at a time.
   * When a new value is assigned, the old value is lost and cannot be recovered.
   * Emphasize the importance of descriptive, readable names for variables.

@@ -6,6 +6,7 @@ Students will be able to...
 
 * Animate Snap! sprites using costume changes and movement.
 * Trigger action in other sprites using broadcasts.
+* Implement scripts for multiple sprites.
 
 ## Materials/Preparation
 
@@ -13,7 +14,7 @@ Students will be able to...
 * [1.4 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.4.pptx)
 * [Lab 1.4 handout (Sprites in Action)](lab_14.md)([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([blocks](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.4%20Sprites%20in%20Action.pdf)).
 * [Unit 1 Tips](unit_1_tips.md).
-* Video Resource: [https://youtu.be/3x5ZI-mKc44](https://www.youtube.com/watch?v=3x5ZI-mKc44&feature=youtu.be)
+* Video Resource: [https://youtu.be/3x5ZI-mKc44](https://www.youtube.com/watch?v=3x5ZI-mKc44)
   * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
 * Changing Costumes Video Resource: [https://youtu.be/kgqi7CQLgJU](https://youtu.be/kgqi7CQLgJU)
 
@@ -36,7 +37,9 @@ _Note: The [Lesson 1.4](http://snap.berkeley.edu/snapsource/snap.html#present:Us
 
 #### Lecture
 
-_Note: The [Lesson 1.4](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%201.4) project has examples of all the concepts covered in this lesson._
+#### Broadcasting
+
+_Note: The [Lesson 1.4](https://snap.berkeley.edu/snap/snap.html#present:Username=andrewspiece&ProjectName=Lesson%201.4_Lecture%20Example) project has examples of all the concepts covered in this lesson._
 
 1. Introduce students to the "Costumes" tab and show them how to import costumes to a sprite.
 
@@ -52,9 +55,23 @@ _Note: The [Lesson 1.4](http://snap.berkeley.edu/snapsource/snap.html#present:Us
     * Point out that all sprites "hear" a broadcast and any sprite with a corresponding "when I receive" will react.
     * Discuss the difference between "broadcast" and "broadcast and wait" and ask students to come up with ideas for when each would be useful.
 
-4. It's worthwhile to introduce the rotate buttons located at the top left of the Snap!interface. These buttons allow you to Snap!(puns!) your rotation, allowing you to lock rotation, allow free rotation, or allow only left/right rotation.
+4. It's worthwhile to introduce the rotate buttons located at the top left of the Snap! interface. These buttons allow you to Snap your rotation, allowing you to lock rotation, allow free rotation, or allow only left/right rotation.
 
     ![rotate buttons](rotateButton.PNG)
+
+#### Adding more Sprites
+
+1. Introduce students to adding more sprites to their script using the `add a new turtle sprite` button.
+
+    ![add_a_new_sprite](add_a_new_sprite.PNG)
+
+2. When clicked, the students will notice a new sprite is created with a different color.
+
+3. Have them select the new sprite, then click on `file` > `costumes` > Import > Have them select Alonzo.
+
+    ![Alonzo](alonzo.svg)
+
+4. Show them how they can now right a script for this second sprite that is only for that Sprite.
 
 ### Activity
 

@@ -10,7 +10,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [0.3 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.3.pptx)
-* Classroom computers with internet access.
+* Classroom computers with access to the internet.
 * **IMPORTANT: At least a few days prior to class,** ensure that the classroom computers can load the website for both activities.  If not, work with school IT to solve the problem.
   * If you are not able to load Snap! on your classroom computers, you will not be able to proceed with the course.  Test this well ahead of time and make sure your school's IT staff knows what the requirements are and can help achieve them.
 * Work through at least one of the coding activities on your own so you are familiar with the activities and can provide assistance as needed:

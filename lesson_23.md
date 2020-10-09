@@ -4,8 +4,8 @@
 
 Students will be able to...
 
-* Ask for and receive user input in a Snap! program.
-* Use simple conditional (if and if-else) blocks to alter control flow in a Snap! program.
+* Apply `Ask` and `Receive` in Snap!.
+* Apply simple conditional, `if` and `if-else` blocks, to alter control flow in a Snap! program.
 
 ## Materials/Preparation
 

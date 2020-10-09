@@ -5,7 +5,7 @@
 Students will be able to...
 
 * Define key **user-scenarios** for a project and the features required to implement each scenario.
-* Explain the importance of wireframing when designing an application.
+* Explain the importance of wire framing when designing an application.
 * Capture key scenarios using **sketches** - (hand drawn, or with drawing tool).
 * Refine design based on user-centered research.
 
@@ -29,7 +29,7 @@ From Lessons 6.3 to 6.5 you will be doing this type of iterative and incremental
 | 5 minutes | Welcome, attendance, bell work, announcements |
 | 10 minutes | Review pitches |
 | 20 minutes | Scenario definition |
-| 15 minutes | Wireframing |
+| 15 minutes | Wire framing |
 | 5 minutes | Debrief and wrap-up|
 
 ## Instructor's Notes
@@ -50,14 +50,14 @@ From Lessons 6.3 to 6.5 you will be doing this type of iterative and incremental
 * Once students have written their scenarios, they should review them and develop a list of the necessary features to enable each scenario.
 * Again, there should be minimal technical detail in these descriptions, instead focusing on details of the user experience. The feature lists should be more about _requirements_ than implementation.
 
-### Wireframing
+### Wire framing
 
-* Define the term "wireframe" for students:
-* _wireframe: a high-level sketch of an application's user interface intended to help visualize layout, interactions, and transitions_.
-* Explain that wireframes do not include any details (such as specific graphics or text), but instead provide a broad impression of what an application will look like to aid in design and planning.
-* Students will complete page 1 of the organizer by sketching or wireframing the important screens for their project.
-* If you have one available, a wireframing tool such as [Balsamiq](https://balsamiq.com/) can be used instead of sketching by hand.
-* As with all wireframing, students should not focus on the specific details of the sprites, images, etc. that will appear, but instead design the basic layout and main components of each screen.
+* Define the term "wire frame" for students:
+* _wire frame: a high-level sketch of an application's user interface intended to help visualize layout, interactions, and transitions_.
+* Explain that wire frames do not include any details (such as specific graphics or text), but instead provide a broad impression of what an application will look like to aid in design and planning.
+* Students will complete page 1 of the organizer by sketching or wire framing the important screens for their project.
+* If you have one available, a wire framing tool such as [Balsamiq](https://balsamiq.com/) can be used instead of sketching by hand.
+* As with all wire framing, students should not focus on the specific details of the sprites, images, etc. that will appear, but instead design the basic layout and main components of each screen.
 * Encourage students to reference their feature lists to ensure they include _all_ necessary screens for their project, including simple things like a splash screen, help screen, or exit ("game over") screen.
 
 ### Debrief

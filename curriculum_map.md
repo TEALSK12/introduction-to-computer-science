@@ -14,11 +14,11 @@ Materials and preparation resources can be found in each of the lesson pages.
 
 | Lesson | Objectives | Lab | Days |
 | ------ | ---------- | --- | -- |
-| [0.1: The First Day of School][] | Identify the class they are taking. List the high-level goals of the course. Describe classroom procedures, rules, and norms. | N/A |  1 |
-| [0.2: Algorithms][] | Define **algorithm.** Construct algorithms for performing simple tasks. | N/A | 1 |
-| [0.3: Programming Languages][] | Complete small coding tasks (Hour of Code). Explain why computer programs are written in specialized languages. | N/A | 1 |
+| [0.1: The First Day of School][] | Identify the class they are taking. List the high-level goals of the course. Describe classroom procedures, rules, and norms. | Syllabus |  1 |
+| [0.2: Algorithms][] | Define **algorithm.** Construct algorithms for performing simple tasks. | Peanut Butter Jelly | 1 |
+| [0.3: Programming Languages][] | Complete small coding tasks (Hour of Code). Explain why computer programs are written in specialized languages. | Hour of Code | 1 |
 | [0.4: Snap! Self-Portrait][] |  Create a simple program in Snap! to describe themselves | Getting to Know You | 1 |
-| [0.5: Snap! Coordinate System][] | Recall the Cartesian coordinate system. Implement the coordinate system to position a sprite using Snap! Coordinates. | 1 |
+| [0.5: Snap! Coordinate System][] | Recall the Cartesian coordinate system. Implement the coordinate system to position a sprite using Snap! Coordinates. | Getting to Know Snap! Coordinates | 1 |
 
 ## Unit 1: Snap! Basics
 
@@ -47,8 +47,8 @@ Materials and preparation resources can be found in each of the lesson pages.
 
 | Lesson | Objectives | Lab | Days |
 | ------ | ---------- | --- | --- |
-| [3.1: Abstraction and Generalization][] | Define the terms **Abstraction** and **Generalization**. Recognize opportunities to improve algorithms by abstracting or generalizing parts into sub-procedures. | N/A | 1 |
-| [3.2: Combining Loops and Conditionals][] | Combine loops with conditionals to create models with repeated but conditional behavior. | | 1 |
+| [3.1: Abstraction and Generalization][] | Define the terms **Abstraction** and **Generalization**. Recognize opportunities to improve algorithms by abstracting or generalizing parts into sub-procedures. | Drawing Shapes Again | 1 |
+| [3.2: Combining Loops and Conditionals][] | Combine loops with conditionals to create models with repeated but conditional behavior. | What Goes Up... | 1 |
 | [3.3: Customization I: Arguments][] | Build custom Snap! blocks that take arguments. | Let Me Check My Calendar | 1 |
 | [3.4: Customization II: Reporters and Predicates][] | Build custom reporter and predicate blocks in Snap!. | If My Calculations Are Correct... | 1 |
 | [3.5: Platform Game Project][] | Apply loops, variables, and Boolean expressions to implement a Super Mario Bros. style platform game. Practice good debugging skills to correct issues as they arise while programming. | Project 3: Platform Game | 8 |

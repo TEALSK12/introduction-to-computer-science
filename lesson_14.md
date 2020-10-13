@@ -71,7 +71,7 @@ _Note: The [Lesson 1.4](https://snap.berkeley.edu/snap/snap.html#present:Usernam
 
     ![Alonzo](alonzo.svg)
 
-4. Show them how they can now right a script for this second sprite that is only for that Sprite.
+4. Show them how they can now write a script for this second sprite that is only for that Sprite.
 
 ### Activity
 

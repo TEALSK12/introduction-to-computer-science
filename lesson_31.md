@@ -12,7 +12,7 @@ Students will be able to...
 
 * [Do Now 3.1: Guided Tour](do_now_31.md)
 * [3.1 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.1.pptx)
-* Lab 3.1 handout [Drawing Shapes Again](lab_31.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.1%20Drawing%20Shapes%20Again.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%10PDF/Lab%203.1%20Drawing%20Shapes%20Again.pdf))
+* Lab 3.1 handout [Drawing Shapes Again](lab_31.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.1%20Drawing%20Shapes%20Again.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.1%20Drawing%20Shapes%20Again.pdf))
 * [Unit 3 Tips](unit_3_tips.md)
 * Video Resource: [https://youtu.be/Dxw9cIbzaLk?t=681](https://youtu.be/Dxw9cIbzaLk?t=681)
   * Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.

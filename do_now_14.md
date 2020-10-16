@@ -2,9 +2,9 @@
 
 ## Follow these steps on your own
 
-1. Open this [starter project](https://snap.berkeley.edu/snapsource/snap.html#present:Username=instructor_resources&ProjectName=Do%20Now%201.4%20-%20Example%20Animation).
+1. Open this [starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=andrewspiece&ProjectName=Do_Now%201.4_Starter).
 
-2. Log into your Snap! account and save the starter project. Name the project `Do Now 1.4 - Example Animation`.
+2. Log into your Snap! account and save the starter project. Name the project _Do Now 1.4 - Example Animation_.
 
 3. Press the space bar on your keyboard several times in a row. Notice what happens to the two bats on the screen.
 

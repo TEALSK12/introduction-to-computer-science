@@ -65,8 +65,8 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap!. To a
 
 #### Activity
 
-* Individually or in pairs, have students continue working through the ["Welcome to SNAP"](lab_11.md) lab activity.  
-  * If you choose to assign pairs, try to partner students into groups that are heterogenous by ability or background.
+* Individually or in pairs, have students continue working through the ["Welcome to Snap!"](lab_11.md) lab activity.  
+  * If you choose to assign pairs, try to partner students into groups.
   * Try to pair students who do not normally interact.
   * Students should answer all questions and complete all activities and turn them in using your chosen turn-in procedure.
 * For written questions, either have students hand-write answers and turn in the hard copies or set up an electronic submission system of some kind.

@@ -34,8 +34,8 @@ Students will be able to...
 
 ### Review
 
-* Remind students about conditional statements, and ask what the blocks that can go in the holes in if blocks have in common
-* Blocks are "pointy" and all  are "yes/no" or "true/false" questions
+* Remind students about conditional statements, and ask what the blocks that can go in the holes in if blocks have in common.
+* Blocks are "pointy" and all  are "yes/no" or "true/false" questions.
 
 ### Lecture
 
@@ -43,8 +43,8 @@ Students will be able to...
 * Define **Boolean expressions** as expressions that evaluate to true or false.
   * If desired, explain that the term "Boolean" is derived from [George Boole](https://en.wikipedia.org/wiki/George_Boole).
 * In SNAP, all Boolean expressions are pointy six-sided blocks.
-* Present the three Boolean operators: and, or and not.
-* Define the operators and describe when each will return true
+* Present the three Boolean operators: `and`, `or` and `not`.
+* Define the operators and describe when each will return true.
 * Show the truth tables for each operator and explain how to read them (see below for truth table example).
 * Truth tables are simply one way of expressing how the Boolean operators work; if students are struggling, other depictions (such as an exhaustive list of all possible results) can be substituted.
 * Emphasize that since Boolean operators are themselves Boolean expressions, they can be nested.

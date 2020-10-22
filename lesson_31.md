@@ -41,15 +41,15 @@ Students will be able to...
 
 ### Lab 3.1: Drawing Shapes (Again)
 
-* Students should complete the “Drawing Shapes (Again)” activity individually or in diverse pairs.
+* Students should complete the [Drawing Shapes Again](lab_31.md) activity individually or in diverse pairs.
 * Work with students to be certain that they are using custom blocks and variables as described by the activity.
-* Point out places where code can be abstracted and generalized
-* Emphasize conciseness and clarity in code.
+* Point out places where a script can be abstracted and generalized
+* Emphasize conciseness into a script.
 
 ### Debrief
 
 * Discuss one or two student submissions.
-* Point out differences between different students’ solutions.
+* Point out differences between different student solutions.
 * Point out missed opportunities for abstraction (if any).
 * Discuss how this custom block can be useful.
 
@@ -66,7 +66,7 @@ BJC Video Suggestion:
 
 [BJC Lecture 4: Functions](https://www.youtube.com/watch?v=_uKCBmQEf5w)
 
-[MIT Scratch --> BYOB Snap](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=10m0s)  (Development of SNAP, Demo) 10:00-11:30
+[MIT Scratch --> BYOB Snap!](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=10m0s)  (Development of Snap!, Demo) 10:00-11:30
 
 [BYOB-Custom Blocks](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=11m30s)  (Explains functions with examples)   11:30-14:50
 

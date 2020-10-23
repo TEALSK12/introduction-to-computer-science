@@ -33,11 +33,11 @@ Students will be able to...
 
 * Define **Arguments:** An argument is any area in a block that accepts user input, or another block. It could be a Boolean Block or a value placed inside of a variable or block.
 * Ask students to speculate on risks of relying on variables instead of arguments.
-* Variables could be changed by code other than the custom block, variable names could be changed causing errors, etc.
+* Variables could be changed by a script other than the custom block, variable names could be changed causing errors, etc.
 * Emphasize importance of custom blocks being self-contained.
 * Custom blocks should continue to function correctly independent of any other changes in the program.
 * Custom blocks should work correctly anywhere in the program and not require specific setup or cleanup.
-* Point out how frustrating code would be if blocks like  `move 10 steps` required setting a variable with a specific name to work.
+* Point out how complicated a script would be if blocks like  `move 10 steps` required setting a variable with a specific name to work.
 
     ![Move 10 steps block](move.png)
 
@@ -51,12 +51,12 @@ Students will be able to...
   * Point out that arguments are passed by value.
   * Specifically, changing the value of an argument inside a custom block will typically NOT change the value at the call site.
   * [Arguments example](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%203.3)
-    * Basic argument in pen category
-    * Pass by value example in "Variables" category
+    * Basic argument in pen category.
+    * Pass by value example in "Variables" category.
 
 ### Activity
 
-* Students should complete the [Let Me Check My Calendar](lab_33.md) activity individually or in pairs
+* Students should complete the [Let Me Check My Calendar](lab_33.md) activity individually or in pairs.
 * This lab consists of a series of independent custom blocks.  The blocks need not necessarily be completed in the order given, but are roughly in order of difficulty.
 * The bonus (part 3.4) requires implementing a fairly complex formula.
 
@@ -66,7 +66,7 @@ Students will be able to...
 * If time allows, discuss multiple solutions to each part.
 * Emphasize differences and encourage discussion about advantages and disadvantages.
 * Point out corner cases and cases where typed arguments are particularly helpful.
-* For example, avoiding try to find out whether "bubblegum" is a leap year
+* For example, avoiding try to find out whether "bubblegum" is a leap year.
 
 ## Accommodations/Differentiation
 

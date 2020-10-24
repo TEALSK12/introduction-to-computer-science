@@ -1,5 +1,15 @@
 # Change Log
 
+## [2.1.9] - 2020-10-23
+
+|Unit     | Change |
+|---------|--------|
+|Lessons 2.1 - 3.4| Wording consistency, spelling updates |
+|Labs 2.1 - 3.4 | Formatting, wording consistency, Creative Common and TEALS Branding |
+|Lab 3.4 | Distance Formula changed to Bonus problem. |
+|2.4 Slide Deck | Boolean Operators introduction video added and updates instruction |
+|Additional Curriculum Materials | Lab Answer Keys created for Labs: 2.1, 2.3, 2.4, 2.5, 3.1, 3.3, 3.4 |
+
 ## [2.1.8] - 2020-10-16
 
 |Unit     | Change |

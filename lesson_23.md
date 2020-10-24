@@ -66,6 +66,7 @@ Define **conditional** - a block used to make a choice between executing two dif
 * Point out the differences between `if` and `if/else` block.
 
     ![If Block](if.png)
+
     ![If Else Block](if-else.png)
 
 * Namely, if-else provides a choice between two code paths, whereas if simply chooses between executing code or not

@@ -44,8 +44,8 @@ Have Dino jump by using a `repeat` block with a `change in y` block in it that w
 | 2.2 Falls to the bottom of the stage | 0.3     |
 | 2.3 Stops falling when touching the ground | 0.3 |
 | 3.1 To a random x-coordinate | 0.2 |
-| 3.2 Touching the ground OR touches the platform  | 0.3  |
+| 3.2 Touching the ground OR touching the platform  | 0.3  |
 | 4.1 Jump up | 0.3 |
 | 5.1 Jump Up: Ground or Platform | 0.5 |
-| 5.2 Left and right arrow  | 0.2  |
+| 5.2 Movement using left and right arrow  | 0.2  |
 | **PROJECT TOTAL** | **2.5 points** |

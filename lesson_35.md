@@ -53,7 +53,7 @@ Students will be able to...
 
 ### 3. Project
 
-* This project is a summative assessment for the unit.  Students should be demonstrating mastery of all the skills covered.
+* This project is a summation of the unit.  Students should be demonstrating mastery of all the skills covered.
 * Most students will require roughly 6-10 hours of total work time to complete the project
 * Assess the progress of your students regularly using such techniques as asking them to demonstrate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
 * Adjust the amount of time allowed for the project to fit the needs of your students
@@ -67,8 +67,8 @@ Students will be able to...
 
 * If any students do not have the ability to work at home, ensure enough in-class time is provided to complete the assignment, offering extensions if necessary.
 * Advanced students can be encouraged to extend their games beyond the minimum required number of screens, add more features (power-ups, "boss" enemies, secret screens, etc.), create multiple "levels" that must be worked through, or any other extension.
-* Struggling students can be exempted from certain requirements or given starter code.
-* If scaffolding this project, provide code to perform some of the various actions required in the game (changing screens, moving the character, defeating enemies, etc.) and ask the students to fill in the triggers and conditions for using these routines.
+* Struggling students can be exempted from certain requirements or given a starter script.
+* If scaffolding this project, provide a script to perform some of the various actions required in the game (changing screens, moving the character, defeating enemies, etc.) and ask the students to fill in the triggers and conditions for using these routines.
 
 ## Forum discussion
 

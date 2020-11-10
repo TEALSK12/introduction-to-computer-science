@@ -14,7 +14,7 @@ Write a script for the Dino sprite so that:
 
 2.2) When the `green flag` is clicked, Dino falls to the bottom of the stage in a `forever` block.
 
-2.3) When Dino touches the ground, Dino stop falling.
+2.3) When Dino touches the ground, Dino stops falling.
 
 When using the `touching color` block, change the color by clicking on the color box, then select anything in the color palette or stage that has the desired color.
 
@@ -38,14 +38,14 @@ Have Dino jump by using a `repeat` block with a `change in y` block in it that w
 
 ## Grading Scheme/Rubric
 
-| **Lab 3.1 Criteria** |   Points |
+| **Lab 3.2 Criteria** |   Points |
 | --- | --- |
 | 2.1 Goes to the top of the stage | 0.3 |
 | 2.2 Falls to the bottom of the stage | 0.3     |
 | 2.3 Stops falling when touching the ground | 0.3 |
 | 3.1 To a random x-coordinate | 0.2 |
-| 3.2 Touching the ground OR touches the platform  | 0.3  |
+| 3.2 Touching the ground OR touching the platform  | 0.3  |
 | 4.1 Jump up | 0.3 |
 | 5.1 Jump Up: Ground or Platform | 0.5 |
-| 5.2 Left and right arrow  | 0.2  |
+| 5.2 Movement using left and right arrow  | 0.2  |
 | **PROJECT TOTAL** | **2.5 points** |

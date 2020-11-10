@@ -34,10 +34,10 @@ Students will be able to...
 
 Go over all of the bugs in the Do Now program with students? (There are at least six.)
 
-  1. In order to control Alonzo's movement with the arrow keys, the if statements need to be in a forever loop; otherwise, the code block will run once and complete. Alonzo never moves!
-  2. Likewise, the code blocks checking for the `W-A-S-D keys` to move the Blue Dog need to be in a loop or they will also only check for a key press one time and complete. The Blue Dog never moves, either.
-  3. In Alonzo's code, the conditional checking for the left arrow key is inside of the conditional checking for the right arrow key, so Alonzo can never move to the left.
-  4. The `if on edge, bounce` block in Alonzo's code is inside of the conditional checking for the left arrow key, so Alonzo will run off every edge of the screen, except the left.
+  1. In order to control Alonzo's movement with the arrow keys, the if statements need to be in a forever loop; otherwise, the script will run once and complete. Alonzo never moves!
+  2. Likewise, the script checking for the `W-A-S-D keys` to move the Blue Dog need to be in a loop or they will also only check for a key press one time and complete. The Blue Dog never moves, either.
+  3. In Alonzo's script, the conditional checking for the left arrow key is inside of the conditional checking for the right arrow key, so Alonzo can never move to the left.
+  4. The `if on edge, bounce` block in Alonzo's script is inside of the conditional checking for the left arrow key, so Alonzo will run off every edge of the screen, except the left.
   5. The fifth bug is more subtle. After the bugs preventing the movement of Alonzo and the Blue Dog have been fixed, the Blue Dog says "I got you!" when touched by Alonzo. Since the Blue Dog is supposed to be running away from Alonzo, it doesn't make sense for the Blue Dog to say that when caught.
   6. The sixth bug is just good coding style. The Blue Dog has an unused `say` block in the scripting area that should be deleted.
 
@@ -87,7 +87,7 @@ Go over all of the bugs in the Do Now program with students? (There are at least
 ## Accommodation/Differentiation
 
 * Advanced students can be encouraged to implement statistics (best score, average guesses/game, number of time each secret number chosen, etc.)
-* Struggling students can be given code that completes part 1.1, and possibly also part 1.2, to get them started
+* Struggling students can be given script that completes part 1.1, and possibly also part 1.2, to get them started
 * Students who are particularly overwhelmed should focus only on parts 1.2 and 2.2
 
 ## Forum discussion

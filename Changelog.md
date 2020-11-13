@@ -1,5 +1,13 @@
 # Change Log
 
+## [2.2.0] - 2020-11-13
+
+|Unit     | Change |
+|---------|--------|
+|Lessons 4.1 - 4.3| Wording consistency, spelling updates |
+|Labs 4.2 - 4.3 | Formatting, wording consistency, Creative Common and TEALS Branding |
+|Additional Curriculum Materials | Lab Answer Keys created for Labs: 4.2, 4.3 |
+
 ## [2.1.9] - 2020-10-23
 
 |Unit     | Change |

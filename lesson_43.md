@@ -39,12 +39,12 @@ Students will be able to...
 * Provide a few examples of possible operations (say each person's name, count the number of females, add up the total number of siblings, find the average GPA, etc.)
 * Explain that traversing is how many problems involving lists are solved.
 
-#### As a group, develop sample code for a simple list traversal, such as the following
+#### As a group, develop sample script for a simple list traversal, such as the following
 
 ![Simple List Traversal](simpleListTraversal.png)
 
 * Ask leading questions to help students write each line of code, one a time, then gradually put the pieces together ("build up" approach).
-* Point out that the `say` block can be replaced by any code (including larger blocks of code for more complex operations), but that the rest of the script will typically be the same.
+* Point out that the `say` block can be replaced by any script (including larger blocks of scripting for more complex operations), but that the rest of the script will typically be the same.
 * Emphasize that the "index" variable is keeping track of where we currently are in the list, and can be used in the traversal operation if wanted, as in:
 
   ![Use index In Loop Example](useIndexInLoop.png)
@@ -53,7 +53,7 @@ Students will be able to...
 
 * Students should complete the [Guess Who](lab_43.md) activity individually or in pairs
 * Students will be performing several traversal operations, some of which simulate mapping, filtering, or reducing/folding the list.  You can discuss these operations if you feel the class can handle it.
-* Part 1.3 requires use of the "join" block—be sure that the students are comfortable using this block.
+* Part 1.3 requires use of the `join` block. Be sure that the students are comfortable using this block.
 
 ### Wrap-up
 
@@ -78,7 +78,7 @@ BJC Video Suggestion :[BJC Lecture 9: Recursion](https://www.youtube.com/watch?v
 ## Accommodations/Differentiation
 
 * Advanced students can attempt more complex filters in part 2.3 (such as finding all names that contain at least two vowels) and/or more advanced maps in part 1.3 (such as greeting each person by first initial).
-* Struggling students should focus on parts 1.2, 2.1, and select items from part 2.3.  Partial code can be provided.
+* Struggling students should focus on parts 1.2, 2.1, and select items from part 2.3.  Partial script can be provided.
 
 ## Forum discussion
 

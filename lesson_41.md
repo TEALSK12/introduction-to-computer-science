@@ -45,8 +45,8 @@ Students will be able to...
 ### Debrief
 
 * In attempting to write pseudocode, students should realize that they need variables to store the discoveries, but do not know ahead of time how many variables will be necessary.
-* Clever students may want to simply store the message in a single variable using the "join" block.  This approach can work if they choose an unambiguous delimiter (space won't work if there are multi-word sections of the message), and is effectively the same as using a list.
-* Point out that, thus far, they have not seen a way to store an arbitrary number of data values—they have needed a separate variable for each value, which must be created ahead of time.
+* Clever students may want to simply store the message in a single variable using the `join` block.  This approach can work if they choose an unambiguous delimiter (space won't work if there are multi-word sections of the message), and is effectively the same as using a list.
+* Point out that, thus far, they have not seen a way to store an arbitrary number of data values. They have needed a separate variable for each value, which must be created ahead of time.
 * Briefly introduce the concept of a list as a means of storing multiple values in a single location.  Lists in Snap! have the useful property of not having a static size, so any number of values can be added at any time.
 
 ## Accommodations/Differentiation

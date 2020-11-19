@@ -70,4 +70,5 @@ As class ends, ensure students retain their work as they will use it to construc
 
 [Lesson 6.3 - Defining Requirements](http://forums.tealsk12.org/c/intro-unit-6/lesson-6-3-defining-requirements) (TEALS Discourse account required).
 
-[Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Final%20Project%20Plan%20Organizer.docx?raw=true
+[Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Plan%20Organizer.docx?raw=true
+[Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Development%20Plan.docx?raw=true

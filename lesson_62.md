@@ -87,3 +87,6 @@ Software design is a process that takes time.   Conducting user-centered researc
 ## Forum discussion
 
 [Lesson 6.2 - Brainstorming and Evaluating](http://forums.tealsk12.org/c/intro-unit-6/lesson-6-2-brainstorming-and-evaluating) (TEALS Discourse account required).
+
+[Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Plan%20Organizer.docx?raw=true
+[Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Development%20Plan.docx?raw=true

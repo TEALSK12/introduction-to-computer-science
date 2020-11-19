@@ -32,9 +32,11 @@ Following an Agile project management flow helps ensure that the development pro
 
 ## Materials/Preparation
 
-* [Final Project Plan Organizer][] handout
-* [Final Project Development Plan][] handout
 * [Unit 6 Tips](unit_6_tips.md)
+* [Final Project Specifications][] ([docx][])([pdf][])
+* [Final Project Plan Organizer][]
+* [Final Project Development Plan][]
+* [Examples of TEALS Final Projects](https://youtu.be/aV6LFVXxd34)
 
 ## Pacing Guide
 
@@ -80,3 +82,6 @@ Following an Agile project management flow helps ensure that the development pro
 
 [Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Plan%20Organizer.docx?raw=true
 [Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Development%20Plan.docx?raw=true
+[Final Project Specifications]: project_6.md
+[docx]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Projects/Projects%20Word/Project%206%20Final%20Project.docx?raw=true
+[pdf]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Projects/Projects%20PDF/Project%206%20Final%20Project.pdf?raw=true

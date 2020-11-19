@@ -19,8 +19,11 @@ From Lessons 6.3 to 6.5 you will be doing this type of iterative and incremental
 
 ## Materials/Preparation
 
-* [Final Project Plan Organizer][] handout.
-* Optionally, students can keep a daily journal notebook.
+* [Unit 6 Tips](unit_6_tips.md)
+* [Final Project Specifications][] ([docx][])([pdf][])
+* [Final Project Plan Organizer][]
+* [Final Project Development Plan][]
+* [Examples of TEALS Final Projects](https://youtu.be/aV6LFVXxd34)
 
 ## Pacing Guide
 
@@ -70,4 +73,8 @@ As class ends, ensure students retain their work as they will use it to construc
 
 [Lesson 6.3 - Defining Requirements](http://forums.tealsk12.org/c/intro-unit-6/lesson-6-3-defining-requirements) (TEALS Discourse account required).
 
-[Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Final%20Project%20Plan%20Organizer.docx?raw=true
+[Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Plan%20Organizer.docx?raw=true
+[Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Development%20Plan.docx?raw=true
+[Final Project Specifications]: project_6.md
+[docx]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Projects/Projects%20Word/Project%206%20Final%20Project.docx?raw=true
+[pdf]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Projects/Projects%20PDF/Project%206%20Final%20Project.pdf?raw=true

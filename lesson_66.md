@@ -4,13 +4,13 @@
 
 Students will be able to...
 
-* Share their progress, invite feedback, collaboration, and if applicable, prepare a marketing pitch
-* Decide on how and with whom to promote and share their project
-* Critically evaluate the design process, their ability to work effectively, including the ability to implement project management processes
-* Identify new design issues, including how they or others might build on their concept
-* Identify and evaluate their skills, and things to learn in the future
-* Analyze the role and impact of their project idea, and similar technologies, in societal change
-* Consider how cultural beliefs, values, and ethical positions affect the development and use of technologies
+* Share their progress, invite feedback, collaboration, and if applicable, prepare a marketing pitch.
+* Decide on how and with whom to promote and share their project.
+* Critically evaluate the design process, their ability to work effectively, including the ability to implement project management processes.
+* Identify new design issues, including how they or others might build on their concept.
+* Identify and evaluate their skills, and things to learn in the future.
+* Analyze the role and impact of their project idea, and similar technologies, in societal change.
+* Consider how cultural beliefs, values, and ethical positions affect the development and use of technologies.
 
 ### Emphasize with students
 
@@ -24,6 +24,12 @@ Furthermore, it's time to reflect on the whole development process, and share wh
 Invite questions and feedback from peers and guests.  Celebrate your achievement.  Consider ideas for improvement and future work. Think about how you could do things differently using other tools/strategies. Think about how this project might be adapted for, or influenced by, another culture, social situation, or target user group.
 
 ## Materials/Preparation
+
+* [Unit 6 Tips](unit_6_tips.md)
+* [Final Project Specifications][] ([docx][])([pdf][])
+* [Final Project Plan Organizer][]
+* [Final Project Development Plan][]
+* [Examples of TEALS Final Projects](https://youtu.be/aV6LFVXxd34)
 
 ## Pacing Guide
 
@@ -72,3 +78,9 @@ Students who are shy and afraid of public speaking may be given the option of pr
 ## Forum discussion
 
 [Lesson 6.6 - Project Sharing](http://forums.tealsk12.org/c/intro-unit-6/lesson-6-6-project-sharing) (TEALS Discourse account required).
+
+[Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Plan%20Organizer.docx?raw=true
+[Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Development%20Plan.docx?raw=true
+[Final Project Specifications]: project_6.md
+[docx]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Projects/Projects%20Word/Project%206%20Final%20Project.docx?raw=true
+[pdf]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Projects/Projects%20PDF/Project%206%20Final%20Project.pdf?raw=true

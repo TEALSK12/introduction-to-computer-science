@@ -27,7 +27,7 @@ The phases of the project will be:
 
 ### Progress Tracking
 
-In phase vi, you will complete a [Final Project Plan Organizer](Final Project Plan Organizer.docx) and in phase vii you will complete a [Final Project Development Plan](Final Project Development Plan.docx).  These documents will be your guides in the development phase and will help you stay on track and aware of your progress.  Throughout the development phase of the project, you will be expected to keep your spec and plan up-to-date and make adjustments as you get ahead or behind, as requirements change, or as tasks or features get reprioritized.  At the end of each coding day, your spec and plan documents should be updated to reflect the current state of your project, and you will check in with an instructor at least once a week to make sure things are on track.  
+In phase vi, you will complete a [Final Project Plan Organizer][] and in phase vii you will complete a [Final Project Development Plan][]].  These documents will be your guides in the development phase and will help you stay on track and aware of your progress.  Throughout the development phase of the project, you will be expected to keep your spec and plan up-to-date and make adjustments as you get ahead or behind, as requirements change, or as tasks or features get prioritized.  At the end of each coding day, your spec and plan documents should be updated to reflect the current state of your project, and you will check in with an instructor at least once a week to make sure things are on track.  
 
 ### Implementation Requirements
 
@@ -84,3 +84,6 @@ At least three times during the project period, and at least once each week, you
 |Checkpoint 3 | 4 points |
 |_Total_ |_40 points_|
 |**_Total_**|**_80 points_**|
+
+[Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Plan%20Organizer.docx?raw=true
+[Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Development%20Plan.docx?raw=true

@@ -34,11 +34,11 @@ Students will be able to...
   * Get students to recognize that this process is a traversal of the people in the room.
 * Explain that the process of traversing a list looking for a particular item is known as a "sequential search."
 * Ask students to think about the efficiency of this algorithm.  Emphasize best, worst, and average cases (both what those cases are and how long they take).
-  * You need not get into specific runtimes or big-O notation, but students should have a basic understanding of the fact that the speed of the search is dependent on the size of the list.
+  * students should have a basic understanding of the fact that the speed of the search is dependent on the size of the list.
   * If students seem prepared, ask them to speculate under what circumstances you might be able to do better (eventually leading to binary search).
-* Show the code for a basic sequential search:
+* Show the script for a basic sequential search:
     ![basic sequential search](basicSequentialSearch.jpg)
-  * Point out that this code is another variation of a traversal.
+  * Point out that this script is another variation of a traversal.
   * Emphasize that this is only one variant of sequential search.  The specifics of what to report can vary (true/false, index in list, item itself, etc.).
 
 ### Activity

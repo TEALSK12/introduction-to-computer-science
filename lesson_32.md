@@ -8,7 +8,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Do Now 3.2: Boolean Practice](do_now_32.md)
+* [Do Now 3.2: Sprite Control](do_now_32.md)
 * [3.2 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.2.pptx)
 * [Lab 3.2 handout (What Goes Up...)](lab_32.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.2%20What%20Goes%20Up.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.2%20What%20Goes%20Up.pdf))
 * [Unit 3 Tips](unit_3_tips.md)

@@ -13,8 +13,6 @@ Students will be able to...
 
 #### Curriculum Competencies - Prototype, Test, and Make
 
-The term "Agile Development" is used in software development to describe an iterative and incremental project management process, involving short cycles called "sprints".   Each sprint involves defining a list of tasks, doing a set of tasks, testing, going back to review the tasks list, and refining the design as needed.  
-
 From Lessons 6.3 to 6.5 you will be doing this type of iterative and incremental work.  Lesson 6.3 does not involve any "coding" yet. You will start with sketching things down with pencil-and-paper, or with a drawing tool.  Use the handouts to help you.  You may revise some sketches later on, after you have started implementation (ie, "coding") and testing.
 
 ## Materials/Preparation

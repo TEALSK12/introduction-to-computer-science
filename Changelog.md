@@ -1,5 +1,16 @@
 # Change Log
 
+## [2.2.1] - 2020-11-25
+
+|Unit     | Change |
+|---------|--------|
+|Lesson 1.4 | Updated guidance with images to the Broadcast and Wait instructions |
+|Lab 1.4 | Update Rubric, instructions and answer key to set expectations to using `Broadcast` in the solution. |
+|Unit 6| Removed references to Agile |
+|Unit 6| Added Project specs to each lesson for consistency |
+|Lesson 6.6 | Added |
+|Additional Curriculum Materials | Lab Answer Keys created for Labs: 4.4, 4.5 |
+
 ## [2.2.0] - 2020-11-13
 
 |Unit     | Change |

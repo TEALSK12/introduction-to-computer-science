@@ -1,4 +1,4 @@
-# Do Now 3.2 Remember the coordinate system
+# Do Now 3.2 Sprite Control
 
 Open the following [Starter code](https://snap.berkeley.edu/snap/snap.html#present:Username=andrewspiece&ProjectName=Do_Now%203.2_Starter)
 

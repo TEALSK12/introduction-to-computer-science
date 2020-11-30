@@ -39,7 +39,7 @@ _In your window, the dog should look like it is walking when you press the left 
 
 3.2) Write a script to make this new sprite point away from the dragon and move when the `r` key is pressed.
 
-3.3) Modify your script so that instead of moving when the `r` key is pressed, the new sprite moves when the dragon `attacks.`  The `fleeing` sprite should move when the dragon starts breathing fire.
+3.3) Using the `Broadcast` and `When I Receive` blocks, modify your script so that instead of moving when the `r` key is pressed, the new sprite moves when the dragon `attacks.`  The `fleeing` sprite should move when the dragon starts breathing fire.
 
 3.4) Add a second sprite that runs away from the dragon as well.
 
@@ -50,6 +50,7 @@ _In your window, the dog should look like it is walking when you press the left 
 | 2.2 Dragon breathes fire | 0.25 |
 | 2.3 Dragon attacks mouse pointer correctly  | 0.75 |
 | 3.2 A sprite runs away from dragon  | 0.25  |
-| 3.3 Sprite runs away when dragon breathes fire  | 0.5 |
+| 3.3 Sprite runs away when dragon breathes fire  | 0.25 |
+| 3.3 Use of the `broadcast` and `when I receive` blocks  | 0.25 |
 | 3.4 Another sprite runs away too  | 0.25 |
 | **PROJECT TOTAL** | **2.0 points** |

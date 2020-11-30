@@ -100,31 +100,31 @@ As you create software, you will need to put yourself in the end*user's position
 
 ## Grading Scheme/Rubric
 
-| Functional Correctness (Behavior) | Value  |
+| **Functional Correctness (Behavior)** | **Points**  |
 |-- | -- |
-| Left and right arrows and space bar control hero's movement, and hero does not move through walls | 2 points  |
-| Hero is subject to gravity, and does not fall through platforms | 2 points  |
-| Game consists of three screens | 1 point   |
-| Game contains: One falling hazard (pit) One stationary enemy One moving enemy | 3 points  |
-| Player loses a life when falling down the falling hazard or touching an enemy, and hero restarts on current screen after death. | 2 points  |
-| Player starts with three lives, and game ends when player is out of lives | 2 points  |
-| Game contains two powerups, one of which is hidden and one of which is necessary to win the game | 3 points  |
-| Hero has a clear goal to win the game  | 1 point  |
-| Gameplay is clear and intuitive, even to a brand new player | 1 point   |
-| Game resets when the 'z' key is pressed  | 2 points  || Total | 19 points |
-| Technical Correctness
-(Implementation) | Value     |
-| Program is well designed visually and has a consistent theme | 2 point   |
-| Program shows good creativity and effort | 2 points  |
-| Program is well*documented and exhibits good style | 2 points  |
-| Program includes at least two variables | 2 points  |
-| Program includes at least two messages, at least one of which is received and reacted to by multiple sprites | 2 points  |
-| Program includes at least one conditional statement  | 1 point |
-| Program includes at least three custom blocks, including at least one with arguments | 4 points |
-| Custom blocks, including arguments and reporters, are used where appropriate  | 2 points  |
-| Provide valuable playtest feedback to at least two other students  | 2 points  |
-| Obtain and respond to playtest feedback from at least two other students  | 2 points  |
-| Checkpoint 1 | 2 points  |
-| Checkpoint 2 | 4 points  |
-| Total | 27 points |
-| Grand Total | 46 points |
+| Left arrow, right arrow and space bar control hero's movement. Hero does not move through walls. | 2 |
+| Hero is subject to gravity, and does not fall through platforms. | 2 |
+| Game consists of three screens. | 1 |
+| Game contains One falling hazard (pit), one stationary enemy, and one moving enemy. | 3 |
+| Player loses a life when falling down the falling hazard or touching an enemy. Hero restarts on current screen after death. | 2 |
+| Player starts with three lives and game ends when player is out of lives. | 2 |
+| Game contains two power-ups, one of which is hidden and one of which is necessary to win the game. | 3 |
+| Hero has a clear goal to win the game.  | 1 |
+| Game play is clear and intuitive, even to a brand new player. | 1 |
+| Game resets when the 'z' key is pressed. | 2 |
+| **Total** | **19** |
+| **Technical Correctness (Implementation)** | **Points** |
+| Well designed visually and has a consistent theme. | 2 |
+| Shows good creativity and effort. | 2 |
+| Well documented and exhibits good style. | 2 |
+| Includes at least two variables. | 2 |
+| Includes at least two messages, at least one of which is received and reacted to by multiple sprites. | 2 |
+| Includes at least one conditional statement. | 1 |
+| Includes at least three custom blocks, at least one with arguments. | 4 |
+| Custom blocks are used where appropriate.  | 2 |
+| Provide valuable test feedback to at least two other students.  | 2 |
+| Test feedback from at least two other students.  | 2 |
+| **Checkpoint 1** | **2**  |
+| **Checkpoint 2** | **4**  |
+| **Total** | **27** |
+| **Grand Total** | **46** |

@@ -2,7 +2,7 @@
 
 In this lab, you will follow sets of instructions to investigate how clones work.
 
-## Part 1 - All Together Now
+## Part 1: All Together Now
 
 Each of the six students in your group should follow these instructions.  Each student should then follow his or her instructions, completing each corresponding step together.  (For example, everybody should complete their step ii. at the same time.) Everyone should work on the same grid.
 
@@ -18,7 +18,7 @@ Each of the six students in your group should follow these instructions.  Each s
 
 What was the result of the group following the instructions?  Were there any difficulties you encountered?  Does it seem like the result was intended?
 
-## Part 2 - To Each His Own
+## Part 2: To Each His Own
 
 1. Give each member of the group one of the sets of instructions below.  Each student should then follow his or her instructions, completing each corresponding step together.  (For example, everybody should complete their step ii. at the same time.)  Everyone should work on the same grid.
 
@@ -108,3 +108,14 @@ Assign each member of your group a different number from 1 to 6.  Each of the si
   ![Dots](dots.PNG)
 
 Was the result of these instructions any different than in part 2?  Do you think this process was more or less effective than the process from part 2?  Why?
+
+## Grading Scheme/Rubric
+
+| **Lab 5.1 Criteria**                               |                |
+| -------------------------------------------------- | -------------- |
+| 1.1 One bouncing sprite                            | 0.5      |
+| 1.2 Sprite controlled by stage                     | 0.5      |
+| 2.1 Clones created by stage                        | 0.5      |
+| 2.3 Hide master sprite                             | 0.5      |
+| 2.4 Bonus: Sprites have different properties       | 0.5      |
+| **PROJECT TOTAL**                                  | **2.5 points** |

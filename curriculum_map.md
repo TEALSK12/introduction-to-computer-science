@@ -10,6 +10,8 @@ Materials and preparation resources can be found in each of the lesson pages.
 
 [Master Vocabulary List](master_vocab.md)
 
+[Computer Science Teachers Association Standards Mapping](CSTA_standards_mapping.md)
+
 ## Unit 0: Beginnings
 
 | Lesson | Objectives | Lab | Days |

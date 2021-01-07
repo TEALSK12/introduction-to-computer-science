@@ -56,9 +56,7 @@ Needed for this lesson:
 
 #### _Remote Instruction Guidance_
 
-Here is a great video to introduce Algorithms:
-
-  <iframe class= "markdeep" width="560" height="315" src="https://www.youtube.com/embed/ZnBF2GeAKbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Here is a great video to introduce Algorithms: [https://youtu.be/ZnBF2GeAKbo](https://youtu.be/ZnBF2GeAKbo)
 
 ### 2. Activity
 

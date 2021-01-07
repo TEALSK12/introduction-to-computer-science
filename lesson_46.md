@@ -16,6 +16,10 @@ Students will be able to...
   * Prepare two or three rounds of Spaceman to play with the class as the Do now.
 * [Project 4 - Guess My Word](project_4.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/Project%204%20Guessmyword.docx?raw=true)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Project%204%20Guessmyword.pdf))
 * Guess My Word planning worksheet: ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project_4_Guessmyword_Planning_Worksheet.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project_4_Guessmyword_Planning_Worksheet.pdf))
+* Word Lists to use for Spaceman and Guess My Word Game.
+  * Randomly Generated [Word List][]
+  * [Countries and States](Country-n-State.txt)
+
 * A word list from which words can be selected for the game, such as [Word List][]
 * [Unit 4 Tips](unit_4_tips.md)
 

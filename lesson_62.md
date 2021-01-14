@@ -35,7 +35,7 @@ When coming up with a great product idea, it is important to conduct user-center
 ## Pacing Guide
 
 | Duration  | Description                                   |
-| --------* | --------------------------------------------- |
+| --------- | --------------------------------------------- |
 | 5 minutes | Welcome, attendance, bell work, announcements |
 | 10 minutes | Review process and identify first steps |
 | 5 minutes | Brainstorming |

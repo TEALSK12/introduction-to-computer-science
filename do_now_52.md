@@ -6,8 +6,8 @@
 
 Start:
 
-![clone formation](clone_troopers_formation.png)
+![clone formation](images/clone_troopers_formation.png)
 
 End:
 
-![clone formation end](clone_troopers_formation_end.png)
+![clone formation end](images/clone_troopers_formation_end.png)

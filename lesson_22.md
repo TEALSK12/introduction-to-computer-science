@@ -45,7 +45,7 @@ Students will be able to...
 * Ask students to consider the problem of drawing two squares next to each other.
   * Work through writing a script to do this.  The likely result will duplicate the script to draw a single square:
 
-      ![twe Squares Example script](twosquares.png)
+      ![twe Squares Example script](images/two_squares.png)
 
   * Remind students to remember what they previously learned and use loops.
   * Once the script is complete, ask students if there are ways they could improve it.
@@ -65,7 +65,7 @@ Students will be able to...
 
 * Walk through rewriting the script to draw multiple squares to use nested loops:
 
-    ![Two Squares Example script](twosquaresnested.png)
+    ![Two Squares Example script](images/two_squares_nested.png)
 
   * Ask how many total times the sprite will move 50 steps.
   * The sprite will move 50 steps 8 times (4 * 2).

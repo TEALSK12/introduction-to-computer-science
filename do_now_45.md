@@ -10,4 +10,4 @@ You will need to add the "Words, sentences" library to your project to use the "
 4. Click "Import"
 The "list->sentence" block will be one of the blocks added to "Operators"
 
-    ![List Do Now](listDoNow.png)
+    ![List Do Now](images/list_do_now.png)

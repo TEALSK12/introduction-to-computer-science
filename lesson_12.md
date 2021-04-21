@@ -68,11 +68,11 @@ Students will be able to...
 * Emphasize important details in some of the blocks listed in part 2, such as:
   * The `Think Block` will leave the bubble on the stage until something else is thought.
 
-    ![Think Block](think.png)
+    ![Think Block](images/think.png)
 
 * the `Go to XY block` and `Glide block` blocks require explicit x* and y-coordinates.
 
-  ![Go to XY block](gotox-y.png) ![Glide block](glide.png)
+  ![Go to XY block](images/go_to_x_y.png) ![Glide block](images/glide.png)
 
 * Solicit a few student responses for each category in part 2.2 before commenting yourself.
 * Try to guide the students to discuss with each other and settle on a description for each category with minimal instructor intervention.

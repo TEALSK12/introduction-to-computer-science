@@ -6,12 +6,12 @@ Open the [starter Snap! project](https://snap.berkeley.edu/snap/snap.html#presen
 
 > Try enabling `Visible steps` near the middle of the top toolbar. Adjust the slider so you can see what happens as *Snap!* steps through your program.
 
-![Visual Steps UI](snap_ui_visual_steps.png)
+![Visual Steps UI](images/snap_ui_visual_steps.png)
 
 ## Instructions
 
 Using only the blocks already added on screen (not every block is needed), create a *Snap!* program that draws an equilateral triangle, like:
 
-![Angles of a triangle diagram](equilateral_triangle.png)
+![Angles of a triangle diagram](images/equilateral_triangle.png)
 
 [starter *Snap!* project]: https://snap.berkeley.edu/snap/snap.html#present:Username=andrewspiece&ProjectName=Do_Now%201.3_Starter

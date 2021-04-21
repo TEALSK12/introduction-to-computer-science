@@ -3,7 +3,7 @@
 ## Unit 0 Beginnings
 
 | Word | Definition |
-| -- | -- |
+| --- | --- |
 | Algorithm | A complete, well-defined sequence of steps for completing a task or solving a problem. |
 | Computer | An electronic machine that can solve different problems, process data, store & retrieve data and perform calculations. |
 | Computer Science | The study of the principles and use of computers. |
@@ -18,7 +18,7 @@
 ## Unit 1 Snap! Basics
 
 | Word | Definition |
-| --- | -- |
+| --- | --- |
 | Block | Puzzle-piece shapes that are used to create code in Snap!. |
 | Script | Different types of blocks linked together. |
 | Sprite | An object in Snap! which performs functions controlled by scripts. |
@@ -30,7 +30,7 @@
 ## Unit 2 Loop-de-Loop
 
 | Word | Definition |
-| -- | -- |
+| --- | --- |
 | Loop |  A type of block that causes other code to run multiple times in succession.  A control flow statement that allows code to be executed repeatedly based on a given Boolean condition. |
 | Nested Loop | A loop used inside the body of another loop. |
 | Conditional | A block used to make a choice between executing two different chunks of code."If" statements. |
@@ -57,7 +57,7 @@
 ## Unit 4 Lists
 
 | Word | Definition |
-| -- | -- |
+| --- | --- |
 | Programming List |  Called an 'array' in most programming languages, this holds lots of values. |
 | Lists Block | A block which controls a list. |
 | Operator Block | A block that performs math functions and string handling. |
@@ -72,7 +72,7 @@
 ## Unit 5 Cloning
 
 | Word | Definition |
-| -- | -- |
+| --- | --- |
 | Cloning | A feature that allows a sprite to create a clone, or semi-duplicate, of itself, while the project is running. Clones of a sprite will be the same as the original or parent sprite but as a separate instance. Clones inherit the parent's scripts, costumes, sounds, and properties, yet they can then be modified.
 | Global Variable | A variable  that can be used by all of your sprites. |
 

@@ -4,4 +4,4 @@ Follow the link to a [DoNow22](https://snap.berkeley.edu/snap/snap.html#present:
 
 Reassemble the blocks so Alonzo asks how many stairs to draw. Then have Alonzo draw stairs from the center of the stage to the upper right the number of times specified:
 
-![Alonzo drawing stairs](do_now_22.PNG)
+![Alonzo drawing stairs](images/do_now_22.PNG)

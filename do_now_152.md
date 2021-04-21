@@ -2,10 +2,10 @@
 
 Write a Snap! program where 1 sprite acts as a button and when pressed, it increases the size of another sprite. Use these blocks:
 
-![Broadcast](broadcast.png)
+![Broadcast](images/broadcast.png)
 
-![when I receive](whenIReceive.png)
+![when I receive](images/when_i_receive.png)
 
-![when I am](whenIam.PNG)
+![when I am](images/when_i_am.png)
 
-![change size by](changeSizeBy.PNG)
+![change size by](images/change_size_by.png)

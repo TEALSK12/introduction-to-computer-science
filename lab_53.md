@@ -6,7 +6,7 @@ In this lab, you will build on what you created in lab 5.2 to enable better mana
 
 1. Open up your Snap! program from [Lab 5.2](lab_52.md). Modify your program so that, when the 'd' key is pressed, all bouncing sprites are deleted. DO NOT delete the prototype-- you should be able to create new bouncing sprites .  DO NOT delete the prototype-- you should be able to create new bouncing sprites after you have removed the old clones.  Use the `delete this clone` block block and a message.
 
-    ![delete this clone block](deleteThisClone.png)
+    ![delete this clone block](images/delete_this_clone.png)
 
 2. What if you wanted to remove only a few clones?  Or only specific clones?  What would be needed in order to accomplish that?
 

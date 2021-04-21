@@ -4,4 +4,4 @@
 
 2. Use the following block to pick a random quote of the day:
 
-   ![item](item.png)
+   ![item](images/item.png)

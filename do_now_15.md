@@ -4,8 +4,8 @@ Open Snap and write a Snap! program where 1 sprite is telling another a "knock, 
 
 Use these blocks:
 
-![Broadcast](broadcast.png)
+![Broadcast](images/broadcast.png)
 
-![when I receive](whenIReceive.png)
+![when I receive](images/when_i_receive.png)
 
 Save your project as DoNow15.

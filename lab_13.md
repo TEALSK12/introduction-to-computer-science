@@ -7,7 +7,7 @@ In this lab, you will write your first Snap! programs to draw some simple shapes
 
 1. Modify your *Snap!* program so that a triangle is drawn when the number 1 is pressed on the keyboard.
 
-    ![Angles of a triangle diagram](equilateral_triangle.png)
+    ![Angles of a triangle diagram](images/equilateral_triangle.png)
 
 2. Modify your script so that the sprite says the word "triangle" while it draws. The sprite should stop saying "triangle" once it has finished drawing.
 

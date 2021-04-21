@@ -17,7 +17,7 @@ Using the [template](https://snap.berkeley.edu/snap/snap.html#present:Username=a
 
 Here is an example with 8 coordinates:
 
-<img width="500" src="SnapCoordinateExample.png" />
+![Snap coordinate example](images/snap_coordinate_example.png)
 
 ## Grading Scheme/Rubric
 

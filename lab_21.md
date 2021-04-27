@@ -6,7 +6,7 @@ In this lab, you will rewrite your Snap! programs from Lab 1.3 to draw shapes us
 
 1. Open your solution to the original "Squares and Triangles and Stars, Oh My!" activity.  Go to the "File" menu and select "Save as..." to give your project a new name.
 
-    ![Save as](save%20as.png)
+    ![Save as](images/save_as.png)
 
 ## Part 2: Simplifying your scripting
 

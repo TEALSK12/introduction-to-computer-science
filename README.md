@@ -66,7 +66,7 @@ Download a local copy of Snap! as a backup:
 2. Click on the Snap! logo in the upper-left of the app.
 3. Choose “Download source” from the menu
 
-    ![Snap! download](snapdownload.PNG)
+    ![Snap! download](images/snap_download.png)
 
 4. Save snap.zip locally on your computer.
 5. Extract snap.zip.

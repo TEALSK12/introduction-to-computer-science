@@ -37,7 +37,7 @@ Students will be able to...
 * If you feel students can handle it, you can further classify various traversals (maps, filters, folds).
   * If necessary, provide the basic script pattern for a traversal again:
 
-    ![simple list traversal](simpleListTraversal.png)
+    ![simple list traversal](images/simple_list_traversal.png)
 
 ### Activity
 

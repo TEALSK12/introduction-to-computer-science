@@ -37,7 +37,7 @@ Students will be able to...
   * students should have a basic understanding of the fact that the speed of the search is dependent on the size of the list.
   * If students seem prepared, ask them to speculate under what circumstances you might be able to do better (eventually leading to binary search).
 * Show the script for a basic sequential search:
-    ![basic sequential search](basicSequentialSearch.jpg)
+    ![basic sequential search](images/basic_sequential_search.jpg)
   * Point out that this script is another variation of a traversal.
   * Emphasize that this is only one variant of sequential search.  The specifics of what to report can vary (true/false, index in list, item itself, etc.).
 

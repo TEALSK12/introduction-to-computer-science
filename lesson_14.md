@@ -47,39 +47,39 @@ _Note: The [Lesson 1.4](https://snap.berkeley.edu/snap/snap.html#present:Usernam
 
 2. Demonstrate how to use the `next costume` and `switch to costume` blocks to change the appearance of a sprite.
 
-    ![Next Costume](next_costume.png)
+    ![Next Costume](images/next_costume.png)
 
-    ![Switch Costume](switch_costume.png)
+    ![Switch Costume](images/switch_costume.png)
 
     * Emphasize that costumes will cycle and that switching to the costume a sprite is already "wearing" is OK.
     * Combine costume switching with movement and other actions to show that blocks of different categories can be combined in the same script.
 
 3. Introduce the `broadcast` and `when I receive` blocks and show how they can be used to coordinate action between sprites
 
-    ![broadcast Block](broadcast.png)
+    ![broadcast Block](images/broadcast.png)
 
-    ![When I receive](whenIReceive.png)
+    ![When I receive](images/when_i_receive.png)
 
     * Point out that all sprites "hear" a broadcast and any sprite with a corresponding `when I receive` block will react.
     * Discuss the difference between `broadcast` and `broadcast and wait` blocks and ask students to come up with ideas for when each would be useful.
 
-      ![broadcast and wait](broadcast_and_wait.png)
+      ![broadcast and wait](images/broadcast_and_wait.png)
 
 4. It's worthwhile to introduce the rotate buttons located at the top left of the Snap! interface. These buttons allow you to Snap your rotation, allowing you to lock rotation, allow free rotation, or allow only left/right rotation.
 
-    ![rotate buttons](rotateButton.PNG)
+    ![rotate buttons](images/rotate_button.png)
 
 #### Adding more Sprites
 
 1. Introduce students to adding more sprites to their script using the `add a new turtle sprite` button.
 
-    ![add_a_new_sprite](add_a_new_sprite.PNG)
+    ![add_a_new_sprite](images/add_a_new_sprite.png)
 
 2. When clicked, the students will notice a new sprite is created with a different color.
 
 3. Have them select the new sprite, then click on `file` > `costumes` > Import > Have them select Alonzo.
 
-    ![Alonzo](alonzo.svg)
+    ![Alonzo](images/alonzo.svg)
 
 4. Show them how they can now write a script for this second sprite that is only for that Sprite.
 

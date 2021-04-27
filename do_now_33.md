@@ -6,7 +6,7 @@ Follow [link to a project with a dog](http://snap.berkeley.edu/snapsource/snap.h
 
 2. Add the code below to the forever block to make the dog "jump". What is the problem with this jump code when you test it? How should jump work when the player presses the spacebar?
 
-    ![Key Press jump](keypressjump.png)
+    ![Key Press jump](images/key_press_jump.png)
 
 3. Program gravity by making a custom Motion block "gravity" and adding it inside the forever loop. In the "gravity" custom block use an if statement to implement gravity. Hint: If not touching ground or platform color, go down by a small amount.
 

@@ -14,7 +14,7 @@ Each of the six students in your group should follow these instructions.  Each s
 6. Draw a line to the dot to the right.
 7. Lift your pen.
 
-   ![Dots](dots.PNG)
+   ![Dots](images/dots.png)
 
 What was the result of the group following the instructions?  Were there any difficulties you encountered?  Does it seem like the result was intended?
 
@@ -82,7 +82,7 @@ What was the result of the group following the instructions?  Were there any dif
 6. Draw a line to the dot to the right.
 7. Lift your pen.
 
-    ![Dots](dots.PNG)
+    ![Dots](images/dots.png)
 
 What was the result of following the instructions?  Does this seem like the most efficient way to achieve this goal?  What would happen if the shape needed to be changed?  What problems could that cause?
 
@@ -105,7 +105,7 @@ Assign each member of your group a different number from 1 to 6.  Each of the si
 11. Draw a line to the dot to the right.
 12. Lift your pen.
 
-  ![Dots](dots.PNG)
+  ![Dots](images/dots.png)
 
 Was the result of these instructions any different than in part 2?  Do you think this process was more or less effective than the process from part 2?  Why?
 

@@ -34,7 +34,7 @@ Students will be able to...
     -   Discuss and review areas in which a number of students are having trouble (or are expected to have trouble) with the current project
         -   Using previous days exit tickets, questions from students, instructor awareness of trouble points in the project, and/or any other resources to determine what needs covering
         -   Avoid lecturing or directly giving solutions; instead, present the problem and ask leading questions to help guide students to the solution
-            -   e.g. (from [Project 1](project_1.md): "It looks like a lot of us are having difficulty making all our sprites move at the same time that the words change.  Is there something we learned about that can trigger scripts in a bunch of sprites all at once?"
+            -   e.g. (from [Project 1](unit_1/project_1.md): "It looks like a lot of us are having difficulty making all our sprites move at the same time that the words change.  Is there something we learned about that can trigger scripts in a bunch of sprites all at once?"
         -   If some students appear to be further along, utilize them to help explain the tricky concepts to their classmates
     -   Use this time as an opportunity to remind students of upcoming checkpoints, recent labs or activities that may be applicable to the project, and/or how far along they should be by the end of the day
 

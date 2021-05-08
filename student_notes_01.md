@@ -1,1 +1,0 @@
-# Student notes: The First Day

@@ -10,12 +10,12 @@ Materials and preparation resources can be found in each of the lesson pages.
 
 [Master Vocabulary List](master_vocab.md)
 
-[Computer Science Teachers Association Standards Mapping](CSTA_standards_mapping.md)
+[Computer Science Teachers Association Standards Mapping](csta_standards_mapping.md)
 
 ## Unit 0: Beginnings
 
 | Lesson | Objectives | Lab | Days |
-| ------ | ---------- | --- | -- |
+| ------ | ---------- | --- | --- |
 | [0.1: The First Day of School][] | Identify the class they are taking. List the high-level goals of the course. Describe classroom procedures, rules, and norms. | Syllabus |  1 |
 | [0.2: Algorithms][] | Define **algorithm.** Construct algorithms for performing simple tasks. | Peanut Butter Jelly | 1 |
 | [0.3: Programming Languages][] | Complete small coding tasks (Hour of Code). Explain why computer programs are written in specialized languages. | Hour of Code | 1 |
@@ -88,44 +88,44 @@ Materials and preparation resources can be found in each of the lesson pages.
 | [6.5: Project Implementation][] | Apply the skills developed throughout the course to implement a medium* to large-scale software project. Realistically evaluate progress during software development and identify when cuts are necessary. Prioritize features and scenarios and choose which should be eliminated or modified if/when resources and/or time become limited. Record time taken for tasks, and lessons learned in the process, to help refine estimates. Record iterations of prototyping.  | Final Project | 10 |
 | [6.6: Project Sharing][] | Share their progress, invite feedback, collaboration, and if applicable, prepare a marketing pitch. Decide on how and with whom to promote and share their project. Critically evaluate the design process, their ability to work effectively, including the ability to implement project management processes. Identify new design issues, including how they or others might build on their concept. Identify and evaluate their skills, and things to learn in the future. Analyze the role and impact of their project idea, and similar technologies, in societal change. Consider how cultural beliefs, values, and ethical positions affect the development and use of technologies.  | Final Project | 1 |
 
-[0.1: The First Day of School]:lesson_01.md
-[0.2: Algorithms]:lesson_02.md
-[0.3: Programming Languages]:lesson_03.md
-[0.4: Snap! Self-Portrait]:lesson_04.md
-[0.5: Snap! Coordinate System]:lesson_05.md
-[1.1: Welcome to Snap!]:lesson_11.md
-[1.2: Building Blocks]:lesson_12.md
-[1.3: Drawing Shapes]:lesson_13.md
-[1.4: Animation]:lesson_14.md
-[1.5: Storytelling Project]:lesson_15.md
-[Culture Day Lesson A: Video/Reading]:culture_day_lesson_a.md
-[2.1: Loops]:lesson_21.md
-[2.2: Nested Loops]:lesson_22.md
-[2.3: Inputs and Conditionals]:lesson_23.md
-[2.4: Variables]:lesson_24.md
-[2.5: Boole in the House]:lesson_25.md
-[2.6: Pong Project]:lesson_26.md
-[Culture Day Lesson B: Student Research Project/Presentation]:culture_day_lesson_b.md
-[3.1: Abstraction and Generalization]:lesson_31.md
-[3.2: Combining Loops and Conditionals]:lesson_32.md
-[3.3: Customization I: Arguments]:lesson_33.md
-[3.4: Customization II: Reporters and Predicates]:lesson_34.md
-[3.5: Platform Game Project]:lesson_35.md
-[Culture Day Lesson C: My Skills and Interests Journal]:culture_day_lesson_c.md
-[4.1: Intro to Lists]:lesson_41.md
-[4.2: Static Lists]:lesson_42.md
-[4.3: List Practice I]:lesson_43.md
-[4.4: List Practice II]:lesson_44.md
-[4.5: Sequential Search]:lesson_45.md
-[4.6: Guess My Word Project]:lesson_46.md
-[Culture Day Lesson D: Interview with People in Technology]:culture_day_lesson_d.md
-[5.1: Intro to Cloning]:lesson_51.md
-[5.2: Cloning Sprites]:lesson_52.md
-[5.3: Communicating with Clones]:lesson_53.md
-[5.4: Space Invaders Project]:lesson_54.md
-[6.1: Design Basics]:lesson_61.md
-[6.2: Research and Ideate]:lesson_62.md
-[6.3: Defining Requirements]:lesson_63.md
-[6.4: Building a Plan]:lesson_64.md
-[6.5: Project Implementation]:lesson_65.md
-[6.6: Project Sharing]:lesson_66.md
+[0.1: The First Day of School]:unit_0/lesson_01.md
+[0.2: Algorithms]:unit_0/lesson_02.md
+[0.3: Programming Languages]:unit_0/lesson_03.md
+[0.4: Snap! Self-Portrait]:unit_0/lesson_04.md
+[0.5: Snap! Coordinate System]:unit_0/lesson_05.md
+[1.1: Welcome to Snap!]:unit_1/lesson_11.md
+[1.2: Building Blocks]:unit_1/lesson_12.md
+[1.3: Drawing Shapes]:unit_1/lesson_13.md
+[1.4: Animation]:unit_1/lesson_14.md
+[1.5: Storytelling Project]:unit_1/lesson_15.md
+[Culture Day Lesson A: Video/Reading]:unit_1/culture_day_lesson_a.md
+[2.1: Loops]:unit_2/lesson_21.md
+[2.2: Nested Loops]:unit_2/lesson_22.md
+[2.3: Inputs and Conditionals]:unit_2/lesson_23.md
+[2.4: Variables]:unit_2/lesson_24.md
+[2.5: Boole in the House]:unit_2/lesson_25.md
+[2.6: Pong Project]:unit_2/lesson_26.md
+[Culture Day Lesson B: Student Research Project/Presentation]:unit_2/culture_day_lesson_b.md
+[3.1: Abstraction and Generalization]:unit_3/lesson_31.md
+[3.2: Combining Loops and Conditionals]:unit_3/lesson_32.md
+[3.3: Customization I: Arguments]:unit_3/lesson_33.md
+[3.4: Customization II: Reporters and Predicates]:unit_3/lesson_34.md
+[3.5: Platform Game Project]:unit_3/lesson_35.md
+[Culture Day Lesson C: My Skills and Interests Journal]:unit_3/culture_day_lesson_c.md
+[4.1: Intro to Lists]:unit_4/lesson_41.md
+[4.2: Static Lists]:unit_4/lesson_42.md
+[4.3: List Practice I]:unit_4/lesson_43.md
+[4.4: List Practice II]:unit_4/lesson_44.md
+[4.5: Sequential Search]:unit_4/lesson_45.md
+[4.6: Guess My Word Project]:unit_4/lesson_46.md
+[Culture Day Lesson D: Interview with People in Technology]:unit_4/culture_day_lesson_d.md
+[5.1: Intro to Cloning]:unit_5/lesson_51.md
+[5.2: Cloning Sprites]:unit_5/lesson_52.md
+[5.3: Communicating with Clones]:unit_5/lesson_53.md
+[5.4: Space Invaders Project]:unit_5/lesson_54.md
+[6.1: Design Basics]:unit_6/lesson_61.md
+[6.2: Research and Ideate]:unit_6/lesson_62.md
+[6.3: Defining Requirements]:unit_6/lesson_63.md
+[6.4: Building a Plan]:unit_6/lesson_64.md
+[6.5: Project Implementation]:unit_6/lesson_65.md
+[6.6: Project Sharing]:unit_6/lesson_66.md

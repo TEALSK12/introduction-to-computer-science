@@ -4,7 +4,7 @@ echo %time%
 robocopy /E .\ .\docs /XD %CD%\docs
 cd .\docs
 
-set sed="C:\Program Files\Git\usr\bin\sed.exe"
+set sed="C:\Program Files (x86)\GnuWin32\bin\sed"
 
 @REM -- Convert files at the root of the repo.
 for %%f in (*.md) do (

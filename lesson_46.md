@@ -1,29 +1,29 @@
-# Lesson 4.6: Guess My Word Project
+# Lesson 4.6: Guess my word project
 
-## Learning Objectives
+## Learning objectives
 
 Students will be able to...
 
-* Apply lists to implement a complete version of _Guess My Word_.
+* Apply lists to implement a complete version of _Guess my word_.
 * Exercise good programming practices to produce code that is not only functional but also elegant and well-written.
 
-## Materials/Preparation
+## Materials/preparation
 
 * [Do Now 4.6: Spaceman](do_now_46.md)
   * Download [Spaceman Template](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/spaceman.pptx)
-  * [Spaceman Instructions](https://tekhnologic.wordpress.com/2017/03/01/spaceman-an-alternative-to-hangman/)
-  * Watch Spaceman [Template Tutorial](https://videopress.com/v/Fk5cYswc)
+  * [Spaceman instructions](https://tekhnologic.wordpress.com/2017/03/01/spaceman-an-alternative-to-hangman/)
+  * Watch Spaceman [Template tutorial](https://videopress.com/v/Fk5cYswc)
   * Prepare two or three rounds of Spaceman to play with the class as the Do now.
-* [Project 4 - Guess My Word](project_4.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/Project%204%20Guessmyword.docx?raw=true)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Project%204%20Guessmyword.pdf))
-* Guess My Word planning worksheet: ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project_4_Guessmyword_Planning_Worksheet.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project_4_Guessmyword_Planning_Worksheet.pdf))
+* [Project 4 - Guess my word](project_4.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/Project%204%20Guessmyword.docx?raw=true)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Project%204%20Guessmyword.pdf))
+* Guess my word planning worksheet: ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project_4_Guessmyword_Planning_Worksheet.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project_4_Guessmyword_Planning_Worksheet.pdf))
 * Word Lists to use for Spaceman and Guess My Word Game.
-  * Randomly Generated [Word List][]
-  * [Countries and States](Country-n-State.txt)
+  * Randomly generated [Word list][]
+  * [Countries and states](Country-n-State.txt)
 
-* A word list from which words can be selected for the game, such as [Word List][]
-* [Unit 4 Tips](unit_4_tips.md)
+* A word list from which words can be selected for the game, such as [Word list][]
+* [Unit 4 tips](unit_4_tips.md)
 
-## Pacing Guide
+## Pacing guide
 
 | Duration   | Description                                   |
 | ---------- | --------------------------------------------- |
@@ -31,9 +31,9 @@ Students will be able to...
 | 15 minutes | Review and introduce project                  |
 | As needed  | Lab time for Guess My Word project            |
 
-## Instructor's Notes
+## Instructor's notes
 
-### Review/Introduction
+### Review/introduction
 
 * Review the various skills and concepts have been learned so far in the unit. Consider using some of the tools you learned about in Summer Training. (Kahoot, Quizziz, Socrative, Plickers).
   * Put particular emphasis on the maintenance of lists and traversals.
@@ -50,7 +50,7 @@ Students will be able to...
 * If most students have the ability to work at home, you can consider reducing the amount of in-class time provided and requiring students to spend time working at home.
 * Provide a means for students to ask questions throughout the project and provide assistance as needed.
 
-## Accommodations/Differentiation
+## Accommodations/differentiation
 
 * If any students do not have the ability to work at home, ensure enough in-class time is provided to complete the assignment, offering extensions if necessary.
 * Advanced students can be encouraged to add extensions such as:
@@ -61,8 +61,4 @@ Students will be able to...
   * Though it is the most difficult part of the assignment, tracking the "blanks" is the best practice working with lists and should be preserved.  
   * The requirements to display a graphical figure, track repeated guesses, and specifically recognize a win can be removed for students in need of significant simplification.
 
-## Forum discussion
-
-[Lesson 4.6: Guess My Word Project](http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-6-hangman-project) (TEALS Discourse account required).
-
-[Word List]: wordlist.txt
+[Word list]: wordlist.txt

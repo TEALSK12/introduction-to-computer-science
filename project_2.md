@@ -18,11 +18,11 @@ Pong is played by two players each controlling a paddle with the goal of defendi
 
 If the ball touches the left or right edge of the field, a point is scored for the opponent of the player who was defending that edge and the ball resets to the middle of the field.  When one player reaches 5 points, the game is over and that player is the winner.  The winner is announced on the screen and the players are given the opportunity to start a new game.
 
-#### Player Control
+#### Player control
 
 Paddles are positioned a short distance away from the side they are defending, and can only move up and down, not side to side.  Each player should have two keys to control the movement of their paddle: one for up, and one for down.  Paddles move at a set speed that is the same for both players can cannot be controlled.  The player on the left will control his/her paddle with the 'w' and 's' keys.  The player on the right will use the up arrow and down arrow keys.
 
-### Required Checkpoints
+### Required checkpoints
 
 #### Checkpoint 1
 
@@ -36,13 +36,13 @@ The ball speeds up when it hits a paddle, and resets to the middle when it hits 
 
 A point is scored when the ball hits the edge on the opponent's side of the field; the game ends when one player reaches five points; players can start a new game after the game ends
 
-## Planning Worksheet
+## Planning worksheet
 
-Part of the design process is planning.  The "Pong Planning Worksheet" is an example of how to plan.  Fill out the planning worksheet first before writing any code.
+Part of the design process is planning.  The Pong planning worksheet is an example of how to plan.  Fill out the planning worksheet first before writing any code.
 
-## Grading Scheme/Rubric
+## Grading scheme/rubric
 
-| Functional Correctness (Behavior)                                                    |           |
+| Functional correctness (behavior)                                                    |           |
 | ------------------------------------------------------------------------------------ | --------- |
 | Players can control paddles with required keys                                       | 2 points  |
 | Ball begins play at middle of field at start of game and after each point            | 3 points  |
@@ -53,7 +53,7 @@ Part of the design process is planning.  The "Pong Planning Worksheet" is an exa
 | Winning player is shown when game ends                                               | 1 point   |
 | Players can begin a new game                                                         | 1 point   |
 | **SubTotal**                                                                                | 19 points |
-| **Technical Correctness** (Implementation)                                               |           |
+| **Technical correctness** (implementation)                                               |           |
 | Gameplay is smooth, polished, and intuitive                                          | 3 points  |
 | Program shows good creativity and effort                                             | 2 points  |
 | Program is well-documented and exhibits good style                                   | 2 points  |

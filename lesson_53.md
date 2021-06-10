@@ -59,6 +59,3 @@ Students will be able to...
 * Advanced students can also try to implement features giving them additional control over clones, such as changing a specific clone's speed or direction.
 * Struggling students can ignore the requirement to be able to create new sprites after some have been deleted and just focus on deleting clones one at a time.
 
-## Forum discussion
-
-[Lesson 5.3: Communicating with Clones](http://forums.tealsk12.org/c/intro-unit-5-cloning/lesson-5-3-communicating-with-cloneslesson-5-3-c) (TEALS Discourse account required).

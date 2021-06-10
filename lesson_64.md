@@ -73,12 +73,6 @@ Following a project management flow helps ensure that the development process is
 * As class ends, remind students that their spec and implementation plan will be their guides throughout the process.  They should update them each day and keep them with them at all times.
 * Ideally, anytime there is a question about the requirements or scope of the project, the spec should have the answer.  If not, it's a new idea and the spec needs to be updated accordingly.
 
-## Accommodation/Differentiation
-
-## Forum discussion
-
-[Lesson 6.4 - Building a Plan](http://forums.tealsk12.org/c/intro-unit-6/lesson-6-4-building-a-plan) (TEALS Discourse account required).
-
 [Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Plan%20Organizer.docx?raw=true
 [Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Development%20Plan.docx?raw=true
 [Final Project Specifications]: project_6.md

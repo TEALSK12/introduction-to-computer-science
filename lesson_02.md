@@ -168,6 +168,3 @@ BJC Video Suggestion: [BJC Lecture 7: Algorithm Complexity](https://www.youtube.
 * In the "debugging" round, some students may go overboard with the level of detail in an attempt to resolve all possible ambiguities.  Remind these students that there are some basic instructions that can be easily understood by most people, and there is no need to go into further detail in those cases.
 * If you feel students can handle the discussion, you can draw a parallel to machine code here.
 
-## Forum discussion
-
-[Lesson 0.2 Algorithms](http://forums.tealsk12.org/c/unit-0-beginnings/lesson-0-2-algorithms) (TEALS Discourse account required).

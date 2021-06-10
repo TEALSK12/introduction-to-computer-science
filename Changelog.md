@@ -1,5 +1,14 @@
 # Change Log
 
+## [2.2.2] - 2021-6-10
+
+|Unit     | Change |
+|---------|--------|
+| All lessons| removed reference to TEALS forum |
+| Images | naming convention consistency aligned |
+| Curriculum Map | CSTA standards alignment added |
+| Curriculum Map | Master word list added |
+
 ## [2.2.1] - 2020-11-25
 
 |Unit     | Change |

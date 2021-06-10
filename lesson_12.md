@@ -86,6 +86,3 @@ Students will be able to...
 * Students that are struggling with the lab can be paired up and/or receive individual instructor attention to help them through the activity. Use you could also use [Helping Trios](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf).
 * The bonus assignment (3.4) should be used for students who finish quickly, and can be a setup for the [Animation Project](project_1.md).
 
-## Forum discussion
-
-[Lesson 1.2 Building Blocks](http://forums.tealsk12.org/c/unit-1-snap-basics/lesson-1-2-building-blocks) (TEALS Discourse account required).

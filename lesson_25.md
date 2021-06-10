@@ -101,6 +101,3 @@ Students will be able to...
 * Advanced students, especially those who have taken higher levels of math, can be encouraged to add additional functionality, such as using [Heron's formula](https://en.wikipedia.org/wiki/Heron%27s_formula) to calculate the triangles area or using trigonometry to attempt to draw the triangle.
 * Drawing the triangle is very challenging.
 
-## Forum discussion
-
-[Lesson 2.5 Boole in the House](http://forums.tealsk12.org/c/intro-unit-2-loops/lesson-2-5-boole-in-the-house) (TEALS Discourse account required).

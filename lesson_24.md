@@ -90,6 +90,3 @@ Go over all of the bugs in the Do Now program with students? (There are at least
 * Struggling students can be given script that completes part 1.1, and possibly also part 1.2, to get them started
 * Students who are particularly overwhelmed should focus only on parts 1.2 and 2.2
 
-## Forum discussion
-
-[Lesson 2.4 Variables](http://forums.tealsk12.org/c/intro-unit-2-loops/lesson-2-4-variables) (TEALS Discourse account required).

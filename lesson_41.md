@@ -54,6 +54,3 @@ Students will be able to...
 * As in the PB&J activity, discourage stronger students from dominating the conversation and instead ask them to take on a leadership role and help other group members find issues.
 * Struggling students can be given permission to use a higher level of abstraction, ignoring certain details that other students will attend to.
 
-## Forum discussion
-
-[Lesson 4.1: Intro to Lists](http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-1-intro-to-lists) (TEALS Discourse account required).

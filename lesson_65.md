@@ -64,12 +64,6 @@ From Lessons 6.3 to 6.5 you will be practicing an iterative and incremental proj
 * Any student who indicates they are behind should get a consult with an instructor the next day to help get them back on track.
 * Encourage students to save each day's version of their planning documents with a new name (possibly using the suffix "_mmdd") so they can track progress and recover cut tasks if they make up time.
 
-## Accommodation/Differentiation
-
-## Forum discussion
-
-[Lesson 6.5 - Project Implementation](http://forums.tealsk12.org/c/intro-unit-6/lesson-6-5-project-implementation) (TEALS Discourse account required).
-
 [Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Plan%20Organizer.docx?raw=true
 [Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Development%20Plan.docx?raw=true
 [Final Project Specifications]: project_6.md

@@ -69,6 +69,3 @@ Students will be able to...
 * Other grammar examples, including arithmetic expressions (which are a good simple substitute) can be found [here](https://www.cs.rochester.edu/~nelson/courses/csc_173/grammars/cfg.html).
 * You can also provide a grammar supplement with example sentences (example from ([Woodward English](https://www.woodwardenglish.com/wp-content/uploads/2018/01/parts-of-speech-english.jpg))
 
-## Forum discussion
-
-[Lesson 4.2: Static Lists](http://forums.tealsk12.org/c/intro-unit-4-lists/lesson-4-2-static-lists) (TEALS Discourse account required).

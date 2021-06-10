@@ -87,6 +87,3 @@ The origin (0,0) is the exact center of the grid.
 * Challenge students who understand this challenge them to draw more complex figures and allow them to explore other blocks that may be useful to do this faster. (i.e Repeat Blocks, etc).
 * Students will have different levels of prior knowledge on this topic. The objective of this lesson is to level set students to ensure they all have an understanding of coordinates. There may be students seeing coordinates for the first time that may need more 1 on 1 support to move through this lesson.
 
-## Forum discussion
-
-[Lesson 0.5 Snap! Coordinate System](http://forums.tealsk12.org/c/unit-0-beginnings/Snap-Coordinate-System) (TEALS Discourse account required).</a>

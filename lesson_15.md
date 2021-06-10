@@ -80,6 +80,3 @@ Students will be able to...
 * For ELL students or students from other cultures, offer the opportunity to choose an animation subject familiar to them rather than requiring a traditional English nursery rhyme or play.
 * If necessary, a non-English language can be ``used for this assignment without affecting the learning objectives.  Discuss this option with the student's ELL specialist to determine if it is appropriate.
 
-## Forum discussion
-
-[Lesson 1.5 Storytelling Project](http://forums.tealsk12.org/c/unit-1-snap-basics/lesson-1-5-storytelling-project) (TEALS Discourse account required).

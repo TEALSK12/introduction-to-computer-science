@@ -75,10 +75,6 @@ Peer feedback is valuable.  It helps us grow.  This can be done by having a few 
 
 Students who are shy and afraid of public speaking may be given the option of preparing a "walk-through" video to show-case their project experience.
 
-## Forum discussion
-
-[Lesson 6.6 - Project Sharing](http://forums.tealsk12.org/c/intro-unit-6/lesson-6-6-project-sharing) (TEALS Discourse account required).
-
 [Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Plan%20Organizer.docx?raw=true
 [Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Development%20Plan.docx?raw=true
 [Final Project Specifications]: project_6.md

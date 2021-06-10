@@ -86,6 +86,3 @@ Students will be able to...
   * If students need more scaffolding, they can be pointed to an online resource such as <http://www.mathsisfun.com/geometry/interior-angles-polygons.html>
   * If most students are not equipped to figure out the angles on their own, provide diagrams like the one of a triangle in part 1.1 to assist.
 
-## Forum discussion
-
-[Lesson 1.3 Drawing Shapes](http://forums.tealsk12.org/c/unit-1-snap-basics/lesson-1-3-drawing-shapes) (TEALS Discourse account required)

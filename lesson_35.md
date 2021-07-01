@@ -1,6 +1,6 @@
 # Lesson 3.5: Platform game project
 
-## Learning bbjectives
+## Learning Objectives
 
 Students will be able to...
 

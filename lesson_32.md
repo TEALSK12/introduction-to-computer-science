@@ -73,7 +73,3 @@ Students will be able to...
 * Ask the more advanced students to assist struggling students. It is vital that all students complete this lab in advance of starting the project.
 * Advanced students can consider increasing the realism of their gravity model by adding acceleration and/or beginning to implement jumping.
 
-## Forum discussion
-
-[Lesson 3.2 Combining Loops and Conditionals](https://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-2-abstraction-and-generalization/143)
- (TEALS Discourse account required).

@@ -92,5 +92,3 @@ Students will be able to...
 * In some school's the first day of schools is an altered or shortened schedule.  
 * Find this out ahead of time and plan for however much time you have available.
 * If necessary, split these topics across multiple days.
-
-## Forum discussion

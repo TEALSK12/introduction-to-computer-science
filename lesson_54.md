@@ -69,6 +69,3 @@ Students will be able to...
 * Struggling students can be exempted from certain features (such as levels or invader firing) or given starter code.
 * If students need significant assistance, focus them on the invaders.  Getting a set of invaders created and moving properly will best target the vital objectives from this unit-- namely cloning.
 
-## Forum discussion
-
-[Lesson 5.4: Space Invaders Project](http://forums.tealsk12.org/c/intro-unit-5-cloning/lesson-5-4-space-invaders-project) (TEALS Discourse account required).

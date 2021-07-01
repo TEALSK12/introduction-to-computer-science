@@ -97,8 +97,4 @@ BJC Video Suggestion: [BJC Lecture 4: Functions](http://www.youtube.com/watch?v=
 * One simple option is to have volunteering students share their projects with you, and then show each one in turn on the teacher computer/projector.
 * Have a plan for collecting or accumulating the students' programs, which you can then use to get to know your class!
 
-## Forum discussion
-
-[Lesson 0.4 Snap! Self Portrait](http://forums.tealsk12.org/c/unit-0-beginnings/lesson-0-4-snap-self-portrait) (TEALS Discourse account required).</a>
-
 `This Lesson was designed by J-Mag Guthrie, TEALS Volunteer, Texas`

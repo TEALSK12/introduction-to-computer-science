@@ -67,7 +67,3 @@ Show students a brief video demonstrating space invaders.
 
 * Advanced students can attempt to assign properties to clones (color, size, etc.) so that not all clones look alike.  To do this, they will need to use a global variable to temporary hold the value that can be "claimed" by the clone.
 * Struggling students should focus on just creating a single clone from the prototype and not worry about creating multiple clones.
-
-## Forum discussion
-
-[Lesson 5.2: Cloning Sprites](http://forums.tealsk12.org/c/intro-unit-5-cloning/lesson-5-2-cloning-sprites) (TEALS Discourse account required).

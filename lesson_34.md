@@ -70,6 +70,3 @@ Students will be able to...
 * Students who struggle in math may not be familiar with the distance formula used in part 2.1.  Help students to translate the math into a Snap! script, but understanding the formula and its applications is not necessary for the activity.
 * If most students are not equipped to handle this math, a simpler computation, such as area of a triangle or average of three numbers, can be substituted.
 
-## Forum discussion
-
-[Lesson 3.4: Customization II: Reporters and Predicates](http://forums.tealsk12.org/c/intro-unit-3-variables-and-customization/lesson-3-4-customization-ii) (TEALS Discourse account required).

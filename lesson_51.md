@@ -60,9 +60,3 @@ Students will be able to...
 * Example of Recursion: Counting Change 13:20-17:30
 * Call Tree for “Counting Change” with Snap! example 17:35-22:50
 * Summary of Recursion 25:40-26:21
-
-## Accommodations/Differentiation
-
-## Forum discussion
-
-[Lesson 5.1: Intro to Cloning](http://forums.tealsk12.org/c/intro-unit-5-cloning/lesson-5-1-intro-to-cloning) (TEALS Discourse account required).

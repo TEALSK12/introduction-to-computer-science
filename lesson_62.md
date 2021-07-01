@@ -88,10 +88,6 @@ Software design is a process that takes time.   Conducting user-centered researc
 * This can be a bit dangerous, as it puts the student somewhat behind in the process right from the start, since they won't have as much context having not written the pitch themselves.  Consider carefully whether this is a good idea.
 * Encourage each student to pick a project that fits his or her level of technical skill.  Make sure students are not over committing and choosing projects they do not have the skills to complete.  Also try to discourage stronger students from choosing simpler projects in an effort to do less work.
 
-## Forum discussion
-
-[Lesson 6.2 - Brainstorming and Evaluating](http://forums.tealsk12.org/c/intro-unit-6/lesson-6-2-brainstorming-and-evaluating) (TEALS Discourse account required).
-
 [Final Project Plan Organizer]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Plan%20Organizer.docx?raw=true
 [Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Development%20Plan.docx?raw=true
 [Final Project Specifications]: project_6.md

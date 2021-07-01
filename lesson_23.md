@@ -122,7 +122,3 @@ Ex:Mouse Xy axis, Sketchpad, PC, Tablets 15:00-25:00
 * Advanced students can be encouraged to add extra functionality, such as attempting to draw the shape the user is specifying or identifying types of triangles (equilateral, isosceles, scalene)
 * Students who are struggling can be allowed to skip some parts of the tables in 2.1 and 2.2, focusing on just a few cases
 
-## Forum discussion
-
-[Lesson 2.3 Inputs and Conditionals](
-http://forums.tealsk12.org/c/intro-unit-2-loops/lesson-2-3-inputs-and-conditionals) (TEALS Discourse account required).</a>

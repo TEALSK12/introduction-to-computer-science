@@ -6,11 +6,6 @@ name to attract students! -->
 
 Welcome to the TEALS Intro CS Curriculum!
 
-# This Gitbook curriculum experience will no longer be accessible starting October 1, 2021
-
-Please update your bookmarks to the following curriculum landing page [https://tealsk12.github.io/introduction-to-computer-science/](https://tealsk12.github.io/introduction-to-computer-science/)
-
-
 The **Introduction to Computer Science curriculum** is a flexible and approachable course adapted from the [UC Berkeley CS 10](https://cs10.org), and is course for a wide range of high school students from diverse backgrounds. The course has been successfully implemented in hundreds of high schools.
 Introduction to Computer Science is an engaging course that explores a variety of basic computational thinking and programming concepts through a project-based learning environment. Every unit culminates in a comprehensive project
 and roughly 75% of student time is spent building projects and practicing the skills

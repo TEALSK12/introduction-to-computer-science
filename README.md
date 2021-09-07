@@ -1,10 +1,6 @@
-# Introduction to Computer Science
-
 <!-- TODO: Name of the course: Intro to CSP is good in terms of
 aligning the class with other standards, but we need a more exciting
 name to attract students! -->
-
-Welcome to the TEALS Intro CS Curriculum!
 
 # This Gitbook curriculum experience will no longer be accessible starting October 1, 2021
 

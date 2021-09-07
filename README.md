@@ -2,6 +2,8 @@
 aligning the class with other standards, but we need a more exciting
 name to attract students! -->
 
+# Intro to Computer Science
+
 # This Gitbook curriculum experience will no longer be accessible starting October 1, 2021
 
 Please update your bookmarks to the following curriculum landing page [https://tealsk12.github.io/introduction-to-computer-science/](https://tealsk12.github.io/introduction-to-computer-science/)

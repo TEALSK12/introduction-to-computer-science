@@ -6,7 +6,7 @@ name to attract students! -->
 
 # This Gitbook curriculum experience will no longer be accessible starting October 1, 2021
 
-Please update your bookmarks to the following curriculum landing page [https://tealsk12.github.io/introduction-to-computer-science/](https://tealsk12.github.io/introduction-to-computer-science/)
+Please update your bookmarks to the following curriculum landing page [https://aka.ms/snapintro](https://aka.ms/snapintro)
 
 
 The **Introduction to Computer Science curriculum** is a flexible and approachable course adapted from the [UC Berkeley CS 10](https://cs10.org), and is course for a wide range of high school students from diverse backgrounds. The course has been successfully implemented in hundreds of high schools.

@@ -50,6 +50,7 @@ Students will be able to...
 
 * Instruct students to complete the [Student experiences survey](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/Student%20Experiences%20Survey.docx)
 * Students should answer every question and “I don’t know” or “I’m not sure” are okay answers.
+* Privacy notice: make sure you do not publish students submissions to this survey. 
   * _Remote guidance_: This can accomplished remotely by setting up a digital form or using a quizzing tool in your LMS or Remote Classroom.
 
 #### Optional

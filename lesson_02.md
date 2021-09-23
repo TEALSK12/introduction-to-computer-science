@@ -1,33 +1,25 @@
 # Lesson 0.2: Algorithms
 
-## Learning Objectives
+## Learning objectives
 
 Students will be able to...
 
 * Define **algorithm**.
 * Construct algorithms for performing simple tasks.
 
-## Materials/Preparation
+## Materials/preparation
 
-Needed for this lesson:
+* [0.2 slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.2.pptx)
+* [Unit 0 tips](unit_0_tips.md)
+* Bread, peanut butter, jelly, utensils, plates, napkins, etc.
+* Large poster paper and markers
+* Video resources
+  * [https://youtu.be/ZnBF2GeAKbo](https://youtu.be/ZnBF2GeAKbo)
+    * Video quiz - See additional curriculum materials accessed from the TEALS dashboard. 
+  * [CodeScty algorithm music video](https://youtu.be/LMRSr_y9jPU)
+  * [CodeScty algorithm dance challenge](https://youtu.be/LfhZzHrWDQM)
 
-* [0.2 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.2.pptx)
-* If you choose to do the peanut butter & jelly sandwich activity, you will need ingredients, utensils, plates, napkins, etc.
-* Paper/writing implements for each group of students.
-* Large poster paper and markers will allow for display of the algorithms, but standard paper will work fine.
-* ["Chalk Talk"](http://www.nsrfharmony.org/system/files/protocols/chalk_talk_0.pdf)
-* ["World Café"](http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/)
-* Remote Whiteboard Tools
-  * [Microsoft Whiteboard](https://www.microsoft.com/en-us/p/microsoft-whiteboard/9mspc6mp8fm4?activetab=pivot:overviewtab) (Available for PC or Mac)
-  * [Google Jamboard](https://edu.google.com/products/jamboard/?modal_active=none)
-* [Hidden Figures and Human Computers](https://airandspace.si.edu/stories/editorial/hidden-figures-and-human-computers))
-* [Unit 0 Tips](unit_0_tips.md)
-* Video Resource - [https://youtu.be/ZnBF2GeAKbo](https://youtu.be/ZnBF2GeAKbo)
-  * Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
-* [CodeScty Algorithm Music Video](https://youtu.be/LMRSr_y9jPU)
-* [CodeScty Algorithm Dance Challenge](https://youtu.be/LfhZzHrWDQM)
-
-## Pacing Guide
+## Pacing guide
 
 | Duration   | Description                                   |
 | --------- | -------------------------------------------- |
@@ -39,26 +31,19 @@ Needed for this lesson:
 | 5 minutes  | Second sample algorithm execution             |
 | 10 minutes | Debrief and wrap-up                           |
 
-## Instructor's Notes
+## Instructor's notes
 
-### 1. Introductory discussion
+### Introductory discussion
+
+Show this video to activate disucssion: [https://youtu.be/ZnBF2GeAKbo](https://youtu.be/ZnBF2GeAKbo)
 
 * Invite discussion about what constitutes a computer, what computers do, and what computer science is.
 * An excellent protocol for these types of discussions is ["Chalk Talk"](http://www.nsrfharmony.org/system/files/protocols/chalk_talk_0.pdf) or ["World Café"](http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/).
-* _Remote Guidance_: Chalk talks could be accomplished remotely using a digital whiteboard tool such as:
-  * [Microsoft Whiteboard](https://www.microsoft.com/en-us/p/microsoft-whiteboard/9mspc6mp8fm4?activetab=pivot:overviewtab) (Available for PC or Mac)
-  * [Google Jamboard](https://edu.google.com/products/jamboard/?modal_active=none)
-  * Whiteboard tool in Newrow
-* _Remote Guidance_: World Café could be accomplished using breakout rooms built into your class meeting tool. If the breakout room feature isn't available this could be accomplished using multiple live rooms and assigning students into groups.
 * Develop definitions for important terms ("computer," "computer science," "algorithm," "program,"  "programming language").
 * Display each term on the board or projector and ask students to provide key ideas or concepts they know that relate to the term. From this, you can develop a classroom definition. Feel free to have a pre-written definition and guide students to that definition using leading questions.
 * You can introduce the idea that the first computers were human (a person who makes calculations, especially with a calculating machine) with the story about Katherine Johnson whose calculations were used for manned and unmanned orbital missions (read more [here](https://airandspace.si.edu/stories/editorial/hidden-figures-and-human-computers)).
 
-#### _Remote Instruction Guidance_
-
-Here is a great video to introduce Algorithms: [https://youtu.be/ZnBF2GeAKbo](https://youtu.be/ZnBF2GeAKbo)
-
-### 2. Activity
+### Activity
 
 1. Write algorithms
 
@@ -99,35 +84,28 @@ Here is a great video to introduce Algorithms: [https://youtu.be/ZnBF2GeAKbo](ht
     * If no successful algorithm is found, try to debug on the fly. When you hear an incorrect or unclear instruction, point out the error and either propose or request a fix before proceeding.  The goal is to create a sandwich before the end of class.
     * Many algorithms will still have similar problems to the first iteration.  Others will have too much detail (see below) or other, subtler problems (such as skipping trivial steps like putting the two slices of bread together). Try to take note of issues while circulating so you can address them quickly.
 
-### 3.  Debrief
+### Debrief
 
 * Ask students to describe why there were problems with the first round of algorithms, and how those problems were fixed. Encourage the use of computer science terminology.
 * Keep students from fixating on the specifics of any one error and guide discussion to the general approaches and concepts used to resolve problems.
 * Have students discuss what lessons can be learned from this activity and how they can be applied to programming and computer science.
 
-## BJC Lecture Suggestions
+## Accommodations/differentiation
 
-BJC Video Suggestion: [BJC Lecture 6: Algorithm](https://www.youtube.com/watch?v=3tvbqdLjjSU) (With Luke Segar
+* Check for food allergies before performing this exercise.  If any student has allergies that would put them at risk, substitute another food item or simulate the process with stand-in ingredients. The most common allergy will be to peanuts. Possible alternatives in this case include cream cheese & jelly, toast with butter and jam, or even a deli sandwich (turkey/ham/roast beef) with mayo and/or mustard.
+* For other allergies, or if no options are acceptable, simulate using fake ingredients.  (Even slips of paper with the ingredients written on them can suffice.)
+* Students who have previous programming experience may tend to dominate the algorithm generation process.  Encourage these students to avoid pointing out errors directly and help the other members of their group find and fix errors.
+* If students are struggling with the level of specificity required, allow them to make some basic assumptions to ease the process.
+* In the "debugging" round, some students may go overboard with the level of detail in an attempt to resolve all possible ambiguities.  Remind these students that there are some basic instructions that can be easily understood by most people, and there is no need to go into further detail in those cases.
 
-* [Algorithm Definition](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=3m20s) 3:20-4:20
-* [Early Algorithms](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=4m25s) 4:25-5:55
-* [Familiar Algorithms](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=6m00s) 6:00-7:30
+## University of California - Berkley teacher support resources
 
-BJC Video Suggestion: [BJC Lecture 7: Algorithm Complexity](https://www.youtube.com/watch?v=_fgtTE2bhMg)
-
-* [Algorithm Analysis](http://www.youtube.com/watch?v=_fgtTE2bhMg&t=6m0s): The Basics 6:00-7:40
-* [Algorithm Analysis:](http://www.youtube.com/watch?v=_fgtTE2bhMg&t=7m41s) Running Time 7:41-8:25
-
-## Background Information for Instructors
-
-BJC Video Suggestion: [BJC Lecture 6: Algorithm](https://www.youtube.com/watch?v=3tvbqdLjjSU) (With Luke Segar
-
+[BJC Lecture 6: Algorithm](https://www.youtube.com/watch?v=3tvbqdLjjSU) (With Luke Segar)
 * Computer Worms 0:00-1:30
 * Algorithm Concept Intro: Rubic Cube Competition 1:40-2:40
 * [Algorithm Definition](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=3m20s) 3:20-4:20
 * [Early Algorithms](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=4m25s) 4:25-5:55
-* [Familiar Algorithms](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=6m00s
-) 6:00-7:30
+* [Familiar Algorithms](http://www.youtube.com/watch?v=3tvbqdLjjSU&t=6m00s) 6:00-7:30
 * Commonly Used Algorithms (Page Rank, etc.) 8:00-10:45
 * Choosing an Algorithm Technique 10:50-12:15
 * Ways to Tackle Problems (Brute Force, Top Down, Bottom Up) 12:20-15:30
@@ -136,35 +114,12 @@ BJC Video Suggestion: [BJC Lecture 6: Algorithm](https://www.youtube.com/watch?v
 * Algorithm Correctness 21:25-26:00
 * Algorithm Summary 26:00-end
 
-BJC Video Suggestion: [BJC Lecture 7: Algorithm Complexity](https://www.youtube.com/watch?v=_fgtTE2bhMg)
+[BJC Lecture 7: Algorithm Complexity](https://www.youtube.com/watch?v=_fgtTE2bhMg)
 
-* Yahoo predicts America’s Political Winner 0:00-1:25
-* Function Abstraction (Explanation of Functions and Algorithms) 1:28-2:45
+* Yahoo predicts America’s political winner 0:00-1:25
+* Function abstraction (Explanation of Functions and Algorithms) 1:28-2:45
 * What is IN a Spec 2:45-3:30
 * What is NOT in a Spec 3:30-5:15
 * Reference Text “Introduction to Algorithms” 5:18
-* [Algorithm Analysis](http://www.youtube.com/watch?v=_fgtTE2bhMg&t=6m0s): The Basics** Good for Classroom Instruction 6:00-7:40***
+* [Algorithm Analysis](http://www.youtube.com/watch?v=_fgtTE2bhMg&t=6m0s): The Basics
 * [Algorithm Analysis:](http://www.youtube.com/watch?v=_fgtTE2bhMg&t=7m41s) Running Time
-
-### **Good for Classroom Instruction 7:41-8:25**
-
-* Algorithm Analysis: Runtime Analysis Problem and Solution 8:25-9:55
-* Runtime Analysis: Input Size and Efficiency 9:58-11:25
-* Runtime Analysis: Worst of Avg Case 11:25-13:20
-* Run Time: Final Assessment 13:20-16:46
-* Example:Finding a student by ID (detailed explanation of input/output)
-17:00-31:20
-* Ex: Finding a shared birthday (Constant, Logarithmic, Linear, Quadratic, Exponential) 31:21-33:30
-* Ex: Finding Subsets 33:40 to End
-
-## Accommodations/Differentiation
-
-* Check for food allergies before performing this exercise.  If any student has allergies that would put them at risk, substitute another food item or simulate the process with stand-in ingredients.
-* The most common allergy will be to peanuts. Possible alternatives in this case include cream cheese & jelly, toast with butter and jam, or even a deli sandwich (turkey/ham/roast beef) with mayo and/or mustard.
-* For other allergies, or if no options are acceptable, simulate using fake ingredients.  (Even slips of paper with the ingredients written on them can suffice.)
-* Students who have previous programming experience may tend to dominate the algorithm generation process.  Encourage these students to avoid pointing out errors directly and help the other members of their group find and fix errors.
-* If students are struggling with the level of specificity required, allow them to make some basic assumptions to ease the process.
-* This can lead to an excellent conversation about abstraction.
-* In the "debugging" round, some students may go overboard with the level of detail in an attempt to resolve all possible ambiguities.  Remind these students that there are some basic instructions that can be easily understood by most people, and there is no need to go into further detail in those cases.
-* If you feel students can handle the discussion, you can draw a parallel to machine code here.
-

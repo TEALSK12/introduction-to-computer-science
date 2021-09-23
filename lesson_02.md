@@ -11,7 +11,7 @@ Students will be able to...
 
 * [0.2 slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.2.pptx)
 * [Unit 0 tips](unit_0_tips.md)
-* Bread, peanut butter, jelly, utensils, plates, napkins, etc.
+* Sandwich ingredients: Bread, peanut butter, jelly, utensils, plates, napkins
 * Large poster paper and markers
 * Video resources
   * [https://youtu.be/ZnBF2GeAKbo](https://youtu.be/ZnBF2GeAKbo)

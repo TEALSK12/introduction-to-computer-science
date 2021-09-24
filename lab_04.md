@@ -6,15 +6,13 @@ In this lab, you will explore Snap! and create a simple "self-portrait" program 
 
 1. Open Snap! on your computer.  The URL is [http://snap.berkeley.edu/run](http://snap.berkeley.edu/run).
 
-2. In order to save your program, the first thing you'll need to do is to create an account. In the Snap! browser window, find the cloud-shaped button in the top toolbar on the upper left corner of the window:
+2. In order to save your program, the first thing you'll need to do is to create an account. In the Snap! browser window, find the cloud-shaped button in the top toolbar on the upper left corner of the window.
+    ![The cloud menu button](images/cloud_button.png)
 
-  ![The cloud menu button](images/snap_cloud.png)
+    Click it, select the "sign up" option in the menu, and follow the instructions there. You will need to check your email after creating your account to get your initial password.  Your username will be the first part of your school email address.  If you need help, ask.
+    ![Sign up window](images/sign_up_page.png)
 
-  Click it, select the "sign up" option in the menu, and follow the instructions there. You will need to check your email after creating your account to get your initial password.  Your username will be the first part of your school email address.  If you need help, ask.
-
-  ![Sign up window](images/sign_up_page.png)
-
-3. Spend a few minutes looking around, trying things out, and experience what the language can do. 
+3. Spend a few minutes looking around, trying things out, and experience what the language can do.
 
 4. Write down three things in your notebook you found that Snap! can do and how to do them. Be as specific as you can!
 
@@ -30,7 +28,7 @@ In this lab, you will explore Snap! and create a simple "self-portrait" program 
      | --- | --- |
      | 1.  |     |
      | 2.  |     |
-     | 3.  | .   |
+     | 3.  |     |
 
 ## Part 2 - Snap! self - portrait
 

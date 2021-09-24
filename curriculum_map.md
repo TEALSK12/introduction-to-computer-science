@@ -12,6 +12,8 @@ Materials and preparation resources can be found in each of the lesson pages.
 
 [Computer Science Teachers Association Standards Mapping](CSTA_standards_mapping.md)
 
+[Slidedecks](slidedecks.zip): Download all  the slide decks in one zip file.
+
 ## Unit 0: Beginnings
 
 | Lesson | Objectives | Lab | Days |

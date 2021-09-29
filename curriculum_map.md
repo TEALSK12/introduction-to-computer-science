@@ -12,6 +12,7 @@ Materials and preparation resources can be found in each of the lesson pages.
 * [Master Vocabulary List](master_vocab.md)
 * [Computer Science Teachers Association Standards Mapping](CSTA_standards_mapping.md)
 * [Slide decks](slidedecks.zip): Download all  the slide decks in one zip file.
+* [CSTA content matrix](CSTA-content-matrix-9-12.docx) - this resource has some culture day activities aligned to the CSTA standards.
 
 ## Unit 0: Beginnings
 

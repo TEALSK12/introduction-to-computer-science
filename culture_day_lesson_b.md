@@ -6,13 +6,19 @@ In this lesson, students will have the opportunity to research a topic related t
 
 Students will be able to...
 
-* Describe in detail the topic of their assigned/chosen computer science related topic
-* Answer questions about their topic
-* Explore and analyze the impact on, and impact of, technology in the context of their topic
+* Describe in detail the topic of their assigned or chosen computer science related topic.
+* Facilitate and answer questions about their topic.
+* Explore and analyze the impact on, and impact of, technology in the context of their topic.
 
 ## Explain to students
 
-Coding is a technical skill. Yet the process of software development, product creation, and deployment involves the intersection of diverse technical innovations, global community of people, cultural beliefs, values, and ethical positions. There is impact from, and impact on, our life and society at many levels (personal, community, global, and environmental) including the unintended negative consequences of the technology choices we make. These connections and discussions, help us appreciate the past, be wiser in the present, and more ready to embrace the future.
+Coding is a technical skill. The process of software development, product creation, and deployment involves
+
+* Technical innovations
+* A community of people
+* Cultural beliefs and values.
+
+There is impact from, and impact on, our life and society at many levels (personal, community, global, and environmental) including negative consequences of the technology choices we make. These connections and discussions help us appreciate the past but make better decisions in the future.
 
 ## Example topics
 
@@ -58,7 +64,7 @@ Coding is a technical skill. Yet the process of software development, product cr
 * Allow classmates to ask questions, but beware of students trying to stump each other.
 * Have a few questions for each assigned topic prepared ahead of time for instructors to ask in case classmates do not have questions.
 
-### Accommodation/Differentiation
+### Accommodation/differentiation
 
 * In smaller classes, each student may be able to present twice in a single semester.
 * For classes where students are less experienced with presentations, consider a "science fair"-style event where students produce a display that can be viewed by others to present their topic.

@@ -24,7 +24,7 @@ Here are a few examples:
 * Marketing specialists
 * Web designer
 
-As your get to know people in your community, your can discover individuals who are willing to be mentors for your classroom in the days ahead.
+As you get to know people in your community, you can discover individuals who are willing to be mentors for your classroom in the days ahead.
 
 ## Materials/Preparation
 

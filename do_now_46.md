@@ -1,8 +1,8 @@
-# Do Now 4.6 Spaceman
+# Spaceman
 
 Participate in a couple of rounds of the game Spaceman with your teacher.
 
-## In your notebook, answer
+## In your notebook, answer the following questions
 
 1. How could you use lists from this unit to help implement a version of this game in Snap!?
 

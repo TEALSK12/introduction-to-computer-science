@@ -1,51 +1,63 @@
-# Lab 1.4: Sprites in Action
+# Sprites in action
 
 In this lab, you will use costumes and movement to create simple Snap! animations.
 
-## Part 1: Run, Spot, Run
+## Part 1: Run, Spot, run
 
-1.1) In a New Snap! project, click on the file menu, then click costumes.  Import the costumes `dog2a` and `dog2b`.
+1. In a new Snap! project, click on the file menu, then click costumes.  Import the costumes `dog2a` and `dog2b`.
 
-1.2) Write a script to make the sprite change costume each time the space bar is pressed. (The sprite should switch back and forth between the two costumes.)
+    ![Dog2a](images/dog2a.svg)
+    `dog2a`
+    ![Dog2b](images/dog2b.svg)
+    `dog2b`
 
-1.3) Add to your script so that the sprite will
+2. Write a script to make the sprite change costume each time the space bar is pressed. (The sprite should switch back and forth between the two costumes.)
 
-1. Face to the left.
-2. Move a few steps.
-3. Change costume when the left arrow key is pressed.
+3. Add to your script so that the sprite will.
 
-_In your window, the dog should look like it is walking when you press the left arrow key repeatedly._
+    * Face to the left.
+    * Move a few steps.
+    * Change costume when the left arrow key is pressed.
 
-1.4) Enhance your script to look as though the dog can walk to the right with you click the `right arrow` key.
+    _In your window, the dog should look like it is walking when you press the left arrow key repeatedly._
 
-## Part 2: Here be Dragons
+4. Enhance your script to look as though the dog can walk to the right with you click the right arrow key.
 
-1.1) Create a new sprite. Following the same steps as in part 1.1, import the costumes `dragon1-a` and `dragon1-b`.
+## Part 2: Dragons
 
-1.2) Write a script to make the sprite appear to breathe fire when the `f` key is pressed.  The sprite should switch to the `fire-breathing` costume for a few seconds, then switch back to the original costume.
+1. Create a new sprite. Following the same steps as in part 1, import the costumes `dragon1-a` and `dragon1-b`.
 
-1.3) Modify your script so that the dragon `attacks` the mouse pointer when the `f` key is pressed. When the `f` key is pressed, the dragon should take the following actions in order:
+    ![Dragon 1-a](images/dragon1a.svg)
+    `dragon1-a`
+    ![Dragon 1-b](images/dragon1b.svg)
+    `dragon1-b`
 
-1. Make sure it is in the "normal" costume
-2. Point at the mouse pointer
-3. Glide to the mouse pointer's position
-4. Change to the "fire-breathing" costume
-5. Pause to breathe fire
-6. Change back to the "normal" costume
+2. Write a script to make the sprite appear to breathe fire when the `f` key is pressed.  The sprite should switch to the `dragon1-b` costume for a few seconds, then switch back to the `dragon1-a` costume.
 
-## Part 3: Run Away
+3. Modify your script so that the dragon `attacks` the mouse pointer when the `f` key is pressed. When the `f` key is pressed, the dragon should take the following actions in order:
 
-3.1) Add another sprite to your program.  (This sprite can have any costume you choose).
+    1. Make sure it is in the `dragon1-a` costume.
+    2. Point at the mouse pointer.
+    3. Glide to the mouse pointer's position.
+    4. Change to the `dragon1-b` costume
+    5. Pause to breathe fire.
+    6. Change back to the `dragon1-a` costume
 
-3.2) Write a script to make this new sprite point away from the dragon and move when the `r` key is pressed.
+## Part 3: Run away
 
-3.3) Using the `Broadcast` and `When I Receive` blocks, modify your script so that instead of moving when the `r` key is pressed, the new sprite moves when the dragon `attacks.`  The `fleeing` sprite should move when the dragon starts breathing fire.
+1. Add another sprite to your program.  (This sprite can have any costume you choose).
 
-3.4) Add a second sprite that runs away from the dragon as well.
+2. Write a script to make this new sprite point away from the dragon and move when the `r` key is pressed.
 
-## Grading Scheme/Rubric
+3. Using the **broadcast** and **when I receive** blocks, modify your script so that instead of moving when the `r` key is pressed, the new sprite moves when the dragon attacks.  The fleeing sprite should move when the dragon starts breathing fire.
 
-| **Lab 1.4 Criteria**   |  Points   |
+4. Add a second sprite that runs away from the dragon as well.
+
+5. Save your project as _lab14_.
+
+## Grading rubric
+
+| **Criteria**   |  Points   |
 | :------------------ | :--- |
 | 2.2 Dragon breathes fire | 0.25 |
 | 2.3 Dragon attacks mouse pointer correctly  | 0.75 |
@@ -53,4 +65,4 @@ _In your window, the dog should look like it is walking when you press the left 
 | 3.3 Sprite runs away when dragon breathes fire  | 0.25 |
 | 3.3 Use of the `broadcast` and `when I receive` blocks  | 0.25 |
 | 3.4 Another sprite runs away too  | 0.25 |
-| **PROJECT TOTAL** | **2.0 points** |
+| **Total** | **2.0** |

@@ -2,26 +2,24 @@
 
 ## Part 1 - Coordinates
 
-Start this activity using the [Peabody test](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=PeabodyTest).
-
-* Open the link above.
-* Click on Peabody to start the test.
-* Answer his question in the textbox.
-* You should answer at least 10 of his questions.
+1. Open the [Peabody test](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=PeabodyTest).
+2. Click on Peabody to start the test.
+3. Answer his question in the textbox.
+4. You should answer at least 10 of his questions.
 
 ## Part 2 - Plot a drawing using a template
 
-Using the [template](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Snap%20Coordinate%20System%20Intro) from the classroom activity, create a drawing that has at least 10 coordinates. Save the drawing in Snap! and submit the URL to your teacher.
+1. Using this [starter script](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Snap%20Coordinate%20System%20Intro) from the classroom activity, create a drawing that has at least 10 coordinates.
 
-* Reminder: Don't forget to log into Snap!
+2. Save your project as _lab05_.
 
-Here is an example with 8 coordinates:
+    Here is an example with 8 coordinates:
 
-![Snap coordinate example](images/snap_coordinate_example.png)
+    ![Snap coordinate example](images/snap_coordinate_example.png)
 
-## Grading scheme/rubric
+## Grading rubric
 
-| **Lab 0.5 criteria**                                          |   Points             |
+| **Criteria**                                          |   Points             |
 | ------------------------------------------------------------- | -------------- |
 | **Part 1**                                                        |   |
 | Participated in the Peabody test                            | 0.5 points     |
@@ -30,4 +28,4 @@ Here is an example with 8 coordinates:
 | Shares link with teacher                                      | 0.25 points    |
 | Drawing contains at least 10 coordinates                      | 0.5 points     |
 | Drawing completeness (Resembles something recognizable)       | 0.5 points     |
-| **PROJECT TOTAL**                                             | **2 points**   |
+| **TotalL**                                             | **2 points**   |

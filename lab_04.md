@@ -1,12 +1,12 @@
-# Getting to Know You
+# Getting to know you
 
-In this lab, you will explore Snap! and create a simple "self-portrait" program to introduce yourself to your teachers and classmates.
+In this lab, you will explore Snap! and create a simple "self-portrait" script to introduce yourself to your teachers and classmates.
 
 ## Part 1 - Exploring Snap!
 
 1. Open Snap! on your computer.  The URL is [http://snap.berkeley.edu/run](http://snap.berkeley.edu/run).
 
-2. In order to save your program, the first thing you'll need to do is to create an account. In the Snap! browser window, find the cloud-shaped button in the top toolbar on the upper left corner of the window.
+2. In order to save your script, the first thing you'll need to do is to create an account. In the Snap! browser window, find the cloud-shaped button in the top toolbar on the upper left corner of the window.
     ![The cloud menu button](images/cloud_button.png)
 
     Click it, select the "sign up" option in the menu, and follow the instructions there. You will need to check your email after creating your account to get your initial password.  Your username will be the first part of your school email address.  If you need help, ask.
@@ -32,24 +32,26 @@ In this lab, you will explore Snap! and create a simple "self-portrait" program 
 
 ## Part 2 - Snap! self - portrait
 
-Using what you've learned and other things you might discover, create a Snap! program that describes yourself. This can take whatever form and use whatever Snap! tools and blocks you want. Make sure that somehow, at some point in your program you show the following information:
+Using what you've learned and other things you might discover, create a Snap! script that describes yourself. This can take whatever form and use whatever Snap! tools and blocks you want. Make sure your script includes following information:
 
-    * Your name
-    * Your current grade
-    * Your age
-    * Your favorite subject in school
-    * One of your hobbies or interests
-    * Any previous programming or computer experience you have
-    * Example of something you learned
-    * What you think learning CS will be like.
-    * What are some of your favorite uses of technology
+* Your name
+* Your current grade
+* Your age
+* Your favorite subject in school.
+* One of your hobbies or interests.
+* Any previous programming or computer experience you have.
+* Example of something you learned
+* What you think learning CS will be like?
+* What are some of your favorite uses of technology?
 
-7. Submit your _self portrait_ using the submission instructions of your instructor. If you are having trouble saving, here is a great video:  [https://youtu.be/VHts_QAp3XU](https://youtu.be/VHts_QAp3XU)
+1. Save your project as _lab04_.
+
+2. Submit your _self portrait_ using the submission instructions given to you by your instructor. If you are having trouble saving, here is a great video:  [https://youtu.be/VHts_QAp3XU](https://youtu.be/VHts_QAp3XU)
 
 ## Grading scheme/rubric
 
 | **Criteria** | Point values |
-| --------- | --- |
+| :--------- | :--- |
 | **Part 1** | |
 | 1.4 Listed 3 things you found Snap! can do. | 0.3 points |
 | 1.5 Listed 3 things your partner found Snap! can do. | 0.3 points     |
@@ -62,5 +64,4 @@ Using what you've learned and other things you might discover, create a Snap! pr
 | Favorite uses of technology | 0.2 points |
 | Favorite subject in school | 0.2 points |
 | Example of something learned | 0.2 points |
-| Hobby or interest | 0.2 points |
-| **Total** | **2.2 points** |
+| **Total** | **2.0 points** |

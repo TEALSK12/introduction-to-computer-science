@@ -21,7 +21,7 @@ In this lab, you will create a simple sentence generator using lists.
 
 2. Modify your script so that a noun phrase can either be the construction from part 1 or a single proper noun (e.g. a person's name).  Your script should randomly decide which version of a noun phrase to use.
 
-_A noun phrase consists of an article, an adjective, and a noun in that order._
+    _A noun phrase consists of an article, an adjective, and a noun in that order._
 
 3. Modify your script so that a verb phrase can sometimes leave out the prepositional phrase.  Your script should randomly decide to include the prepositional phrase or not.
 

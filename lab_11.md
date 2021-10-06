@@ -204,19 +204,19 @@ Some tips:
 
 | **Day 1 criteria**                        | Points          |
 | :------------------------------------------- | -------------- |
-| 1.1 What does it do?                        | 2  |
-| 1.2 Categories                              | 4  |
-| 2.1 Move in opposite direction              | 1  |
-| 2.2 What happens                            | 2  |
-| 3.1 x positions                             | 3  |
-| 5.1 What it does                            | 3  |
-| 5.2 Does turn block change x or y position  | 1  |
-| 5.3 Draw a square                           | 4  |
-| 6.1 What does it do                         | 2  |
-| 6.2 Dragging the mouse                      | 1  |
-| 6.3 script behavior w/modification         | 1   |
-| **Total**                                   | **28** |
+| 1.1 What does it do?                        | 2 |
+| 1.2 Categories                              | 4 |
+| 2.1 Move in opposite direction              | 1 |
+| 2.2 What happens                            | 2 |
+| 3.1 x positions                             | 3 |
+| 5.1 What it does                            | 3 |
+| 5.2 Does turn block change x or y position  | 1 |
+| 5.3 Draw a square                           | 4 |
+| 6.1 What does it do                         | 2 |
+| 6.2 Dragging the mouse                      | 1 |
+| 6.3 script behavior w/modification         | 1  |
+| **Total**                                   | **24** |
 | **Day 2 mini-project**                            |               |
-| 8 Make a kaleidoscope                       | 12  |
-| **Total**                                   | **10** |
-| **Project total**                           | **40** |
+| 8 Make a kaleidoscope                       | 8  |
+| **Total**                                   | **6** |
+| **Project total**                           | **30** |

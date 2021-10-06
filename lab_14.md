@@ -13,15 +13,15 @@ In this lab, you will use costumes and movement to create simple Snap! animation
 
 2. Write a script to make the sprite change costume each time the space bar is pressed. (The sprite should switch back and forth between the two costumes.)
 
-3. Add to your script so that the sprite will.
+3. Add to your script so that when the left arrow is pressed the sprite
 
     * Face to the left.
     * Move a few steps.
-    * Change costume when the left arrow key is pressed.
+    * Change costume when the `left arrow` key is pressed.
 
     _In your window, the dog should look like it is walking when you press the left arrow key repeatedly._
 
-4. Enhance your script to look as though the dog can walk to the right with you click the right arrow key.
+4. Enhance your script to look as though the dog can walk to the right when you click the `right arrow` key.
 
 ## Part 2: Dragons
 

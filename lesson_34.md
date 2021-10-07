@@ -1,72 +1,80 @@
-# Lesson 3.4: Customization II: Reporters and Predicates
+# Lesson 3.4: Customization II: Reporters and predicates
 
-## Learning Objectives
+## Learning objectives
 
 Students will be able to...
 
-* Build custom reporter and predicate blocks in Snap!.
+* Build custom reporter and predicate blocks.
 
-## Materials/Preparation
+## Material and preparation
 
-* [Do Now 3.4: Practice using Arguments](do_now_34.md)
-* [3.4 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.4.pptx)
+* [Do now 3.4](do_now_34.md)
+* [3.4 slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.4.pptx)
 * 2 Labs to choose from:
-  1. [Lab 3.4 handout If My Calculations Are Correct...](lab_34.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.pdf))
-  2. Lab 3.4 handout The Technicolor Window ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.4%20The%20Technicolor%20Window.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.4%20The%20Technicolor%20Window.pdf))
-* [Unit 3 Tips](unit_3_tips.md)
-* Video Resource: [https://youtu.be/6gT91ltwM1Q](https://youtu.be/6gT91ltwM1Q)
-  * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
+  1. [Lab 3.4 - If my calculations are correct...](lab_34.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.4%20If%20My%20Calculations%20Are%20Correct.pdf))
+  2. Lab 3.4 - The technicolor window ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.4%20The%20Technicolor%20Window.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.4%20The%20Technicolor%20Window.pdf))
+* [Unit 3 tips](unit_3_tips.md)
+
+### Video resources
+
+* [https://youtu.be/6gT91ltwM1Q](https://youtu.be/6gT91ltwM1Q)
+* Video quiz: See additional curriculum materials accessed from the TEALS dashboard.
 
 ## Pacing Guide
 
 | Duration   | Description                                   |
-| ---------- | --------------------------------------------- |
+| :---------- | :--------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 10 minutes | Lecture and introduce activity                |
 | 25 minutes | Custom reporter activity                      |
 | 15 minutes | Debrief and wrap-up                           |
 
-## Instructor's Notes
+## Instructor's notes
 
 ### Lecture
 
-#### Introduce reporter blocks
+Introduce reporter blocks
 
 * Ask students to find blocks with the reporter shape (round) and speculate as to what they do.
 * Point out familiar examples, such as:
   * ![x position block](images/x_position.png)
   * ![answer block](images/answer.png)
   * ![pick random block](images/pick_random.png)
-* Explain the concept of reporting (returning) a value, and how reporter blocks are used to provide values to commands.
+
+Explain the concept of reporting (returning) a value, and how reporter blocks are used to provide values to commands.
+
 * Emphasize that reporters do not (and should not) perform any action. They are used to compute values which are used by commands.
 
-#### Introduce predicate blocks (as a special case of reporter blocks)
+Introduce predicate blocks (as a special case of reporter blocks)
 
 * Emphasize that predicates must return true or false.
-* Be aware, but don't necessarily tell students, that Snap! does not enforce this.
 * Point out examples, such as:
   * ![Touching Block](images/touching.png)
   * ![less than block](images/less_than.png)
   * ![and block](images/and.png)
-* Ask students why it might be useful to differentiate predicates from other reporters.
+
+Ask students why it might be useful to differentiate predicates from other reporters.
+
 * Only predicates can be used in a conditional.
 
 ### Activity
 
-* Students should complete the ["If My Calculations Are Correct..."](lab_34.md) activity individually.
+Students should complete the ["If my calculations are correct..."](lab_34.md) activity individually.
+
 * This lab consists of a series of independent custom blocks.  The blocks need not necessarily be completed in the order given.
 * Work with students to ensure they are testing their blocks properly and reporting correct values.
 
 ### Debrief
 
-* Ask a different student to provide their solution to each part.  If time permits, go over multiple students' work for each part.
+Ask a different student to provide their solution to each part.  If time permits, go over multiple students' work for each part.
+
 * Point out differences and discuss advantages and disadvantages to different approaches.
 * Emphasize that custom blocks do not have to be long and complicated to be useful.
 
-## Accommodations/Differentiation
+## Accommodations and differentiation
 
-* Struggling students should focus on just the first 2 or 3 parts of the lab.  Even if they cannot move on to the more difficult problems, getting used to defining custom reporters is helpful and important.
-* Advanced students who finish quickly can be utilized to assist other students.
-* Students who struggle in math may not be familiar with the distance formula used in part 2.1.  Help students to translate the math into a Snap! script, but understanding the formula and its applications is not necessary for the activity.
-* If most students are not equipped to handle this math, a simpler computation, such as area of a triangle or average of three numbers, can be substituted.
+Struggling students should focus on just the first 2 or 3 parts of the lab.  Even if they cannot move on to the more difficult problems, getting used to defining custom reporters is helpful and important.
 
+Advanced students who finish quickly can be utilized to assist other students or they can be challenged to complete the bonus problem using the distance formula.
+
+If most students are not equipped to handle this math, a simpler computation, such as area of a triangle or average of three numbers, can be substituted.

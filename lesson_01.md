@@ -1,4 +1,4 @@
-# Lesson 0.1: the first day of school
+# Lesson 0.1: The first day of school
 
 ## Learning objectives
 
@@ -8,7 +8,7 @@ Students will be able to...
 * List the high-level goals of the course.
 * Describe classroom procedures, rules, and norms.
 
-## Materials/preparation
+## Materials and preparation
 
 * [0.1 slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.1.pptx)
 * [Template syllabus](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/IntrotoCSSyllabusExample.docx) 
@@ -26,11 +26,12 @@ Students will be able to...
 
 ## Instructor's notes
 
-* Suggested topics to cover:
-  * Names and backgrounds of TEALS teaching team members.
-  * Brief background on TEALS program (i.e. "Why are there so many adults here?").
-  * Go over the Classroom Syllabus with students.
-  * Classroom rules, behavior expectations, grading guidelines, late work policies, etc.
-  * Academic Integrity/Cheating policy.
-  * Introductions/Icebreakers with students.
-  * High-level learning objectives for course.
+Suggested topics to cover:
+
+* Names and backgrounds of TEALS teaching team members.
+* Brief background on TEALS program (i.e. "Why are there so many adults here?").
+* Go over the Classroom Syllabus with students.
+* Classroom rules, behavior expectations, grading guidelines, late work policies, etc.
+* Academic Integrity/Cheating policy.
+* Introductions/Icebreakers with students.
+* High-level learning objectives for course.

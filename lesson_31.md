@@ -1,63 +1,74 @@
 
-# Lesson 3.1: Abstraction and Generalization
+# Lesson 3.1: Abstraction and generalization
 
-## Student Objectives
+## Student objectives
 
 Students will be able to...
 
-* Define the terms **Abstraction** and **Generalization**.
+* Define the terms **abstraction** and **generalization**.
 * Recognize opportunities to improve algorithms by abstracting or generalizing parts into sub-procedures.
 
-## Materials/Preparation
+## Materials and preparation
 
-* [Do Now 3.1: Guided Tour](do_now_31.md)
-* [3.1 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.1.pptx)
-* Lab 3.1 handout [Drawing Shapes Again](lab_31.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.1%20Drawing%20Shapes%20Again.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.1%20Drawing%20Shapes%20Again.pdf))
-* [Unit 3 Tips](unit_3_tips.md)
-* Video Resource: [https://youtu.be/Dxw9cIbzaLk?t=681](https://youtu.be/Dxw9cIbzaLk?t=681)
-  * Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
-* Drawing a Square Video Resource: [https://youtu.be/AighCB14bNw](https://youtu.be/AighCB14bNw)
-* Drawing a Polygon Video Resource: [https://www.youtube.com/watch?v=K0yReJ9T600](https://www.youtube.com/watch?v=K0yReJ9T600)
+* [Do now 3.1](do_now_31.md)
+* [3.1 slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.1.pptx)
+* [Lab 3.1 - Drawing shapes again](lab_31.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.1%20Drawing%20Shapes%20Again.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.1%20Drawing%20Shapes%20Again.pdf))
+* [Unit 3 tips](unit_3_tips.md)
 
-## Pacing Guide
+### Video resources
+
+* [https://youtu.be/Dxw9cIbzaLk?t=681](https://youtu.be/Dxw9cIbzaLk?t=681)
+* Video Quiz - See additional curriculum materials accessed from the TEALS dashboard.
+* [https://youtu.be/AighCB14bNw](https://youtu.be/AighCB14bNw)
+* [https://www.youtube.com/watch?v=K0yReJ9T600](https://www.youtube.com/watch?v=K0yReJ9T600)
+
+## Pacing guide
 
 | Duration   | Description                                     |
-| ---------|  ---------------------------------------------- |
+| :---------| :---------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements   |
 | 15 minutes | Introduce terminology, demo, introduce activity |
 | 20 minutes | Draw Shapes (Again) activity                    |
 | 10 minutes | Debrief and wrap-up         |
 
-## Instructor's Notes
+## Instructor's notes
 
 ### Introductory discussion
 
-* Define and discuss the following terms:
+Define and discuss the following terms:
+
 * **Abstraction:** removing the specifics that are not relevant in each context.
   * e.g. being able to drive a car without understanding how an internal combustion engine works.
 * **Generalization:** combining a group of related concepts or processes into a single category.
   * e.g. spreading any condiment or ingredient onto a slice of bread (butter, jam, peanut butter, mayo, etc.).
-* Demonstrate constructing a custom command block.
 
-### Lab 3.1: Drawing Shapes (Again)
+Demonstrate constructing a custom command block.
 
-* Students should complete the [Drawing Shapes Again](lab_31.md) activity individually or in diverse pairs.
-* Work with students to be certain that they are using custom blocks and variables as described by the activity.
-* Point out places where a script can be abstracted and generalized
+### Drawing shapes (again)
+
+Students should complete the [drawing shapes again](lab_31.md) activity individually or in diverse pairs.
+
+Work with students to be certain that they are using custom blocks and variables as described by the activity.
+
+* Point out places where a script can be abstracted and generalized.
 * Emphasize conciseness into a script.
 
 ### Debrief
 
-* Discuss one or two student submissions.
+Discuss one or two student submissions.
+
 * Point out differences between different student solutions.
 * Point out missed opportunities for abstraction (if any).
-* Discuss how this custom block can be useful.
 
-## BJC Lecture Suggestions
+Discuss how this custom block can be useful.
 
-### Background Information for Instructors
+## Accommodation and differentiation
 
-BJC Video Suggestion:
+In addition to attempting the bonus in the lab, advanced students can be encouraged to write a new custom block that draws a specified number of the given shape (for example, 2 squares or 5 hexagons). The number of shapes should be taken as user input.
+
+Struggling students can be given solution script for all of section 1. Work with these students to answer the questions in part 1.5 so that they are prepared to attempt the custom block authoring.
+
+## University of California - Berkley teacher support resources
 
 [BJC Lecture 1: Abstraction](https://www.youtube.com/watch?v=Dxw9cIbzaLk)
 
@@ -70,7 +81,3 @@ BJC Video Suggestion:
 
 [BYOB-Custom Blocks](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=11m30s)  (Explains functions with examples)   11:30-14:50
 
-## Accommodation/Differentiation
-
-* In addition to attempting the bonus in the lab, advanced students can be encouraged to write a new custom block that draws a specified number of the given shape (for example, 2 squares or 5 hexagons). The number of shapes should be taken as user input.
-* Struggling students can be given solution code for all of section 1. Work with these students to answer the questions in part 1.5 so that they are prepared to attempt the custom block authoring.

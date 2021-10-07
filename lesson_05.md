@@ -1,4 +1,4 @@
-# Lesson 0.5: Snap! coordinate system
+# Lesson 0.5: Coordinate system
 
 The lesson is important to cover if students have not learned the concept of the coordinate system and plotting (x,y) coordinates.
 
@@ -9,7 +9,7 @@ Students will be able to...
 * Recall the Cartesian coordinate system.
 * Implement the coordinate system to position a sprite using Snap! coordinates.
 
-## Materials/preparation
+## Materials and preparation
 
 * [0.5 slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.5.pptx)
 * [Unit 0 tips](unit_0_tips.md)
@@ -21,7 +21,9 @@ Students will be able to...
 * Familiarize yourself with this [Snap! template](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Snap%20Coordinate%20System%20Intro).
 * Familiarize yourself with the [Peabody test](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=PeabodyTest).
 * Here is a place to print [Graph Paper](https://free-printable-paper.com/graph-paper/) in case it is necessary to print graph paper for the class.
-* Video resource - [https://youtu.be/5ctsUsvIp8w](https://youtu.be/5ctsUsvIp8w)
+### Video resources
+
+* [https://youtu.be/5ctsUsvIp8w](https://youtu.be/5ctsUsvIp8w)
 
 ## Pacing guide
 
@@ -37,9 +39,9 @@ Students will be able to...
 
 ### Introduce activity
 
-* Explain to students the Snap! coordinate system using the grid they have drawn from the Dow Now.
-* Define the Origin and that its center is (0,0).
-* Define the Grid Limits of positive and negative 240 on the x-axis and positive and negative 180 on the y-axis.
+Explain to students the coordinate system using the grid they have drawn from the dow now.
+Define the origin and that its center is (0,0).
+Define the grid limits of positive and negative 240 on the x-axis and positive and negative 180 on the y-axis.
 
 ### Classroom activity
 
@@ -57,32 +59,37 @@ Use [this coordinate tool](https://www.desmos.com/calculator/ui4klsjued) to have
   * (100, 0)
   * (50, 100)
 
-Ask students if they connect the dots, what shape would the points make? (Answers may vary: Kite, Diamond, Quadrilateral, Polygon, etc).
+Ask students if they connect the dots, what shape would the points make? (Answers may vary: kite, diamond, quadrilateral, polygon, etc).
 
-### 3. Integrate
+### Integrate
 
 Explain to students that this is how the Snap! stage is setup but it doesn't have a grid to view.
 The origin (0,0) is the exact center of the grid.
 
-* Have students enter the following points into the **go to x: y:** in the [template](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Snap%20Coordinate%20System%20Intro)
-  * (0, 0)
-  * (50, -50)
-  * (100, 0)
-  * (50, 100)
-* Now have students click the Green Flag to see the sprite draw the shape.
-* Now instruct the students to use the block template to draw at least two shapes of their own.
+Have students enter the following points into the **go to x: y:** in the [template](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Snap%20Coordinate%20System%20Intro)
 
-### 4. Lab activity
+* (0, 0)
+* (50, -50)
+* (100, 0)
+* (50, 100)
 
-* Introduce the lab activity to students by explaining the instructions and getting them started with the activity.
+Have students click the green flag to see the sprite draw the shape.
 
-### 5 . Debrief
+Instruct the students to use the block template to draw at least two shapes of their own.
 
-* Can you think of any other technologies that use a coordinate system to display graphics?
-* Are there any blocks that you have discovered that have helped you draw shapes faster?
+### Lab activity
 
-## Accommodation/differentiation
+Introduce the lab activity to students by explaining the instructions and getting them started with the activity.
 
-* Kinesthetic learners could use graph paper to draw the shapes with a writing utensil.
-* Challenge students who understand this challenge them to draw more complex figures and allow them to explore other blocks that may be useful to do this faster. (i.e repeat blocks, etc).
-* Students will have different levels of prior knowledge on this topic. The objective of this lesson is to level set students to ensure they all have an understanding of coordinates. There may be students seeing coordinates for the first time that may need more 1 on 1 support to move through this lesson.
+### Debrief
+
+Can you think of any other technologies that use a coordinate system to display graphics?
+Are there any blocks that you have discovered that have helped you draw shapes faster?
+
+## Accommodation and differentiation
+
+Kinesthetic learners could use graph paper to draw the shapes with a writing utensil.
+
+Challenge students who understand this challenge them to draw more complex figures and allow them to explore other blocks that may be useful to do this faster. (i.e repeat blocks, etc).
+
+Students will have different levels of prior knowledge on this topic. The objective of this lesson is to level set students to ensure they all have an understanding of coordinates. There may be students seeing coordinates for the first time that may need more 1 on 1 support to move through this lesson.

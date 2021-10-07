@@ -80,4 +80,3 @@ Struggling students can be given solution script for all of section 1. Work with
 [MIT Scratch --> BYOB Snap!](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=10m0s)  (Development of Snap!, Demo) 10:00-11:30
 
 [BYOB-Custom Blocks](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=11m30s)  (Explains functions with examples)   11:30-14:50
-

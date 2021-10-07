@@ -18,6 +18,7 @@ Students will be able to...
 * [Unit 1 Tips](unit_1_tips.md)
 
 ### Video resources
+
 * [https://youtu.be/u80WYSNxRjM](https://youtu.be/u80WYSNxRjM)
 * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
 

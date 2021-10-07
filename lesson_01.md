@@ -11,7 +11,7 @@ Students will be able to...
 ## Materials and preparation
 
 * [0.1 slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%200.1.pptx)
-* [Template syllabus](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/IntrotoCSSyllabusExample.docx) 
+* [Template syllabus](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%200/IntrotoCSSyllabusExample.docx)
 * [Unit 0 tips](unit_0_tips.md)
 
 ## Pacing guide

@@ -21,6 +21,7 @@ Students will be able to...
 * Familiarize yourself with this [Snap! template](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Snap%20Coordinate%20System%20Intro).
 * Familiarize yourself with the [Peabody test](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=PeabodyTest).
 * Here is a place to print [Graph Paper](https://free-printable-paper.com/graph-paper/) in case it is necessary to print graph paper for the class.
+
 ### Video resources
 
 * [https://youtu.be/5ctsUsvIp8w](https://youtu.be/5ctsUsvIp8w)

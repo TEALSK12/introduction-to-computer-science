@@ -77,4 +77,4 @@ As class ends, ensure students retain their work as they will use it to construc
 [Final Project Development Plan]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%206%20Word/Final%20Project%20Development%20Plan.docx?raw=true
 [Final Project Specifications]: project_6.md
 [docx]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Projects/Projects%20Word/Project%206%20Final%20Project.docx?raw=true
-[pdf]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Projects/Projects%20PDF/Project%206%20Final%20Project.pdf?raw=true
+[pdf]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Projects/Projects%20PDF/Project%206%20Final%20Project.pdf?raw=tru

@@ -40,7 +40,7 @@ From Lessons 6.3 to 6.5 you will be practicing an iterative and incremental proj
 
 Remind students daily to keep their planning documents up-to-date and make edits as necessary.  
 
-* Point out how many days remain and have students check their implementation plan to ensure they do 
+* Point out how many days remain and have students check their implementation plan to ensure they do
 not have more work than time remaining.
 * If they do, they will need to create a tentative cut list in case they don't catch up.
 

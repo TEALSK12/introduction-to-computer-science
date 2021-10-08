@@ -7,105 +7,107 @@
 
 # Lesson 1.4: Animation
 
-## Learning Objectives
+## Learning objectives
 
 Students will be able to...
 
-* Animate Snap! sprites using costume changes and movement.
+* Animate sprites using costume changes and movement.
 * Trigger action in other sprites using broadcasts.
 * Implement scripts for multiple sprites.
 
-## Materials/Preparation
+## Materials and preparation
 
-* [Do Now 1.4: Sprite Communication](do_now_14.md.html).
-* [1.4 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.4.pptx)
-* [Lab 1.4 handout (Sprites in Action)](lab_14.md.html)([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([blocks](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.4%20Sprites%20in%20Action.pdf)).
-* [Unit 1 Tips](unit_1_tips.md.html).
-* Video Resource: [https://youtu.be/3x5ZI-mKc44](https://www.youtube.com/watch?v=3x5ZI-mKc44)
+* [Do now 1.4](do_now_14.md.html).
+* [1.4 Slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.4.pptx)
+* [Do now 1.4](do_now_14.md.html).
+* [Lab 1.4 - Sprites in Action](lab_14.md.html)([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([blocks](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.4%20Sprites%20in%20Action.pdf)).
+* [Unit 1 tips](unit_1_tips.md.html).
+* Video resource: [https://youtu.be/3x5ZI-mKc44](https://www.youtube.com/watch?v=3x5ZI-mKc44)
   * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
-* Changing Costumes Video Resource: [https://youtu.be/kgqi7CQLgJU](https://youtu.be/kgqi7CQLgJU)
+* Changing costumes video: [https://youtu.be/kgqi7CQLgJU](https://youtu.be/kgqi7CQLgJU)
 
-## Pacing Guide
+## Pacing guide
 
 | Duration   | Description                                   |
-| ---------- | --------------------------------------------- |
+| :---------- | :--------------------------------------------- |
 | 10 minutes  | Welcome, attendance, bell work, announcements |
 | 10 minutes | Lecture and introduce activity                |
 | 25 minutes | Animation activity                            |
 | 10 minutes | Debrief and wrap-up                           |
 
-## Instructor's Notes
+## Instructor's notes
 
 _Note: The [Lesson 1.4](http://snap.berkeley.edu/snapsource/snap.html#present:Username=brettwo&ProjectName=Lesson%201.4) project has examples of all the concepts covered in this lesson._
 
 ### Warm-up
 
-* Students should complete [Do Now 1.4: Example Animation](do_now_14.md.html) individually. Check to be sure students save a copy of the Example Animation in their personal Snap!accounts so they can refer to it later!
+* Students should complete [Do Now 1.4](do_now_14.md.html) individually.
 
-#### Lecture
+### Lecture
 
 #### Broadcasting
 
-_Note: The [Lesson 1.4](https://snap.berkeley.edu/snap/snap.html#present:Username=andrewspiece&ProjectName=Lesson%201.4_Lecture%20Example) project has examples of all the concepts covered in this lesson._
+Introduce students to the **Costumes** tab and show them how to import costumes to a sprite.
 
-1. Introduce students to the `Costumes` tab and show them how to import costumes to a sprite.
+* Point out that, while a sprite's costumes can be anything, most often the different costumes of a single sprite will be somehow related.
 
-    * Point out that, while a sprite's costumes can be anything, most often the different costumes of a single sprite will be somehow related.
+Demonstrate how to use the **next costume** and **switch to costume** blocks to change the appearance of a sprite.
 
-2. Demonstrate how to use the `next costume` and `switch to costume` blocks to change the appearance of a sprite.
+  ![Next Costume](images/next_costume.png)
 
-    ![Next Costume](images/next_costume.png)
+  ![Switch Costume](images/switch_costume.png)
 
-    ![Switch Costume](images/switch_costume.png)
+* Emphasize that costumes will cycle and that switching to the costume a sprite is already "wearing" is OK.
+* Combine costume switching with movement and other actions to show that blocks of different pallettes can be combined in the same script.
 
-    * Emphasize that costumes will cycle and that switching to the costume a sprite is already "wearing" is OK.
-    * Combine costume switching with movement and other actions to show that blocks of different categories can be combined in the same script.
+Introduce the **broadcast** and **when I receive** blocks and show how they can be used to coordinate action between sprites
 
-3. Introduce the `broadcast` and `when I receive` blocks and show how they can be used to coordinate action between sprites
+  ![broadcast Block](images/broadcast.png)
 
-    ![broadcast Block](images/broadcast.png)
+  ![When I receive](images/when_i_receive.png)
 
-    ![When I receive](images/when_i_receive.png)
+* Point out that all sprites "hear" a broadcast and any sprite with a corresponding **when I receive** block will react.
 
-    * Point out that all sprites "hear" a broadcast and any sprite with a corresponding `when I receive` block will react.
-    * Discuss the difference between `broadcast` and `broadcast and wait` blocks and ask students to come up with ideas for when each would be useful.
+Discuss the difference between **broadcast** and **broadcast and wait** blocks and ask students to come up with ideas for when each would be useful.
 
-      ![broadcast and wait](images/broadcast_and_wait.png)
+![broadcast and wait](images/broadcast_and_wait.png)
 
-4. It's worthwhile to introduce the rotate buttons located at the top left of the Snap! interface. These buttons allow you to Snap your rotation, allowing you to lock rotation, allow free rotation, or allow only left/right rotation.
+It's worthwhile to introduce the rotate buttons. These buttons allow you to Snap your rotation, allowing you to lock rotation, allow free rotation, or allow only left/right rotation.
 
-    ![rotate buttons](images/rotate_button.png)
+![rotate buttons](images/rotate_button.png)
 
-#### Adding more Sprites
+#### Adding more sprites
 
-1. Introduce students to adding more sprites to their script using the `add a new turtle sprite` button.
+Introduce students to adding more sprites to their script using the **add a new turtle sprite** button.
 
-    ![add_a_new_sprite](images/add_a_new_sprite.png)
+![add_a_new_sprite](images/add_a_new_sprite.png)
 
-2. When clicked, the students will notice a new sprite is created with a different color.
+When clicked, the students will notice a new sprite is created with a different color.
 
-3. Have them select the new sprite, then click on `file` > `costumes` > Import > Have them select Alonzo.
+Have them select the new sprite, then click on `file` > `costumes` > import > Have them select a sprite of their choice.
 
-    ![Alonzo](images/alonzo.svg)
-
-4. Show them how they can now write a script for this second sprite that is only for that Sprite.
+Show them how they can now write a script for this second sprite that is only for that Sprite.
 
 ### Activity
 
-* Students should complete the [Sprites in Action](lab_14.md.html) lab individually.
+Students should complete the [Sprites in Action](lab_14.md.html) lab individually.
+
 * Ensure that students create two different sprites for parts 1 and 2 so they do not get the costumes mixed up.
-* Students can submit the assignment using your turn-in procedures or you can check off the work as students complete it.
+
+Students can submit the assignment using your turn-in procedures or you can check off the work as students complete it.
 
 ### Debrief
 
-* Ask a student to show their solution to each part. Call on a different student (either a volunteer or via cold calling) for part 1 and part 2.
-* Note any places in which there may be multiple possible approaches. Ask for volunteers to describe differences in their code.
+Ask a student to show their solution to each part. Call on a different student (either a volunteer or via cold calling) for part 1 and part 2.
+  
+* Note any places in which there may be multiple possible approaches. Ask for volunteers to describe differences in their script.
 
-## Accommodations/Differentiation
+## Accommodations and differentiation
 
-* Students that finish quickly can be encouraged to add more detail to their animations, such as sounds, `say` blocks, and/or more costumes.
-* Especially advanced students can be encouraged to create their own costumes for a new animation that does not use any built-in sprites.
-* With struggling students, re-emphasize the fact that each sprite can have different costumes and that changing costumes is very much like changing position by moving. Get students to be able to change costumes on a key press before moving on to the animation aspect.
+Students that finish quickly can be encouraged to add more detail to their animations, such as sounds, **say** blocks, and/or more costumes.
 
+Especially advanced students can be encouraged to create their own costumes for a new animation that does not use any built-in sprites.
+
+With struggling students, re-emphasize the fact that each sprite can have different costumes and that changing costumes is very much like changing position by moving. Get students to be able to change costumes on a key press before moving on to the animation aspect.
 
 <!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>

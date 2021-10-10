@@ -13,4 +13,4 @@ This could be answered in many ways:
 
 ## In your notebook
 
-After taking few minutes to think who you are, write down your thoughts in your notebook. We will be using who you are to write a Snap! self expression script.
+After taking few minutes to think who you are, write down your thoughts in your notebook. We will be using who you are to write a self expression script.

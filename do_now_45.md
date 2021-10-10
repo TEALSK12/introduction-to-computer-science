@@ -1,10 +1,10 @@
 # List tracing
 
-For each script below, describe what the sprite does when that script is triggered. Number your answers. If you have time, check your answers by assembling these scripts in Snap!.
+For each script below, describe what the sprite does when that script is triggered. Number your answers. If you have time, check your answers by assembling these scripts.
 
-You will need to add the "words, sentences" library to your project to use the **list->sentence** block.  In Snap!:
+You will need to add the "words, sentences" library to your project to use the **list->sentence** block.
 
-1. Click the File Icon in the upper left corner next to the "Snap!" image.  
+1. Click the File Icon in the upper left corner next to the image.  
 2. Click "Libraries..."
 3. Select "Words, sentences"
 4. Click "Import"

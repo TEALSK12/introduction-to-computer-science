@@ -1,11 +1,11 @@
 
 # Triangles, squares and stars
 
-In this lab, you will write your first Snap! scripts to draw some simple shapes on the stage.
+In this lab, you will write your first scripts to draw some simple shapes on the stage.
 
 ## Part 1: Drawing a triangle
 
-1. Modify your Snap! script from the do now activity to draw a triangle when the number 1 is pressed on the keyboard.
+1. Modify your script from the do now activity to draw a triangle when the number 1 is pressed on the keyboard.
 
     ![Angles of a triangle diagram](images/equilateral_triangle.png)
 

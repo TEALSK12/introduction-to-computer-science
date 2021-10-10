@@ -42,7 +42,7 @@ Students will be able to...
 
 Walk students through the project specification, pointing out important details, potential pitfalls, and requirements.
 
-If students are unfamiliar with the concept of the Pong game, spend a couple minutes demonstrating one for the class.  If you have a Snap! or Scratch version, that works best, but an [online game](http://www.ponggame.org/) will work as well.
+If students are unfamiliar with the concept of the Pong game, spend a couple minutes demonstrating one for the class. Here is an [online game](http://www.ponggame.org/) of Pong.
 
 ### Project
 

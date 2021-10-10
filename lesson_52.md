@@ -14,7 +14,7 @@ Students will be able to...
 * [Do now 5.2](do_now_52.md)
 * [5.2 slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%205.2.pptx)
 * [Lab 5.2 - Lots of balls](lab_52.md)([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.2%20Lots%20of%20Balls.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.2%20Lots%20of%20Balls.pdf))
-* Test out the lab on student machines before class (cloning in Snap! can bring the web browser to a crawl on some machines).
+* Test out the lab on student machines before class (cloning can bring the web browser to a crawl on some machines).
 * [Unit 5 tips](unit_5_tips.md)
 * Video resource: [https://youtu.be/KTemYEzAQZQ](https://youtu.be/KTemYEzAQZQ)
 

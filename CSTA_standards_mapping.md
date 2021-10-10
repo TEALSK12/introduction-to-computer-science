@@ -13,10 +13,10 @@ Here you can find the curriculum standards to reference: [https://www.csteachers
 | [0.1: The First Day of School][] | 3A- CS-01 |
 | [0.2: Algorithms][] | 3B-AP-11, 3A-AP-13|
 | [0.3: Programming Languages][] | 3A-CS-02 |
-| [0.4: Snap! Self-Portrait][] | 3A-AP-13, 3B-AP-14|
-| [0.5: Snap! Coordinate System][] | 3A-AP-13 |
+| [0.4: Self-Portrait][] | 3A-AP-13, 3B-AP-14|
+| [0.5: Coordinate System][] | 3A-AP-13 |
 
-## Unit 1: Snap! Basics
+## Unit 1: Basics
 
 | Lesson | Standards |
 | ------ | ---------- |
@@ -85,8 +85,8 @@ Here you can find the curriculum standards to reference: [https://www.csteachers
 [0.1: The First Day of School]:lesson_01.md
 [0.2: Algorithms]:lesson_02.md
 [0.3: Programming Languages]:lesson_03.md
-[0.4: Snap! Self-Portrait]:lesson_04.md
-[0.5: Snap! Coordinate System]:lesson_05.md
+[0.4: Self-Portrait]:lesson_04.md
+[0.5: Coordinate System]:lesson_05.md
 [1.1: Welcome to Snap!]:lesson_11.md
 [1.2: Building Blocks]:lesson_12.md
 [1.3: Drawing Shapes]:lesson_13.md

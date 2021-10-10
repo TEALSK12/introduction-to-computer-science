@@ -10,7 +10,7 @@
 
 All of the following blocks, you have been introduced too. Let's put them together to create a script.
 
-1. Open Snap! and Start a new project.
+1. Open the development environment and Start a new project.
 2. Select the check box next to the `x position` and `position` pointer block to display their values on the stage.
 3. Have your sprite move 100 units to left.
 4. Turn 90 degrees clockwise.

@@ -1,4 +1,4 @@
-# Snap! scavenger hunt
+# Scavenger hunt
 
 In this lab, you will explore the functionality of some common blocks and where they are in the palette.
 
@@ -51,7 +51,7 @@ In this lab, you will explore the functionality of some common blocks and where 
 
 ## Part 3: Put it all together
 
-You are now going to use some of the blocks you've explored to create, save, and submit a Snap! program.
+You are now going to use some of the blocks you've explored to create, save, and submit your program.
 
 1. Create a script that plays 4 different notes with at least 2 rests in between.
 2. Use the **repeat** block to play the song you create in number 1 in a loop.

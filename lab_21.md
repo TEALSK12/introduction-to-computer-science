@@ -1,6 +1,6 @@
 # Squares and triangles redux
 
-In this lab, you will rewrite your Snap! programs from Lab 1.3 to draw shapes using loops.
+In this lab, you will rewrite your programs from Lab 1.3 to draw shapes using loops.
 
 ## Part 1: Back in time
 

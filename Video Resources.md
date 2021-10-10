@@ -7,7 +7,7 @@
 | 0.1: The First Day | https://www.youtube.com/watch?v=cKhVupvyhKk | 1:15 |
 | 0.2: Algorithms | https://youtu.be/ZnBF2GeAKbo | 1:57 |
 | 0.3: Programming Languages | https://www.youtube.com/watch?v=6qF3HmRzg8o | 5:13 |
-| 0.4: Snap!Self Portrait | https://www.youtube.com/watch?v=7fncD7NH7g8 https://youtu.be/_Mwc1gc77dc | 8:16 |
+| 0.4: Self Portrait | https://www.youtube.com/watch?v=7fncD7NH7g8 https://youtu.be/_Mwc1gc77dc | 8:16 |
 | 0.5: Getting to Know Coordinates | https://youtu.be/5ctsUsvIp8w | 2:07 |
 | 1.1: Welcome to Snap!| https://www.youtube.com/watch?v=b-EWj7xN90U | 1:43 |
 | 1.2: Building Blocks | https://youtu.be/u80WYSNxRjM |  |

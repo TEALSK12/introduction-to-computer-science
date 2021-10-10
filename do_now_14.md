@@ -4,7 +4,7 @@
 
 1. Open this [starter script](https://snap.berkeley.edu/snap/snap.html#present:Username=andrewspiece&ProjectName=Do_Now%201.4_Starter).
 
-2. Log into your Snap! account and save the starter project.
+2. Log into your account and save the starter project.
 
 3. Save your project as _Donow15_.
 
@@ -14,7 +14,7 @@
 
 5. Use your mouse to point the cursor at one of the bats. Then, click the mouse button several times.  Notice what happens to the two bats on the screen.
 
-6. Take a look at all of the parts of the Snap! window. Read the comments in the script.  Be sure to explore the tabs at the top of the scripting area and the icons in the Sprite Corral.
+6. Take a look at all of the parts of the window. Read the comments in the script.  Be sure to explore the tabs at the top of the scripting area and the icons in the Sprite Corral.
   
     > Hint: It may be helpful to activate "visual steps" with the footprint icon near the middle of the top tool bar.
 

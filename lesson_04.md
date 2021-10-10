@@ -1,4 +1,4 @@
-# Lesson 0.4: Snap! self-portrait
+# Lesson 0.4: Self-portrait
 
 ## Learning objectives
 

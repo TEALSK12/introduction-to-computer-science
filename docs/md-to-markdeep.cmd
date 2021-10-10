@@ -17,7 +17,7 @@ for %%f in (*.md) do (
     del "%%f"
 )
     
-MOVE /Y README-pages.md.html index.html
+MOVE /Y README.md.html index.html
 
 echo %time%
 

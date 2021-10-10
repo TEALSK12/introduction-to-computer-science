@@ -1,6 +1,6 @@
 # Bouncing ball
 
-1. Open a new Snap! project and change the sprite's costume to a ball.
+1. Open a new project and change the sprite's costume to a ball.
 
 2. Save your project as _Donow26_
 

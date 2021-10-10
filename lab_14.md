@@ -1,10 +1,10 @@
 # Sprites in action
 
-In this lab, you will use costumes and movement to create simple Snap! animations.
+In this lab, you will use costumes and movement to create simple animations.
 
 ## Part 1: Run, Spot, run
 
-1. In a new Snap! project, click on the file menu, then click costumes.  Import the costumes `dog2a` and `dog2b`.
+1. In a new project, click on the file menu, then click costumes.  Import the costumes `dog2a` and `dog2b`.
 
     ![Dog2a](images/dog2a.svg)
     `dog2a`

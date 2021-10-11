@@ -4,11 +4,11 @@ In this lab, you will use conditional statements and variables to build a simple
 
 ## Part 1: I'm thinking of a number
 
-Write a script to choose a random number between 1 and 10 and then ask the user to guess a number.  If the user's guess matches the random number, the user wins.  If not, the user loses.  In either case, the user should be shown a message indicating whether they won, lost and the secret random number should be revealed.
+Write a program to choose a random number between 1 and 10 and then ask the user to guess a number.  If the user's guess matches the random number, the user wins.  If not, the user loses.  In either case, the user should be shown a message indicating whether they won, lost and the secret random number should be revealed.
 
 1. Fill out a [planning worksheet](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx) for the above script.
 
-2. Write the simple version of the guessing game script described above.
+2. Write the simple version of the guessing game program described above.
 
 3. Modify the script to keep asking the user for guesses until the correct number is given.  Be sure to give a message after each guess, but only reveal the secret number when the user has guessed correctly and the game is over.
 
@@ -22,7 +22,7 @@ Write a script to choose a random number between 1 and 10 and then ask the user 
 
 3. Increase the player's chances by telling them whether the guessed number is too high or too low instead of just that it is incorrect.
 
-4. Save your project as _lab24_.
+4. Save your project as _Lab2.4_.
 
 ## Grading rubric
 

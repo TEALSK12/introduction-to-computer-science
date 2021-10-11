@@ -1,6 +1,6 @@
 # Project 1: Animated storytelling
 
-Students will use scripting basics to implement an animated version of a story.
+Students will use programming basics to implement an animated version of a story.
 
 ## Overview
 

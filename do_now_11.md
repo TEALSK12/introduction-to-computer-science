@@ -16,4 +16,4 @@
 
 1. Open the development environment and start a new project.
 2. Using the **say** block have your sprite say "Hello World".
-3. Save your with the file name _Donow11_.
+3. Save your with the file name _DoNow1.1_.

@@ -16,4 +16,4 @@ All of the following blocks, you have been introduced too. Let's put them togeth
 4. Turn 90 degrees clockwise.
 5. Move 100 units.
 6. Write down the coordinates in your notebook.
-7. Save your project as _Donow12_
+7. Save your project as _DoNow1.2_

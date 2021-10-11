@@ -12,4 +12,4 @@ The "list->sentence" block will be one of the blocks added to the operators pall
 
     ![List Do Now](images/list_do_now.png)
 
-5. Save your project as _Donow45_.
+5. Save your project as _DoNow4.5_.

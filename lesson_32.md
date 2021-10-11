@@ -66,13 +66,13 @@ Introduce the concept of modeling
 
 Students should complete "What Goes Up..." lab individually.
 
-Mention that the script written in this lab will be helpful for the end of unit project.
+Mention that the program written in this lab will be helpful for the end of unit project.
 
 ### Debrief
 
 ## Accommodations and differentiation
 
-* Take care to ensure that all students have a functional script by the end of the lab to avoid putting some students at a disadvantage starting the project.
+* Take care to ensure that all students have a functional program by the end of the lab to avoid putting some students at a disadvantage starting the project.
 * If many students struggle, consider releasing your own solution after the lab has been completed in class.
 * Ask the more advanced students to assist struggling students. It is vital that all students complete this lab in advance of starting the project.
 * Advanced students can consider increasing the realism of their gravity model by adding acceleration and/or beginning to implement jumping.

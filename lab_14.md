@@ -49,11 +49,11 @@ In this lab, you will use costumes and movement to create simple animations.
 
 2. Write a script to make this new sprite point away from the dragon and move when the `r` key is pressed.
 
-3. Using the **broadcast** and **when I receive** blocks, modify your script so that instead of moving when the `r` key is pressed, the new sprite moves when the dragon attacks.  The fleeing sprite should move when the dragon starts breathing fire.
+3. Using the **broadcast** and **when I receive** blocks, modify your program so that instead of moving when the `r` key is pressed, the new sprite moves when the dragon attacks.  The fleeing sprite should move when the dragon starts breathing fire.
 
 4. Add a second sprite that runs away from the dragon as well.
 
-5. Save your project as _lab14_.
+5. Save your project as _Lab1.4_.
 
 ## Grading rubric
 

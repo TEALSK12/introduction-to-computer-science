@@ -56,7 +56,7 @@ You are now going to use some of the blocks you've explored to create, save, and
 1. Create a script that plays 4 different notes with at least 2 rests in between.
 2. Use the **repeat** block to play the song you create in number 1 in a loop.
 3. Create a script that initializes the sprite at position (-20, 10). Then, have the sprite draw a shape that has at least 2 different colors and 2 different line thicknesses. _An example would be a square that has 2 thin red sides, and 2 thick blue sides._
-4. Save your project as _lab12_.
+4. Save your project as _Lab1.2_.
 
 ## Grading rubric
 

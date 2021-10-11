@@ -5,11 +5,11 @@ In this lab, you will rewrite your programs from Lab 1.3 to draw shapes using lo
 ## Part 1: Back in time
 
 1. Open your solution to the original "Squares, triangles and stars" activity.
-2. Save your project as _lab21_.
+2. Save your project as _Lab2.1_.
 
     ![Save as](images/save_as.png)
 
-## Part 2: Simplifying your scripting
+## Part 2: Simplifying your program
 
 1. Look at your script to draw a square.  It is probably quite long and has lots of repeated blocks.  Using what you have learned about loops, rewrite this script to be shorter and have less redundancy.  Make sure that your script still works as originally intended.
 

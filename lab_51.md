@@ -111,7 +111,7 @@ Assign each member of your group a different number from 1 to 6.  Each of the si
 
   ![Dots](images/dots.png)
 
-Save your project as _lab51_.
+Save your project as _Lab5.1_.
 
 ## Part 4 - Results
 

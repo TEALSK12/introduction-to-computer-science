@@ -39,7 +39,7 @@ Ask students how they might remove balls if they decide there too many.
 
 Introduce the distinction between "global variables" and "sprite variables".
 
-* Global variables ("for all sprites") are visible to and usable by all sprites in the script.
+* Global variables ("for all sprites") are visible to and usable by all sprites in the program.
 * Sprite variables ("for this sprite only") are only visible to and usable by a single sprite.
 * Emphasize that, when cloning is used, each clone gets its own copy of any sprite variables inherited from the prototype.
 

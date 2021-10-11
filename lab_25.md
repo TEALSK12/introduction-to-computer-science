@@ -4,7 +4,7 @@ In this lab, you will use Boolean operators to determine what sort of triangle a
 
 ## Part 1: Is that even possible
 
-1. Write a script that asks the user for the lengths of all three sides of a triangle (_a_, _b_, _c_).  Store each length in a variable.  Then use the `say` block to display the perimeter of the triangle with those three side lengths.
+1. Write a program that asks the user for the lengths of all three sides of a triangle (_a_, _b_, _c_).  Store each length in a variable.  Then use the `say` block to display the perimeter of the triangle with those three side lengths.
 
 2. **Real Triangle Check:** Modify your script to check the three side lengths can form a Real triangle.  Remember that, in any Real triangle, the sum of the lengths of any two sides is greater than the length of the third side.  So, if the triangle has side lengths *a*, *b*, and *c*, then all of the following must be true:
 
@@ -30,7 +30,7 @@ If the sides given cannot make a real triangle, **say** "this is not a Real tria
     | Isosceles     | Two side lengths equal, one different. |
     | Scalene       | All three side lengths different.      |
 
-3. Save your project as _lab25_.
+3. Save your project as _Lab2.5_.
 
 ## Grading rubric
 

@@ -220,7 +220,7 @@ Snap! is an extended reimplementation of [Scratch](http://scratch.mit.edu) that 
 
 ### Scripts
 
-Different types of blocks linked together
+Different types of blocks linked together.
 
 ### Sequential Search Algorithm
 
@@ -266,7 +266,7 @@ A tool for evaluating the possible inputs and outputs of a Boolean expression.
 
 ### Variable
 
-A placeholder for some value. Types of variables:Global variables - apply to all sprites Sprite variable - applies to one sprite Script variable - parameter that applies to one script
+A placeholder for some value. Types of variables:Global variables - apply to all sprites Sprite variable - applies to one sprite script variable - parameter that applies to one script
 
 ## W
 

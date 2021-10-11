@@ -4,7 +4,7 @@
 
 Students will be able to...
 
-* Apply variables to track values throughout a script.
+* Apply variables to track values throughout a script or program.
 
 ## Materials and preparation
 

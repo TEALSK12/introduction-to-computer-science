@@ -11,7 +11,7 @@
 
 1. Using this [starter script](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Snap%20Coordinate%20System%20Intro) from the classroom activity, create a drawing that has at least 10 coordinates.
 
-2. Save your project as _lab05_.
+2. Save your project as _Lab0.5_.
 
     Here is an example with 8 coordinates:
 

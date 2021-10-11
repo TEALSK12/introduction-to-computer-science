@@ -6,7 +6,7 @@ In this lab, you will create a list of names and then look through the list pull
 
 1. Create a list of six different names (e.g. the names of your favorite music artists, family members, authors, celebrities, etc.).
 
-2. Write a script to welcome each person individually to the script one at a time.  (For example, "Welcome, John.")  
+2. Write a program to welcome each person individually to the program one at a time.  (For example, "Welcome, John.")  
 
 3. Write a new script that welcomes all the players at once.  For example, your new script should say "Welcome John, Kayla, and Michael."  First, by writing a script that can say all the names on one line. Then add the commas and the word "and".  Make sure your script works correctly no matter how many names are in the list.
 
@@ -26,7 +26,7 @@ In this lab, you will create a list of names and then look through the list pull
     | 4 | Are not the first two or last two names in the list | Michelle, John |
     | 5 (Bonus) | Contain the letter 'e' | Eric, Michelle, Caleb |
 
-4. Save your project as _lab43_.
+4. Save your project as _Lab4.3_.
 
 ## Grading rubric
 

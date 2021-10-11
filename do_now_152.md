@@ -10,4 +10,4 @@
 
     ![change size by](images/change_size_by.png)
 
-2. Save your project as _Donow152_.
+2. Save your project as _DoNow1.5.2_.

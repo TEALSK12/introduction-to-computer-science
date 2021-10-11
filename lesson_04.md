@@ -38,7 +38,7 @@ Students will be able to...
 
 Play [introductory video](https://youtu.be/b-EWj7xN90U) of Snap! put together by Jens Moenig
 
-Tell students that today they will explore and use it to create a "self-portrait" script.
+Tell students that today they will explore and use it to create a "self-portrait" program.
 
 * Emphasize that the goal of today's lesson is **_not_** for students to develop a deep understanding of any of the features. Later lessons will teach them everything they need to know.  For now, they should just explore, figure out what they can, and put it to use however they see fit.
 
@@ -88,24 +88,24 @@ Students will be able to share the URL of their projects for submission purposes
 
 ### Debrief
 
-Ask each student to identify and describe _one_ feature they discovered in script.  Keep a running list on the whiteboard or projector.
+Ask each student to identify and describe _one_ feature they discovered in the program.  Keep a running list on the whiteboard or projector.
 
 * If the students build a pretty comprehensive list, you can use this as a chance to go over a brief roadmap for the course.
-* Ask students what they enjoyed about working with script and what they disliked.
+* Ask students what they enjoyed about working with program and what they disliked.
 
 ## Accommodation and differentiation
 
-Allow students to use whatever resources they need, including instructors, peers, and web searches if necessary, to create their scripts.  The goal of this lesson is exploration and exposure, not mastery.
+Allow students to use whatever resources they need, including instructors, peers, and web searches if necessary, to create their programs.  The goal of this lesson is exploration and exposure, not mastery.
 
 For students that are hesitant or unwilling to engage, point out some simple, useful features (like basic drawing and the **Say** block) to get them started.  Remind them that complexity or "coolness" are not important for this lab.
 
 ![Say Block](images/say.png)
 
-If you wish, you can add a second day to this lesson for students to share out their scripts on a volunteer basis.  Work with your classroom teacher and/or school IT staff to determine the best way for students to be able to present.
+If you wish, you can add a second day to this lesson for students to share out their programs on a volunteer basis.  Work with your classroom teacher and/or school IT staff to determine the best way for students to be able to present.
 
 One simple option is to have volunteering students share their projects with you, and then show each one in turn on the teacher computer/projector.
 
-Have a plan for collecting or accumulating the students' scripts, which you can then use to get to know your class!
+Have a plan for collecting or accumulating the students' projects, which you can then use to get to know your class!
 
 `This Lesson was designed by J-Mag Guthrie, TEALS Volunteer, Texas`
 

@@ -6,4 +6,4 @@
 
    ![item](images/item.png)
 
-3. Save your project as _Donow43_.
+3. Save your project as _DoNow4.3_.

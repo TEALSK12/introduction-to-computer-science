@@ -5,7 +5,7 @@
 1. Open this [starter script](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=Equalteral%20Triangle)
 
 2. exit full screen
-3. Save your project as _Donow13_.
+3. Save your project as _DoNow1.3_.
 4. You can use this as a starting point for today's lab.
 
 > Try enabling `visible steps` near the middle of the top toolbar. Adjust the slider so you can see what happens as you step through your script.

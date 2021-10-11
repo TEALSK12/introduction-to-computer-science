@@ -47,7 +47,7 @@ In each part, the group will draw the letter 'C' six times, using slightly diffe
 
 Ask each group to share their answers to the questions at the end of each part.
 
-Discuss how this approach could be applied to scripting.
+Discuss how this approach could be applied to programming.
 
 Introduce the terms _prototyping_ and _cloning_ as (mostly) synonyms:
 

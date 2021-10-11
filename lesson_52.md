@@ -46,7 +46,7 @@ Ask students to think about how we create all the “invaders”?
 Ask what might go wrong or be bad about this approach.
 
 * If anything in an invader changes, it will need to be changed many times.
-* Lots of sprites clogging up the script that are all basically doing the same thing.
+* Lots of sprites clogging up the program that are all basically doing the same thing.
 
 #### Demonstration
 
@@ -67,7 +67,7 @@ Emphasize the importance of using **When I start as a clone** block to ensure cl
 Students should complete the [Lots of balls](lab_52.md) lab.
 
 * This lab will be repeating much of what was in the lesson. This is intentional.
-* Students should focus on ensuring they are differentiating between "master" sprites and "clone" sprites, and that the stage is serving as the main "driver" for the script.
+* Students should focus on ensuring they are differentiating between "master" sprites and "clone" sprites, and that the stage is serving as the main "driver" for the program.
 
 ## Accommodations and differentiation
 

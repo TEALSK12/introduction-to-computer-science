@@ -1,12 +1,12 @@
 # Getting to know you
 
-In this lab, you will explorecand create a simple "self-portrait" script to introduce yourself to your teachers and classmates.
+In this lab, you will explore and create a simple "self-portrait" program to introduce yourself to your teachers and classmates.
 
 ## Part 1 - Exploring
 
 1. Open a new project.
 
-2. In order to save your script, the first thing you'll need to do is to create an account. In the browser window, find the cloud-shaped button in the top toolbar on the upper left corner of the window.
+2. In order to save your project, the first thing you'll need to do is to create an account. In the browser window, find the cloud-shaped button in the top toolbar on the upper left corner of the window.
     ![The cloud menu button](images/cloud_button.png)
 
     Click it, select the "sign up" option in the menu, and follow the instructions there. You will need to check your email after creating your account to get your initial password.  Your username will be the first part of your school email address.  If you need help, ask.
@@ -32,7 +32,7 @@ In this lab, you will explorecand create a simple "self-portrait" script to intr
 
 ## Part 2 - Self - portrait
 
-Using what you've learned and other things you might discover, create a script that describes yourself. This can take whatever form and use whatever tools and blocks you want. Make sure your script includes following information:
+Using what you've learned and other things you might discover, create a program that describes yourself. This can take whatever form and use whatever tools and blocks you want. Make sure your script includes following information:
 
 * Your name
 * Your current grade
@@ -44,7 +44,7 @@ Using what you've learned and other things you might discover, create a script t
 * What you think learning CS will be like?
 * What are some of your favorite uses of technology?
 
-1. Save your project as _lab04_.
+1. Save your project as _Lab0.4_.
 
 2. Submit your _self portrait_ using the submission instructions given to you by your instructor. If you are having trouble saving, here is a great video:  [https://youtu.be/VHts_QAp3XU](https://youtu.be/VHts_QAp3XU)
 

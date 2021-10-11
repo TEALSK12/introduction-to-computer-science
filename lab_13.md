@@ -1,11 +1,11 @@
 
 # Triangles, squares and stars
 
-In this lab, you will write your first scripts to draw some simple shapes on the stage.
+In this lab, you will write your first program to draw some simple shapes on the stage.
 
 ## Part 1: Drawing a triangle
 
-1. Modify your script from the do now activity to draw a triangle when the number 1 is pressed on the keyboard.
+1. Modify your program from the do now activity to draw a triangle when the number 1 is pressed on the keyboard.
 
     ![Angles of a triangle diagram](images/equilateral_triangle.png)
 
@@ -34,7 +34,7 @@ In this lab, you will write your first scripts to draw some simple shapes on the
 
 4. Modify your script so the sprite is hidden when it is not drawing.  This will ensure the sprite is not obstructing the view of your beautiful artwork!
 
-5. Save your project as _lab13_.
+5. Save your project as _Lab1.3_.
 
 ## Grading rubric
 

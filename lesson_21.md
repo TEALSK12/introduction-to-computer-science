@@ -4,10 +4,10 @@
 
 Students will be able to...
 
-* Define **loop** in a scripting context.
+* Define **loop** in a programming context.
 * Explain why loops are useful.
 * Implement simple repeat and forever loops.
-* Apply loops to reduce redundancy in script.
+* Apply loops to reduce redundancy in scripts.
 
 ## Material and Preparation
 
@@ -37,12 +37,12 @@ Students will be able to...
 
 ### Lecture
 
-Introduce and discuss concepts of code redundancy and readability. Remind students that a script can be written in many different ways that are functionally equivalent.
+Introduce and discuss concepts of code redundancy and readability. Remind students that a program can be written in many different ways that are functionally equivalent.
 
-* Ask students to speculate as to why one version of a script might be better or worse.
+* Ask students to speculate as to why one version of a program might be better or worse.
   * Possible answers: more efficient (in time or space), shorter code, more elegant/readable code.
 
-Show [this example](https://snap.berkeley.edu/snap/snap.html#present:Username=andrewspiece&ProjectName=Lesson%202.1%20Example) to demonstrate unreadable script and give examples on how the **repeat** blocks (loops) can help make more concise scripting.
+Show [this example](https://snap.berkeley.edu/snap/snap.html#present:Username=andrewspiece&ProjectName=Lesson%202.1%20Example) to demonstrate unreadable program and give examples on how the **repeat** blocks (loops) can help make more concise scripting.
 
 * Show students the script, ask what it does, then ask if they can think of ways to improve it.
 * Attempt to get students to realize that the script is _redundant_ and could be simplified if there were a way to execute a block of script more than once.

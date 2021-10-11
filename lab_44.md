@@ -18,7 +18,7 @@ Write 5 custom **reporter** blocks that takes a list as an argument. You can ass
 
 2. Write a custom **reporter** block called **only evens** that takes a list of numbers as an argument and reports a new list that contains only the even numbers from the list.  The result list should have its values in the same order as the original list, but with the odd integers removed.  (Remember that **mod** block can be useful in determining whether or not a number is even.)
 
-3. Save your project as _lab42_.
+3. Save your project as _Lab4.2_.
 
 Bonus: Write a custom **reporter** block called **add all** that takes two list of numbers as arguments and returns a new list that contains the sum of the corresponding values in each argument list.  For example, if the arguments to **add all** are (1, 4, 6) and (2, 2, 3), the result should be (3, 6, 9).  You can assume the two lists will be the same size.
 

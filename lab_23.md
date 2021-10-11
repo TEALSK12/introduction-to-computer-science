@@ -5,13 +5,13 @@ In this lab, you will use user input and conditional statements to identify shap
 
 ## Part 1: Triangle...or no triangle
 
-1. Write a script that asks the user to think of a shape and input how many sides it has.  Then, if the user is thinking of a triangle, tell him or her so.  Regardless of whether or not the shape was a triangle, thank the user for playing.
+1. Write a program that asks the user to think of a shape and input how many sides it has.  Then, if the user is thinking of a triangle, tell him or her so.  Regardless of whether or not the shape was a triangle, thank the user for playing.
 
-2. Modify your script to give an appropriate message both when the user _is_ thinking of a triangle and when he or she _is not_ thinking of a triangle.  Give the same thank you message afterward in either case.
+2. Modify your program to give an appropriate message both when the user _is_ thinking of a triangle and when he or she _is not_ thinking of a triangle.  Give the same thank you message afterward in either case.
 
 ## Part 2: Name the polygon
 
-You will now expand your script from above so that instead of just deciding if a shape is a triangle or not, your script will be able to name the specific polygon.  Your script must be able to identify at least the following shapes:  
+You will now expand your program from above so that instead of just deciding if a shape is a triangle or not, your script will be able to name the specific polygon.  Your script must be able to identify at least the following shapes:  
 
 | **Number of sides** | **Polygon name** |
 | :----------------- | :-------------- |
@@ -21,9 +21,9 @@ You will now expand your script from above so that instead of just deciding if a
 | 6                 | Hexagon        |
 | any other number  | Unknown        |
 
-1. Fill out a [Planning Worksheet](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/SNAP%20script%20Design%20and%20Planning%20Worksheet.docx) for the above script.  Make sure you consider all aspects of the script carefully.
+1. Fill out a [Planning Worksheet](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/SNAP%20script%20Design%20and%20Planning%20Worksheet.docx) for the above script.  Make sure you consider all aspects of the program carefully.
 
-2. Write the script.  Be sure that your script works correctly in all cases.
+2. Write the program.  Be sure that your program works correctly in all cases.
 
 ## Part 3: Quadrilateral Fever
 
@@ -39,11 +39,11 @@ Quadrilaterals come in many different varieties.  Add scripting to your script s
 
 ![Quadrilaterals Sets](images/quadrilateral_sets.png)
 
-1. Fill out a [planning worksheet](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/SNAP%20script%20Design%20and%20Planning%20Worksheet.docx) for the above script.  Make sure you consider all aspects of the script carefully.
+1. Fill out a [planning worksheet](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/SNAP%20script%20Design%20and%20Planning%20Worksheet.docx) for the above script.  Make sure you consider all aspects of the program carefully.
 
-2. Write the script.  Be sure that your script works correctly in all cases.
+2. Write the program.  Be sure that your program works correctly in all cases.
 
-3. Save your project as _lab23_.
+3. Save your project as _Lab2.3_.
 
 ## Grading rubric
 

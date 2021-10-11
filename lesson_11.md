@@ -72,7 +72,7 @@ Point out key aspects of Snap! in each section, including:
 Individually or in pairs, have students continue working through the [Welcome to Snap!](lab_11.md) lab activity.  
 
 * Students should answer all questions and complete all activities and turn them in using your chosen turn-in procedure.
-* For scripts, including the kaleidoscope script, students should save the script to the cloud and share a link with you.
+* For programs, including the kaleidoscope program, students should save the project to the cloud and share a link with you.
 
 #### Turn-in procedures
 
@@ -99,15 +99,15 @@ Judge the appropriate time based on observing student progress.
 
 #### Debrief and wrap-up
 
-Discuss the challenges in the Kaleidoscope script.
+Discuss the challenges in the Kaleidoscope program.
 
-* If time allows, ask one or two students to demonstrate and describe their scripts.
+* If time allows, ask one or two students to demonstrate and describe their programs.
 
 Remind students of the turn-in procedures discussed yesterday and ensure all students can turn in their work.
 
 ## Accommodations and differentiation
 
-For students that finish the lab early, encourage them to add more advanced features to their Kaleidoscope script, exploring parts of Snap! not covered in the lab.
+For students that finish the lab early, encourage them to add more advanced features to their Kaleidoscope program, exploring parts of Snap! not covered in the lab.
 
 Students that are struggling with the lab can be paired and receive individual instruction to help them through the activity.  You can also use [helping trios activity](helping_trios.md).
 

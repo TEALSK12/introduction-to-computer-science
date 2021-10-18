@@ -65,7 +65,6 @@ When using the approach, be sure that all students have a chance to contribute a
 This can either be open-ended, allowing each group to discuss whatever they choose, or a ["jigsaw"](https://www.jigsaw.org/)-style activity where each group is given one question to focus on.
 
 * [Video explanation](https://youtu.be/-9AWNl-A-34) of a think-pair-share activity.
-
 * Have students share out about their discussions with the class.
 
 #### Think-pair-share

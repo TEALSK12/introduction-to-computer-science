@@ -24,7 +24,7 @@ Pictures that fill the entire stage area.
 
 ### Block
 
-Puzzle-piece shapes that are used to create code in snap!
+Puzzle-piece shapes that are used to create code.
 
 ### Boolean Expression
 
@@ -214,13 +214,13 @@ The block gives its sprite a speech bubble with the specified text — the speec
 
 A description of a set of interactions and/or tasks that describe a start-to-finish example of how a user might want to use the application
 
-### Snap
+### Snap!
 
 Snap! is an extended reimplementation of [Scratch](http://scratch.mit.edu) that allows you to Build Your Own Blocks.  It also features ﬁrst class lists, ﬁrst class procedures, first class sprites, first class costumes, first class sounds, and first class continuations.  These added capabilities make it suitable for a serious introduction to computer science for high school or college students.
 
 ### Scripts
 
-Different types of blocks linked together
+Different types of blocks linked together.
 
 ### Sequential Search Algorithm
 
@@ -228,7 +228,7 @@ A method for finding a target value within a list. It sequentially checks each e
 
 ### Sprites
 
-An object in Snap! Which performs functions controlled by scripts.
+An object which performs functions controlled by scripts.
 
 ### Stage
 
@@ -266,7 +266,7 @@ A tool for evaluating the possible inputs and outputs of a Boolean expression.
 
 ### Variable
 
-A placeholder for some value. Types of variables:Global variables - apply to all sprites Sprite variable - applies to one sprite Script variable - parameter that applies to one script
+A placeholder for some value. Types of variables:Global variables - apply to all sprites Sprite variable - applies to one sprite script variable - parameter that applies to one script
 
 ## W
 

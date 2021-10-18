@@ -1,4 +1,6 @@
-# Do Now 4.4 Traversing List
+# Traversing lists
+
+## In your notebook
 
 1. Describe what it means to "traverse a list".
 

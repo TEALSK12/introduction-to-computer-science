@@ -1,5 +1,14 @@
 # Change Log
 
+## [2.2.3] - 2021-10-09
+
+|Unit     | Change |
+|---------|--------|
+| All lessons, labs, projects and do nows | Aligned to MS style guide |
+| Slide decks | Added a .zip of all slide decks to be downloaded at once. |
+| Unit 0 | Lab .docx and .pdf aligned to Teals branding |
+| Culture day lessons | updated for clarity |
+
 ## [2.2.2] - 2021-6-10
 
 |Unit     | Change |

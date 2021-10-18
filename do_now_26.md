@@ -1,8 +1,10 @@
-# Do now 2.6 - Bouncing ball
+# Bouncing ball
 
-1. Open a new Snap! project and change the sprite's costume to a ball.
+1. Open a new project and change the sprite's costume to a ball.
 
-2. Using the following blocks, write a script that continuously moves the ball across the screen and bounces the ball when it hits the edge of the screen.
+2. Save your project as _DoNow2.6_
+
+3. Using the following blocks, write a script that continuously moves the ball across the screen and bounces the ball when it hits the edge of the screen.
 
     ![if on edge, bounce](images/if_edge_bounce.png)
 
@@ -12,6 +14,6 @@
 
     ![forever](images/forever.png)
 
-3. Add a second sprite.  Add the same script from step 2 above for the new sprite.
+4. Add a second sprite.  Add the same script from step 2 above for the new sprite.
 
-4. What happens when you run?  Explain what you observe.
+5. What happens when you run?  Explain what you observe.

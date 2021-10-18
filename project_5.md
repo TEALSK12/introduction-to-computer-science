@@ -1,6 +1,6 @@
 # Project 5 - Space Invaders
 
-Students will implement a Snap! version of the classic arcade game _Space Invaders_.
+Students will implement a version of the classic arcade game _Space Invaders_.
 
 ## Overview
 
@@ -18,11 +18,11 @@ Your implementation of Space Invaders will include at least three main sprites: 
 
 * **Projectiles** are fired by both the player and the invaders.  The player fires a projectile when the user presses the space bar, while the invaders fire randomly.  A projectile should originate at the position of the sprite that fired it and move quickly up or down the stage until hitting either an invader, the player, or the edge of the stage.  If the projectile hits an invader or player, that invader or the player should be destroyed.  Upon hitting either an edge of the stage or another sprite, the projectile should then disappear.  Only one invader may fire a projectile at time, and another invader may not fire until the projectile has disappeared.  The player has an unlimited supply of projectiles, but may only shoot _three_ at a time.
 
-### Starting the Game
+### Starting the game
 
 When the green flag is clicked, the game should initialize and a welcome screen should be displayed to the user (think of this as inserting a coin into an arcade machine).  The welcome screen should include a “Start Game” button that, when clicked, begins the actual game.  The welcome screen should also display some basic information about the game.
 
-### Lives and Game Over
+### Lives and game over
 
 The player begins the game with three lives, and loses a life each time an invader either touches the player or reaches the bottom of the stage.  When the player loses a life, the game should halt momentarily.  All invaders and projectiles should disappear, and there should be a visual indication that the player has lost a life (message, change in costume, etc.).  After a brief delay, the game should restart with all invaders at the top of the stage and the player having one fewer life.  When the player loses its final life, the game ends and a “Game Over” message should be displayed.  A “New Game” button should then be displayed that, when click, restarts the game from the beginning.
 
@@ -34,62 +34,63 @@ Each time the player manages to destroy all the invaders on the screen, he or sh
 
 Each time the player destroys an invader, points should be earned.  Scoring should start at 100 points per invader in the first level, and increase by 50 points per invader in each successive level.  So, for example, each invader in level 2 is worth 150 points, each in level 3 is worth 200 points, at so on.  The player’s score should be displayed on the stage throughout the game and be featured on the “Game Over” screen.
 
-### Implementation Details
+### Implementation details
 
-#### Documentation and Style
+#### Documentation and style
 
-As with all previous projects, your program must be well-written, well-documented, and readable.  This includes, but is not limited to:
+As with all previous projects, your script must be well-written, well-documented, and readable.  This includes, but is not limited to:
 
 * organizing your scripts so that they can be read and comprehended easily
 * giving your sprites meaningful names
 * naming and using your variables, lists, and custom blocks well
-* including comments to describe the structure of your program and any particularly complex or unintuitive pieces of code
+* including comments to describe the structure of your script and any particularly complex or unintuitive pieces of script
 * separating master sprites from clones, and cleaning up clones that are finished (see below)
 
 #### Cloning
 
-The invaders and the projectiles should be implemented using prototyping.  A single master sprite should be implemented for each type and clones should be created each time a new instance of the sprite is needed.  The master sprites should be hidden throughout the program and should not take part in gameplay.
+The invaders and the projectiles should be implemented using prototyping.  A single master sprite should be implemented for each type and clones should be created each time a new instance of the sprite is needed.  The master sprites should be hidden throughout the script and should not take part in gameplay.
 
-#### Required Snap! Elements
+#### Required elements
 
-Your program must include the following Snap! elements:
-    * At least three variables
-    * At least two custom blocks, at least one of which must take an argument
+Your script must include the following elements:
+
+* At least three variables
+* At least two custom blocks, at least one of which must take an argument
 
 ## Required Checkpoints
 
-1. Have the player and a single invader moving correctly
-2. Be able to clone invaders and have the entire group move correctly
-3. Be able to fire projectiles from both the player (when the space bar is pressed) and the invaders (randomly)
+1. Have the player and a single invader moving correctly.
+2. Be able to clone invaders and have the entire group move correctly.
+3. Be able to fire projectiles from both the player (when the space bar is pressed) and the invaders (randomly).
 
-## Grading Scheme/Rubric
+## Grading rubric
 
-|Functional Correctness (Behavior)| |
-|--|--|
-|Welcome screen containing game info displayed green flag clicked| 1 point|
-|Start button displayed and game starts when clicked |1 point|
-|Keyboard control of player (including shooting) |1 point|
-|Multiple invaders |2 points|
-|Invaders attack in formation |2 points|
-|Invaders die when hit by projectile |1 point|
-|Player earns points when an invader is killed  |1 point|
-|Player fires projectiles correctly |2 points|
-|Invaders fire projectiles correctly | 3 points |
-|Player loses life and level resets when player or bottom of stage touched by invader |2 points|
-|Game ends and new game screen appears when player is out of lives |1 point|
-|Level changes when all invaders are destroyed |1 point|
-|Invaders speed up in each level |1 point|
-|Point values increase each level |1 point|
-|**SubTotal**|_20 points_|
+|Functional Correctness (Behavior)| Points |
+|:--|:--|
+|Welcome screen containing game info displayed green flag clicked| 1 |
+|Start button displayed and game starts when clicked |1 |
+|Keyboard control of player (including shooting) |1 |
+|Multiple invaders |2 |
+|Invaders attack in formation |2|
+|Invaders die when hit by projectile |1 |
+|Player earns s when an invader is killed  |1 |
+|Player fires projectiles correctly |2 |
+|Invaders fire projectiles correctly | 3 |
+|Player loses life and level resets when player or bottom of stage touched by invader |2 |
+|Game ends and new game screen appears when player is out of lives |1 |
+|Level changes when all invaders are destroyed |1 |
+|Invaders speed up in each level |1 |
+| values increase each level |1 |
+|**SubTotal**| **20** |
 |**Technical Correctness (Implementation)** | |
-|Program is well-documented and shows good style |2 points|
-|Program shows creativity and effort |2 points|
-|Invaders and projectiles are implemented using cloning | 3 points |
-|Program operates correctly under all normal conditions (aka “No bugs”) |3 points|
-|Program uses at least three variables |2 points|
-|Program includes two custom blocks, one of which accepts arguments |3 points|
-|Checkpoint 1 | 5 points |
-|Checkpoint 2 | 5 points |
-|Checkpoint 3 | 5 points |
-|**SubTotal**| **30 points** |
-|**Total**|**50 points**|
+|script is well-documented and shows good style |2 |
+|script shows creativity and effort |2|
+|Invaders and projectiles are implemented using cloning | 3 |
+|script operates correctly under all normal conditions (aka “No bugs”) |3 |
+|script uses at least three variables |2 |
+|script includes two custom blocks, one of which accepts arguments |3 |
+|Check 1 | 5 |
+|Check 2 | 5 |
+|Check 3 | 5 |
+|**SubTotal**| **30** |
+|**Total**|**50**|

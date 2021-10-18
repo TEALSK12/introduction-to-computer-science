@@ -1,10 +1,10 @@
-# Do Now 2.4 Debugging
+# Debugging
 
-Take a look at the [Two Sprites Tag](https://snap.berkeley.edu/snap/snap.html#present:Username=andrewspiece&ProjectName=Do_Now%202.4_Starter) game.
-
-* In this two-player game, Alonzo is trying to catch the Blue Dog. Both Alonzo and the Blue Dog are controlled using keys on the keyboard.
-* There are at least six bugs in this program - four of them affect the game play and two of them are cosmetic.
-* Fix all of the bugs to get the scripts working correctly.
+1. Open this [starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=andrewspiece&ProjectName=Do_Now%202.4_Starter) game.
+2. Save your project as _DoNow2.4_
+3. In this two-player game, Alonzo is trying to catch the blue dog. Both Alonzo and the blue dog are controlled using keys on the keyboard.
+4. There are at least six bugs in this program. Four of them affect the game play and two of them are cosmetic.
+5. Fix all of the bugs to get the program working correctly.
 
 ## Respond to the following in your notebook
 

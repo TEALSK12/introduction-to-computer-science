@@ -1,6 +1,6 @@
-# Lesson 6.6 - Project Sharing
+# Lesson 6.6 - Project sharing
 
-## Learning Objectives
+## Learning objectives
 
 Students will be able to...
 
@@ -14,7 +14,7 @@ Students will be able to...
 
 ### Emphasize with students
 
-#### Curriculum Competencies - Share, Applied Skills, Applied Technologies
+#### Curriculum competencies - Share, applied Skills, applied Technologies
 
 At the end of the day, software must connect with people.  Now it's time to share your project with others!  
 It's also fun, and helpful, to see what others have been doing.  
@@ -23,55 +23,62 @@ Furthermore, it's time to reflect on the whole development process, and share wh
 
 Invite questions and feedback from peers and guests.  Celebrate your achievement.  Consider ideas for improvement and future work. Think about how you could do things differently using other tools/strategies. Think about how this project might be adapted for, or influenced by, another culture, social situation, or target user group.
 
-## Materials/Preparation
+## Materials and Preparation
 
-* [Unit 6 Tips](unit_6_tips.md)
-* [Final Project Specifications][] ([docx][])([pdf][])
-* [Final Project Plan Organizer][]
-* [Final Project Development Plan][]
-* [Examples of TEALS Final Projects](https://youtu.be/aV6LFVXxd34)
+* [Unit 6 tips](unit_6_tips.md)
+* [Final project specifications][] ([docx][])([pdf][])
+* [Final project plan organizer][]
+* [Final project development plan][]
+* [Examples of TEALS final projects](https://youtu.be/aV6LFVXxd34)
 
-## Pacing Guide
+## Pacing guide
 
 | Duration      | Description                                   |
 | ------------- | --------------------------------------------- |
 | _Sharing Day_   |                                               |
 | 5 minutes     | Welcome, introduction |
-| 40 minutes    | Project Sharing (Format defined by teacher)                           |
+| 40 minutes    | Project sharing (Format defined by teacher)                           |
 | 10 minutes    | Concluding thoughts                                   |
 
-## Instructor's Notes
+## Instructor's notes
 
 ### Preparation
 
-* Choose a date for Project Sharing ahead of time, and inform students of the format.
-* Check that each student's planning documents, and or daily journal notes, are up to date
-* Some possible formats (depends on the size of your class):
+Choose a date for project sharing ahead of time, and inform students of the format.
+
+Check that each student's planning documents, and or daily journal notes, are up to date
+
+Some possible formats (depends on the size of your class):
+
 * 40 minutes for individual presentations, followed by 10 minutes of "open-floor" time where students can roam around the classroom and look at each other's work science-fair style, and answer questions;
 * Prepare a Project Walk-through video ahead of time, showcasing their project;
 * Share in pairs, and then shift to the next table/chair round-robin, or jigsaw style;  
 * Conduct an interview of a few projects at the beginning of class over a period of time.
-* This may be a good opportunity to invite guests or visitors to your classroom.
+
+This may be a good opportunity to invite guests or visitors to your classroom.
 
 Peer feedback is valuable.  It helps us grow.  This can be done by having a few minutes for Q&A after the presentation.  Or, peers can be invited to complete a short survey.  Remember to put any emotions or hard feelings aside.
 
 ### Sharing Content
 
-* Inform students that their sharing should include:  pitch or poster (highlight key features); demo (how it works); reflections on their development process (what went well? what didn't go well);  lessons learned;  ideas for future work.
-* Other questions to consider:
-  * What skills did you use to complete this project?
-  * What other skills do you wish you had?
-  * How does your project/product compare to other ones that you have seen?
-  * How does a project/product like yours impact societal change?
-  * Do you foresee any unintended, or negative consequences, of it's use?
-  * How might someone of a different culture, value or ethical position view your project/product?
+Inform students that their sharing should include:  pitch or poster (highlight key features); demo (how it works); reflections on their development process (what went well? what didn't go well);  lessons learned;  ideas for future work.
+
+Other questions to consider:
+
+* What skills did you use to complete this project?
+* What other skills do you wish you had?
+* How does your project/product compare to other ones that you have seen?
+* How does a project/product like yours impact societal change?
+* Do you foresee any unintended, or negative consequences, of it's use?
+* How might someone of a different culture, value or ethical position view your project/product?
 
 ### Concluding thoughts
 
-* Congratulate students on completion of project.
-* Emphasize that while having a fun final product to show others is great, this Unit is also about practicing a project management flow, where learning from self-reflection and experience (both good and bad - even mistakes) is invaluable.
+Congratulate students on completion of project.
 
-## Accommodation/Differentiation
+Emphasize that while having a fun final product to show others is great, this Unit is also about practicing a project management flow, where learning from self-reflection and experience (both good and bad - even mistakes) is invaluable.
+
+## Accommodation and differentiation
 
 Students who are shy and afraid of public speaking may be given the option of preparing a "walk-through" video to show-case their project experience.
 

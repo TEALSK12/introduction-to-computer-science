@@ -1,11 +1,13 @@
-# Do Now 3.2 Sprite Control
+# Sprite control
 
-Open the following [Starter code](https://snap.berkeley.edu/snap/snap.html#present:Username=andrewspiece&ProjectName=Do_Now%203.2_Starter)
+1. Open this [starter program](https://snap.berkeley.edu/snap/snap.html#present:Username=andrewspiece&ProjectName=Do_Now%203.2_Starter).
 
-## Add scripting to do the following
+2. Save your project as _DoNow3.2_.
 
-1. Move Dino up 1 unit at a time when you press the `arrow up` key. You must use the `change y by` block.
-2. Move Dino down 1 unit at a time when you press the `arrow down` key. You must use the `change y by` block.
-3. Don't let Dino leave the screen.
-4. Don't let Dino go through the platform.
-5. Don't let Dino go underground.
+3. Add to the program to do the following:
+
+    * Move Dino up 1 unit at a time when you press the **arrow up** key. You must use the **change y by** block.
+    * Move Dino down 1 unit at a time when you press the **arrow down** key. You must use the **change y by** block.
+    * Don't let Dino leave the screen.
+    * Don't let Dino go through the platform.
+    * Don't let Dino go underground.

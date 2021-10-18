@@ -14,6 +14,9 @@ Students will be able to...
 
 * Select a video or reading excerpt about a real world topic.
 * Prepare leading questions directly relevant to the video or reading.
+* [TEALS Volunteer show and tell example video](https://youtu.be/TeUgIXgds5o)
+* [Computer Science Education Week daily video playlist](https://youtube.com/playlist?list=PL-YUPixQ92JF67xXTcYkUI1Fnk6lcwGuj)
+  * Created by the Computer Science Teacher Association
 
 ## Pacing guide
 
@@ -25,28 +28,29 @@ Students will be able to...
 | 20 minutes | Class discussion or activity |
 | 5 minutes | Debrief and wrap-up |
 
-* Feel free to adjust the pacing guide liberally to meet the needs of your chosen material. If a video or reading will require more than 20-25 minutes, consider splitting the lesson across two days.
-  * Day one should include introduction of the topic, the video/reading, and a brief reflection, with the discussion or activity pushed to day two.
+Feel free to adjust the pacing guide liberally to meet the needs of your chosen material. If a video or reading will require more than 20-25 minutes, consider splitting the lesson across two days.
+
+* Day one should include introduction of the topic, the video/reading, and a brief reflection, with the discussion or activity pushed to day two.
 
 ## Instructor's notes
 
 ### Introduction to topic
 
-* Show video or have students read to begin class.
- Students watch the video/read the reading
-  * Students may take notes if desired, but should give their full attention to the material.
-  * Enoucrage students to take notes in their notebook.
-* Facilitate discussion about the video.
-  * Example questions:
-    * Was there anything that suprised you about the video?
-    * How does this video relate to what we are currently studing in class.
+Show video or have students read to begin class. Students may take notes if desired, but should give their full attention to the material.
 
-* Reinforce how the video or reading relates to the current topic in class.
-  * Your goal is to provide context and background, not to preview the material itself.
+Example discussion questions:
 
-* Provide students with some leading questions about the topic to push them into exploration.
-  * You will want to elaborate on the questions to get students all on the same page.
-  * In some cases, you will want to be deliberately vague to encourage students to form their own ideas or interpretations.  
+* Was there anything that suprised you about the video?
+* How does this video relate to what we are currently studing in class.
+
+Reinforce how the video or reading relates to the current topic in class.
+
+* Your goal is to provide context and background, not to preview the material itself.
+
+Provide students with some leading questions about the topic to push them into exploration.
+
+* You will want to elaborate on the questions to get students all on the same page.
+* In some cases, you will want to be deliberately vague to encourage students to form their own ideas or interpretations.  
 
 ### Discussion/activity
 
@@ -54,25 +58,30 @@ Lead a class discussion or activity about the topics covered in the video/readin
 
 #### Full-class discussion
 
-* When using the approach, be sure that all students have a chance to contribute and that the conversation is not dominated by a few voices.
+When using the approach, be sure that all students have a chance to contribute and that the conversation is not dominated by a few voices.
 
 #### Small group discussions
 
-* This can either be open-ended, allowing each group to discuss whatever they choose, or a ["jigsaw"](https://www.jigsaw.org/)-style activity where each group is given one question to focus on.
+This can either be open-ended, allowing each group to discuss whatever they choose, or a ["jigsaw"](https://www.jigsaw.org/)-style activity where each group is given one question to focus on.
+
 * [Video explanation](https://youtu.be/-9AWNl-A-34) of a think-pair-share activity.
+
 * Have students share out about their discussions with the class.
 
 #### Think-pair-share
 
-* ["think-pair-share"](http://www.readingrockets.org/strategies/think-pair-share) - a structured activity to simulate or recreate something discussed in the material to allow students to gain a deeper appreciation of the topic.
+["think-pair-share"](http://www.readingrockets.org/strategies/think-pair-share) - a structured activity to simulate or recreate something discussed in the material to allow students to gain a deeper appreciation of the topic.
+
 * As an example, after a reading or video on computer security, students could play (or at least read about and consider) the game [Control-Alt-Hack](http://www.controlalthack.com/)
 
 ### Debrief
 
-* Ask one or more students to summarize the topics covered in the lesson and their thought or opinions.
-* Consider collecting some evidence of the activity, such as students' responses to the guiding questions or notes from small-group discussions, to evaluate engagement with the lesson.
+Ask one or more students to summarize the topics covered in the lesson and their thought or opinions.
+
+Consider collecting some evidence of the activity, such as students' responses to the guiding questions or notes from small-group discussions, to evaluate engagement with the lesson.
 
 ## Accommodation/differentiation
 
-* For example, if showing ["Smartest Machine on Earth"](http://www.pbs.org/wgbh/nova/tech/smartest-machine-on-earth.html), be aware that some students may not be familiar with _Jeopardy!_.
-* Try to vary the topics of culture days throughout the semester to engage a broad range of students' interests and experiences.  Not all students will connect with every lesson, but you should strive to have every student connect with at least one or two culture days each semester.
+For example, if showing ["Smartest Machine on Earth"](http://www.pbs.org/wgbh/nova/tech/smartest-machine-on-earth.html), be aware that some students may not be familiar with _Jeopardy!_.
+
+Try to vary the topics of culture days throughout the semester to engage a broad range of students' interests and experiences.  Not all students will connect with every lesson, but you should strive to have every student connect with at least one or two culture days each semester.

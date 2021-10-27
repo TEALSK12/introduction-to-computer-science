@@ -56,7 +56,7 @@ Materials and preparation resources can be found in each of the lesson pages.
 | [3.3: Customization I: Arguments][] | Build custom blocks that take arguments. | Let Me Check My Calendar | 1 |
 | [3.4: Customization II: Reporters and predicates][] | Build custom reporter and predicate blocks. | If My Calculations Are Correct... | 1 |
 | [3.5: Platform game project][] | Apply loops, variables, and Boolean expressions to implement a Super Mario Bros. style platform game. Practice good debugging skills to correct issues as they arise while scripting. | Project 3: Platform Game | 8 |
-| [Culture Day Lesson C: My skills and interests journal][] | Connect CS Unit topics with current events  | | 1 or more |
+| [Culture Day Lesson C: My skills and interests journal][] | Connect CS Unit topics with current events. | | 1 or more |
 
 ## Unit 4: Lists
 
@@ -68,7 +68,7 @@ Materials and preparation resources can be found in each of the lesson pages.
 | [4.4: List practice II][] | Traverse a list, accessing each element one at a time. Perform operations combining all elements in a list. Select defined subsets of elements in a list. | Number Cruncher | 1 |
 | [4.5: Sequential search][] | Explain the sequential search algorithm. Implement several variations of sequential search.. | It's Around Here Somewhere | 1  |
 | [4.6: Guess my word project][] | Apply lists to implement a complete version of _Guess My Word_. Exercise good programing practices to produce a program that is not only functional but also elegant and well-written. | Project 4: Guess My Word | 5 |
-| [Culture day lesson D: Interview with people in T\technology][] | Connect CS Unit topics with current events  | | 1 or more |
+| [Culture day lesson D: Interview with people in technology][] |  | | 1 or more |
 
 ## Unit 5: Cloning
 

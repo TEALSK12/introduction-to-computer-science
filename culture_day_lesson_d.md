@@ -13,7 +13,7 @@ Students will be able to...
 
 ## Resources and project ideas
 
-[Computer science hero lesson](https://www.csedweek.org/teach)
+[Computer science hero classroom resources](https://www.csedweek.org/teach)
 
 ## Pacing Guide
 

@@ -17,6 +17,7 @@ Students will be able to...
 * [Project 4 - Guess my word](project_4.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Unit%204%20Word/Project%204%20Guessmyword.docx?raw=true)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Project%204%20Guessmyword.pdf))
 * Guess my word planning worksheet: ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project_4_Guessmyword_Planning_Worksheet.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project_4_Guessmyword_Planning_Worksheet.pdf))
 * Word Lists to use for Spaceman and Guess My Word Game.
+  * [Starter code](https://snap.berkeley.edu/snap/snap.html#present:Username=andrewspiece&ProjectName=Project%204.6_starter)
   * Randomly generated [Word list][]
   * [Countries and states](Country-n-State.txt)
 
@@ -51,7 +52,7 @@ Help students import the word list into a list, either by right-clicking on the 
 
 ### Project
 
-This is a summative assessment project.  Students should be given at least a few days in class to work on the project.  The exact schedule should be determined by your teaching team based on overall class capability and other factors.
+This is a summative assessment project.  Students should be given at least a few days in class to work on the project.  The exact schedule should be determined by your teaching team based on overall class capability and other factors. Here is some [starter code](https://snap.berkeley.edu/snap/snap.html#present:Username=andrewspiece&ProjectName=Project%204.6_starter) to have students start with the list already populated. 
 
 * If most students have the ability to work at home, you can consider reducing the amount of in-class time provided and requiring students to spend time working at home.
 

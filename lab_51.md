@@ -4,19 +4,22 @@ In this lab, you will follow sets of instructions to investigate how clones work
 
 ## Part 1: All together now
 
-Each of the six students in your group should follow these instructions.  Each student should then follow his or her instructions, completing each corresponding step together.  (For example, everybody should complete their step ii. at the same time.) Everyone should work on the same grid.
+1. Each of the six students in your group should follow these instructions.  Each student should then follow his or her instructions, completing each corresponding step together.  (For example, everybody should complete Part 2 at the same time. Everyone should work on the same grid.
 
-1. Put your pen on the first dot in the bottom row of the grid below.
-2. Draw a line to the dot to the right.
-3. Draw a line to the dot to the left.
-4. Draw a line to the dot above.
-5. Draw a line to the dot above.
-6. Draw a line to the dot to the right.
-7. Lift your pen.
+    1. Put your pen on the first dot in the bottom row of the grid below.
+    2. Draw a line to the dot to the right.
+    3. Draw a line to the dot to the left.
+    4. Draw a line to the dot above.
+    5. Draw a line to the dot above.
+    6. Draw a line to the dot to the right.
+    7. Lift your pen.
 
-   ![Dots](images/dots.png)
+    ![Dots](images/dots.png)
 
-What was the result of the group following the instructions?  Were there any difficulties you encountered?  Does it seem like the result was intended?
+**Reflection**
+2. What was the result of the group following the instructions?  
+3. Were there any difficulties you encountered?  
+4. Does it seem like the result was intended?
 
 ## Part 2: To each his own
 
@@ -84,7 +87,7 @@ What was the result of the group following the instructions?  Were there any dif
 
   ![Dots](images/dots.png)
 
-## Part 2 -  Reflection
+## Part 3 -  Reflection
 
 1. What was the result of following the instructions?  
 2. Does this seem like the most efficient way to achieve this goal?  
@@ -92,7 +95,7 @@ What was the result of the group following the instructions?  Were there any dif
 4. What problems could that cause?
 5. What might be a better or more efficient way to accomplish the goal of these instructions?
 
-## Part 3 - The same but different
+## Part 4 - The same but different
 
 Assign each member of your group a different number from 1 to 6.  Each of the six students in your group should then follow these instructions.  Each student should then follow his or her instructions, completing each corresponding step together.  (For example, everybody should complete their step ii. at the same time.) Everyone should work on the same grid.
 
@@ -111,20 +114,18 @@ Assign each member of your group a different number from 1 to 6.  Each of the si
 
   ![Dots](images/dots.png)
 
-Save your project as _Lab5.1_.
-
-## Part 4 - Results
+## Part 5 - Results
 
 1. Was the result of these instructions any different than in part 2?  
 2. Do you think this process was more or less effective than the process from part 2?  Why?
 
 ## Grading rubric
 
-| **Criteria**                               |    Points            |
-| :-------------------------------------------------- | :-------------- |
-| 1.1 One bouncing sprite                            | 0.5      |
-| 1.2 Sprite controlled by stage                     | 0.5      |
-| 2.1 Clones created by stage                        | 0.5      |
-| 2.3 Hide master sprite                             | 0.5      |
-| 2.4 Sprites have different properties       | 0.5      |
-| **Total**                                  | **2.5** |
+| **Criteria** |Points |
+| :----- | :-- |
+| Part 1 participation and reflection completed | 0.5 |
+| Part 2 participation | 0.5 |
+| Part 3 refelction questions answered  | 0.5 |
+| Part 4 participation | 0.5      |
+| Part 5 questions answered | 0.5      |
+| **Total**  | **2.5** |

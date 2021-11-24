@@ -73,5 +73,5 @@ Bonus: Modify your script so that a verb phrase can sometimes leave out the prep
 | Bonus: Make prepositional phrase for verb phrases  | 0.25 |
 | 4.1 Add nouns | 0.25 |
 | 4.2 Add other 5 parts of speech | 0.25 |
-| 4.3 Remove a part of speech  | 0.5 |
+| 4.3 Remove ome word from a part of speech  | 0.5 |
 | **Total**                                      | **3.5** |

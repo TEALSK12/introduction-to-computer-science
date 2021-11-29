@@ -15,6 +15,7 @@ Students will be able to...
 
 [Computer science hero classroom resources](https://www.csedweek.org/teach)
 
+
 ## Pacing Guide
 
 This lesson can be done over two class periods.

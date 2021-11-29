@@ -66,12 +66,11 @@ Bonus: Modify your script so that a verb phrase can sometimes leave out the prep
 | **Criteria** | **Points** |
 | :------ | :-- |
 | 1.1 6 lists | 0.5    |
-| 2.1 Report block | .25 |
-| 2.2 Reporter blocks | .75 |
+| 2.2 reporter blocks | .75 |
 | 3.1 sentence script  | 0.5 |
 | Bonus: add proper nouns | 0.25 |
 | Bonus: Make prepositional phrase for verb phrases  | 0.25 |
-| 4.1 Add nouns | 0.25 |
-| 4.2 Add other 5 parts of speech | 0.25 |
-| 4.3 Remove ome word from a part of speech  | 0.5 |
-| **Total**                                      | **3.5** |
+| 4.1 add nouns | 0.25 |
+| 4.2 add other 5 parts of speech | 0.25 |
+| 4.3 remove one word from a part of speech  | 0.5 |
+| **Total**                                      | **3.25** |

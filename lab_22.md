@@ -20,7 +20,7 @@ In this lab, you will use nested loops to draw a yellow brick road using as litt
 
 2. Modify your program to build four total rows, alternating back and forth between the "regular" and "offset" rows.  Use nested loops to keep your script concise.
 
-3. Finish off the road the by building alternating rows all the way to the top of the stage.  Your final road should look like this:
+3. Finish off the road by building alternating rows all the way to the top of the stage.  Your final road should look like this:
 
     ![Brick Road](images/brick_road.png)
 
@@ -34,7 +34,6 @@ In this lab, you will use nested loops to draw a yellow brick road using as litt
 | 1.3 row on bottom                   | 0.5     |
 | 2.1 second row offset               | 0.5     |
 | 3.3 complete road                   | 0.5     |
-| No extra bricks                     | 0.25   |
 | Uses at least one loop              | 0.5    |
-| Minimum redundancy in all           | 0.25   |
+| Minimum redundancy in all           | 0.5   |
 | **Total**                   | **3.0** |

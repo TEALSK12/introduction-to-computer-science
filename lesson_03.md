@@ -19,7 +19,7 @@ Students will be able to...
     * [Beyond Hour of code](https://aka.ms/HOC2021beyondhoclessons)
     * [Extension activities](https://aka.ms/HOC21extensionactivities)
     * [Facilitation guide](https://education.microsoft.com/en-us/course/abb0ebf3/overview)
-    * Solution guide can be found in the TEALS dashboard.
+    * Solution and train the trainer guide available in curriculum resources located in the TEALS dashboard.
   * [Minecraft Adventurer](https://studio.code.org/s/mc/stage/1/puzzle/1)
   * [Dance Party](https://studio.code.org/s/dance-2019/lessons/1/levels/1)
   * [Choose your own](https://hourofcode.com/us/learn)

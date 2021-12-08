@@ -4,7 +4,7 @@ In this lab, you will follow sets of instructions to investigate how clones work
 
 ## Part 1: All together now
 
-1. Each of the six students in your group should follow these instructions.  Each student should then follow his or her instructions, completing each corresponding step together.  (For example, everybody should complete Part 2 at the same time. Everyone should work on the same grid.
+1. Each of the six students in your group should follow these instructions.  Each student should then follow their instructions, completing each corresponding step together.  (For example, everybody should complete Part 2 at the same time. Everyone should work on the same grid.)
 
     1. Put your pen on the first dot in the bottom row of the grid below.
     2. Draw a line to the dot to the right.
@@ -16,10 +16,11 @@ In this lab, you will follow sets of instructions to investigate how clones work
 
     ![Dots](images/dots.png)
 
-**Reflection**
-2. What was the result of the group following the instructions?  
-3. Were there any difficulties you encountered?  
-4. Does it seem like the result was intended?
+### Reflection
+
+1. What was the result of the group following the instructions?  
+2. Were there any difficulties you encountered?  
+3. Does it seem like the result was intended?
 
 ## Part 2: To each his own
 
@@ -97,7 +98,7 @@ In this lab, you will follow sets of instructions to investigate how clones work
 
 ## Part 4 - The same but different
 
-Assign each member of your group a different number from 1 to 6.  Each of the six students in your group should then follow these instructions.  Each student should then follow his or her instructions, completing each corresponding step together.  (For example, everybody should complete their step ii. at the same time.) Everyone should work on the same grid.
+Assign each member of your group a different number from 1 to 6.  Each of the six students in your group should then follow these instructions.  Each student should then follow their instructions, completing each corresponding step together.  (For example, everybody should complete their step ii. at the same time.) Everyone should work on the same grid.
 
   1. If you are person #1, put your pen on the first dot in the bottom row of the grid below.
   2. If you are person #2, put your pen on the third dot in the bottom row of the grid below.
@@ -125,7 +126,7 @@ Assign each member of your group a different number from 1 to 6.  Each of the si
 | :----- | :-- |
 | Part 1 participation and reflection completed | 0.5 |
 | Part 2 participation | 0.5 |
-| Part 3 refelction questions answered  | 0.5 |
+| Part 3 reflection questions answered  | 0.5 |
 | Part 4 participation | 0.5      |
 | Part 5 questions answered | 0.5      |
 | **Total**  | **2.5** |

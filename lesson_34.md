@@ -59,9 +59,9 @@ Ask students why it might be useful to differentiate predicates from other repor
 
 ### Activity
 
-Students should complete the ["If my calculations are correct..."](lab_34.md) activity individually.
+Students should complete the ["If my calculations are correct..."](lab_34.md) activity individually. We have an optional lab available for this lesson, the technicolor window ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.4%20The%20Technicolor%20Window.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.4%20The%20Technicolor%20Window.pdf))
 
-* This lab consists of a series of independent custom blocks.  The blocks need not necessarily be completed in the order given.
+* This lab consists of a series of independent custom blocks. The blocks need not necessarily be completed in the order given.
 * Work with students to ensure they are testing their blocks properly and reporting correct values.
 
 ### Debrief

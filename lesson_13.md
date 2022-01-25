@@ -78,7 +78,7 @@ Ask students to share what they learned from looking at their partner's projects
 
 Point out that there is more than one way to solve a problem and two programs that are both correct might not look the same.
 
-## Accommodations/differentiation
+## Accommodations and differentiation
 
 Advanced students can attempt the five-pointed star. If students finish that shape, encourage them to try more advanced shapes.
 

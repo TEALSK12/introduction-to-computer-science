@@ -15,11 +15,8 @@ Students will be able to...
 * [Lab 1.1 - Welcome to Snap!](lab_11.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
 * [Helping trios activity](helping_trios.md)
 * [Snap! tips][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
-
-### Video resources
-
-* [https://www.youtube.com/watch?v=b-EWj7xN90U](https://www.youtube.com/watch?v=b-EWj7xN90U)
-* Video quiz - See additional curriculum materials accessed from the TEALS dashboard.
+* Video resource: [https://www.youtube.com/watch?v=b-EWj7xN90U](https://www.youtube.com/watch?v=b-EWj7xN90U)
+  * Video quiz - See additional curriculum materials accessed from the TEALS dashboard.
 
 ## Pacing guide
 

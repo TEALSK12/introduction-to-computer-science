@@ -10,9 +10,9 @@ Students will be able to...
 ## Materials and preparation
 
 * [1.5 Slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.5.pptx)
-* [Do Now 1.5: Day 1](do_now_15.md)
-* [Do Now 1.52: Day 2](do_now_152.md)
-* [Do Now 1.53: Day 3](do_now_153.md)
+* [Do now 1.5: Day 1](do_now_15.md)
+* [Do now 1.52: Day 2](do_now_152.md)
+* [Do now 1.53: Day 3](do_now_153.md)
 * [Project 1 - Storytelling](project_1.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%201%20Storytelling.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%201%20Storytelling.pdf))
 * [Most popular plays and musicals](http://www.npr.org/sections/ed/2015/07/30/427138970/the-most-popular-high-school-plays-and-musicals)
 * [Wikipedia](https://en.wikipedia.org/wiki/List_of_nursery_rhymes)

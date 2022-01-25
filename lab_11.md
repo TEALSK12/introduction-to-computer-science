@@ -1,4 +1,4 @@
-# Welcome To Snap!
+# Welcome to Snap!
 
 Snap! is a programming language, which you can use to tell a computer what to do. A program is a particular set of instructions for the computer to follow.
 
@@ -203,7 +203,7 @@ Some tips:
 ## Grading rubric
 
 | **Day 1 criteria**                        | Points          |
-| :------------------------------------------- | -------------- |
+| :--------------- | -------------- |
 | 1.1 What does it do?                        | 2 |
 | 1.2 Categories                              | 4 |
 | 2.1 Move in opposite direction              | 1 |

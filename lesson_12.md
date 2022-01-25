@@ -16,11 +16,8 @@ Students will be able to...
 * [Lab 1.2 - Scavenger hunt](lab_12.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.2%20SNAP%20Scavenger%20Hunt.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.2%20SNAP%20Scavenger%20Hunt.pdf)).
 * [Helping trios activity](helping_trios.md)
 * [Snap! tips][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
-
-### Video resources
-
-* [https://youtu.be/u80WYSNxRjM](https://youtu.be/u80WYSNxRjM)
-* Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
+* Video resource: [https://youtu.be/u80WYSNxRjM](https://youtu.be/u80WYSNxRjM)
+  * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ### Who is Grace Hopper? video
 
@@ -91,7 +88,7 @@ Discuss one or two student solutions to each of the programming problems.
 
 * Point out differences between student solutions and call attention to the fact that there is more than one way to solve a problem.
 
-## Accommodations/Differentiation
+## Accommodations and differentiation
 
 Colorblind students may not be able to identify the block colors, but can still recognize the organization of pallettes. Be sensitive to this, but no modifications are likely required.
 

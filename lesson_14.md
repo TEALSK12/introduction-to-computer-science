@@ -10,13 +10,13 @@ Students will be able to...
 
 ## Materials and preparation
 
-* [Do now 1.4](do_now_14.md).
+* [Do now 1.4](do_now_14.md)
 * [1.4 Slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.4.pptx)
-* [Do now 1.4](do_now_14.md).
-* [Lab 1.4 - Sprites in Action](lab_14.md)([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([blocks](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.4%20Sprites%20in%20Action.pdf)).
-* [Unit 1 tips](unit_1_tips.md).
+* [Do now 1.4](do_now_14.md)
+* [Lab 1.4 - Sprites in action](lab_14.md)([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.4%20Sprites%20in%20Action.docx)) ([blocks](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.4%20Sprites%20in%20Action.pdf)).
+* [Snap! tips][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
 * Video resource: [https://youtu.be/3x5ZI-mKc44](https://www.youtube.com/watch?v=3x5ZI-mKc44)
-  * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
+  * Video quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
 * Changing costumes video: [https://youtu.be/kgqi7CQLgJU](https://youtu.be/kgqi7CQLgJU)
 
 ## Pacing guide
@@ -102,3 +102,5 @@ Students that finish quickly can be encouraged to add more detail to their anima
 Especially advanced students can be encouraged to create their own costumes for a new animation that does not use any built-in sprites.
 
 With struggling students, re-emphasize the fact that each sprite can have different costumes and that changing costumes is very much like changing position by moving. Get students to be able to change costumes on a key press before moving on to the animation aspect.
+
+[Snap! tips]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

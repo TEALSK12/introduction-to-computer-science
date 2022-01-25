@@ -13,9 +13,9 @@ Students will be able to...
 * [1.2 Slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.2.pptx)
 * [Do now 1.2](do_now_12.md)
   * Picture of [Admiral Grace Hopper](https://upload.wikimedia.org/wikipedia/commons/2/21/Grace_Murray_Hopper%2C_in_her_office_in_Washington_DC%2C_1978%2C_%C2%A9Lynn_Gilbert.jpg) or her Mark II [notes](https://upload.wikimedia.org/wikipedia/commons/8/8a/H96566k.jpg) that show the bug she found in the computer.
-* [Lab 1.2 - Scavenger Hunt](lab_12.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.2%20SNAP%20Scavenger%20Hunt.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.2%20SNAP%20Scavenger%20Hunt.pdf)).
-* [Helping Trios Activity](helping_trios.md)
-* [Unit 1 Tips](unit_1_tips.md)
+* [Lab 1.2 - Scavenger hunt](lab_12.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.2%20SNAP%20Scavenger%20Hunt.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.2%20SNAP%20Scavenger%20Hunt.pdf)).
+* [Helping trios activity](helping_trios.md)
+* [Snap! tips][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
 
 ### Video resources
 
@@ -98,3 +98,5 @@ Colorblind students may not be able to identify the block colors, but can still 
 Students that are struggling with the lab can work with another student or receive individual instructor attention to help them through the activity. Consider using [helping trios](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Helping%20Trios.pdf) if appropriate.
 
 The bonus assignment should be used for students who finish quickly.
+
+[Snap! tips]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

@@ -9,13 +9,13 @@ Students will be able to...
 
 ## Materials and preparation
 
-* [1.3 Slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.3.pptx)
-* [Do Now 1.3](do_now_13.md)
+* [1.3 Slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.3.pptx)
+* [Do now 1.3](do_now_13.md)
 * [Lab 1.3 - Squares, triangles and stars](lab_13.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20Word/Lab%201.3%20Squares%20Triangles.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%201%20PDF/Lab%201.3%20Squares%20Triangles.pdf)).
-* [exterior angles review](Geometry_Exterior_Angles.pdf)
-* [Unit 1 Tips](unit_1_tips.md).
-* Video Resource: [https://www.youtube.com/watch?v=qLU3PtaG3ww](https://www.youtube.com/watch?v=qLU3PtaG3ww)
-  * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
+* [Exterior angles review](Geometry_Exterior_Angles.pdf)
+* [Snap! tips][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
+* Video resource: [https://www.youtube.com/watch?v=qLU3PtaG3ww](https://www.youtube.com/watch?v=qLU3PtaG3ww)
+  * Video quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing guide
 
@@ -86,3 +86,5 @@ Advanced students can attempt the five-pointed star. If students finish that sha
 
 Struggling students can either be paired or allowed to not complete certain shapes.
 Students who have not yet learned the skills necessary in determining the correct angles. Point out to them that geometric understanding is not necessary and the angles can be determined using trial and error.
+
+[Snap! tips]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

@@ -12,13 +12,11 @@ Students will be able to...
 * [Do now 2.4: Debugging](do_now_24.md)
 * [Lab 2.4 - Guessing game](lab_24.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.4%20Guessing%20Game.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.4%20Guessing%20Game.pdf))
 * [The Box Variable Activity](https://teachinglondoncomputing.org/resources/inspiring-unplugged-classroom-activities/the-box-variable-activity/) materials (Optional)
-* [Unit 2 tips](unit_2_tips.md)
-
-### Video resources
-
-* [https://youtu.be/YMVo9Wdpv5s](https://youtu.be/YMVo9Wdpv5s)
-* [https://youtu.be/ps8tc0cQsGg](https://youtu.be/ps8tc0cQsGg)
-* Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
+* [Snap! tips][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
+* Video resources
+  * [https://youtu.be/YMVo9Wdpv5s](https://youtu.be/YMVo9Wdpv5s)
+  * [https://youtu.be/ps8tc0cQsGg](https://youtu.be/ps8tc0cQsGg)
+  * Video Quiz: See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing guide
 
@@ -100,8 +98,10 @@ Ask students for commentary on usage and naming of variables throughout script.
 
 ## Accommodation and differentiation
 
-Advanced students can be encouraged to implement statistics (best score, average guesses/game, number of time each secret number chosen, etc.)
+Advanced students can be encouraged to implement statistics (best score, average guesses/game, number of time each secret number chosen, etc.).
 
-Struggling students can be given script that completes part 1.1, and possibly also part 1.2, to get them started
+Struggling students can be given script that completes part 1.1, and possibly also part 1.2, to get them started.
 
-Students who are particularly overwhelmed should focus only on parts 1.2 and 2.2
+Students who are particularly overwhelmed should focus only on parts 1.2 and 2.2.
+
+[Snap! tips]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

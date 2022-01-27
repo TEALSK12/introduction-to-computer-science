@@ -11,13 +11,11 @@ Students will be able to...
 * [Do now 2.2](do_now_22.md).
 * [2.2 slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%202.2.pptx)
 * [Lab 2.2 - Yellow brick road](lab_22.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.2%20Yellow%20Brick%20Road.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.2%20Yellow%20Brick%20Road.pdf)).
-* [Unit 2 tips](unit_2_tips.md)
-
-### Video resources
-
-* [https://youtu.be/bons028VLEU](https://youtu.be/bons028VLEU)
-* [https://youtu.be/Y5lZQRawsFk](https://youtu.be/Y5lZQRawsFk)
-* Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
+* [Snap! tips][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
+* Video resources
+  * [https://youtu.be/bons028VLEU](https://youtu.be/bons028VLEU)
+  * [https://youtu.be/Y5lZQRawsFk](https://youtu.be/Y5lZQRawsFk)
+  * Video Quiz - See Additional Curriculum Materials accessed from the TEALS Dashboard.
 
 ## Pacing Guide
 
@@ -28,7 +26,7 @@ Students will be able to...
 | 25 minutes | Yellow brick road Activity      |
 | 10 minutes | Debrief and wrap-up                           |
 
-## Instructor's Notes
+## Instructor's notes
 
 ### Review
 
@@ -115,3 +113,5 @@ Ask students to think about what part of the script would need to change to alte
 Not all students will recognize all the possible places to use nested loops in the final program.  Encourage students to find as many places to use a nested loop as possible, but allow struggling students to focus on just one or two uses.
 
 Advanced students can be encouraged to change the size of the bricks, which will require not only altering the number of steps moved but also the number if iterations in the loops.  You can also ask students to draw a building/house using only squares.  For example, they can be instructed to draw where they live, favorite building, or school.  
+
+[Snap! tips]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

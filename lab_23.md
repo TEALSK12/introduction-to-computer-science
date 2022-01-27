@@ -21,11 +21,11 @@ You will now expand your program from above so that instead of just deciding if 
 | 6                 | Hexagon        |
 | any other number  | Unknown        |
 
-1. Fill out a [Planning Worksheet](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/SNAP%20script%20Design%20and%20Planning%20Worksheet.docx) for the above script.  Make sure you consider all aspects of the program carefully.
+1. Fill out a [planning worksheet](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/SNAP%20script%20Design%20and%20Planning%20Worksheet.docx) for the above script.  Make sure you consider all aspects of the program carefully.
 
 2. Write the program.  Be sure that your program works correctly in all cases.
 
-## Part 3: Quadrilateral Fever
+## Part 3: Quadrilateral fever
 
 Quadrilaterals come in many different varieties.  Add scripting to your script so that, if the user is thinking of is a quadrilateral, you ask more questions to find out which type of quadrilateral it is.  Your script should give the most specific name that applies.  The following table describes the quadrilaterals you should know about from most to least specific:
 

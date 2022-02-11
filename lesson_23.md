@@ -4,7 +4,7 @@
 
 Students will be able to...
 
-* Apply **Ask** and **Receive** blocks.
+* Apply **ask** and **receive** blocks.
 * Apply simple conditional, **if** and **if-else** blocks, to alter control flow in a program.
 
 ## Materials and preparation
@@ -12,13 +12,10 @@ Students will be able to...
 * [Do now 2.3](do_now_23.md).
 * [2.3 slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%202.3.pptx)
 * [Lab 2.3 - What shape is that?](lab_23.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.3%20What%20Shape%20Is%20That.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.3%20What%20Shape%20Is%20That.pdf))
-* [Unit 2 tips](unit_2_tips.md)
-
-### Video resource
-
-* [https://youtu.be/t3k3wOxO1xI](https://youtu.be/t3k3wOxO1xI)
+* [Snap! tips][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
+* Video resource - [https://youtu.be/t3k3wOxO1xI](https://youtu.be/t3k3wOxO1xI)
+  * Video quiz: See additional curriculum materials accessed from the TEALS dashboard.
 * [Flocabulary](https://www.flocabulary.com/unit/coding-conditionals/)
-* Video quiz: See additional curriculum materials accessed from the TEALS dashboard.
 
 ## Pacing guide
 
@@ -79,7 +76,11 @@ You can also use this [video on conditionals](https://www.flocabulary.com/unit/c
 
 Show students the relational operators (<, >, and =).
 
-* These should be fairly intuitive to most students.
+  ![less than](images/lessthan.png)
+
+  ![greater than](images/greaterthan.png)
+  
+  ![equal to](images/equalto.png)
 
 ### Activity
 
@@ -120,3 +121,5 @@ Students who are struggling can be allowed to skip some parts of the tables in 2
 * Zipf/Power Law Distribution 30:00-32:00
 * HCI Research at Berkeley 32:10-46:25
 * [Multi Touch Apps and Toolkits](http://www.youtube.com/watch?v=3VZ7D01T2Yc&t=32m0s) 32:00-End
+
+[Snap! tips]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

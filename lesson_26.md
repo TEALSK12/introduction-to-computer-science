@@ -13,7 +13,7 @@ Students will be able to...
 * [Pong project](project_2.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%202%20Pong.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%202%20Pong.pdf))
 * Pong planning worksheet: ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project_2_Pong_Planning_Worksheet.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project_2_Pong_Planning_Worksheet.pdf))
 * [Lab day lesson](lab_day_lesson.md)
-* [Unit 2 tips](unit_2_tips.md)
+* [Snap! tips][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
 
 ## Pacing guide
 
@@ -33,10 +33,10 @@ Students will be able to...
 
 ### Review and introduction
 
-* Play a review game (such as [GrudgeBall](http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html) to remind students of the skills and concepts have been learned in this unit.
+* Play a review game to remind students of the skills and concepts have been learned in this unit.
   * Variables
   * Operators
-* Remind students that their solutions to previous assignments are an excellent resource when trying to accomplish similar tasks.
+* Remind students of the skills and concepts they have learned in previous lessons.
 
 ### Introduce project
 
@@ -72,3 +72,5 @@ Advanced students can be encouraged to add a single-player mode with a computer-
 Struggling students can be exempted from certain features (such as ball speed or scoring) or given starter script.
 
 * If students need significant assistance, focus them on the ball’s movement, as it is both the most computationally interesting part of the assignment.
+
+[Snap! tips]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

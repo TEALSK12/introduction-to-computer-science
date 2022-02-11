@@ -16,12 +16,9 @@ Students will be able to...
 * [Lab 2.5 - Triangles of all kinds](lab_25.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20Word/Lab%202.5%20Triangles%20of%20All%20Kinds.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%202%20PDF/Lab%202.5%20Triangles%20of%20All%20Kinds.pdf))
 * [Exterior angles review](Geometry_Exterior_Angles.pdf)
 * [Heron's formula](https://en.wikipedia.org/wiki/Heron%27s_formula)
-* [Unit 2 tips](unit_1_tips.md)
-
-### Video resources
-
-* [https://youtu.be/XXS9aDlN14s](https://youtu.be/XXS9aDlN14s)
-* Video Quiz: See Additional Curriculum Materials accessed from the TEALS dashboard.
+* [Snap! tips][]: 0, 3, 7, 9, 10, 14, 15, 16, 17
+* Video resource - [https://youtu.be/XXS9aDlN14s](https://youtu.be/XXS9aDlN14s)
+  * Video quiz: See Additional Curriculum Materials accessed from the TEALS dashboard.
 
 ## Pacing guide
 
@@ -55,11 +52,18 @@ Present the three Boolean operators: `and`, `or` and `not`.
 
 Practice evaluating Boolean expressions, starting simple and moving to more complex nested operations.
 
-* Start with simple expressions: e.g. `5 < 7 AND 4 > 2`.
+* Start with simple expressions:
 
-Introduce variables: e.g. `x = 7; x < 5 OR x > 10`.
+  ![And conditional statement](images/AND-conditionals.png)
+  
+* Introduce the variable _x = 7_:
+  
+  ![And conditional statement](images/ANDwithvariables.png)
 
-* Nest operations: e.g. `(x = 4; y = -3; x == y OR (x > 0 AND y < 0))`.
+* Nest operations operations using _x = 4, y = -3_:
+
+   ![And conditional statement](images/ComplexBooleans.png)
+
 * Discuss short-circuiting in evaluation of Boolean expressions.
 * Discuss situations in which the Boolean operators might be needed.
 
@@ -113,3 +117,5 @@ Students that have not taken Geometry made be intimidated by some of the concept
 If the students continue to struggle, help them build the necessary expressions, but encourage them to assemble them into the full condition on their own.
 
 Advanced students, especially those who have taken higher levels of math, can be encouraged to add additional functionality, such as using [Heron's formula](https://en.wikipedia.org/wiki/Heron%27s_formula) to calculate the triangles area or using trigonometry to attempt to draw the triangle.
+
+[Snap! tips]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

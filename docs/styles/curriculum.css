@@ -12,9 +12,8 @@ body#md {
     padding-right: 20px;
     overflow-x: hidden;
     text-overflow: ellipses;
-    align
+    text-align: left;
 }
-
 
 .md .longTOC {
     width: 200px;

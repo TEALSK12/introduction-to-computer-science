@@ -9,14 +9,15 @@ Students will be able to...
 
 ## Materials and preparation
 
-* [Do Now 1.5: Day 1](do_now_15.md)
-* [Do Now 1.52: Day 2](do_now_152.md)
-* [Do Now 1.53: Day 3](do_now_153.md)
+* [1.5 Slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%201.5.pptx)
+* [Do now 1.5: Day 1](do_now_15.md)
+* [Do now 1.52: Day 2](do_now_152.md)
+* [Do now 1.53: Day 3](do_now_153.md)
 * [Project 1 - Storytelling](project_1.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20Word/Project%201%20Storytelling.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Projects/Projects%20PDF/Project%201%20Storytelling.pdf))
 * [Most popular plays and musicals](http://www.npr.org/sections/ed/2015/07/30/427138970/the-most-popular-high-school-plays-and-musicals)
 * [Wikipedia](https://en.wikipedia.org/wiki/List_of_nursery_rhymes)
 * [Planning worksheet](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx)
-* [Unit 1 tips](unit_1_tips.md)
+* [Snap! tips][]: 0, 1, 2, 3, 4,  5, 6, 8, 11, 12, 13, 23
 
 ## Pacing guide
 
@@ -36,7 +37,7 @@ Students will be able to...
 
 ### Review
 
-Play a review game such as [GrudgeBall](http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html) to remind students of the skills and concepts that have been learned in this unit.
+Play a review game to remind students of the skills and concepts that have been learned in this unit.
 
 * **Movement**
 * **Drawing**
@@ -75,5 +76,8 @@ This project is a summative assessment for the unit and students should be demon
 ## Accommodation and differentiation
 
 Instead of a scene from a play or a nursery rhyme, students can recreate a famous scene from a movie, depict lyrics from their favorite song, or develop their own unique animations.  Feel free to modify the specification for whichever version will appeal most to your students.
+
 Advanced students can be encouraged to add detail and/or complexity to their project for possible extra credit.
 For ELL students or students from other cultures, offer the opportunity to choose an animation subject familiar to them rather than requiring a traditional English nursery rhyme or play.
+
+[Snap! tips]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

@@ -41,7 +41,7 @@ In this lab, you will use costumes and movement to create simple animations.
     3. Glide to the mouse pointer's position.
     4. Change to the `dragon1-b` costume
     5. Pause to breathe fire.
-    6. Change back to the `dragon1-a` costume
+    6. Change back to the `dragon1-a` costume.
 
 ## Part 3: Run away
 
@@ -55,6 +55,16 @@ In this lab, you will use costumes and movement to create simple animations.
 
 5. Save your project as _Lab1.4_.
 
+## Part 4: Setting the stage
+
+1. Select the stage icon.
+
+2. Select file icon then import
+
+3. Now select a picture from your computer to make the background of your project.
+
+4. Download [this image](stage_example.jpg) if you do not have one to use.
+
 ## Grading rubric
 
 | **Criteria**   |  Points   |
@@ -65,4 +75,5 @@ In this lab, you will use costumes and movement to create simple animations.
 | 3.3 Sprite runs away when dragon breathes fire  | 0.25 |
 | 3.3 Use of the `broadcast` and `when I receive` blocks  | 0.25 |
 | 3.4 Another sprite runs away too  | 0.25 |
-| **Total** | **2.0** |
+| 4.0 Setting the stage | .50 |
+| **Total** | **2.5** |

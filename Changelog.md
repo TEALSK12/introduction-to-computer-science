@@ -1,5 +1,15 @@
 # Change Log
 
+## [2.2.4] - 2022-1-25
+
+|Unit     | Change |
+|---------|--------|
+| All files | Added discussion link to top navigation |
+| 1.5 Slide deck | Link added in lesson 1.5 and review slide updated. |
+| Unit 1 tips | seperate page delete and added directly into lesson page. |
+| Lesson 1.5 | Grudgeball link removed and instructions added directly to slide deck. |
+| All lessons | Continued alignment to the Microsoft Style guide. |
+
 ## [2.2.3] - 2021-10-09
 
 |Unit     | Change |
@@ -118,6 +128,7 @@
 |Unit 3| Moved 2.6 to 3.2|
 
 ## [2.1.2] - 2018-11-28
+
 |Unit     | Change |
 |---------|--------|
 |Culture_day_lesson_b.md| Added Curriculum Competencies and Possible Topics|
@@ -137,6 +148,7 @@
 |Summary.md| Added Culture day C and D, added Project 2 alternative|
 
 ## [2.1.1] - 2018-08-21
+
 | Unit    | Change |
 |---------|--------|
 | lab_22.md | Change theme from brick wall to yellow brick road
@@ -145,6 +157,7 @@
 | +Lab 2.2 Yellow Brick Road.docx/.pdf |
 
 ## [2.1.0] - 2018-08-16
+
 | Unit    | Change                                                                                                                                                                                                                    |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0.2     | Toothbrush activity option added to Do Now  <br>World Cafe protocol added for Lab                                                                                                                                             |

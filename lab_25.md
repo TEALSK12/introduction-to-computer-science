@@ -6,7 +6,7 @@ In this lab, you will use Boolean operators to determine what sort of triangle a
 
 1. Write a program that asks the user for the lengths of all three sides of a triangle (_a_, _b_, _c_).  Store each length in a variable.  Then use the `say` block to display the perimeter of the triangle with those three side lengths.
 
-2. **Real Triangle Check:** Modify your script to check the three side lengths can form a Real triangle.  Remember that, in any Real triangle, the sum of the lengths of any two sides is greater than the length of the third side.  So, if the triangle has side lengths *a*, *b*, and *c*, then all of the following must be true:
+2. **Real Triangle Check:** Modify your script to check the three side lengths can form a Real triangle.  Remember that, in any Real triangle, the sum of the lengths of any two sides is greater than the length of the third side.  So, if the triangle has side lengths _a_, _b_, and _c_, then all of the following must be true:
 
     `a + b > c`
 
@@ -18,7 +18,7 @@ If the sides given cannot make a real triangle, **say** "this is not a Real tria
 
 ## Part 2: What kind of triangle
 
-1. Modify your script to determine and **say** whether or not the triangle described is a right triangle.  If the triangle has side lengths *a*, *b*, and *c*, then the triangle is a right triangle if the following is true:
+1. Modify your script to determine and **say** whether or not the triangle described is a right triangle.  If the triangle has side lengths _a_, _b_, and _c_, then the triangle is a right triangle if the following is true:
 
     `a * a + b * b = c * c`
 

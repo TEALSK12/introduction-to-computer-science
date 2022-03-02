@@ -13,14 +13,12 @@ Students will be able to...
 * [Do now 3.1](do_now_31.md)
 * [3.1 slide Deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%203.1.pptx)
 * [Lab 3.1 - Drawing shapes again](lab_31.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20Word/Lab%203.1%20Drawing%20Shapes%20Again.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%203%20PDF/Lab%203.1%20Drawing%20Shapes%20Again.pdf))
-* [Unit 3 tips](unit_3_tips.md)
-
-### Video resources
-
-* [https://youtu.be/Dxw9cIbzaLk?t=681](https://youtu.be/Dxw9cIbzaLk?t=681)
-* Video Quiz - See additional curriculum materials accessed from the TEALS dashboard.
-* [https://youtu.be/AighCB14bNw](https://youtu.be/AighCB14bNw)
-* [https://www.youtube.com/watch?v=K0yReJ9T600](https://www.youtube.com/watch?v=K0yReJ9T600)
+* [Snap! tips][]: 0, 4, 8, 16
+* Video resources
+  * [https://youtu.be/Dxw9cIbzaLk?t=681](https://youtu.be/Dxw9cIbzaLk?t=681)
+    * Video Quiz - See additional curriculum materials accessed from the TEALS dashboard.
+  * [https://youtu.be/AighCB14bNw](https://youtu.be/AighCB14bNw)
+  * [https://www.youtube.com/watch?v=K0yReJ9T600](https://www.youtube.com/watch?v=K0yReJ9T600)
 
 ## Pacing guide
 
@@ -50,15 +48,17 @@ Students should complete the [drawing shapes again](lab_31.md) activity individu
 
 Work with students to be certain that they are using custom blocks and variables as described by the activity.
 
-* Point out places where a script can be abstracted and generalized.
-* Emphasize conciseness into a program.
+Point out places where a script can be abstracted and generalized.
+
+Emphasize conciseness into a program.
 
 ### Debrief
 
 Discuss one or two student submissions.
 
-* Point out differences between different student solutions.
-* Point out missed opportunities for abstraction (if any).
+Point out differences between different student solutions.
+
+Point out missed opportunities for abstraction (if any).
 
 Discuss how this custom block can be useful.
 
@@ -80,3 +80,5 @@ Struggling students can be given solution scripts for all of section 1. Work wit
 [MIT Scratch --> BYOB Snap!](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=10m0s)  (Development of Snap!, Demo) 10:00-11:30
 
 [BYOB-Custom Blocks](http://www.youtube.com/watch?v=_uKCBmQEf5w&t=11m30s)  (Explains functions with examples)   11:30-14:50
+
+[Snap! tips]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

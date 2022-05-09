@@ -15,7 +15,7 @@ In this lab, you will create a simple sentence generator using lists.
 | article        | a, the                                           |
 | preposition    | under, over, around, near, beside, ...           |
 
-## Part 2: Reporting Phrases
+## Part 2: Reporting phrases
 
 1. Write a custom reporter block called “noun phrase” that reports a noun phrase where each word is chosen randomly from the lists you created.
 
@@ -35,7 +35,7 @@ In this lab, you will create a simple sentence generator using lists.
 
 Bonus: Modify your script so that a noun phrase can either be the construction from part 1 or a single proper noun (e.g. a person's name).  Your script should randomly decide which version of a noun phrase to use.
 
-    _A noun phrase consists of an article, an adjective, and a noun in that order._
+    A noun phrase consists of an article, an adjective, and a noun in that order.
 
 Bonus: Modify your script so that a verb phrase can sometimes leave out the prepositional phrase.  Your script should randomly decide to include the prepositional phrase or not.
 

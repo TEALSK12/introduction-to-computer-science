@@ -27,23 +27,13 @@ Students will be able to...
 
 ### Lecture
 
-Ask students to consider how to determine if a particular person is in the room or not.
-
-At first, you will likely get answers like "call out the person's name" or "look around."  Press the students to come up with a method that will always work, including when the person is not present.  If necessary, ask them to pretend they are a computer.
-
-Point out that solutions like "look around" are too high-level, and in reality, there is a lot more going on (such as looking at each person individually).
+Ask students to consider how to determine if a particular person is in the room or not. At first, you will likely get answers like "call out the person's name" or "look around."  Press the students to come up with a method that will always work, including when the person is not present.  If necessary, ask them to pretend they are a computer. Point out that solutions like "look around" are too high-level, and in reality, there is a lot more going on (such as looking at each person individually).
 
 Guide students to the process of checking if each person is the one they are seeking, in some deterministic order, until they have either found the person or checked everyone.  Emphasize that the absence of the person is only confirmed when everyone has been checked, but that the presence is known as soon as the person is found.
 
-Ensure students recognize that this process is a traversal of the people in the room.
+Ensure students recognize that this process is a traversal of the people in the room. Explain that the process of traversing a list looking for a particular item is known as a "sequential search."
 
-Explain that the process of traversing a list looking for a particular item is known as a "sequential search."
-
-Ask students to think about the efficiency of this algorithm.  Emphasize best, worst, and average cases (both what those cases are and how long they take).
-
-Students should have a basic understanding of the fact that the speed of the search is dependent on the size of the list.
-
-* If students seem prepared, ask them to speculate under what circumstances you might be able to do better (eventually leading to binary search).
+Ask students to think about the efficiency of this algorithm.  Emphasize best, worst, and average cases (both what those cases are and how long they take). Students should have a basic understanding of the fact that the speed of the search is dependent on the size of the list. If students seem prepared, ask them to speculate under what circumstances you might be able to do better (eventually leading to binary search).
 
 Show the script for a basic sequential search:
   ![basic sequential search](images/basic_sequential_search.jpg)

@@ -32,11 +32,9 @@ In small diverse groups, ask students to consider how to count the number of stu
 
 * Provide only a few minutes to work through this-- students need not write full, formal algorithms, but simply describe an approach.
 
-* Have groups share with each other and work together to come up with a single approach, hopefully settling on asking each student if s/he has a July birthday and counting the number of yeses (or something similar).
+Have groups share with each other and work together to come up with a single approach, hopefully settling on asking each student if s/he has a July birthday and counting the number of yeses (or something similar).
 
-Define _traversal_ as the process of accessing each element of a list in order and performing some operation.
-
-* Explain that the operation can be anything, and may not actually be performed on every element.
+Define _traversal_ as the process of accessing each element of a list in order and performing some operation. Explain that the operation can be anything, and may not actually be performed on every element.
 
 Provide a few examples of possible operations (say each person's name, count the number of females, add up the total number of siblings, find the average GPA, etc.)
 

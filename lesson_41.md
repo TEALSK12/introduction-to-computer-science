@@ -29,19 +29,20 @@ Students will be able to...
 
 ### Introductory discussion
 
-Describe the solar system and hook your students in with a way to collect and store new information and discoveries.
+Describe the solar system and hook your students by explaining a way to collect and store new information and discoveries.
 
 ### Activity
 
-In small groups, students will write an algorithm for adding new Solar System discoveries to a collection of older ones. The process should be complete and detailed so that a person can unambiguously follow the steps.
+In small groups,
 
-The process itself will seem relatively simple. Ensure students think not only about the steps to be taken but the necessary materials and resources.
+1. have students write an algorithm for adding new Solar System discoveries to a collection of older ones. The process should be complete and detailed so that a person can unambiguously follow the steps.
 
-Ensure that the algorithm would work for any discovery of any name size and does not make assumptions. e.g SUPER MEGA COOL ASTEROID, etc.
+2. The process itself will seem relatively simple. Ensure students think not only about the steps to be taken but the necessary materials and resources.
 
-Pay particular attention to when the various materials are needed.
+3. Ensure that the algorithm would work for any discovery of any name size and does not make assumptions. e.g SUPER MEGA COOL ASTEROID, etc.
 
-The key here is that the student will need to constantly be referencing this same pool of discoveries e.g. Pool, Pool + 1 discovery, Pool + 1 discovery + another etc. etc.
+* Pay particular attention to when the various materials are needed.
+* The key here is that the student will need to constantly be referencing this same pool of discoveries e.g. Pool, Pool + 1 discovery, Pool + 1 discovery + another etc. etc.
 
 Instruct students to think about how they would write a script to complete this task.  They need not write actual script, but should write pseudocode to attempt to solve the problem.  
 

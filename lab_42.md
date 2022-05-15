@@ -25,8 +25,9 @@ In this lab, you will create a simple sentence generator using lists.
 
 | Phrase type | Construction |
 |--|--|
+|noun phrase (completed in step 1) | article, adjective, noun]
 |prepositional phrase  | preposition, noun phrase|
-|verb phrase|adverb, prpositional phrase|
+|verb phrase|adverb, verb, prepositional phrase|
 |sentence|noun, phrase, verb phrase|
 
 ## Part 3: Making sentences

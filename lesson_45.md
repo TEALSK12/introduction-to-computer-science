@@ -9,6 +9,7 @@ Students will be able to...
 
 ## Materials and preparation
 
+* Prepare a set of cards with different words or images on them. This could be a deck of playing cards, or simply index cards with numbers, letters, or names on it.
 * [Do now 4.5: List tracing](do_now_45.md)
 * [4.5 slide deck](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/slidedecks/TEALS%20SNAP%204.5.pptx)
 * [Lab 4.5 - It's around here somewhere](lab_45.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20Word/Lab%204.5%20Its%20Around%20Here%20Somewhere.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%204%20PDF/Lab%204.5%20Its%20Around%20Here%20Somewhere.pdf))
@@ -27,14 +28,18 @@ Students will be able to...
 
 ### Lecture
 
-Ask students to consider how to determine if a particular person is in the room or not.
+Show students the set of cards you prepared. Explain that each card has a (number, word, name, picture, etc) on it. Ask the students to devise a method that can correctly determine whether a particular (number, word, name, picture) appears somewhere in the set of cards.
 
-* At first, you will likely get answers like "call out the person's name" or "look around."  Press the students to come up with a method that will always work, including when the person is not present.  If necessary, ask them to pretend they are a computer.
- Point out that solutions like "look around" are too high-level, and in reality, there is a lot more going on (such as looking at each person individually).
+* Press the students to come up with a repeatable method that will always work, including when the value you are searching for is not present.  If necessary, ask them to pretend they are a computer.
+ Point out that solutions like "look at all the cards" are too high-level, and in reality, there is a lot more going on (such as looking at each one at a time).
 
-Guide students to the process of checking if each person is the one they are seeking, in some deterministic order, until they have either found the person or checked everyone.  Emphasize that the absence of the person is only confirmed when everyone has been checked, but that the presence is known as soon as the person is found.
+There are many ways of searching the set of cards. Some students may come up with novel solutions, like:
+* sorting the cards into some kind of order first
+* dividing up the cards into smaller groups and giving each smaller group to a different student to check
+ 
+Guide students to the straightforward process of checking each card in a sequential order until they have either found the card they are looking for or checked every card.  Emphasize that the absence of the card is only confirmed when every card has been checked, but that its presence is known as soon as the it is found.
 
-* Get students to recognize that this process is a traversal of the people in the room.
+* Point out that this process is a traversal of a list of cards.
 
 Explain that the process of traversing a list looking for a particular item is known as a "sequential search."
 

@@ -143,7 +143,7 @@ This curriculum does not assign homework as part of its typical lessons.  Becaus
 
 ### Quizzes
 
-To gauge student understanding, the addition of Unit quizzes has been added.  These are intended as low stakes formative assessments that allow students to visit topics at the end of the unit to reinforce learning.  They are open book giving students incentive to take good notes.  Ideally the quizzes are non-graded and students would reflect on the answers they got wrong in order to learn from their mistakes. The quizzes and answer keys can be found with protected materials for te course.
+To gauge student understanding, the addition of Unit quizzes has been added.  These are intended as low stakes formative assessments that allow students to visit topics at the end of the unit to reinforce learning.  They are open book giving students incentive to take good notes.  Ideally the quizzes are non-graded and students would reflect on the answers they got wrong in order to learn from their mistakes. The quizzes and answer keys can be found with protected materials for the course.
 
 ### Grading
 

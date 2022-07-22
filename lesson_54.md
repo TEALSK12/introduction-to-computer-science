@@ -14,7 +14,7 @@ Students will be able to...
 * [Lab Day Lesson](lab_day_lesson.md)
 * [online game](http://www.pacxon4u.com/space-invaders/)
 * [GrudgeBall](http://toengagethemall.blogspot.com/2013/02/grudgeball-review-game-where-kids-attack.html)
-* [Unit 5 Tips](unit_5_tips.md)
+* [Snap! tips][]: 0, 3, 5, 9, 12, 17
 
 ## Pacing guide
 
@@ -76,4 +76,6 @@ Advanced students can be encouraged to add different types of invaders that beha
 
 Struggling students can be exempted from certain features (such as levels or invader firing) or given starter script.
 
-If students need significant assistance, focus them on the invaders.  Getting a set of invaders created and moving properly will best target the vital objectives from this unit-- namely cloning.
+If students need significant assistance, focus them on the invaders.  Getting a set of invaders created and moving properly will best target the vital objectives from this unit.
+
+[Snap! tips]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

@@ -20,14 +20,26 @@ In this lab, you will create a simple sentence generator using lists.
 1. Write a custom reporter block called “noun phrase” that reports a noun phrase where each word is chosen randomly from the lists you created.
 
     ```A noun phrase consists of an article, an adjective, and a noun in that order.```
+    
+    Using our sample lists of words from part 1, here are a few examples of possible outputs from the "noun phrase" block:
+    * a silly elephant
+    * the sleepy boy
+    * the sleepy giraffe
 
 2. Write custom reporter blocks like “noun phrase” for each of the phrase types listed below.
 
 | Phrase type | Construction |
 |--|--|
+|noun phrase (completed in step 1) | article, adjective, noun]
 |prepositional phrase  | preposition, noun phrase|
-|verb phrase|adverb, prpositional phrase|
-|sentence|noun, phrase, verb phrase|
+|verb phrase|adverb, verb, prepositional phrase|
+|sentence|noun phrase, verb phrase|
+
+Using our sample lists of words from part 1, here are some possible outputs from each block:
+* **noun phrase**: a small monkey
+* **prepositional phrase**: around a sleepy elephant
+* **verb phrase**: sadly dances beside the young boy
+* **sentence**: the old giraffe quickly jumps over a silly elephant
 
 ## Part 3: Making sentences
 
@@ -37,8 +49,6 @@ Bonus: Modify your script so that a noun phrase can either be the construction f
 
     A noun phrase consists of an article, an adjective, and a noun in that order.
 
-Bonus: Modify your script so that a verb phrase can sometimes leave out the prepositional phrase.  Your script should randomly decide to include the prepositional phrase or not.
-
 ## Part 4: Changing our vocabulary
 
 1. Write a script so that when the `n` key is pressed, the user is prompted for a new noun and that noun is added to list of nouns.  After that point, the new noun entered by the user should be able to appear in sentences.
@@ -47,6 +57,7 @@ Bonus: Modify your script so that a verb phrase can sometimes leave out the prep
 
     | Key | Part of speech |
     | --- | -------------- |
+    | n   | noun           |
     | v   | verb           |
     | j   | adjective      |
     | d   | adverb         |

@@ -15,7 +15,7 @@ In this lab, you will create a simple sentence generator using lists.
 | article        | a, the                                           |
 | preposition    | under, over, around, near, beside, ...           |
 
-## Part 2: Reporting Phrases
+## Part 2: Reporting phrases
 
 1. Write a custom reporter block called “noun phrase” that reports a noun phrase where each word is chosen randomly from the lists you created.
 
@@ -45,9 +45,9 @@ Using our sample lists of words from part 1, here are some possible outputs from
 
 1. Modify your script so that when you press the space bar, a random sentence is generated and a sprite says the resulting sentence.
 
-Bonus: Modify your script so that a noun phrase can either be the construction from part 1 or a single proper noun (e.g. a person's name).  Each time your noun phrase block is used, it should randomly choose which kind of noun phrase to report. *Note: you'll need a new list to store some proper nouns.*
+Bonus: Modify your script so that a noun phrase can either be the construction from part 1 or a single proper noun (e.g. a person's name).  Your script should randomly decide which version of a noun phrase to use.
 
-Bonus: Modify your script so that a verb phrase can sometimes leave out the prepositional phrase.  Your script should randomly decide to include the prepositional phrase or not.
+    A noun phrase consists of an article, an adjective, and a noun in that order.
 
 ## Part 4: Changing our vocabulary
 

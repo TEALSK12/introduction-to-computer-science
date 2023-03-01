@@ -35,13 +35,13 @@ When we first learn computer scripting, it may seem fun to dive right into codin
 
 ### Introduce project
 
-Talk about how far students have come this semester.mAsk students to think back to the start of the semester and remember how little they knew about scripting. Briefly list a bunch of the things they've learned (drawing, animation, variables, loops, conditionals, loops, etc.). Show a lab or assignment from early on and remind them that, not that long ago, this was challenging, whereas it now seems nearly trivial.
+Talk about how far students have come this semester. Ask students to think back to the start of the semester and remember how little they knew about scripting. Briefly list a bunch of the things they've learned (drawing, animation, variables, loops, conditionals, loops, etc.). Show a lab or assignment from early on and remind them that, not that long ago, this was challenging, whereas it now seems nearly trivial.
 
 Explain that, for their final project, the students will get to design and build a script of their own choosing. Point out that this will involve more than just writing script. There will be planning, design, scheduling, and other project management tasks. Emphasize that students will be graded on not only the script they produce, but the process they used to design, plan, and implement it.
 
-Demonstrate a few example projects (with as much variety as possible).mTry to hit a bunch of different types of scripts. Many students will gravitate towards games, but other options include simulations, productivity tools, musical projects, animations, and more.
+Demonstrate a few example projects (with as much variety as possible). Try to hit a bunch of different types of scripts. Many students will gravitate towards games, but other options include simulations, productivity tools, musical projects, animations, and more.
 
-Distribute the project rubric and point out key aspects of the requirements. Point out the steps in the process and that each one is equally important Specifically mention the large number of points for things _not_ related to coding. Remind students that, as they are now experts, there are high expectations for the depth, complexity, and completeness of their projects.
+Distribute the project rubric and point out key aspects of the requirements. Point out the steps in the process and that each one is equally important. Specifically mention the large number of points for things _not_ related to coding. Remind students that, as they are now experts, there are high expectations for the depth, complexity, and completeness of their projects.
 
 * What are the different categories of software applications?
 * When looking at an application, what type of functionality does it have?

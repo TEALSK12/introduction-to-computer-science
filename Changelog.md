@@ -1,5 +1,16 @@
 # Change Log
 
+## [2.2.5] - 2022-5-12
+
+|Unit     | Change |
+|---------|--------|
+| 1 | Lesson spelling and grammar, lab document updates, slide deck alignment, project document updates, issues closed |
+| 2 | Lesson spelling and grammar, lab document updates, slide deck alignment, project document updates, issues closed |
+| 3 | Lesson spelling and grammar, lab document updates, slide deck alignment, project document updates, issues closed |
+| 4 | Lesson spelling and grammar, lab document updates, slide deck alignment, project document updates, issues closed |
+| 5 | Lesson spelling and grammar, lab document updates, slide deck alignment, project document updates, issues closed |
+| 6 | Lesson spelling and grammar, lab document updates, slide deck alignment, project document updates, issues closed |
+
 ## [2.2.4] - 2022-1-25
 
 |Unit     | Change |

@@ -6,7 +6,7 @@
 
 2. Log into your account and save the starter project.
 
-3. Save your project as _DoNow1.5_.
+3. Save your project as _DoNow1.4_.
 
 4. Press the space bar on your keyboard several times in a row. Notice what happens to the two bats on the screen.
 

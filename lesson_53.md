@@ -14,7 +14,7 @@ Students will be able to...
 * [Lab 5.3 - Fewer balls](lab_53.md) ([docx](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20Word/Lab%205.3%20Fewer%20Balls.docx)) ([pdf](https://github.com/TEALSK12/introduction-to-computer-science/raw/master/Unit%205%20PDF/Lab%205.3%20Fewer%20Balls.pdf))
 * [Helping trios activity](helping_trios.md)
 * Test out the lab on student machines before class to ensure the machines can handle the number of clones.
-* [Unit 5 tips](unit_5_tips.md)
+* [Snap! tips][]: 0, 3, 5, 9, 12, 17
 
 ## Pacing guide
 
@@ -41,7 +41,8 @@ Introduce the distinction between "global variables" and "sprite variables".
 
 * Global variables ("for all sprites") are visible to and usable by all sprites in the program.
 * Sprite variables ("for this sprite only") are only visible to and usable by a single sprite.
-* Emphasize that, when cloning is used, each clone gets its own copy of any sprite variables inherited from the prototype.
+
+Emphasize that, when cloning is used, each clone gets its own copy of any sprite variables inherited from the prototype.
 
 Ask students to brainstorm situations in which each type of variable is appropriate.
 
@@ -70,3 +71,5 @@ For faster students, explaining and demonstrating race conditions would be valua
 Advanced students can also try to implement features giving them additional control over clones, such as changing a specific clone's speed or direction.
 
 Struggling students can ignore the requirement to be able to create new sprites after some have been deleted and just focus on deleting clones one at a time.
+
+[Snap! tips]: https://github.com/TEALSK12/introduction-to-computer-science/blob/master/Snap%20Tips.docx?raw=true

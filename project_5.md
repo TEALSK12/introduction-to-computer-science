@@ -4,7 +4,7 @@ Students will implement a version of the classic arcade game _Space Invaders_.
 
 ## Overview
 
-Originally released in 1978, Space Invaders was one of the modern video games and is often credited with popularizing the video game industry.  In addition to being a vastly popular arcade game, the 1980 version for an early Atari system helped game consoles achieve the mainstream status they maintain today.  Because of this, the characters and gameplay style of Space Invaders are often used to represent the video game industry as a whole.  You can play an [online version](http://www.pacxon4u.com/space-invaders/).  Our game will have some differences from the classic version, but will maintain the key aspects of gameplay.
+Originally released in 1978, Space Invaders was one of the modern video games and is often credited with popularizing the video game industry.  In addition to being a vastly popular arcade game, the 1980 version for an early Atari system helped game consoles achieve the mainstream status they maintain today.  Because of this, the characters and gameplay style of Space Invaders are often used to represent the video game industry as a whole.  You can play an [online version](https://www.classicfreearcade.com/flash-game/21755/space-invaders.html).  Our game will have some differences from the classic version, but will maintain the key aspects of gameplay.
 
 ## Behavior
 
@@ -40,11 +40,11 @@ Each time the player destroys an invader, points should be earned.  Scoring shou
 
 As with all previous projects, your script must be well-written, well-documented, and readable.  This includes, but is not limited to:
 
-* organizing your scripts so that they can be read and comprehended easily
-* giving your sprites meaningful names
-* naming and using your variables, lists, and custom blocks well
-* including comments to describe the structure of your script and any particularly complex or unintuitive pieces of script
-* separating master sprites from clones, and cleaning up clones that are finished (see below)
+* organizing your scripts so that they can be read and comprehended easily.
+* giving your sprites meaningful names.
+* naming and using your variables, lists, and custom blocks well.
+* including comments to describe the structure of your script and any particularly complex or unintuitive pieces of script.
+* separating master sprites from clones, and cleaning up clones that are finished (see below).
 
 #### Cloning
 

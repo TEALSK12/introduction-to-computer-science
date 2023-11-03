@@ -28,12 +28,12 @@ In this lab, you will create a simple sentence generator using lists.
 
 2. Write custom reporter blocks like “noun phrase” for each of the phrase types listed below.
 
-| Phrase type | Construction |
-|--|--|
-|noun phrase (completed in step 1) | article, adjective, noun]
-|prepositional phrase  | preposition, noun phrase|
-|verb phrase|adverb, verb, prepositional phrase|
-|sentence|noun phrase, verb phrase|
+| Phrase type | Construction |Example
+|--|--|--|
+|noun phrase (completed in step 1) | article, adjective, noun|a big giraffe
+|prepositional phrase  | preposition, noun phrase|over the small monkey
+|verb phrase|adverb, verb, prepositional phrase|quickly jumps over the small monkey
+|sentence|noun phrase, verb phrase|a big giraffe quickly jumps over the small monkey
 
 Using our sample lists of words from part 1, here are some possible outputs from each block:
 * **noun phrase**: a small monkey

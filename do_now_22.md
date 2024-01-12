@@ -6,6 +6,6 @@
 
 3. Have Alonzo draw stairs from the center of the stage to the upper right the number of times specified.
 
-4. Save your project as _DoNow2.1_.
+4. Save your project as _DoNow2.2_.
 
 ![Alonzo drawing stairs](images/do_now_22.png)

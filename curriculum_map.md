@@ -40,7 +40,7 @@ Materials and preparation resources can be found in each of the lesson pages.
 | Lesson | Objectives | Lab | Days |
 | ------ | ---------- | --- | --- |
 | [2.1: Loops][] | Define **loop** in a programming context. Explain why loops are useful. Implement simple repeat and forever loops. Apply loops to reduce redundancy in a program. | Squares and Triangles Redux | 1 |
-| [2.2: Nested loops][] | Apply nested loops to solve programming problems. | Another Brick in the Wall | 1 |
+| [2.2: Nested loops][] | Apply nested loops to solve programming problems. | Yellow Brick Road | 1 |
 | [2.3: Inputs and conditionals][] | Apply **Ask** and **Receive**. Apply simple conditional, **if** and **if-else** blocks, to alter control flow in a script. | What Shape Is That? | 1 |
 | [2.4: Variables][] | Apply variables to track values throughout a program or script. | Guessing Game | 1 |
 | [2.5: Boole in the house][] | Define and identify Boolean expressions and operators. Evaluate Boolean expressions. Utilize Boolean operators, `and`, `or`, `not`, to create compound conditions. | Triangle of All Kinds | 1 |

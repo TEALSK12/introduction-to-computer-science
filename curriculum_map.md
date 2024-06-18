@@ -40,10 +40,10 @@ Materials and preparation resources can be found in each of the lesson pages.
 | Lesson | Objectives | Lab | Days |
 | ------ | ---------- | --- | --- |
 | [2.1: Loops][] | Define **loop** in a programming context. Explain why loops are useful. Implement simple repeat and forever loops. Apply loops to reduce redundancy in a program. | Squares and Triangles Redux | 1 |
-| [2.2: Nested loops][] | Apply nested loops to solve programming problems. | Another Brick in the Wall | 1 |
+| [2.2: Nested loops][] | Apply nested loops to solve programming problems. | Yellow Brick Road | 1 |
 | [2.3: Inputs and conditionals][] | Apply **Ask** and **Receive**. Apply simple conditional, **if** and **if-else** blocks, to alter control flow in a script. | What Shape Is That? | 1 |
 | [2.4: Variables][] | Apply variables to track values throughout a program or script. | Guessing Game | 1 |
-| [2.5: Boole in the house][] | Define and identify Boolean expressions and operators. Evaluate Boolean expressions. Utilize Boolean operators, `and`, `or`, `not`, to create compound conditions. | Triangle of All Kinds | 1 |
+| [2.5: Boole in the house][] | Define and identify Boolean expressions and operators. Evaluate Boolean expressions. Utilize Boolean operators, `and`, `or`, `not`, to create compound conditions. | Triangles of All Kinds | 1 |
 | [2.6: Pong project][] | Implement a well-written version of Pong. Practice good style and conventions to create readable and maintainable program. | Project 2: Pong | 4 |
 | [Culture Day Lesson B: Student research project/presentation][] | Connect CS Unit topics with current events  | | 1 or more |
 
@@ -84,7 +84,7 @@ Materials and preparation resources can be found in each of the lesson pages.
 | Lesson | Objectives | Lab | Days |
 | ------ | ---------- | --- | --- |
 | [6.1: Design basics][] | Identify the key considerations when designing a piece of software. Describe methods for prioritizing features, use cases, and/or scenarios. Explain why design and planning are necessary steps in the software engineering process. | Final Project | 1 |
-| [6.2: Research and ideate][] | Identify potential users, intended impact, and possible unintended negative consequences. Generate ideas to create range of possibilities using a brainstorm technique. Conduct user-centered research to understand design opportunities and barriers. Critically analyze factors when choosing between project ideas. Prioritize proposed project ideas using the identified factors. | 1 |
+| [6.2: Research and ideate][] | Identify potential users, intended impact, and possible unintended negative consequences. Generate ideas to create range of possibilities using a brainstorm technique. Conduct user-centered research to understand design opportunities and barriers. Critically analyze factors when choosing between project ideas. Prioritize proposed project ideas using the identified factors. | Final Project | 1 |
 | [6.3: Defining requirements][] | Define key **user-scenarios** for a project and the features required to implement each scenario. Explain the importance of wire framing when designing an application. Capture key scenarios using **sketches** - (hand drawn, or with drawing tool). Refine design based on user-centered research. | Final Project | 1  |
 | [6.4: Building a plan][] | Break down, and identify the main technical components needed for the functional project specifications (scenarios). Explain the purpose of each technical component. Develop the project idea into a full, detailed specification. Create a plan that includes specific steps or a list of bite-sized tasks. Estimate time required for tasks. | Final Project | 1 |
 | [6.5: Project implementation][] | Apply the skills developed throughout the course to implement a medium* to large-scale software project. Realistically evaluate progress during software development and identify when cuts are necessary. Prioritize features and scenarios and choose which should be eliminated or modified if/when resources and/or time become limited. Record time taken for tasks, and lessons learned in the process, to help refine estimates. Record iterations of prototyping.  | Final Project | 10 |

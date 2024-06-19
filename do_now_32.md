@@ -9,5 +9,5 @@
     * Move Dino up 1 unit at a time when you press the **arrow up** key. You must use the **change y by** block.
     * Move Dino down 1 unit at a time when you press the **arrow down** key. You must use the **change y by** block.
     * Don't let Dino leave the screen.
-    * Don't let Dino go through the platform.
+    * Don't let Dino move down through the platform.
     * Don't let Dino go underground.

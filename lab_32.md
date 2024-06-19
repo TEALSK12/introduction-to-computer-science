@@ -10,11 +10,15 @@ Go to the starter project at [https://aka.ms/Intro-lab3-2](https://aka.ms/Intro-
 
 Write a script for the Dino sprite so that:
 
-1. Use one **when green flag is clicked** block to place Dino at the top of the stage. No animation, just use **set y to** block.
+1. Use a **when green flag is clicked** block to place Dino at the top of the stage. No animation, just use a **set y to** block.
 
-2. Use two more **when green flag is clicked**, to start two **forever** loops that make Dino fall to the bottom of the stage. One will model gravity by subtracting a constant amount from Dino's speed. The second will move Dino by his current speed.
+2. Create a variable named **speed**. Set **speed** to zero **when green flag is clicked**.
 
-3. When Dino touches the ground, Dino stops falling. "*Stops falling*" means Dino's speed is set to zero and stays zero as long as he is touching the ground. The **touching color ?** block can be used to detect the grass in the background layer.
+3. Use two more **when green flag is clicked** blocks, to start two **forever** loops to make Dino fall. 
+    * One will model gravity by subtracting a constant amount from Dino's speed. Initially try subtracting 0.5 from speed.
+    * The second will move Dino in the y-direction by the current speed.
+
+4. When Dino touches the ground, Dino stops falling. "*Stops falling*" means Dino's speed is set to zero and stays zero if Dino is touching the ground. The **touching color ?** block can be used to detect the grass in the background layer.
 
 When using the **touching color** block, change the color by clicking on the color box, then select anything in the color palette or stage that has the desired color.
 

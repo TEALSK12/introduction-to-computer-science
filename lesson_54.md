@@ -53,6 +53,28 @@ If students are unfamiliar with Space Invaders, spend a couple minutes demonstra
 
 Remind students that their version of the game does not need to exactly mimic the classic version.  In particular, they need not have quite as many invaders, create barriers for the player to hide behind, or duplicate invader movement or firing patterns exactly.
 
+### Optional group discussion
+
+Some classes may benefit from a group discussion through which they are coached to map concepts in this project back to recent labs and to break the project down into more granular goals. Below is an example set of coaching questions that has worked well. 
+
+To draw attention and awareness toward recent labs, so that students know where to look for reminders or examples:
+
+- The enemies are all moving across the screen together. Does that seem like anything we've done in this unit?
+- When we press X, we fire a new projectile. What lab might we look back to for inspiration on how to handle this?
+- Where in our labs might we find an example of deleting an object, enemy or projectile, from the game?
+- Do we think each projectile or enemy clone will need an id?
+
+To help students break down and plan their project work:
+
+- What are the different sprites we'll need?
+- Which of those sprites will have clones?
+- When would clones be created? Destroyed?
+- What behaviors does each sprite or clone need to perform?
+- What variables will we need to track? Which need to be shared globally, and which are isolated to a script?
+- What events trigger those behaviors to happen?
+- Are there any common or shared scripts that we might want to abstract to custom blocks?
+- What are some ways to break down this work into areas or checkpoints? What could we do first, then next?
+
 ### Project
 
 This project is a summative assessment for the unit.  Students should be demonstrating mastery of all the skills covered.

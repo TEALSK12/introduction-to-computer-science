@@ -40,7 +40,7 @@ Your classroom may have a diverse student population, and include English Langua
 
 ## Reference
 
-[English Language Learning](https://www2.gov.bc.ca/gov/content/education-training/k-12/teach/teaching-tools/english-language-learning)
+[English Language Learning](https://www2.gov.bc.ca/gov/content/education-training/k-12/teach/resources-for-teachers/english-language-learning)
 
 ## Instructor's notes
 
